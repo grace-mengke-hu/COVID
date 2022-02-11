@@ -1,0 +1,3070 @@
+
+++++++++++
+ Is there a breakdown of suburbs/regions where cases are located? Title
+++++++++++
+ South Australia records 1 new interstate case A South Australian man, in his 40s, was granted an exemption to travel to and from Victoria as an essential worker. He tested negative on July 10, but later tested positive on July 22.
+
+Chief Public Health Officer Professor Nicola Spurrier says the man has been in quarantine during the infectious period. However, Spurrier says there is a chance the man’s family, who he has been at home with, could have contracted the virus. The entire family and close contacts are now self-isolating.
+
+The new case is the third confirmed in the past 48 hours after two women, in their 50s and 30s, tested positive on Wednesday. 
+
+The woman in her 50s had recently returned to Australia from Pakistan. She had two negative results in Melbourne while in hotel quarantine, but subsequently tested positive 12 days after she arrived in South Australia on July 9. Spurrier says the woman had been in quarantine the entire time and was completely asymptomatic. She will remain in isolation for another 10 days as a precaution.
+
+The second case is a woman in her 30s who had been quarantining in Adelaide after arriving from Mumbai on a repatriation flight on June 27. She also had two negative tests while in hotel quarantine, but had a family member who tested positive. A recent serology test revealed the woman was infected but, due to the time frame, her case is not considered active.
+
+The state’s total now sits at 447 with two active cases.
+
+Source: [7news](
+++++++++++
+ Ruby Princess logged 158 cases of illness before passengers disembarked without coronavirus testing 
+++++++++++
+ SA records 0 new local cases 🍩 # New cases reported in the last 24 hours
+
+* **0** new cases were recorded for the last 24 hours
+* **1** previous case added to the total number of cases in SA:
+   * SA Chief Public Health Officer: "We have just done a thorough routine audit and because we have been so  busy with the Parafield cluster, we didn't add a case to our list and it was an international traveller. So it hasn't been previously publicly reported and I would like to give  you those details. This case was an overseas arrival he came in on the 15 November. She was in a medi-hotel of the time when we have the  positive case result. So we put  everything in place when we needed to put in place for this particular person and she has had all of the  essential medical follow-up. The  reason that case was omitted was  because you might recall because of the Parafield cluster, we changed  our cut-off time because we wanted to get people in South Australia all of the latest information so we were reporting cases to the public more immediately rather than looking at the 24-hour cut of time. So she is not at all linked to the cluster and has since been cleared of the virus and has now left the medi-hotel. But that is just for completeness."
+
+&amp;#x200B;
+
+# Cases to date
+
+||Last 24 hours|TOTAL|
+|:-|:-|:-|
+|Confirmed cases|\+1|562|
+|Active|\-3|11|
+|Recovered|\+3|547 (+1)|
+|Deaths|\+0|4|
+|Test results received|\+6,500|732,531|
+|Hospital||0|
+|ICU||0|
+
+&amp;#x200B;
+
+# Active cases breakdown
+
+||Last 24 hours|TOTAL|
+|:-|:-|:-|
+|Active cases|\-3|11|
+|Overseas acquired||3|
+|Close contact||15|
+|Locally acquired (contact unknown)||0|
+|Interstate acquired||0|
+|Under investigation (in quarantine)||0|
+
+# Parafield cluster
+
+|Total cases linked to cluster|33|
+|:-|:-|
+|New cases linked to cluster today|\+0|
+|Cases in hospital|0|
+|Approximate number of contacts in quarantine|1300|
+
+&amp;#x200B;
+
+# Aged care outbreaks
+
+|Facility name|LGA|Suburb|Total cases|Total staff|Total residents|Total other|Deaths|Reported|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|AngicareSA|City of Charles Sturt|Brompton|4|4|0|0|0|Nov: 20, [17]( [16](
+
+# Affected educational institutions in the last 14 days
+
+|Name|Suburb|LGA|Notes|Reported|
+|:-|:-|:-|:-|:-|
+|Intensive English Language Institute (IELI), Sturt Campus, Flinders University|Bedford Park|City of Mitcham/City of Marion|Person who has  tested positive has attended the Intensive English Language Institute (IELI) on Sturt Campus in recent days. Second case, man in 30s, tested positive on 28th Nov|Nov: [17]( 28|
+|Woodville High School|St Clair|City of Charles Sturt|Student attended school on 23rd November|Nov: 25|
+
+# ⚠️ PEOPLE WHO MUST QUARANTINE AND SEEK TESTING ⚠️
+
+Anyone who has visited the below locations on the listed dates/times must [self-quarantine ]( for 14 days (commencing on the last day on which the person was present at a relevant site) and get a [COVID-19 test]( on day 1 and day 12 of quarantine.
+
+*(Last updated 29/11/20)*
+
+|Location|Dates &amp; Times|
+|:-|:-|
+|**Lyell McEwin Hospital Emergency Department**|**13 November 5.30 pm to 14 November 8.00 am**|
+|**SA Structural, 54 Kaurna Avenue Edinburgh**|**12 November 7:00 am to 3.30 pm**|
+|**The Aquadome, Elizabeth**|**14 November 11.00 am to 1.30 pm**|
+|**Woodville High School, St Clair - Year 9 students and specific staff members**|**23 and/or 24 November**|
+
+# ⚠️ PEOPLE WHO MUST SEEK TESTING IMMEDIATELY ⚠️
+
+**Latest locations added 11.00 am 29 November:**
+
+[**Anyone who has visited the below locations during the listed times should seek testing immediately, even if you do not have any symptoms, and isolate until you get your results**](
+
+&amp;#x200B;
+
+|Location|Dates &amp; Times|
+|:-|:-|
+|**Flinders University Sturt Campus, Bedford Park**|13 November to 28 November|
+|**Big W Brickworks, Torrensville**|Sunday 22 November 12.15 pm – 12.50 pm|
+|**Foodland Norwood, Norwood**|Sunday 22 November 1.20 pm – 2 pm|
+|**Kmart, Kurralta Park**|Sunday 22 November 2.45 pm – 3.10 pm|
+
+# ⚠️ PEOPLE WHO MUST MONITOR FOR SYMPTOMS ⚠️
+
+**Latest locations added 11.00 am 29 November:**
+
+[**Anyone who has visited the below locations during the listed times should monitor for symptoms and get tested immediately if symptoms appear.**](
+
+&amp;#x200B;
+
+|Location|Dates &amp; Times|
+|:-|:-|
+|**On The Run, Hilton**|Sunday 22 November 12.05 pm – 12.15 pm|
+|**Anaconda, Mile End**|Sunday 22 November 12.55 pm – 1.05 pm|
+|**Guzman y Gomez, Glandore**|Sunday 22 November 2.45 pm – 2.50 pm|
+|**Glenelg Boost Juice Shop, Glenelg**|Sunday 22 November 3.20 pm – 3.30pm|
+
+**Click** [**HERE**]( **for the complete list of contact tracing locations.**
+
+# Helpful Information &amp; Links:
+
+* SA Health: Media release - Tuesday 1st December
+* [South Australian Emergency Management Direction 2020](
+* [SA: Current restrictions and responsibilities](
+* [SA: COVID-19 Health information](
+* [SA Health Contact Tracing Page - List of Exposure Sites](
+* [Map of Exposure Sites Across Adelaide]( (Credit: [/u/dogryan100](
+
+**Interstate borders:**
+
+For information about interstate borders, please see the links below:
+
+[VIC]( | [NSW]( | [QLD]( | [WA]( | [TAS]( | [ACT]( | [NT](
+++++++++++
+ Western Australia records 2 new overseas cases &gt; The Department of Health has reported two new cases of COVID-19 in Western Australia overnight.
+
+&gt; A man in his 40s and a woman in her 60s both travelled to Perth this week from the UK and Pakistan respectively. They are both in hotel quarantine.
+
+&gt; The State total is now 611.
+
+
+Source: 
+++++++++++
+ Queensland records 4 new local cases # New cases reported in the last 24 hours
+
+* **4** cases linked to the **Queensland Corrective Services (QCS)** **academy** in **Wacol**. 1 is a trainer at the academy and 3 are household contacts of previously reported cases. 
+
+&amp;#x200B;
+
+**Will provide further information as it comes through** 
+
+&amp;#x200B;
+
+**Please visit the following link to view the full contact tracing list of places visited by confirmed cases:** [**Current contact tracing alerts**](
+
+&amp;#x200B;
+
+# Cases to date
+
+||Last 24 hours|Total|
+|:-|:-|:-|
+|Confirmed cases|\+4|1,117|
+|Active cases|\+4|24|
+|Recovered||1,084|
+|Current hospitalisations|\+1|18|
+|Patients currently in ICU||0|
+|Deaths||6|
+|Tests conducted| \+18,763|878,366|
+|Cases of First Nations people||10|
+
+&amp;#x200B;
+
+# Likely source of infection
+
+||Last 24 hours|Total|
+|:-|:-|:-|
+|Locally Acquired—close contact with a confirmed case||196|
+|Locally Acquired—no known contact||40|
+|Interstate acquired||21|
+|Overseas acquired||851|
+|Under investigation||5|
+
+&amp;#x200B;
+
+# Active cluster
+
+&amp;#x200B;
+
+|Outbreak|Suburb|LGA|Last 24 hours|Total|Reported|
+|:-|:-|:-|:-|:-|:-|
+|Brisbane Youth Detention Centre|Wacol|Brisbane||15|August: 28, 26, 24, 23, [22]( [20](
+
+&amp;#x200B;
+
+&amp;#x200B;
+
+**Sources**:
+
+* [**Queensland COVID-19 statistics**](
+* [QLD Health: Urgent COVID-19 update](
+* [Current status: Public health directions regarding movements and gatherings](
+* [COVID-19 symptoms and testing locations](
+++++++++++
+ NSW Case Update: 14 new cases, in total # NSW COVID CASE REPORT - Monday [10/8/20]
+
+*This post is in progress - stay posted for more updated information to come! Missed yesterday's update?* [Click here](
+
+&amp;#x200B;
+
+**14 NEW CASES REPORTED IN THE LAST 24 HOURS**
+
+|**Locally acquired** \- *known source*||
+|:-|:-|
+|**Interstate**||
+|**Overseas**|1|
+|**Under Investigation**||
+
+\--
+
+**TESTS CONDUCTED**
+
+|**TODAY**|**YESTERDAY**|**+/-**|
+|:-|:-|:-|
+|19,920|31,681|\-11,761|
+
+\--
+
+**Sources**:
+
+* NSW Health: \[Facebook\] \[Video Media Update\] \[Twitter\] \[[Media Release]( \[[Case Statistics](
+* NSW Government: \[[Find the Facts]( \[[Data.NSW](
+
+**QUICK LINKS:** \[[COVID-19 FAQ]( \[[CURRENT RESTRICTIONS]( \[[MENTAL HEALTH SUPPORT]( \[[COVID-19 HOTSPOTS]( \[[COVID-19 CLINICS](
+++++++++++
+ Queensland records 0 new local cases and 2 new overseas cases 
+++++++++++
+ The numbers that experts argue justify COVID-19 crackdown in NSW 
+++++++++++
+ More than 700 cases expected in Victoria at todays announcement. 
+++++++++++
+ Queensland records 0 new cases and 1 new overseas case 
+++++++++++
+ Queensland records 1 new local case # New cases reported in the last 24 hours
+
+* 1 case linked to the **Queensland Corrective Services (QCS)** **academy** in **Wacol**.
+
+**Please visit the following link to view the full contact tracing list of places visited by confirmed cases:** [**Current contact tracing alerts**](
+
+**Sources**:
+
+* [**Queensland COVID-19 statistics**](
+* [QLD Health: Urgent COVID-19 update](
+* [Current status: Public health directions regarding movements and gatherings](
+* [COVID-19 symptoms and testing locations](
+++++++++++
+ SA Health: Victoria Park / Pakapakanthi and Yamba testing sites closed today due to weather #  As of 1:17 PM, there are now 3 testing sites closed in SA due to weather:
+
+[
+
+[
+
+[
+
+# For alternative testing sites visit [
+++++++++++
+ Tasmania COVID-19 update 2020/05/26: Cases 226 (+0), Active 8 (-2), Recovered 205 (+2), Deaths 13 (+0) 
+++++++++++
+ NSW reports 0 new local cases and 2 new overseas cases # 𝗡𝗲𝘄 𝗖𝗮𝘀𝗲𝘀 𝗶𝗻 𝘁𝗵𝗲 𝗹𝗮𝘀𝘁 𝟮𝟰 𝗵𝗼𝘂𝗿𝘀
+
+* **2** are returned overseas travellers in hotel quarantine.
+* For the **ninth** day in a row, NSW has not reported a single *recent* case of locally transmitted COVID-19.
+
+# 🍩 🍩 🍩 🍩 🍩 🍩 🍩 🍩 🍩
+
+# 𝗡𝗼𝘁𝗲𝘀 + 𝗡𝗲𝘄𝘀:
+
+&gt;**1.** [If catching up with friends or family outdoors this long weekend, limit your group to no more than 20 people.](   
+&gt;  
+&gt;[No locations or public transport are currently associated with a confirmed COVID-19 case within the past 14 days.](  **LGAs with increased testing are:** Campbelltown, Liverpool and Parramatta.  
+&gt;  
+&gt;**2.** [Current NSW restrictions](
+
+# 𝗖𝗮𝘀𝗲 + 𝗧𝗲𝘀𝘁 𝗦𝘂𝗺𝗺𝗮𝗿𝘆
+
+    Last updated 11:05 PM [04/10]
+
+[Click on image or this caption to view\/enlarge table.](
+
+# 𝗦𝗼𝘂𝗿𝗰𝗲𝘀 𝗼𝗳 𝗰𝗼𝗻𝗳𝗶𝗿𝗺𝗲𝗱 𝗰𝗮𝘀𝗲𝘀
+
+    Last updated 6:18 PM [29/09] - cases since 29th in hotel quarantine.
+
+[Click on image or this caption to view\/enlarge table.](
+
+# 𝗥𝗲𝗰𝗲𝗻𝘁 𝗖𝗹𝘂𝘀𝘁𝗲𝗿𝘀
+
+    Last updated 11:00 AM [4/10]
+
+|*Cluster*|*Last 24 hours*|*Total*|*Reported*|
+|:-|:-|:-|:-|
+|Concord/Liverpool Hospital|\-|22|**Concord** = Sept: [21]( [18]( [17]( [16]( [15]( [12]( [11]( [10]( [9]( [8]( [7]( **Liverpool** = Sept: [18]( [11]( [7]( [6]( [4]( [1]( Aug: [13](
+
+&amp;#x200B;
+
+# 𝗿/𝗖𝗼𝗿𝗼𝗻𝗮𝘃𝗶𝗿𝘂𝘀𝗗𝗼𝘄𝗻𝘂𝗻𝗱𝗲𝗿 𝗡𝗦𝗪 𝗥𝗲𝘀𝗼𝘂𝗿𝗰𝗲𝘀:
+
+* [NSW daily post: Sources of information](
+* [Clusters: original identification and source](
+* [NSW-relevant Media and Press Releases](
+* **DATA:**
+   * [Source of confirmed cases across days: NSW Health Press Releases vs. Data.NSW](
+   * [Case numbers per source type, from Jan to Sep 2020 + LGA and Postcode breakdown for September 2020](
+++++++++++
+ Coronavirus Australia News Updates (2 August) * Coronavirus Australia: Mystery cases biggest challenge to contain virus  ([NEWS.com.au](
+* South Australia records two new cases of COVID-19  ([ABC News](
+* Victoria stage four restrictions: What can I do? When can I leave the house?  ([7NEWS.com.au](
+* Coronavirus Australia: Woolworths brings back purchase limits amid panic buying  ([NEWS.com.au](
+* Police hand out $250,000 in fines in 24 hours to 'appalling' COVID-19 rule breakers  ([The Age](
+* Queensland records one new case of coronavirus  ([Courier Mail](
+* Two western Sydney childcare workers test positive  ([9News](
+* Coronavirus cluster fears at Merrylands childcare centre after community transmission case  ([7NEWS.com.au](
+* Queensland records one new virus case  ([Yass Tribune](
+* People Are Apparently Jerking Off With Their Phones During the Pandemic  ([Gizmodo Australia](
+* The WHO says coronavirus is a once-in-a century crisis that will impact lives for decades  ([SBS News](
+* Anthony Fauci resists effort by Trump ally to turn testimony against US protesters  ([SBS News](
+* Australia surpasses 200 COVID-19 deaths, 17000 cases since pandemic began  ([Sky News Australia](
+* One new coronavirus case in Queensland linked to women who flouted quarantine after Melbourne trip  ([ABC News](
+
+
+
+_This daily news summary was automatically generated using [News API]( data from Australian news sources. If you have feedback, please send a modmail to /r/CoronavirusAustralia._
+++++++++++
+ Coronavirus Downunder Nightly ɯopuɐɹ Discussion - 23 November, 2020 # 𝗧𝗵𝗶𝘀 𝗶𝘀 𝘁𝗵𝗲 𝗻𝗶𝗴𝗵𝘁𝗹𝘆 ɯ𝗼𝗽𝘂ɐɹ 𝗱𝗶𝘀𝗰𝘂𝘀𝘀𝗶𝗼𝗻 𝘁𝗵𝗿𝗲𝗮𝗱 𝗳𝗼𝗿 𝗖𝗼𝗿𝗼𝗻𝗮𝘃𝗶𝗿𝘂𝘀𝗗𝗼𝘄𝗻𝘂𝗻𝗱𝗲𝗿, 𝘄𝗵𝗲𝗿𝗲 𝘆𝗼𝘂 𝗰𝗮𝗻 𝗰𝗵𝗮𝘁 𝗮𝗯𝗼𝘂𝘁 (𝗻𝗲𝗮𝗿𝗹𝘆) 𝗮𝗻𝘆𝘁𝗵𝗶𝗻𝗴 𝘆𝗼𝘂 𝗹𝗶𝗸𝗲! 𝗔𝗹𝗹 𝘄𝗲 𝗮𝘀𝗸 𝗶𝘀 𝘁𝗵𝗮𝘁 𝘆𝗼𝘂 𝗮𝗿𝗲 𝗸𝗶𝗻𝗱 𝘁𝗼 𝗼𝗻𝗲 𝗮𝗻𝗼𝘁𝗵𝗲𝗿 ♡
+
+&amp;#x200B;
+
+* **New to this subreddit?** *Check out our* [*rules*](
+* **Got a suggestion for a random question?** *Send me a* [*message*](
+* **Threads you may be interested in:**
+   * [Victoria Daily Case Update - ***0 cases 24 days in a row!***](
+   * [New South Wales Daily Case Update - ***0 local cases 16 days in a row!***](
+   * [**Mystery post** \- *most popular humour post from this month!*](
+
+
+
+# 𝗧𝗼𝗻𝗶𝗴𝗵𝘁'𝘀 𝗱𝗶𝘀𝗰𝘂𝘀𝘀𝗶𝗼𝗻 𝗾𝘂𝗲𝘀𝘁𝗶𝗼𝗻 𝗶𝘀...
+
+# ❝Black Friday is coming up, do you have anything in mind to buy?❞
+++++++++++
+ NSW reports 1 new local case and 3 new overseas cases # New cases reported in the last 24 hours
+
+* **3 are returned overseas travellers in hotel quarantine**
+* **1 is locally acquired and is linked to a known case or cluster:**
+   * Close contact of a previous case who attended the Eastern Suburbs Legion Club.
+* Testing numbers have recently dropped - this is particularly a concern for South-Western Sydney and South-Eastern Sydney.
+
+# Cases to date - last updated 11:50 AM [14/09]
+
+[Click on image or this caption to view\/enlarge table.](
+
+# Sources of confirmed cases
+
+Data for the 09/09 has been updated, according to [Data.NSW]( **+3** additional cases, bringing the total to 10, from the previously reported 7. This includes **2** additional overseas cases and **1** additional *local with a known source*. There has also been 1 reclassification: 1 previously local unknown case is now classified as a local known case. This table will not be updated again until Monday \[14/09\] afternoon, which is when the new data is usually released.
+
+&amp;#x200B;
+
+[Click on image or this caption to view\/enlarge table.](
+
+# Recent Clusters - last updated 10:50 AM [14/09]
+
+|Cluster|Last 24 hours|Total|Reported|
+|:-|:-|:-|:-|
+|Sydney CBD|\+0|71|Sept: [13]( [11]( [9]( [8]( [6]( [5]( [4]( [3]( [2]( Aug: [31]( [30]( [29]( [28]( [27](
+|St Paul’s Greystanes|\+0|17|Sept: [13]( [12]( [10]( [4]( [3]( [2](
+|Concord/Liverpool Hospital|\+0|15|Concord = Sept: [12]( [11]( [10]( [9]( [8]( [7]( Liverpool = Sept:[11]( [7]( [6]( [4]( [1]( Aug: [13](
+|Reddam Early Learning Centre, Lindfield|\+0|3|Sept: [1]( Aug: [30](
+
+# Recently affected educational institutions* - last updated 10:50 AM [13/09]
+
+|School|Suburb, LGA|Last 24 hours|TOTAL|Reported|
+|:-|:-|:-|:-|:-|
+|Kincoppal Rose Bay School|Rose Bay, Waverley|\-|3|Sept: [8]( [6](
+|Regents Park Christian School|Regents Park, Canterbury-Bankstown/Cumberland|\-|1|Sept: [3](
+|Girraween Public School|Girraween, Cumberland|\-|2|Sept: [2]( [1](
+|St Paul's Catholic College|Greystanes, Cumberland|\-|6|Sept: [12]( [10]( [1]( Aug: [30](
+|Homebush Public School|Homebush, Strathfield|\-|0|Sept: [1]( Aug: [28](
+
+^(\* The case at Lidcombe Public School was a false positive. Sept:) [^(7)]( [^(6)](
+
+# Latest COVID-19 case locations in NSW - as of 14/09 [9:15 AM]
+
+Please view the [NSW Gov]( website for the most up to date information, including information concerning additional [locations]( and [Sydney bus and train routes]( where you are required to monitor yourself for [COVID-19 symptoms](
+
+|[**Increased testing and surveillance**]( and get tested immediately**](
+|:-|:-|
+|Bankstown (suburb)|**Ashfield:** New Shanghai Night restaurant|
+|Cumberland LGA|**Ashfield:** The Crocodile Farm Hotel|
+|Fairfield LGA|**Concord:** Concord Repatriation General Hospital\*|
+|Ku-ring-gai LGA|**Oatlands:** Oatlands Golf Club|
+|Liverpool LGA|**Parramatta:** Albion Hotel|
+|Mt Druitt (suburb)|**Prestons**: Life in the Spirit Ministry|
+|Parramatta LGA|**Randwick**: Fitness First|
+|Randwick LGA|**Sydney**: Hyde Park Medical Centre|
+|Sutherland LGA|**Waverley:** Eastern Suburbs Legion Club|
+|Eastern part of City of Sydney LGA||
+|Waverley LGA||
+|Woollahra LGA||
+
+^(\*This location is not listed on the) [^(NSW gov website)]( however, there was a press release on the) [^(10/09)]( ^(instructing anyone who attended Concord Hospital’s ED waiting room on Sunday 6/09 - 2:20 PM - 5:00 PM for an hour or more to self-isolate for 14 days, even with a negative test result) ^(until Sunday, September 20 inclusive. NSW Health is contacting all close contacts, but anyone else who visited the waiting area for less than one hour should be alert for symptoms.)
+
+# [A collated list of NSW media releases and public health alerts are also available on our Wiki](
+
+**Sources:**
+
+* [NSW Health - media release: 14th September](
+* [NSW COVID-19 statistics]( \[Updated Daily\]
+* [Data.NSW]( \[Updated daily, except on weekends\]
+* [COVID-19 weekly surveillance in NSW]( \[Published 10/09/20\]
+++++++++++
+ Analysing total/active cases for each LGA (Tableau dashboards) As a learning project I've scraped the DHHS to obtain a record of the COVID data at the LGA level, and put them into some accessible visuals:
+
+The [Graph of cases (total/active) over time]( allows users to pick specific LGAs and examine how their total/current case levels have changed over time.
+
+The [Interactive map]( allows users to examine different LGAs on a map to see where they are, and examine total cases/new cases in the past 24 hours. By clicking on an entry in the table, the corresponding area on the map will be highlighted (and vice versa).
+
+I'll try to update each as soon as the data becomes available (when the DHHS media report comes out).
+
+Happy to answer any questions about the process or the data!
+++++++++++
+ Discussion/Press conferences for Victoria, NSW, and, Queensland today #Victoria
+
+7:30am: Nothing confirmed yet.
+
+
+
+
+&amp;nbsp;
+
+&amp;nbsp;
+
+#NSW
+
+7:30am: Nothing confirmed yet.
+
+
+
+
+&amp;nbsp;
+
+&amp;nbsp;
+
+#Queensland 
+
+7:30am: Nothing confirmed yet.
+
+
+
+
+&amp;nbsp;
+
+&amp;nbsp;
+
+---
+You can watch here closer to the time:
+
+* [The Age](
+* [9news live](
+
+&amp;nbsp;
+
+NOTE: Please direct **ALL** comments regarding leaked numbers and speculation about any further restrictions into this thread instead of creating a new post. **This is simply because until the number/confirmation about further restrictions is announced through an official channel by DHHS, everything is speculation**. Thanks
+
+---
+++++++++++
+ 14 Day Average 20.1 Cases (Excluding Healthcare Workers and Aged Care) - Sept 16 
+++++++++++
+ r/CoronavirusDownunder random daily discussion thread - 29 October, 2020 * **Victoria TBA**
+* **NSW: TBA**
+
+**You can watch here:** The Age | [9news live]( | [ABC Melbourne - Facebook]( | [ABC News - YouTube](
+
+&amp;#x200B;
+
+# Other COVID-19 headlines around the world
+
+**Feel free to talk about the COVID-19 situation in any country within this post and/or anything else you like as long as it is within the rules.**
+
+|SUBMISSION|DOMAIN|
+|:-|:-|
+|🇦🇺- [In Australia, the lockdown that felt like it might last forever has finally ended.]( |nytimes.com|
+|🇦🇺- [Melbourne lifts one of world’s longest lockdowns after 111 days](
+|🇺🇸- [White House lists ending Covid-19 pandemic as an accomplishment despite cases spiking to record levels]( |cnn.com|
+|🇫🇷- [Macron declares second national lockdown in France](
+|🇩🇪- [Germany to go into partial lockdown after cases soar](
+|🇺🇸- [U.S. reports a record 500,000 new cases in the past week, as the Trump administration says it is ending the pandemic.]( |nytimes.com|
+|🇺🇸- [Thieves in Florida steal 6 million medical gloves headed for hospitals fighting the pandemic.]( |nytimes.com|
+|🇨🇳- [China reports 183 cases in Xinjiang after testing nearly 5 million people]( |cnn.com|
+|🇿🇦- [South Africa’s President Ramaphosa begins Covid-19 self-quarantine]( |cnn.com|
+|🇺🇸- [Coronavirus US: Wisconsin facing ‘urgent crisis’ as cases rise]( |cnn.com|
+|🇵🇰- [Coronavirus second wave hits Pakistan](
+|🇨🇦- [Canada reaches 10,000 Covid deaths](
+|🇾🇪- [Researchers find high excess death toll in Yemen](
+|🇨🇦- [Ontario dog first in Canada to test positive for COVID-19, but researcher says there are likely more](
+
+&amp;#x200B;
+
+#  Some numbers around the world
+
+**🇭🇰 - HONG KONG:**
+
+* **+2** (total cases: 5,311).
+* **+0** (total deaths: 105).
+
+&amp;#x200B;
+
+**🇮🇸 - ICELAND:**
+
+* **+97** (total cases: 4,671).
+* **+1** (total deaths: 12).
+
+ 
+
+**🇵🇰 - PAKISTAN:**
+
+* **+825** (total cases: 330,200).
+* **+14** (total deaths: 6,759).
+
+&amp;#x200B;
+
+**🇮🇩 - INDONESIA:**
+
+* **+4,029** (total cases: 400,483).
+* **+100** (total deaths: 13,612).
+
+&amp;#x200B;
+
+**🇮🇷 - IRAN:**
+
+* **+6,824** (total cases: 588,648) **- Biggest one day increase on record.**
+* **+415** (total deaths: 33,714).
+
+&amp;#x200B;
+
+**🇧🇪 - BELGIUM:**
+
+* **+13,571** (total cases: 347,289).
+* **+139** (total deaths: 11,038).
+* Positivity rate: **36.4%** (+1.8).
+* **+294** (total hospitalisations: 5,554).
+* **+102** (total ICU admissions: 911).
+
+&gt;BNO: *COVID-19 hospitalisations in Belgium are expected to exceed the first wave’s peak within the next 24 hours*  
+&gt;  
+&gt;BNO: *Pressure on Belgian hospitals is increasing due to the rise in COVID patients. “By tonight there will be patients in corridors, waiting to be transferred or, sadly, for another patient to die,” one small hospital says*
+
+
+
+&amp;#x200B;
+
+**🇵🇱 - POLAND:**
+
+* **+18,820** (total cases: 299,049) **- Biggest one day increase on record.**
+* **+236** (total deaths: 4,849) - **Daily death tops 200 for the first time.**
+* Positivity rate: **31.1%** (+6.4).
+* **+640** (total hospitalisations: 13,931).
+* **+72** (total ICU admissions: 1,150).
+
+ 
+
+**🇪🇸 - SPAIN:**
+
+* **+19,765** (total cases: 1,194,681).
+* **+168** (total deaths: 35,466).
+* Positivity rate: **13.5%** (-0.3).
+* **+377** (total hospitalisations: 17,073).
+* **+76** (total ICU admissions: 2,368).
+
+&amp;#x200B;
+
+**🇬🇧 - UK:**
+
+* **+24,701** (total cases: 942,275).
+* **+310** (total deaths: 45,675).
+* Positivity rate: **8.8%** (+0.1).
+* **+814** (total hospitalisations: 10,316).
+* **+50** (total ICU admissions: 902).
+
+&amp;#x200B;
+
+**🇮🇹 - ITALY:**
+
+* **+24,991** (total cases: 589,766) **- Biggest one day increase on record.**
+* **+205** (total deaths: 37,905).
+* Positivity rate: **20.5%** (-0.2).
+* **+1,026** (total hospitalisations: 14,981).
+* **+125** (total ICU admissions: 1,536).
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+    exponential model is 1.1333 * exp(0.1572 * t) + 2.9556
+    linear model is -39.3095 + 5.2182 * t
+    quadratic model is 19.8623 + -5.5403 * t + 0.3164 * t^2
+    exponential model residue is 10784.0
+    linear model residue is 47040.4
+    quadratic model residue is 17944.0
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 16.1055 * exp(0.1375 * t) + -23.7017
+
+Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+    2020-07-06,127
+    2020-07-07,191
+    2020-07-08,134
+    2020-07-09,165
+    2020-07-10,288
+++++++++++
+ Queensland records 0 new local cases and 1 new overseas case 
+++++++++++
+ Victoria Health Department update: Victoria has new testing criteria and officially recommends refraining from the use on NSAID like Neurofen during coronavirus infection 
+++++++++++
+ Victoria records 0 new cases and 0 new deaths 🍩🍩 # Victoria's presser: TBA
+
+* Source:  [VicGovDHHS Twitter]( \- *This post will be updated as further information is provided in the press conference/media release*.
+* Victoria has recorded 0 new cases and 0 new deaths for the **sixth** day in a row! 🍩🍩🍩🍩🍩🍩
+* Wastewater monitoring - coronavirus (COVID-19) information updated below
+
+&amp;#x200B;
+
+&amp;#x200B;
+
+**Other helpful information and links**:
+
+* **You can watch here:** [The Age]( | [9news live]( | [ABC Melbourne - Facebook]( | [ABC News - YouTube](
+* DHHS: Media Release - Thursday, 05 November
+* Check out our [**COVID-19 in Victoria**]( wiki page!
+* [Coronavirus (COVID-19) roadmap for reopening](
+
+&amp;#x200B;
+
+# 14 day numbers
+
+**5 November:**
+
+||Total cases|New case average|Unknown|
+|:-|:-|:-|:-|
+|Metropolitan|19|1.4|2|
+|Regional|0|0|0|
+
+&amp;#x200B;
+
+**4 November**:
+
+||Total cases|New case average|Unknown|
+|:-|:-|:-|:-|
+|Metropolitan|24|1.7|2|
+|Regional|0|0|0|
+
+&amp;#x200B;
+
+# Cases to date
+
+||Last 24 hours|TOTAL|
+|:-|:-|:-|
+|**Confirmed cases**|**+0**|**20,345**|
+|**Active** (all metro Melbourne)||**30**|
+|**Recovered**||**19,496**|
+|**Deaths**|**+0**|**819**|
+|Community transmission||4,277|
+|Test results received||3,233,374|
+|Hospital||2|
+|ICU||0|
+|Ventilated||0|
+
+&amp;#x200B;
+
+# Cases in hospital
+
+|Age group|Last 24 hours|All hospital cases|
+|:-|:-|:-|
+|80-89||1|
+|90+||1|
+|**TOTAL**||**2**|
+
+&amp;#x200B;
+
+# Other
+
+||Last 24 hours|TOTAL|
+|:-|:-|:-|
+|Total aged care active||1|
+|Aged care deaths|\+0|652|
+|Healthcare workers active||2|
+|Healthcare workers total||3,574|
+
+&amp;#x200B;
+
+# Active outbreaks - other
+
+Last updated: **Wednesday, 4 November 2020 at 3:06:40 pm AEDT**
+
+|Type|Outbreak|Suburb|LGA|Last 24 hours|TOTAL active|TOTAL cases|Reported by DHHS|
+|:-|:-|:-|:-|:-|:-|:-|:-|
+|OTHER|North metro region community|\-|\-|\-|6|42|Nov: 4, 3, 2, 1. Oct: 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19|
+|HEALTH|Box Hill Hospital|Box Hill|Whitehorse|\-|1|15|Nov: 1. Oct: 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8|
+|OTHER|South-Eastern Community|\-|\-|\-|3|9|Oct: 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13|
+|OTHER|Butcher Club/Chadstone Shopping Centre|Chadstone|Monash|\-|3|39|Oct: 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1|
+
+&amp;#x200B;
+
+# Aged care outbreaks with 1 or more active cases
+
+The information below was extracted from the DHHS website and is correct and up to date as of **Saturday, 31 October 2020 at 8:10:39 pm AEDT**. Please view the [**DHHS**]( website for the most up to date information. Any further changes made are as per the DHHS media release/information found on the aged care website.
+
+|Facility name|LGA|Suburb|Total - cases|Total - active|Total - staff|Total - residents|Total - other|Total - deaths|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|[Regis Macleod aged care facility](
+
+**02/11 - Regis Macleod aged care facility update**:
+
+&gt;Regis Aged Care can confirm that the results for residents and staff tested on Sunday 1 November at Regis Macleod in Melbourne have all returned as negative for COVID-19. We are currently waiting on the remaining staff results, where tests were taken off site.
+
+While we wait for these results, Regis is in discussions with the Department of Health and Human Services regarding the next phase of managing the outbreak. Including a two week phase of enhanced surveillance where visitation is still limited but residents can move freely through the Home socialising with other residents.
+
+Regis staff members previously furloughed will return to the Home next week. Our staff members who contracted COVID-19 are recovering and we are in regular contact to ensure they receive the support they need.
+
+&amp;#x200B;
+
+# [⚠️High-risk locations as of 04/11⚠️](
+
+The table below was last updated on **Thursday, 5 November 2020 at 6:44:32 am AEDT**. Please view the [**DHHS**]( website for the most up to date information.
+
+**ADDED**: None.
+
+**REMOVED**:
+
+* Craigieburn, Werribee and Williamstown Lines - 21/10/2020, 1:15pm - 2:00pm &amp; 21/10/2020, 6:00am - 6:45am
+
+|Location|Site|Exposure period|Notes|
+|:-|:-|:-|:-|
+|Craigieburn, Werribee and Williamstown Lines|Craigieburn, Werribee and Williamstown Lines|22/10/2020, 1:15pm -2:00pm|Case travelled on trains between Yarraville, North Melbourne and Oak Park|
+|Craigieburn, Werribee and Williamstown Lines|Craigieburn, Werribee and Williamstown Lines|22/10/2020, 6:00am - 6:45am|Case travelled on trains between Glenroy, North Melbourne and Yarraville|
+|Keilor Downs|PTV Bus No. 421, From Copernicus Way to Keilor Plains Station|19/10/2020 &amp; 21/10/2020, 7.30am-7.45am|\-|
+|Pakenham Line|Pakenham Line|19/10/2020 &amp; 21/10/2020, 8.40am - 9.10am|Case travelled from Flinders Street Station to Yarraman station|
+|Pakenham Line|Pakenham Line|20/10/2020, 7.40pm - 8.30pm|Case travelled from Yarraman station to Flinders street station|
+|Preston|Commonwealth Bank Northland Shopping Centre, 2-50 Murray Rd|22/10/2020, 10.00am-10:30am|Case attended bank for 30 minutes|
+|St Albans|Keilor Plains Train Station, Power St / East Esplanade|20/10/2020, 9.00pm - 9.20pm|Case spent 20 min waiting at station|
+|St Albans|PTV Bus No. 421, From Keilor Plains Station to Copernicus Way Keilor Downs|20/10/2020, 9.20pm - 9.40pm|From Keilor Plains Station to Copernicus Way Keilor Downs|
+|Sunbury Line inbound|Sunbury Line inbound|19/10/2020 &amp; 20/10/2020, 7.50am - 8.30am|Case Travelled from Keilor Plains Station to Flinders Street Station|
+|Sunbury Line inbound|Sunbury Line inbound|21/10/2020, 8.30pm - 9.00pm|Case travelled from Flinders Street Station to Keilor Plains Station|
+
+&amp;#x200B;
+
+# Affected educational institutions
+
+The table below was last updated on **Friday, 30 October 2020 at 7:24:35 am AEDT**.
+
+|Institution|Suburb|LGA|Last 24 hours|TOTAL cases (students)|Notes|Reported|
+|:-|:-|:-|:-|:-|:-|:-|
+|Goodstart Early Learning|Bundoora|Darebin|\-|1|Case is a child|Oct: 29|
+|East Preston Islamic College (EPIC)|Preston|Darebin|\-|5|1 case attended school on 19/10/2020, 8am - 3:30pm|Oct: 25, 24, 22, 23, 21|
+|Croxton School|Northcote|Darebin|\-|1|\-|Oct: 25, 24|
+
+&amp;#x200B;
+
+# Wastewater monitoring - coronavirus (COVID-19)
+
+Last updated: **Wednesday, 4 November 2020 at 1:02:21 pm AEDT**
+
+|Site|Latest sample date|COVID-19 status|
+|:-|:-|:-|
+|Altona|Wed 28-Oct-2020|Detected|
+|Eastern Treatment Plant|Wed 28-Oct-2020|Detected|
+|Kilmore|Wed 28-Oct-2020|Detected|
+++++++++++
+ Coronavirus crisis: Roy Morgan report shows 2.09 million Australians unemployed in May 
+++++++++++
+ Local cases? She doesn't even go here! Australia AND New Zealand both record 0 local cases and 0 deaths! Australia has:
+
+\- No local cases
+
+\- 4 overseas cases
+
+&amp;#x200B;
+
+[
+
+&amp;#x200B;
+
+[
+
+&amp;#x200B;
+
+Post your favorite donut place in your state to celebrate :)
+++++++++++
+ Victoria records 25 new local cases and 5 new overseas cases #New cases reported in the last 24 hours: 
+
+* **7** are linked to known outbreaks
+* **13** new cases under investigation.
+* **5** new cases are a result of routine testing.
+* **5** new cases detected in returned travellers in hotel quarantine
+
+#Cases to date:
+| | Last 24 hours | TOTAL
+---|-----|-----
+| **Confirmed cases** | +30 | **1,947** 
+| **Active** | +20 | 185 
+| **Active (DHHS)*** | +20 | 183
+| **Recovered** | +10 | 1,742
+| **Deaths** | - | 20
+| 🚩**Community transmission** |  | 240
+|Tests conducted | approx. 19,433 | 736,000
+| Hospital | -1 | 6
+| ICU | -1 | 1
+
+^*Number ^of ^active ^cases ^reported ^by ^DHHS.
+
+---
+---
+**CURRENT OUTBREAKS OF CONCERN BY LOCAL GOVERNMENT AREAS (LGAs)**:
+
+LGA | Last 24 hours | Active | Total
+---|-----------|--------------|-----|
+Brimbank |  | 21  | 96 
+Hume |  | 17  | 95 
+Casey |  | 11 | 92 
+Cardinia |  | 5 | 23  
+Moreland |  | 9 | 77 
+Darebin |   | 3 | 50 
+
+^Thanks ^to ^u/Caranda23 ^for ^creating ^[**THIS**]( ^map ^which ^contains ^hotspot ^zones ^with ^8 ^of ^the ^10 ^suburbs ^to ^the ^north ^and ^west ^of ^the ^City.
+
+&amp;nbsp;
+
+**RECENT OUTBREAKS:**
+
+Outbreak | Suburb | Last 24 hours | Last reported case | Households affected | TOTAL 
+--------|-----------|---------|-----|-----|----
+Wollert outbreak  |  | - | [25/06]( | - | 5  
+Keilor Downs family | Keilor Downs| - | [25/06]( | 8 | 19 
+Stamford Plaza | | - | [25/06]( | - | 16 
+North Melbourne family outbreak  | Northland| - | [25/06]( | - | 10
+Brimbank family outbreak |  | - | [25/06]( | 2 | 5 
+Hampstead dental clinic | Maidstone| - | [24/06]( |- | 3
+Maribyrnong family | | - | [23/06]( | - | 5
+Albanvale Primary School | Albanvale | - | [22/06]( |- | 3
+Grill'd | Highpoint| - | [21/06]( |- | 1
+Coburg family | | - | [21/06]( |3 | 14 
+Essedon Football club | | - | [21/06]( |- | 1 
+Lifeview Willow Wood aged care | Cranbourne | - | [20/06]( |- | 1
+Royal Freemasons Springtime aged care | Sydenham | - | [20/06]( |- | 1
+Rydges on Swanston | | - | [19/06]( |- | 17
+Victorian Rehabilitation Centre | Glen Waverley | - | [18/06]( |- | 1
+Monash Health | | - | [17/06]( |- | 7
+Rosstown Nursing Home | Carnegie | - | [17/06]( |- | 1 
+
+
+&amp;nbsp;
+
+**AFFECTED EDUCATIONAL INSTITUTIONS  IN THE LAST 14 DAYS:**
+
+Name | Suburb | Positive case | Multiple cases (Total) | Reported
+----|--------|-------------|--------|--------|--------
+Keilor Downs College | Keilor Downs | Student 2 | Yes (2) | [24/06](
+Villa Bambini Early Learning Centre | Essedon | Child | - | [24/06](
+Keilor Views Primary School | Keilor Downs | Student | - | [23/06](
+Brunswick East Primary School | Brunswick East | Student | - | [23/06](
+Great Beginnings Nursery | Reservoir | Toddler | - | [22/06](
+Albanvale Primary School | Albanvale | Teacher 2 &amp; 3| Yes (3) | [22/06](
+St Monica's College | Epping | Staff member | - | 21/06
+Keilor Downs College | Keilor Downs | Student 1 | Yes (2) | [21/06](
+St Mary's Primary School | Hampton | Student | - | [21/06](
+Albanvale Primary School | Albanvale | Teacher 1 | Yes (3) | [20/06](
+Springside Primary School | Caroline Springs | Teacher | - | [20/06](
+Camberwell Grammar School | Canterbury | Student | - | [20/06](
+The Learning Sanctuary | Pakenham | Worker | - | [18/06](
+Guardian Childcare Centre | South Yarra | Toddler | - | [18/06](
+Inspira Early Learning Centre | Gladstone Park | Worker | - | [17/06](
+Strathmore Primary School | Strathmore | Student | - | [16/06](
+St Dominic's Primary School | Broadmeadows | Student 1 &amp; 2 | Yes (2) | [15/06](
+Pakenham Springs Primary School | Pakenham | Student 1 &amp; 2 | Yes (2) | [15/06](
+Kangaroo Ground Pre-school | Kangaroo Ground | Child | - | [12/06](
+
+
+---
+
+DHHS:
+++++++++++
+ Discussion/Press conferences for Victoria, NSW, Queensland, and, New Zealand - 18 September, 2020 # Victoria
+
+7am: Nothing confirmed yet.
+
+&amp;#x200B;
+
+# NSW
+
+7am: Nothing confirmed yet.
+
+&amp;#x200B;
+
+# Queensland
+
+7am: Nothing confirmed yet.
+
+&amp;#x200B;
+
+# New Zealand - 11am AEST
+
+As usual, u/KezzaNZ's case update post will be crossposted approximately around 11am AEST or you can watch live [here]( on the RNZ Live News YouTube channel.
+
+&amp;#x200B;
+
+You can watch here closer to the time:
+
+* \[The Age\] - Will update shortly with the link. 
+* [9news live](
+++++++++++
+ r/CoronavirusDownunder random daily discussion thread - 30 October, 2020 * **Victoria: TBA**
+* **NSW: TBA**
+
+**You can watch here:** The Age | [9news live]( | [ABC Melbourne - Facebook]( | [ABC News - YouTube](
+
+&amp;#x200B;
+
+# Australia's COVID-19 update as of 29/10
+
+
+
+&amp;#x200B;
+
+# Other COVID-19 headlines around the world
+
+**Feel free to talk about the COVID-19 situation in any country within this post and/or anything else you like as long as it is within the rules.**
+
+|SUBMISSION|DOMAIN|
+|:-|:-|
+|🇪🇺 - [The situation in European hospitals is getting critical.](  |nytimes.com|
+|🏴󠁧󠁢󠁥󠁮󠁧󠁿🇺🇸 - [United will try testing passengers on New York-to-London flights.](  |nytimes.com|
+|🇵🇭 - [A rooster kills a police officer in the Philippines during a Covid-19 lockdown raid.]( |nytimes.com|
+|🇵🇱 - [Poland’s total number of coronavirus cases tripled in less than a month]( |cnn.com|
+|🇬🇧 - [A second lockdown in the UK is not inevitable, claims government minister]( |cnn.com|
+|🇹🇼 - [Taiwan led the world in closing down for Covid-19, now it wants to do the same with opening back up]( |cnn.com|
+|🇮🇳 - [India’s coronavirus cases surge past 8 million]( |cnn.com|
+|🇺🇸 - [Justin Turner: Los Angeles Dodgers star pulled mid-game during World Series win over Tampa Bay Rays after positive Covid-19 test](
+|🇸🇪 - [Sweden sets another daily case record as hospitals feel strain]( |guardian.com|
+|🇬🇷 - [Greece to unveil one-month plan of ‘targeted measures’ to curb second wave](
+|🌏 - [What school looks like now — in striking pictures from around the world]( |
+|🇯🇵 - [Japan’s coronavirus cases top 100,000]( |japantimes.co.jp|
+|🇸🇬🇦🇺 - [COVID-19: Singapore to lift border restrictions for visitors from mainland China and Australia’s Victoria state from Nov 6](
+|🇫🇷 - [Professional sports can continue in France despite new national lockdown](
+|🇨🇦 - [Canadian ICUs brace for COVID-19 resurgence on top of the flu](
+|🇪🇸 - [The Latest: Spain to keep state of emergency until May 2021](
+|🇨🇦 - [Ford speaks as Ontario sees 934 more COVID-19 cases, 7-day average nears 900](
+|🇺🇸- [Attendees at Trump rally in NC test positive](
+
+&amp;#x200B;
+
+#  Some numbers around the world
+
+  
+
+**🇧🇹 - BHUTAN:**
+
+* **+1** (total cases: 346).
+* **+0** (total deaths: 0).
+
+&amp;#x200B;
+
+**🇹🇼 - TAIWAN:**
+
+* **+3** (total cases: 553).
+* **+0** (total deaths: 7).
+
+&amp;#x200B;
+
+**🇱🇰 - SRI LANKA:**
+
+* **+414** (total cases: 9,619).
+* **+0** (total deaths: 19).
+
+&amp;#x200B;
+
+**🇮🇩 - INDONESIA:**
+
+* **+3,565** (total cases: 404,048).
+* **+89** (total deaths: 13,701).
+
+&amp;#x200B;
+
+**🇨🇭- SWITZERLAND:**
+
+* **+9,386** (total cases: 145,044) **- Biggest one day increase on record.**
+* **+33** (total deaths: 2,200).
+
+&amp;#x200B;
+
+**🇵🇱 - POLAND:**
+
+* **+20,156** (total cases: 319,205) **- Biggest one day increase on record.**
+* **+301** (total deaths: 5,149).
+* Positivity rate: **29.7%** (-1.4).
+* **+700** (total hospitalisations: 14,631).
+* **+53** (total patients on ventilator: 1,203).
+
+ 
+
+**🇬🇧 - UK:**
+
+* **+23,065** (total cases: 965,340).
+* **+280** (total deaths: 45,955).
+* Positivity rate: **7.5%** (-1.3).
+* **+383** (total hospitalisations: 10,699).
+* **+55** (total ICU admissions: 957).
+
+&amp;#x200B;
+
+**🇮🇹 - ITALY:**
+
+* **+26,831** (total cases: 616,595) **- Biggest one day increase on record.**
+* **+217** (total deaths: 38,122).
+* Positivity rate: **22.6%** (+2.1).
+* **+983** (total hospitalisations: 15,964).
+* **+115** (total ICU admissions: 1,651).
+
+ 
+
+**🇪🇸 - SPAIN:**
+
+* **+23,580** (total cases: 1,238,922) **- Biggest one day increase on record.**
+* **+173** (total deaths: 35,639).
+* Positivity rate: **13.3%** (-0.2).
+* **+447** (total hospitalisations: 17,520).
+* **+36** (total ICU admissions: 2,404).
+
+&gt;BNO: Spain's Catalonia region will close its border for at least 15 days, and ban travel between municipalities during the weekend - El Pais
+
+&amp;#x200B;
+
+**🇫🇷 - FRANCE:**
+
+* **+47,637** (total cases: 1,282,769).
+* **+250** (total deaths: 36,035).
+* Positivity rate: **19.4%** (+0.8).
+* **+976** (total hospitalisations: 21,183).
+* **+111** (total ICU admissions: 3,156).
+
+&gt;BNO: French prime minister says children from the age of 6 will be required to wear a mask at school - BFM
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days)     date cases growth doubling
+    2020-03-01 29 1.0 1.0
+    2020-03-02 33 1.14 5.1
+    2020-03-03 41 1.24 5.4
+    2020-03-04 52 1.27 5.3
+    2020-03-05 57 1.1 4.8
+    2020-03-06 63 1.11 4.7
+    2020-03-07 73 1.16 4.8
+    2020-03-08 80 1.1 5.4
+    2020-03-09 92 1.15 4.8
+    2020-03-10 112 1.22 4.2
+    2020-03-11 127 1.13 4.0
+    2020-03-12 156 1.23 3.7
+    2020-03-13 198 1.27 3.4
+    2020-03-14 248 1.25 3.5
+    2020-03-15 298 1.2 3.2
+    2020-03-16 376 1.26 3.2
+    2020-03-17 453 1.2 3.3
+    2020-03-18 566 1.25 3.3
+    2020-03-19 708 1.25 3.2
+    2020-03-20 875 1.24 3.2
+    2020-03-21 1071 1.22 3.1
+    2020-03-22 1352 1.26 3.3
+    2020-03-23 1716 1.27 3.5
+    2020-03-24 2146 1.25 3.8
+    2020-03-25 2431 1.13 4.0
+    2020-03-26 2805 1.15 4.5
+    2020-03-27 3179 1.13 5.3
+    2020-03-28 3639 1.14 6.4
+    2020-03-29 3985 1.1 7.0
+    2020-03-30 4250 1.07 7.6
+    2020-03-31 4560 1.07 8.1
+    2020-04-01 4864 1.07 9.6
+
+Notes: doubling time in days have been smoothed with 7 days (geometric) moving average
+
+The number of cases in Australia was obtained from this wikipedia page
+
+[
+
+the growth and doubling time was calculated. Growth is easy to calculate, just dividing today's number with yesterday's number. Doubling time was calculated by taking the geometric seven day moving average of growth and then converting the result to doubling time.
+
+Example: doubling time for 2020-03-10 is
+
+log(2) / ( (log(1.16) + log(1.1) + log(1.15) + log(1.22) + log(1.13) + log(1.23) + log(1.27))/7 ) = 4.2169
+++++++++++
+ New Zealand Coronavirus: 5 new community cases, 7 new border case - 28/08 [removed]
+++++++++++
+ NSW records 0 new cases * **0** cases have been diagnosed in NSW, 1 previous case has been excluded. 
+* **9,207** people were tested in NSW in the 24 hours to 8:00pm yesterday.
+* Total cases in NSW: **3,109** (-1) 
+   * **336** (-5) active cases.
+   * **2,723** (+4) recoveries.
+   * **50** deaths in total.
+   * **9** (-1) in hospital: **0** in ICU, and, **0** ventilated.
+   * **555,956** total tests carried out. 
+
+
+#**Sources of confirmed cases*:**
+
+| | Last 24 hours | This week | TOTAL
+---|---|----|----
+Locally - Known | - | - | 863 
+Locally - Unknown | - | - | 369 
+Interstate | - | - | 71 
+Overseas | - | +14 | 1,807 
+Under investigation | - | - | 0
+
+^*These ^numbers ^may ^change ^daily ^as ^cases ^are ^investigated ^further. 
+
+Source: **[NSW Twitter](
+++++++++++
+ Interactive map of active/confirmed Victorian COVID cases by LGA (link in comments) 
+++++++++++
+ Graph of Vic Daily Cases, decline with dates (projection of course) 
+++++++++++
+ NSW reports 0 new local cases and 6 new overseas cases - 🍩 # 𝗡𝗲𝘄 𝗖𝗮𝘀𝗲𝘀 𝗶𝗻 𝘁𝗵𝗲 𝗹𝗮𝘀𝘁 𝟮𝟰 𝗵𝗼𝘂𝗿𝘀:
+
+* **6** are returned overseas travellers in hotel quarantine.
+* ***No locally acquired cases, for the SEVENTEENTH day in a row!***   
+🍩 🍩 🍩 🍩 🍩 🍩 🍩 🍩 🍩 🍩 🍩 🍩 🍩 🍩 🍩 🍩 🍩
+
+
+
+# 𝗔𝗻𝗻𝗼𝘂𝗻𝗰𝗲𝗺𝗲𝗻𝘁𝘀:
+
+* **🚨** ***BREAKING:*** Queensland will reopen to Greater Sydney at 1am on December 1, as per our roadmap. [\#covid19au]( \[24/11; 10:56 am via [Annastacia Palaszczuk](
+* **There are no active clusters, nor locations associated with a confirmed COVID-19 case within the past 14 days!**
+* **Yesterday, some changes have been made to restrictions in NSW:**
+   * For official gov information, see [here](
+* **Areas with increased testing:** [Liverpool LGA]( [Wingecarribee LGA](
+
+# 𝗖𝗮𝘀𝗲 + 𝗧𝗲𝘀𝘁 𝗦𝘂𝗺𝗺𝗮𝗿𝘆
+
+Last Updated: 24/11; 11:00 am - ✅ ***NEW DATA*** ✅ 
+
+* "Active cases" are updated during the day, when the data is released.
+
+
+
+# 𝗖𝗼𝗻𝗳𝗶𝗿𝗺𝗲𝗱 𝗰𝗮𝘀𝗲𝘀 𝗯𝘆 𝘀𝗼𝘂𝗿𝗰𝗲 [𝗢𝗰𝘁-𝗡𝗼𝘃]
+
+Last Updated: 24/11; 10:39 am
+
+The figure below shows the number of confirmed cases per day, separated by source (e.g., overseas, interstate and local). This data is retrieved from NSW.Data, therefore it is likely to be a day (or so) behind the current date. Click on the image to enlarge.
+
+
+
+# 𝗙𝗿𝗲𝗾𝘂𝗲𝗻𝗰𝘆 𝗼𝗳 𝗖𝗢𝗩𝗜𝗗-𝟭𝟵 𝘁𝗲𝘀𝘁𝘀 [𝗢𝗰𝘁-𝗡𝗼𝘃]
+
+Last Updated: 24/11; 11:00 am
+
+The below graph maps the number of tests per day for October (orange) and November (blue) 2020. The red line plots the 7-day moving average, and the black broken line shows the NSW goal of conducting [≥ 8,000]( COVID-19 tests per day. Click on the image to enlarge.
+
+
+
+# 𝗠𝗼𝗻𝘁𝗵𝗹𝘆 𝘁𝗼𝘁𝗮𝗹𝘀 𝗯𝘆 𝘀𝗼𝘂𝗿𝗰𝗲 𝘁𝘆𝗽𝗲
+
+Last Updated: 24/11; 10:38 am
+
+**FYI:** For now, I have removed the "𝗥𝗲𝗰𝗲𝗻𝘁 𝘀𝗼𝘂𝗿𝗰𝗲 𝘁𝘆𝗽𝗲 𝗯𝘆 𝗟𝗛𝗗/𝗟𝗚𝗔 + 𝗣𝗼𝘀𝘁𝗰𝗼𝗱𝗲" table from the daily post. This is because all recent cases in NSW have been acquired overseas, and are in hotel quarantine.
+
+
+
+# 💩 𝗩𝗶𝗿𝗮𝗹 𝗳𝗿𝗮𝗴𝗺𝗲𝗻𝘁𝘀 𝗱𝗲𝘁𝗲𝗰𝘁𝗲𝗱 𝗶𝗻 𝗡𝗦𝗪 𝘄𝗮𝘀𝘁𝗲𝘄𝗮𝘁𝗲𝗿
+
+Last Updated: 24/11; 10:22 am
+
+NSW Health releases weekly surveillance reports that provide information about positive samples of COVID-19 in our wastewater systems. The table below provides the most recent data publically available \[14/11\].
+
+* *You can read more about the* [*NSW Sewage Surveillance Program*]( *on our wiki!*
+* *For an interactive map of the NSW sewerage network,* [*click here*](
+
+
+
+# 𝙍𝙚𝙘𝙚𝙣𝙩 𝙨𝙚𝙬𝙖𝙜𝙚 𝙣𝙤𝙩𝙞𝙛𝙞𝙘𝙖𝙩𝙞𝙤𝙣𝙨 + 𝙢𝙤𝙣𝙞𝙩𝙤𝙧 𝙛𝙤𝙧 𝙨𝙮𝙢𝙥𝙩𝙤𝙢𝙨
+
+Last Updated: 24/11; 10:22 am
+
+In addition to the above data, NSW Health posts up to date public health alerts when new detections of COVID-19 viral fragments are detected:
+
+* ⚠️ Testing of Moss Vale sewage samples taken on 19 November identified fragments of the virus that causes COVID-19. While the fragments may be from identified cases in the area, NSW Health reminds the community to come forward for testing should they develop any symptoms.
+* ⚠️ Fragments COVID-19 have been detected in samples taken on Tuesday 17 November from Batemans Bay sewage system. While this may be explained by a previous case who is no longer infectious, as a precaution, **NSW Health is calling on people in the Batemans Bay area to get tested if they have even the mildest COVID-19 symptoms.**
+* ⚠️ If you live in any of of the below areas that are served by the following treatment plans, you should monitor for [symptoms](
+
+|**Sydney Western**|**Rouse Hill Treatment Plant**|
+|:-|:-|
+|North Kellyville|Quakers Hill|
+|Rouse Hill|Castle Hill|
+|Box Hill|Annangrove|
+|The Ponds|Kellyville|
+|Kellyville Ridge|Box Hill|
+|Parklea|Kenthurst|
+|Quakers Hill|Glenhaven|
+|Acacia Gardens|The Ponds|
+||Rouse Hill|
+||North Kellyville|
+||Kellyville Ridge|
+||Beaumont Hills|
+||Stanhope Gardens|
+||Baulkham Hills|
+||Glenwood|
+||Bella Vista|
+||Parklea|
+||Acacia Gardens|
+||Norwest|
+
+# 
+
+
+
+# 📚️ 𝗿/𝗖𝗼𝗿𝗼𝗻𝗮𝘃𝗶𝗿𝘂𝘀𝗗𝗼𝘄𝗻𝘂𝗻𝗱𝗲𝗿 𝗡𝗦𝗪 𝗥𝗲𝘀𝗼𝘂𝗿𝗰𝗲𝘀:
+
+&gt;**1.** [NSW daily post: Sources of information](  
+&gt;  
+&gt;**2.** [Clusters: original identification and source](  
+&gt;  
+&gt;**3.** [NSW Sewage Surveillance Program](  
+&gt;  
+&gt;**4.** [NSW-relevant Media and Press Releases](  
+&gt;  
+&gt;**5.** [Current NSW restrictions](
+++++++++++
+ NSW records 1 new overseas case #New cases reported in the last 24 hours:
+
+* **1** new case detected in a returned traveller in hotel quarantine. 
+
+#Cases to date:
+
+| | Last 24 hours | TOTAL
+---|-----|-----
+**Confirmed cases** | +1 | **3,150** (-2)
+**Active** | -1  | 329
+**Active (NSW Gov)*** |  | 90
+**Recovered** | - | 2,771
+**Deaths** | - | 50
+| Tests conducted | +8,263   | 742,962
+| Hospital |  | 9
+| ICU | - | 0
+| Ventilated| - |0 | 
+
+
+
+
+#Sources of confirmed cases:
+
+| | Last 24 hours | This week | TOTAL
+---|---|----|----
+Locally - Known | - | - | 882
+Locally - Unknown | - | +1 | 363
+Interstate | - | - | 69 
+Overseas | +1 | +22 | 1,838
+Under investigation | - | - | 0 
+
+---
+^*From ^12 ^June, ^reporting ^of ^active ^cases ^on ^the ^[NSWGov]( ^website ^has ^changed. ^Cases ^that ^are ^not ^recorded ^as ^recovered ^or ^deceased ^after ^six ^weeks ^are ^not ^included.
+
+^**Two ^previously ^confirmed ^cases ^have ^been ^excluded ^after ^further ^testing. 
+
+**Sources**: 
+
+ * [NSW Health Twitter](
+ * [nsw.gov.au]( 
+ * [NSW COVID-19 case statistics - up to 8pm 21 June 2020](
+++++++++++
+ [OC] 12th April 2020 | Top Countries according to confirmed cases per million people 
+++++++++++
+ If the borders are closed, and will be until 2021, where are the new overseas cases coming from? Genuine curiousity. Who is still travelling then?
+++++++++++
+ Coronavirus Australia News Updates (8 August) * Victoria competing with rest of the world for PPE during coronavirus pandemic, Premier Dan Andrews says  ([ABC News](
+* Coronavirus Victoria: Dan Andrews, Brett Sutton accused of not sharing data  ([NEWS.com.au](
+* New Zealand's Ardern launches 'COVID election' campaign  ([Al Jazeera English](
+* Josh Frydenberg says Victorians need answers about coronavirus hotel quarantine failures  ([ABC News](
+* More deaths but Vic second wave stabilises  ([The North West Star](
+* More virus deaths but positivity in Vic | Guardian News | Nambucca Heads, NSW  ([Nambucca Guardian News](
+* Melbourne curfew rules see dozens of Victorians hit with coronavirus fines  ([7NEWS.com.au](
+* NSW records nine new coronavirus cases, including three with no known source  ([Sydney Morning Herald](
+* At least 17 people killed as coronavirus repatriation flight crashes in India  ([SBS News](
+* Advanced analysis offers new insights into immune system’s role in severe COVID-19 - News ([Medical.Net](
+* Greater Shepparton records four active cases  ([Shepparton News](
+
+
+
+_This daily news summary was automatically generated using [News API]( data from Australian news sources. If you have feedback, please send a modmail to /r/CoronavirusAustralia._
+++++++++++
+ Discussion/Press conferences for Victoria, NSW, and, Queensland today #Victoria
+
+7:40am - Nothing confirmed yet.
+
+
+&amp;nbsp;
+
+&amp;nbsp;
+
+
+
+#NSW
+
+7:40am - Nothing confirmed yet.
+
+
+&amp;nbsp;
+
+&amp;nbsp;
+
+
+
+#QLD
+
+7:40am - Nothing confirmed yet.
+
+&amp;nbsp;
+
+&amp;nbsp;
+
+---
+You can watch here closer to the time:
+
+* [The Age](
+* [9news live](
+
+&amp;nbsp;
+
+NOTE: Please direct **ALL** comments regarding leaked numbers and speculation about any further restrictions into this thread instead of creating a new post. **This is simply because until the number/confirmation about further restrictions is announced through an official channel by DHHS, everything is speculation**. Thanks
+
+---
+++++++++++
+ I created an interactive world map to show the evolution overtime of cases, deaths, active cases, critical cases and tests. 
+++++++++++
+ Total cases change between 01/JUL and 02/JUL; red names indicate the LGAs that don't have any postcode in lockdown. Moreland has many in lockdown but has no new case today. 
+++++++++++
+ Victoria records 0 new cases and 0 new deaths for the 14th day in a row! 🍩🍩 # There have been no new cases and no new deaths for the last 14 days! 🥳🍩🍻
+
+Source: [VicGovDHHS Twitter]( This post will be updated as further information is provided during the press conference and the media release
+
+# Vic's presser with Dan at [8:30am](
+
+You can watch here: [The Age]( | [9news live]( | [ABC Melbourne - Facebook]( | [ABC News - YouTube](
+
+&amp;#x200B;
+
+**Other helpful information and links**:
+
+* **DHHS: Media Release -** **Friday** **1****3** **November**
+* Check out our [**COVID-19 in Victoria**]( wiki page!
+* [Coronavirus (COVID-19) roadmap for reopening](
+
+&amp;#x200B;
+
+# 14 day numbers
+
+**13 November:**
+
+||Total cases|New case average|Unknown|
+|:-|:-|:-|:-|
+|Metropolitan|0|0|1|
+|Regional|0|0|0|
+
+&amp;#x200B;
+
+**12 November:**
+
+||Total cases|New case average|Unknown|
+|:-|:-|:-|:-|
+|Metropolitan|2|0.1|1|
+|Regional|0|0|0|
+
+&amp;#x200B;
+
+# Cases to date
+
+||Last 24 hours|TOTAL|
+|:-|:-|:-|
+|**Confirmed cases**|**+0**|**20,345**|
+|**Active** (all metro Melbourne)|**+0**|**3**|
+|**Recovered**|**+0**|**19,523**|
+|**Deaths**|**+0**|**819**|
+|Community transmission|\+0|4,277|
+|Test results received|\+12,001|3,375,716|
+|Hospital||2|
+|ICU||0|
+|Ventilated||0|
+
+&amp;#x200B;
+
+# Cases in hospital
+
+|Age group|Last 24 hours|All hospital cases|
+|:-|:-|:-|
+|80-89||1|
+|90+||1|
+|**TOTAL**||**2**|
+
+&amp;#x200B;
+
+# ⚠️Case alerts - public exposure sites⚠️
+
+The table below was last updated on **Thursday, 12 November 2020 at 8:56:35 am AEDT**. Please view the [**DHHS**]( website for the most up to date information.
+
+**Added:** None.
+
+**Removed:**
+
+* Terminal 4 of Melbourne Airport, 9/11/2020, 12pm-1pm
+
+|Added|**Location**|Site|**Exposure period**|Notes|
+|:-|:-|:-|:-|:-|
+|11th November|Craigieburn line inbound|Between Glenroy Station and Flinders Street Station|8/11/2020, 1.45pm-2.15pm|Case travelled on train from Glenroy station to Flinders street station |
+|11th November|Craigieburn line inbound|Between Flinders Street Station and Glenroy Station|8/11/2020, 6.30pm-7pm|Case travelled on train from Flinders street station to Glenroy station |
+|11th November|Glenroy|Touch of Asia, 826A Pascoe Vale Rd|8/11/2020, 7.45pm-8.15pm|Case shopped in store|
+|11th November|Melbourne|H&amp;M, 350 Bourke Street|8/11/2020, 3pm-3.50pm|Case shopped in store|
+|11th November|Melbourne|Cotton On Body, 211 La Trobe Street|8/11/2020, 3.55pm-4.40pm|Case shopped in store|
+|11th November|Melbourne|Chemist Warehouse, 220-226 Collins Street|8/11/2020, 5pm-5.15pm|Case shopped in store|
+|11th November|Melbourne Airport|Terminal 4 of Melbourne Domestic airport|10/11/2020, 11.45am-1.20pm|Case left on flight to Adelaide from Melbourne|
+
+&amp;#x200B;
+
+# Active outbreaks - other
+
+Last updated: **Sunday, 8 November 2020 at 10:14:22 am AEDT**
+
+|Type|Outbreak|Suburb|LGA|Last 24 hours|TOTAL active|TOTAL cases|Reported by DHHS|
+|:-|:-|:-|:-|:-|:-|:-|:-|
+|HEALTH|Box Hill Hospital|Box Hill|Whitehorse|\-|1|15|Nov: 1. Oct: 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8|
+
+&amp;#x200B;
+
+# Wastewater monitoring
+
+Last updated: **Wednesday, 11 November 2020 at 1:14:27 pm AEDT**
+
+|Site|Latest sample date|COVID-19 status|
+|:-|:-|:-|
+|Kilmore|Wed 29-Oct-2020|Detected|
+
+&amp;#x200B;
+
+
+
+# Other information
+
+* **Aged care outbreaks**: As of Tuesday, 10 November 2020 at 7:12:03 am AEDT, there are no known active cases associated with aged care facilities. To date, there have been 652 COVID-19 deaths linked to aged care facilities in Victoria.
+* **Educational institutions**: As of Thursday, 12 November 2020 at 7:18:43 am AEDT, there are no known educational institutions that have been affected in the last 14 days.
+* **Healthcare workers**: As of Thursday, 12 November 2020, there are no known active healthcare workers. To date, there have been 3,574 COVID-19 cases in healthcare workers in Victoria.
+++++++++++
+ This is very unsettling - very laid back approach by our airports in screening new arrivals 
+++++++++++
+ r/CoronavirusDownunder random daily discussion thread - 11 October, 2020 # Press conferences
+
+**Victoria: TBA**
+
+**NSW:** **TBA**
+
+&amp;#x200B;
+
+**You can watch here**: [9news live]( | [ABC Melbourne - Facebook]( | [ABC News - YouTube](  
+
+&amp;#x200B;
+
+# Some COVID-19 headlines around the world
+
+**Feel free to talk about the COVID-19 situation occurring in any country within this post and/or anything else you like as long as it is within the rules.**
+
+* **🌏383,359** new cases of coronavirus worldwide, the biggest one-day increase on record, according to WHO. **8,575** new deaths. (Yesterday: 350,766 new cases and 6,339 new deaths worldwide).
+* 🇺🇸[More than 2,000 mink die from coronavirus at Wisconsin farm](
+* 🇺🇸[White House Blocked C.D.C. From Requiring Masks on Public Transportation](
+* 🇰🇵Kim Jong Un says not a single person in North Korea has contracted coronavirus, wishes South a fast recovery - Yonhap
+* 🇺🇸[NYC Fines Up to $15K for COVID Violations in Effect; NY Hospitalizations Highest Since July 15](
+
+[Source: BNO](
+
+# Some numbers around the world in the last 24 hours
+
+🇬🇧**UK:**
+
+* ***+15,166*** new cases in the last 24 hours (second-biggest one-day increase on record)
+* In hospital: 3,837 (+177) 
+* On ventilator: 442 (+6) 
+* Deaths: +81
+
+&amp;#x200B;
+
+🇫🇷**France**:
+
+* ***+26,896*** new cases in the last 24 hours (by far the biggest one-day increase on record)
+* In hospital: 7,976 (+133) 
+* ICU: 1,456 (+17) 
+* Deaths: +54
+
+&amp;#x200B;
+
+🇳🇱**Netherlands**: 
+
+* ***+6,504*** new cases in the last 24 hours (biggest one-day increase on record)
+* In hospital: 1,190 (+51) 
+* ICU: 235 (-4) 
+* Deaths: +24
+
+&amp;#x200B;
+
+🇷🇺**Russia**:
+
+* ***+12,846*** new cases in the last 24 hours (biggest one-day increase on record)
+* Deaths: +197 
+* New cases includes 4,105 new cases in Moscow.
+
+&amp;#x200B;
+
+🇮🇹**Italy**:
+
+* ***+5,724*** new cases in the last 24 hours (biggest one-day increase since March)
+* In hospital: 4,336 (+250) 
+* ICU: 390 (+3) 
+* Deaths: +29
+++++++++++
+ [VIC] 800 Deaths and 11,300 cases. Roll back to 2017 when we did NOT lock down Victoria over the seasonal flu. 
+++++++++++
+ NSW Health: Public Health Alert – Ripples Milsons Point # Public Health Alert – Ripples Milsons Point
+
+07 October 2020
+
+​NSW Health is alerting the public to new locations visited by confirmed cases of COVID-19.
+
+**One confirmed case attended Ripples restaurant in Milson’s Point on Saturday 3 October from 8pm to 10.30pm.**
+
+While contact tracing is now well underway, NSW Health can advise the details of **a small number of walk-in diners in the restaurant during this time were not recorded.**
+
+**All diners who were in this restaurant at that time are considered close contacts and must immediately get tested and isolate for 14 days since they were there, and stay isolated for the entire period, even if a negative test result is received.**
+
+NSW Health tonight also advises anyone who attended the **Mazda Artarmon repair centre on Campbell Street between 7.30am and 9.30am on Friday 2 October are considered casual contacts and should immediately isolate and get tested if they develop the slightest symptoms of COVID-19.**
+
+COVID-19 testing clinics can be found here: [ or call your GP.
+
+&amp;#x200B;
+
+[**source**](
+++++++++++
+ Victoria records 532 new local cases and 6 new deaths # New cases reported in the last 24 hours
+
+* **6** new deaths
+
+&amp;#x200B;
+
+**Will update as further information becomes available**
+
+&amp;#x200B;
+
+||*Last 24 hours*|*TOTAL*|
+|:-|:-|:-|
+|**Confirmed cases**|\+532|**8696** (-17)\*|
+|**Active**||4,233|
+|**Active (DHHS)**||4,233|
+|**Recovered**||3,680|
+|**Deaths**|\+6|77|
+|**Community transmission**||1,253|
+|[**Tests results received (last 24 hrs)**](
+|Hospital|\+17|245|
+|ICU|\+2|44|
+|Ventilated||24|
+
+^(\*17 previous cases reclassified.) 
+
+&amp;#x200B;
+
+# New cases identified today through the media/Reddit community
+
+|Outbreak|Suburb|Last 24 hours|Reported cases|TOTAL|Source|
+|:-|:-|:-|:-|:-|:-|
+|Fountain Gate Secondary College|Narre Warren|Education|\+1|**1**|[Link](
+|Copperfield College|Sydenham|Education|\+1|**1**|via Reddit community|
+
+&amp;#x200B;
+
+# Update to these posts
+
+* With the growing number of outbreaks, these posts were getting way too long and messy. Therefore, we’ve decided to move the current outbreak list to Google sheets - you can find it [**here**](  
+After the DHHS publishes their media release, a summary of the affected/new outbreaks for the day will be posted on these daily case updates, like above. For further information including a link to the source, you’ll need to access the Google sheets. It is a work in progress, so some of the details that haven't been added in yet will be added over the next few days.
+* We've also created a Google map that shows current outbreaks - you can find it [**here**](
+
+&amp;#x200B;
+
+[Melbourne](
+++++++++++
+ New Zealand Coronavirus: New community cases: 0 | Remaining Active: 6 | Days since last case: 11 - 06/10 **Coronavirus: New community cases: 0 | Remaining Active: 6 | Days since last case: 11 - 06/10**
+   
+ This information has been compiled by /u/kezzaNZ on October 06, 2020 at 11:01AM, and was posted to /r/newzealand. The original post (and any subsequent updates) can be found here: 
+
+********
+
+Lets get that testing rate up NZ.
+
+**New Cases**
+
+Total new cases: 3
+
+New community cases: 0
+
+New managed isolation cases: 3
+
+The first case reported today arrived from India on September 26 and was retested after returning a negative result at their routine test around day 3 of their time in managed isolation because they were a contact of a previously reported case.
+
+The second case reported today arrived on October 2 from England via Qatar and Australia and was tested after they developed symptoms.
+
+The third case reported today arrived on October 4 from India via England and Qatar and was tested on arrival because they developed symptoms on the flight.
+
+**Running Totals**
+
+Total cases: 1858 ( 3 )
+
+Total community cases (season 2): 186 ( 0 )
+
+Days since last community case: 11
+
+Deaths: 25 ( 0 )
+
+**Active Cases**
+
+Recoveries: 0
+
+All active cases: 43 ( 3 )
+
+Active community cases: 6 ( 0 )
+
+Community recovery rate: 97%
+
+**Hospitalisations**
+
+Hospitalisations: 1 ( +1 )
+
+**Testing**
+
+Tests yesterday: 2,820
+
+Seven day average: 4,293
+
+Total tests: 985,639
+
+Total tests season 2: 482,717
+
+**School holidays**
+
+As families enjoy the school holidays together, we ask that anyone who is unwell stays at home and does not travel.
+
+If you become unwell while on holiday seek advice from Healthline, your GP or Nurse Practitioner on getting a test for COVID-19. Do not wait until you return home to get tested.
+++++++++++
+ Decline in Confirmed Cases of STDs during Covid-19 in Australia 
+++++++++++
+ NSW reports 0 new local cases and 5 overseas cases 🍩 # 𝗡𝗲𝘄 𝗖𝗮𝘀𝗲𝘀 𝗶𝗻 𝘁𝗵𝗲 𝗹𝗮𝘀𝘁 𝟮𝟰 𝗵𝗼𝘂𝗿𝘀
+
+* 5 are returned overseas travellers in hotel quarantine.
+* There are 0 new local cases 🍩 🍩 - *two days in a row!*
+
+# 𝗡𝗼𝘁𝗲𝘀 + 𝗡𝗲𝘄𝘀:
+
+&gt;**1.** [Framework for National Reopening](
+
+# 𝗖𝗮𝘀𝗲 + 𝗧𝗲𝘀𝘁 𝗦𝘂𝗺𝗺𝗮𝗿𝘆
+
+Last updated 11:00 AM \[24/10\] ✅ ***New Data*** ✅ - "Active cases" are updated during the day, when the data is released.
+
+[Click on link\/image to enlarge table](
+
+# 𝗡𝘂𝗺𝗯𝗲𝗿 𝗼𝗳 𝘁𝗲𝘀𝘁𝘀 + 𝗰𝗼𝗻𝗳𝗶𝗿𝗺𝗲𝗱 𝗰𝗮𝘀𝗲𝘀
+
+Last updated 11:00 AM \[24/10\] - ✅ ***New Data*** ✅
+
+The below graph maps the number of tests per day and number of new cases per day, for October 2020. The red line shows the NSW goal of conducting [≥ 8,000]( COVID-19 tests per day. "New cases" plots the aggregate number of cases across *all* sources (i.e., overseas, interstate and local).
+
+# 𝗥𝗲𝗰𝗲𝗻𝘁 𝗰𝗹𝘂𝘀𝘁𝗲𝗿𝘀
+
+There are currently 4 clusters. The source of the Liverpool Private Health clinic, Oral Park Community and Lakemba clusters are still unknown.
+
+|Liverpool Private Health clinic|Liverpool Hospital Dialysis|Lakemba|Oran Park Community\*|
+|:-|:-|:-|:-|
+|12|14|13|22|
+
+^(\* Genome sequencing has drawn a tentative link between the Oran Park cluster and the Lakemba and Liverpool Hospital clusters.)
+
+# 𝗔𝗳𝗳𝗲𝗰𝘁𝗲𝗱 𝗘𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗜𝗻𝘀𝘁𝗶𝘁𝘂𝘁𝗶𝗼𝗻𝘀
+
+Last updated 11:00 AM \[24/10\]
+
+|**Educational Institution**|**TOTAL**|**Reported**|
+|:-|:-|:-|
+|Greater Beginnings Childcare Centre|7|Oct: 17|
+|Oran Park High School|1|Oct: 17|
+|~~Macquarie University~~|~~1~~|~~Oct:~~ [~~8~~](
+
+# 𝗦𝗼𝘂𝗿𝗰𝗲𝘀 𝗼𝗳 𝗰𝗼𝗻𝗳𝗶𝗿𝗺𝗲𝗱 𝗰𝗮𝘀𝗲𝘀
+
+Last updated 6:00 PM \[22/10\] -   The below tables are updated most weeknights, as NSW.Data releases new data.  NSW.Data does not release data over the weekend.
+
+# 𝗠𝗼𝗻𝘁𝗵𝗹𝘆 𝘁𝗼𝘁𝗮𝗹𝘀 𝗯𝘆 𝘀𝗼𝘂𝗿𝗰𝗲 𝘁𝘆𝗽𝗲
+
+[Click on link\/image to enlarge table](
+
+# 𝗥𝗲𝗰𝗲𝗻𝘁 𝘀𝗼𝘂𝗿𝗰𝗲 𝘁𝘆𝗽𝗲 𝗯𝘆 𝗟𝗚𝗔 + 𝗣𝗼𝘀𝘁𝗰𝗼𝗱𝗲
+
+[Click on link\/image to enlarge table](
+
+# 𝗟𝗮𝘁𝗲𝘀𝘁 𝗖𝗢𝗩𝗜𝗗-𝟭𝟵 𝗰𝗮𝘀𝗲 𝗹𝗼𝗰𝗮𝘁𝗶𝗼𝗻𝘀 𝗶𝗻 𝗡𝗦𝗪
+
+Last updated 11:00 AM \[23/10\] - for more detailed information and updates, see the [NSW Government]( website.
+
+[**Self-isolate and get tested immediately:**](
+
+|**Location**|**Dates**|
+|:-|:-|
+|**Auburn:** Al-Jabr – A Different Class of Mathematics|4:30pm to 8:45pm on Thursday 8 October; 10am to 4:30pm on Sunday 11 October|
+|**Campbelltown:** The Bavarian, Macarthur Square|7PM to 9PM Saturday 10 October|
+|**Gregory Hills:** Gregory Hills Hotel|7pm to 9pm on Friday 9 October|
+|**Lakemba:** Ali Dine Inn and Take Away|7:30pm to 8:30pm on Friday 9 October|
+|**Lakemba:** A2Z Medical Clinic|Tuesday 29 September to Saturday 10 October; Friday 25 September to Monday 28 September|
+|**Narellan:** 1500 United Cinema, Narellan Town Centre|1:15pm, Saturday 10 October screening of the movie 'Trolls' (theatre 8)|
+|**Parramatta:** ACE Tutoring|Saturday 10 October, Standard HSC Chemistry class between 9:30am and 1:20pm|
+
+**NOTE:** Anyone who visited A2Z Medical Clinic between 25 - 28 September must seek testing immediately. As the full 14 days since exposure has elapsed you do not need to continue to isolate once a negative test result is received.
+
+&amp;#x200B;
+
+&gt;**Areas with increased testing:** Camden LGA, Lakemba (suburb), Liverpool LGA, Bayside LGA, Waverly LGA, Randwick LGA  
+&gt;  
+&gt;For locations where you may be a casual contact, see [here](  
+&gt;  
+&gt;For affected public transport routes, see [here](  
+&gt;  
+&gt;For flights with confirmed cases, see [here](
+
+# 𝗿/𝗖𝗼𝗿𝗼𝗻𝗮𝘃𝗶𝗿𝘂𝘀𝗗𝗼𝘄𝗻𝘂𝗻𝗱𝗲𝗿 𝗡𝗦𝗪 𝗥𝗲𝘀𝗼𝘂𝗿𝗰𝗲𝘀:
+
+&gt;**1.** [NSW daily post: Sources of information](  
+&gt;  
+&gt;**2.** [Clusters: original identification and source](  
+&gt;  
+&gt;**3.** [NSW Sewage Surveillance Program](  
+&gt;  
+&gt;**4.** [NSW-relevant Media and Press Releases](  
+&gt;  
+&gt;**5.** [Current NSW restrictions](
+
+**I've seen a lot of great CoronvirusDownunder COVID-19 detectives commenting on the sub recently - if you come across any important information please feel free to send** u/pretty_iin_pink **a PM! 🙂**
+++++++++++
+ Daily Tests/Positive Ratio and 14day best case, 9th Sept Daily 0.46% positivity ratio, 76 cases on 16686 Test results   
+14 Day Avg: 0.53%, 84 Cases, 16492 Tests 
+
+&amp;#x200B;
+
+
+
+Current 14d thresholds are currently 50 and 5.  
+For 50 cases, the earliest we can reach this is 14th Sept, assuming no new cases from now (one day later than yesterday). This step is currently driven by the date (28th Sept).  
+For 5 cases, the earliest we can reach this is 22nd Sept, assuming no new cases from now (one day later than yesterday). This step is currently driven by the date (26th Oct).
+
+Note: I do this on the actual new cases / the number of reported tests. Some other places do it on the 'net new' cases. I prefer this way, as this is the daily snapshot. This way will give slightly higher ratios. It's important you, the reader, understand what the difference is. A positivity ratio of 1% does not imply that 1% of the wider population is infected - the tests are not of a random sample of the population.
+++++++++++
+ my spreadsheet based on NSW Health → Known flights with confirmed cases of COVID-19 [my spreadsheet based on NSW Health → Known flights with confirmed cases of COVID-19](  
+
+I whipped this up in Google Sheets, using data from the NSW Health *Known flights with confirmed cases of COVID-19* webpage as linked below. I added two filter views to the spreadsheet:  
+1. Sydney ↔︎ Regional NSW/ACT/SEQLD flights (for those of us in regional NSW)  
+2. Sydney/Newcastle ↔︎ domestic interstate flights  
+
+Hope someone finds this useful. I will endevour to keep updating this spreadsheet as new flights are added to the NSW Health page.  
+
+[NSW Health → Infectious diseases → Diseases → Known flights with confirmed cases of COVID-19](  
+
+I also created another COVID-19 related Google Sheets spreadsheet if anyone is interested:  
+
+[List of countries (sovereign states) without any COVID-19 confirmed cases](
+++++++++++
+ Canberra records fifth coronavirus case in three days, but authorities say outbreak risk is 'very low' 
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+    t = 51 for the date 2020-07-27
+    exponential model is 55.7505 * exp(0.0458 * t) + -81.9123
+    simple exponential model is 17.2514 * exp(0.0668 * t)
+    linear model is -95.9354 + 9.3497 * t
+    quadratic model is 5.2174 + -2.7887 * t + 0.238 * t^2
+    exponential model residue is 108293.9
+    linear model residue is 216387.0
+    quadratic model residue is 96955.5
+    
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 142.7319 * exp(0.0792 * t) + -344.7532
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+Purely my own **speculation**, I think the peak is at day 54 or 2020-07-30 (see graph below). **Please take it with a HUGE grain of salt.** *Actually with today's result the peak has move forward to day 55 but the graph below still shows the peak at day 54. This shows that even I cannot accurately predict the future.*
+
+&amp;#x200B;
+
+
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+    2020-07-06,127
+    2020-07-07,191
+    2020-07-08,134
+    2020-07-09,165
+    2020-07-10,288
+    2020-07-11,216
+    2020-07-12,273
+    2020-07-13,176
+    2020-07-14,270
+    2020-07-15,238
+    2020-07-16,317
+    2020-07-17,428
+    2020-07-18,216
+    2020-07-19,363
+    2020-07-20,275
+    2020-07-21,374
+    2020-07-22,484
+    2020-07-23,403
+    2020-07-24,300
+    2020-07-25,357
+    2020-07-26,459
+    2020-07-27,532
+++++++++++
+ QLD question - things don't add up? New cases, already in quarantine... cool...buuuut 
+
+Why is it every time we get a case like this, there are new places added to the contract tracing locations?
+
+How can they simultaneously be in quarantine but also at the shops???
+
+Might be just me but I find this funny!
+++++++++++
+ Coronavirus cases in NSW rise again, beach-goers slammed for not keeping social distance 
+++++++++++
+ Victoria Goes 22 days straight 0 cases and 0 deaths! [removed]
+++++++++++
+ NSW Health: Public health alert - new venues 28 October 2020
+
+NSW Health is alerting the public that a confirmed case of COVID-19, who will be included in tomorrow’s numbers, has attended venues in Sydney’s south-west and east.
+
+Anyone who attended the following venues for at least an hour at these times is considered a close contact and must get tested immediately and isolate for a full 14 days from exposure regardless of the result:
+
+* Flip Out Prestons Indoor Trampoline Park, Unit B/238 Hoxton Park Road, Prestons on Sunday 25 October 2020, between 12pm – 1.50pm
+* Jasmins Lebanese Restaurant, 375 Macquarie Street, Liverpool, on Sunday 25 October 2020, between 2pm – 3.30pm
+
+Anyone who attended the following venues is considered a casual contact and must monitor for symptoms and get tested immediately if they develop. After testing, they must remain in isolation until a negative test result is received:
+
+* Westfield Bondi Junction, 500 Oxford Street, Bondi Junction, Saturday 24 October 2020, between 1.30pm – 4.30pm 
+* Watsup Brothers kebab shop, 149 Eldridge Road, Condell Park, on Saturday 24 October 2020, between 5.30pm – 6pm 
+* Ali Baba Charcoal Chicken, 2 Civic Road, Auburn, on Monday 26 October 2020, between 1pm – 1.20pm Carnes Hill
+* Marketplace, Kurrajong Road, Carnes Hill, on Tuesday 27 October 2020, between 3.30pm – 4.30pm,/li&gt;
+
+Testing numbers have dropped recently, which is a concern. NSW Health is appealing to the community to come forward for testing right away if you have even the mildest of symptoms like a runny nose or scratchy throat, cough, fever or other symptoms that could be COVID-19.
+
+There are over 300 COVID-19 testing locations across NSW. To find your nearest clinic visit [COVID-19 testing clinics​](
+++++++++++
+ NSW records 4 new cases * **4** overseas returned travellers in quarantine.
+* More than **7,000** people were tested in NSW in the 24 hours to 8:00pm yesterday.
+* Total cases in NSW: **3,082**
+  * **404** active cases.
+  * **2,631** (+17) have recovered.
+  * **49** deaths in total. 
+  * **384,185** people tested and cleared.
+* Areas for increased testing and surveillance as of 17/05:
+  * [The Hills LGA](
+  * [Penrith LGA](
+* Berejiklian announced the easing of travel restrictions inside NSW from 1 June. She said the state will be open to visitors from other states.
+
+---
+
+
+**NSW Government - helpful links:**
+
+* [Current restrictions](
+* [Information about symptoms and testing](
+* [Testing clinics](
+* [Mental wellbeing services](
+* [Financial support for individuals and households](
+* [Travel and transport advice](
+* [NSW education advice](
+++++++++++
+ A tiered system to limit international travel in response to the coronavirus 
+++++++++++
+ I made a COVID19 tips subreddit TL;DR: Go to [r/COVID19\_Tips]( for information about how to best self-treat/prevent this virus.
+
+I recently came in contact with someone that more than likely has COVID19 (they were in close contact with a confirmed case and now have "flu-like symptoms"), and since learning about this I have been searching Reddit for a community focused on self-treatment and prevention. I was not able to find one dedicated to this, so I created [r/COVID19\_Tips]( If you think you may have contracted the virus, want to know what to do if you happen to come in contact with it, or just want to learn more about prevention, this subreddit is for you. I hope we can build a community of useful information that will help us get through this as safely as possible.
+++++++++++
+ More than 100 nurses and paramedics are undergoing refresher courses to come back to work and help the Victorian health system cope with the coronavirus epidemic, state Health Minister Jenny Mikakos says.  
+
+Fresh from an hour-long meeting the the Australian Medical Association and nurses’ and paramedics’ unions, Ms Mikakos said the Australian Nursing and Midwifery Federation had put the call out to nurses who had not recently worked in the profession to “come back on the tools”.
+
+“That call-out has already resulted in more than a hundred nurses who will be picking up to do refresher training and get the practising certificates that they need so that they can assist us in that important task,” Ms Mikakos said.
+
+“I’m also very grateful to the Victorian ambulance union, who has put a similar call out to retired paramedics, and they too have had a significant increase in retired paramedics who have contacted them, and they too will be prepared to go back onto the tools, to go back into the ambulance vehicles and assist Victorians in their time of need.
+
+“I would encouraged any other healthcare worker who has retired, who hasn’t been practising for some time to assist us in these challenging times.
+
+“They can contact their union as the first point of contact. They will then contact us and we’ll be sharing that information with health services, because we want to ensure, of course, that we have coverage across the entire state and particularly make sure that the needs of rural and regional Victoria are addressed as well.”
+
+ [
+++++++++++
+ Almost one third of returned travellers in hotel quarantine refusing COVID-19 tests &gt;**Almost one third of returned travellers in hotel quarantine refusing COVID-19 tests**
+
+&gt;*By Aisha Dow*
+
+&gt;Almost one third of people living in Victoria’s quarantine hotels are refusing testing, the state's Deputy Chief Health Officer has revealed.
+
+&gt;In response to a question this morning, Deputy Chief Health Officer Annaliese van Diemen said about 30 per cent of returned international travellers were not agreeing to the tests.
+
+&gt;This likely means a number of coronavirus cases are missing from official Victorian and national tallies.
+
+&gt;“At the moment, there is not a requirement that they must undertake testing,” Dr van Diemen said.
+
+&gt;“Everyone is offered testing on multiple occasions throughout their stay.”
+
+&gt;Of the 30 new cases detected in Victoria, five are in hotel quarantine.
+
+Source: 
+++++++++++
+ [OC] Ranking Countries according to Confirmed Cases as of 18th April 2020 
+++++++++++
+ Victoria records 2 new cases under investigation and 2 new overseas cases * **1** new case detected through routine testing. 
+* **1** new case yesterday was detected in a child attending the **Kangaroo Ground Pre-schoo**l. 
+  * The facility will be closed for at least 24 hours from today for deep cleaning. The child attended one day while potentially infectious but was not showing symptoms at the time. Contact tracing and other public health actions are ongoing.  
+* **2** new cases were detected in returned travellers in hotel quarantine.
+* “None of the other cases [are] believed to be linked to the Black Lives Matter protest,” Health Minister Jenny Mikakos said.
+* Approx. **9,000** test results received in last 24 hours.
+* Total cases in Victoria: **1,703**
+  * **52** (-7) active cases. 
+  * **5** (-1) in hospital; **1** in ICU. 
+  * **1,632** (+11) have recovered.
+  * **19** deaths in total.
+  * **179** may have been acquired through community transmission. 
+  * Almost **573,000** tests have been processed to date.
+
+---
+
+#Protester diagnosed with virus did not have COVIDSafe app
+
+The protester who tested positive for COVID-19 after Melbourne’s weekend rally did not have the COVIDSafe app, Deputy Chief Health Officer Dr Annaliese van Diemen has revealed.
+
+“It would have been useful certainly,” Dr van Diemen said.
+
+Health Minister Jenny Mikakos refused calls to release the identity or photo of the protester who has tested positive warning doing so might discourage people coming forward to get tested for COVID-19.
+
+“It would be a breach of the Health Records Act for this individual to be named in these circumstances,” she said.
+
+“Obviously, we were very clear in our advice last week that we did not want people to attend the protest. We made it very clear that there was a public health risk for people attending any mass gathering event, regardless of the cause, regardless of the level of passion that people have about an issue.
+
+“But having thousands of people come together was something that was incredibly, inherently risky. So if people now are exhibiting symptoms, when they would urge them to go forward and to get tested.”
+
+---
+
+Source: **[DHHS](
+++++++++++
+ Victoria records 49 new local cases #New cases reported in the last 24 hours: 
+
+* **4** are linked to known outbreaks:
+  * **1** linked to the **North Melbourne family** outbreak.
+  * **1** linked to the **Stamford plaza** outbreak.
+  * **1** linked to the **Brimbank family** outbreak.
+  * **1** linked to the **Coles Laverton** outbreak.
+* **19** new cases under investigation.
+* **26** new cases are a result of routine testing.
+* **[Mandatory testing for returned travellers - media release]( 
+
+
+
+**Will update as more information becomes available** 
+
+#Cases to date:
+| | Last 24 hours | TOTAL
+---|-----|-----
+| **Confirmed cases** | +49 | **2,028** (-8)**
+| **Active** |  | 206 
+| **Active (DHHS)*** |  | 204
+| **Recovered** |  | 1,761
+| **Deaths** | - | 20
+| **Community transmission** |  | 260
+|Tests conducted | +18,120  | 776,792
+| Hospital | +2 | 7
+| ICU | - | 1
+
+^*Number ^of ^active ^cases ^reported ^by ^DHHS.
+
+^**8 ^previous ^excluded
+
+---
+---
+**CURRENT OUTBREAKS OF CONCERN BY LOCAL GOVERNMENT AREAS (LGAs)**:
+
+LGA | Last 24 hours | Active | Total
+---|-----------|--------------|-----|
+Brimbank |  | 24  | 105  
+Hume |  | 29  | 109  
+Casey |  | 15 | 99  
+Cardinia |  | 5 | 23  
+Moreland |  | 17 | 90  
+Darebin |  | 4 | 52 
+
+
+&amp;nbsp;
+
+**RECENT OUTBREAKS:**
+
+Outbreak | Suburb | Last 24 hours | Last reported case | Households affected | TOTAL 
+--------|-----------|---------|-----|-----|----
+Coles Laverton | Laverton | +1 | 28/06 | - | 4
+North Melbourne family outbreak  | Northland| +1 | 28/06 | - | 21 (+2)
+Stamford Plaza | | +1 | 28/06 | - | 18 
+Brimbank family outbreak |  | +1 | 28/06 | 2 | 6 
+Albanvale Primary School | Albanvale | - | [27/06]( | - | 5
+Wollert outbreak  |  | - | [ 27/06]( | - | 9  
+Stamford Plaza | | - | [27/06]( | - | 18 
+Keilor Downs family | Keilor Downs| - | [ 27/06]( | 8 | 20 
+Orygen Youth Health facility | Footscray | - | [26/06]( | - | 1
+Coburg family | | - | [26/06]( |3 | 15 
+Hampstead dental clinic | Maidstone| - | [24/06]( |- | 3
+Maribyrnong family | | - | [23/06]( | - | 5
+Albanvale Primary School | Albanvale | - | [22/06]( |- | 3
+Grill'd | Highpoint| - | [21/06]( |- | 1
+Essedon Football club | | - | [21/06]( |- | 1 
+Lifeview Willow Wood aged care | Cranbourne | - | [20/06]( |- | 1
+Royal Freemasons Springtime aged care | Sydenham | - | [20/06]( |- | 1
+Rydges on Swanston | | - | [19/06]( |- | 17
+Victorian Rehabilitation Centre | Glen Waverley | - | [18/06]( |- | 1
+Monash Health | | - | [17/06]( |- | 7
+Rosstown Nursing Home | Carnegie | - | [17/06]( |- | 1 
+
+
+&amp;nbsp;
+
+**AFFECTED EDUCATIONAL INSTITUTIONS  IN THE LAST 14 DAYS:**
+
+Name | Suburb | Positive case | Multiple cases (Total) | Reported
+----|--------|-------------|--------|--------|--------
+Goodstart Early Learning | Box Hill | Child | - | [26/06](
+Smartie Pants Early Learning Centre | Diamond Creek | Child | - | [26/06](
+St Monica's College | Epping | Sudent | Yes (2) | [26/06](
+Keilor Downs College | Keilor Downs | Student 2 | Yes (2) | [24/06](
+Villa Bambini Early Learning Centre | Essedon | Child | - | [24/06](
+Keilor Views Primary School | Keilor Downs | Student | - | [23/06](
+Brunswick East Primary School | Brunswick East | Student | - | [23/06](
+Great Beginnings Nursery | Reservoir | Toddler | - | [22/06](
+Albanvale Primary School | Albanvale | Teacher 2 &amp; 3| Yes (3) | [22/06](
+St Monica's College | Epping | Staff member | Yes (2) | [21/06](
+Keilor Downs College | Keilor Downs | Student 1 | Yes (2) | [21/06](
+St Mary's Primary School | Hampton | Student | - | [21/06](
+Albanvale Primary School | Albanvale | Teacher 1 | Yes (3) | [20/06](
+Springside Primary School | Caroline Springs | Teacher | - | [20/06](
+Camberwell Grammar School | Canterbury | Student | - | [20/06](
+The Learning Sanctuary | Pakenham | Worker | - | [18/06](
+Guardian Childcare Centre | South Yarra | Toddler | - | [18/06](
+Inspira Early Learning Centre | Gladstone Park | Worker | - | [17/06](
+Strathmore Primary School | Strathmore | Student | - | [16/06](
+St Dominic's Primary School | Broadmeadows | Student 1 &amp; 2 | Yes (2) | [15/06](
+Pakenham Springs Primary School | Pakenham | Student 1 &amp; 2 | Yes (2) | [15/06](
+
+
+
+---
+++++++++++
+ The streak is back on the menu! Australia records 0 local cases today! # Australia records 0 local cases today! 🍩
+
+Paul Kelly has called the National Donut Race for Australia. Some states are still pending official reports but are projecting a local donut.
+
+Friday the 13th but Australia is Jason and the donuts are our victims.
+
+# National COVID-19 update as at 13/11/20
+
+||LOCAL|HQ/OVERSEAS|TOTAL|
+|:-|:-|:-|:-|
+|**VICTORIA**|0|0|0|
+|**NEW SOUTH WALES**|0|1|1|
+|**QUEENSLAND**|0|1|1|
+|**WESTERN AUSTRALIA**|0|Pending|Pending|
+|**SOUTH AUSTRALIA**|0|Pending|Pending|
+|**NORTHERN TERRITORY**|0|0|0|
+|**ACT**|0|0|0|
+|**TASMANIA**|0|Pending|Pending|
+|TOTAL|0|Pending|Pending|
+++++++++++
+ NSW records 1 new case under investigation and 2 new overseas cases * **1** new case is a man in his early 20s from Illawarra. The source of his infection is being investigated. 
+* **2** new cases were detected in returned travellers in hotel quarantine.
+* **7,201** people were tested in NSW in the 24 hours to 8:00pm yesterday.
+* Total cases in NSW: **3,131**
+   * **315** (+3) or **73**** (+3) active cases 
+   * **2,766** recoveries.
+   * **50** deaths in total.
+   * **9** in hospital: **0** in ICU, and, **0** ventilated.
+   * **641,442** total tests carried out. 
+
+
+#**Sources of confirmed cases*:**
+
+| | Last 24 hours | This week | TOTAL
+---|---|----|----
+Locally - Known | - | - | 879  
+Locally - Unknown | +1 | +4 | 365 
+Interstate | - | - | 69 
+Overseas | +2 | +21 | 1,818 
+Under investigation | - | +4 | 0 
+
+
+^*These ^numbers ^may ^change ^daily ^as ^cases ^are ^investigated ^further. 
+
+^**From ^12 ^June, ^reporting ^of ^active ^cases ^has ^changed. ^Cases ^that ^are ^not ^recorded ^as ^recovered ^or ^deceased ^after ^six ^weeks ^are ^not ^included.
+
+---
+
+Sources: **[NSW Health - Media release]( **[nsw.gov.au](
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+    t = 62 for the date 2020-08-07
+    exponential model is 222.8341 * exp(0.0222 * t) + -274.7127
+    simple exponential model is 37.0513 * exp(0.0464 * t)
+    linear model is -113.7872 + 10.3372 * t
+    quadratic model is -26.1799 + 1.7201 * t + 0.139 * t^2
+    exponential model residue is 375491.7
+    linear model residue is 463979.0
+    quadratic model residue is 357608.2
+    
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 414.6914 * exp(0.0576 * t) + -882.2802
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+Purely my own **speculation**, I think the peak is at day 54 or 2020-07-30 (see graph below). **Please take it with a HUGE grain of salt.** *Actually with today's result the peak has move backward to day 76 but the graph below still shows the peak at day 54. This shows that even I cannot accurately predict the future.*
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+    2020-07-06,127
+    2020-07-07,191
+    2020-07-08,134
+    2020-07-09,165
+    2020-07-10,288
+    2020-07-11,216
+    2020-07-12,273
+    2020-07-13,176
+    2020-07-14,270
+    2020-07-15,238
+    2020-07-16,317
+    2020-07-17,428
+    2020-07-18,216
+    2020-07-19,363
+    2020-07-20,275
+    2020-07-21,374
+    2020-07-22,484
+    2020-07-23,403
+    2020-07-24,300
+    2020-07-25,357
+    2020-07-26,459
+    2020-07-27,532
+    2020-07-28,384
+    2020-07-29,295
+    2020-07-30,723
+    2020-07-31,627
+    2020-08-01,397
+    2020-08-02,671
+    2020-08-03,429
+    2020-08-04,439
+    2020-08-05,725
+    2020-08-06,471
+    2020-08-07,450
+++++++++++
+ Interactive Map showing all of the locations that confirmed positive cases have visited, identified via SA Health contact tracing 
+++++++++++
+ [NSW] Supercluster confirmed as genetic fingerprint links two outbreaks 34km apart 
+++++++++++
+ Queensland blocks entry to New South Wales residents from coronavirus hotspots 
+++++++++++
+ 72% of surveyed Australian businesses reported decreased revenue as a result of COVID-19. 
+++++++++++
+ Are our daily case numbers telling the full story of the outbreak in Melbourne? 
+++++++++++
+ COVID-439 new cases &amp; 11 deaths in Victoria 😷 Premier now giving a presser in ABC
+++++++++++
+ Victoria records 10 new cases, 1 new death 10 people were diagnosed yesterday, but 1 case was reclassified and removed from Victoria's totals. That means there was a net increase of 9 cases, and a total of 1602 around the state.
+
+* **4** are returned overseas travellers in hotel quarantine. 
+* **6** remains under investigation.
+* **1** death relates to a man in his 60s who died in the hospital.  
+* **14,327** people were tested in Victoria in the last 24 hours.
+* Total cases in Victoria: **1,602**
+  * **99** (+3) active cases. 
+  * **9** (-1) in hospital; **3** (-2) in ICU. 
+  * **1,484** (+5) have recovered.
+  * **19** (+1) deaths in total.
+  * **171** (0) locally acquired – contact not identified. 
+  * More than **398,000** tested.
+
+Source: [**The Age**](
+
+---
+
+**Victorian Government - helpful links:**
+
+* [Current restrictions](
+* [Getting tested for coronavirus \(COVID-19\)](
+* [Where to get tested for coronavirus \(COVID-19\)](
+* [Mental health resources](
+* [Family violence crisis response and support](
+* [Education - latest advice]( 
+* [Your coronavirus \(COVID-19\) questions answered](
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+    t = 66 for the date 2020-08-11
+    exponential model is 1190.1992 * exp(0.0064 * t) + -1264.4882
+    simple exponential model is 53.8903 * exp(0.0367 * t)
+    linear model is -94.8446 + 9.4471 * t
+    quadratic model is -64.8606 + 6.6794 * t + 0.0419 * t^2
+    exponential model residue is 568223.9
+    linear model residue is 577745.9
+    quadratic model residue is 564569.9
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 655.5409 * exp(0.0496 * t) + -1300.8928
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+Purely my own **speculation**, I think the peak is at day 54 or 2020-07-30 (see graph below). **Please take it with a HUGE grain of salt.** *Actually with today's result the peak has move backward to day 62 but the graph below still shows the peak at day 54. This shows that even I cannot accurately predict the future.*
+
+swift model [
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+    2020-07-06,127
+    2020-07-07,191
+    2020-07-08,134
+    2020-07-09,165
+    2020-07-10,288
+    2020-07-11,216
+    2020-07-12,273
+    2020-07-13,176
+    2020-07-14,270
+    2020-07-15,238
+    2020-07-16,317
+    2020-07-17,428
+    2020-07-18,216
+    2020-07-19,363
+    2020-07-20,275
+    2020-07-21,374
+    2020-07-22,484
+    2020-07-23,403
+    2020-07-24,300
+    2020-07-25,357
+    2020-07-26,459
+    2020-07-27,532
+    2020-07-28,384
+    2020-07-29,295
+    2020-07-30,723
+    2020-07-31,627
+    2020-08-01,397
+    2020-08-02,671
+    2020-08-03,429
+    2020-08-04,439
+    2020-08-05,725
+    2020-08-06,471
+    2020-08-07,450
+    2020-08-08,466
+    2020-08-09,394
+    2020-08-10,322
+    2020-08-11,331
+++++++++++
+ My close calls with COVID this week and how Vic DHHS has handled them My family has had a couple of close COVID calls this week, one of which is still ongoing - so I thought I would provide my experience dealing with these - particularly given the comments being made by Daniel Andrews in relation to people not doing the right thing.
+
+**My partner was identified as a close contact of a positive case at their medical clinic in Victoria**
+
+*20 July 2020*
+
+* Upon arriving at work my partner received a notification from her workplace (verbal only) that they had been identified as a close contact of a recently positive case and was directed to get tested immediately and not return to work until results were known.
+* They were told they did not need to isolate as they did not show any symptoms - following the guidance of DHHS.
+* Regardless, they returned home immediately after testing and both of our children were removed from care within 25 minutes of me being alerted to this situation and we all came home to wait for test results.
+
+*21 July 2020*
+
+* Received notification late in the afternoon that they were negative and were clear to return to work.
+* Under guidance from DHHS, the Clinic was told they did not need to close for a period of deep cleaning and for all staff to isolate until results were known. They were back at work the next day with absolutely zero contact from DHHS, everything was done through their workplace.
+
+**A positive case was identified in a staff member at my child's school**
+
+*23 July 2020*
+
+* The evening after collecting my child from on-site learning we received an email from the School that informed us there had been a positive case at the School and it would be closed for all students currently learning onsite from 24th July 2020 until further notice. This closure would allow time for the school and the DHHS to work through a contact and containment strategy.
+* Told to sit tight by the Principal and await confirmation from DHHS if your child was identified as a close contact, they would be in touch.
+* Anywhere from 40-60 contacts would be likely at this School, given the number of essential workers in the area who had children that were attending.
+
+*24 July 2020*
+
+* Received another email from the School that said the following:*By closing the school for these 6 days, we are aiming to minimise any further spread of the virus in our school community. This time will allow infectious cleaning of the school site to occur on the recommendation of the DHHS and the CECV. The school and the DHHS are continuing to work through a contact and containment strategy. As you can appreciate with the large numbers of positive cases occurring in Victoria the DHHS have been swamped.*
+* 42 hours have passed and DHHS have not yet finalised a contact tracing strategy when a large number of children may have been exposed - we haven't received any guidance of whether we need to isolate on the chance that my child is carrying the virus but is asymptomatic or yet to develop any symptoms and we have not been instructed to get them tested.
+* There would be a number of families in exactly the same situation as us, and after speaking with them their experience is largely the same.
+
+Just thought I would share this to highlight what I would perceive as an incredibly poor job being done by DHHS in responding to the pandemic.
+
+in frustration I reached out a reporter for The Age who took this information and published it on their live blog **yesterday** and we are still awaiting a contact from DHHS or an update on the School that contact tracing has commenced.
+
+**The DHHS are also yet to publish that either the medical clinic or the School have had positive cases at any point this week. As far as the public knows, there is absolutely no issue at either of these institutions.**
+++++++++++
+ NSW reports 6 new local and 4 new overseas cases # New cases reported in the last 24 hours
+
+* **4** is a returned traveller in hotel quarantine
+* **6** are locally acquired
+
+&amp;#x200B;
+
+***THE FOLLOWING INFORMATION IS IN THE PROCESS OF BEING UPDATED &gt;&gt;&gt;&gt;***
+
+# Cases to date
+
+||Last 24 hours|TOTAL|
+|:-|:-|:-|
+|Confirmed cases||3,915|
+|[***Active (NSW Gov)***](
+|Recovered|N/A|N/A|
+|Deaths|\+0|54|
+|[Tests conducted](
+|Treated by NSW Health||94|
+|Hospitalised||14|
+|ICU||6|
+|Ventilated||4|
+|ECMO||0|
+
+&amp;#x200B;
+
+# NSW media releases in the last 14 days
+
+|*Date published*|*Title*|
+|:-|:-|
+|05/09|**NSW Health**: [Public health alert – Hyde Park Medical Centre](
+|04/09|**NSW Health**: [Public health alert](
+|03/09|**NSW Health**: [Public Health Alert](
+|02/09|**NSW Education**: [COVID-19 update – BWSC Umina campus remains operational](
+|01/09|**NSW Government:** [Increased mobility on NSW VIC border](
+|31/08|**NSW Government:** [NSW border closure no longer acceptable for agriculture](
+|30/08|**NSW Government:**[More mental health support for regional students](
+|30/08|**NSW Health:** [Public health alert](
+|29/08|**NSW Health:** [City Tattersalls Fitness Centre](
+|28/08|**NSW Health:** [NSW Health Alert: 14 day guidelines for Aged Care visitors](
+|27/08|**NSW Health:** [Public health alert](
+|26/08|**NSW Health:** [Royal Hospital for Women at Randwick, City Tattersalls, Virgin Gym Zetland, bus routes in Blacktown, Rouse Hill and Mt Druitt](
+|25/08|**NSW Health:** [City Tattersalls Fitness Centre](
+|24/08|**NSW Government:** [Western and South West Sydney testing blitz](
+
+&amp;#x200B;
+
+# Sources of confirmed cases
+
+||Last 24 hours|This week|TOTAL|
+|:-|:-|:-|:-|
+|Locally - Known||50|1,354|
+|Locally - Unknown||4|390|
+|Interstate||0|89|
+|Overseas||14|2,082|
+|Under investigation||1|1|
+
+&amp;#x200B;
+
+# Clusters in the last 14 days
+
+|Cluster|Last 24 hours|TOTAL|Reported|
+|:-|:-|:-|:-|
+|Sydney CBD|\-|61|Sept: [5]( [4]( [3]( [2]( Aug: [31]( [30]( [29]( [28]( 27|
+|St Paul’s Greystanes|\-|13|Sept: [4]( [3]( [2](
+|Liverpool Hospital|\-|6|Sept: [4]( [1]( Aug: [13,](
+|Reddam Early Learning Centre, Lindfield|\-|3|Sept: [1]( Aug: [30](
+|Our Lady of Mercy School, Parramatta|\-|7|Aug: [25]( [17]( [15]( [12]( [11]( [9](
+
+&amp;#x200B;
+
+# Affected educational institutions in the last 14 days
+
+|School|Suburb|LGA|Last 24 hours|TOTAL|Reported|
+|:-|:-|:-|:-|:-|:-|
+|Kincoppal Rose Bay School|Rose Bay|Waverley|\+2|2|Sept: 6|
+|Regents Park Christian School|Regents Park|Canterbury-Bankstown/Cumberland|\-|1|Sept: [3](
+|Girraween Public School|Girraween|Cumberland|\-|2|Sept: [2]( [1](
+|St Paul's Catholic College|Greystanes|Cumberland|\-|4|Sept: [1]( Aug: [30](
+|Homebush Public School|Homebush|Strathfield|\-|0|Sept: [1]( Aug: [28](
+|Double Bay Public School|Double Bay|Woollahra|\-|1|Aug: [28](
+|St Gertrude's Catholic Primary School|Smithfield|Fairfield|\-|1|Aug: [28](
+|Ryde Secondary College|Ryde|Ryde|\-|1|Aug: [28](
+|Riverstone High School|Riverstone|Blacktown|\-|1|Aug: [26](
+|Wyndham College|Quakers Hill|Blacktown|\-|1|Aug: [26](
+|Schofields Public School|Schofields|Blacktown|\-|0|Aug: [27](
+
+&amp;#x200B;
+
+# Latest COVID-19 case locations in NSW - as of 05/09
+
+The table below was last updated at 00:39:01 AM on Sunday, 6 September. Please view the [NSW Gov]( website for the most up to date information.
+
+|[**Increased testing and surveillance**]( and get tested immediately**](
+|:-|:-|
+|Bankstown (suburb)|**Caringbah**: Highfield Caringbah|
+|Cumberland LGA|**Hunters Hill**: Hunters Hill Bowling Club (indoor dining room) |
+|Fairfield LGA|**Marrickville:** Anytime Fitness|
+|Ku-ring-gai LGA|**Moorebank**: New Brighton Golf Club|
+|Liverpool LGA|**Newtown**: It’s Time for Thai restaurant|
+|Mt Druitt (suburb)|**Newtown**: Kuleto's Cocktail Bar|
+|Parramatta LGA|**Paddington**: Four in Hand Pub|
+|Randwick LGA|**Prestons**: Life in the Spirit Ministry|
+|Sutherland LGA|**Randwick**: Fitness First|
+|Eastern part of City of Sydney LGA |**Sydney**: City Tattersalls Fitness Centre|
+|Waverley LGA|**Sydney**: Hyde Park Medical Centre|
+|Willoughby LGA|**Zetland**: Virgin Gym|
+|Woollahra LGA||
+
+&amp;#x200B;
+
+# Monitor for symptoms
+
+If you have been to any of [these locations]( or travelled on nominated [Sydney bus and train routes]( during the time and date indicated you should:
+
+* watch for [COVID-19 symptoms](
+* if symptoms occur, immediately [get tested]( and [self-isolate](
+
+**---**
+
+* NSW Health - media release: 6th September
+* [Case statistics - up to 8pm 5 September 2020](
+* [COVID-19 weekly surveillance in NSW](
+* [NSW](
+++++++++++
+ 9th Victorian case  
+
+&gt;A young woman has been confirmed as Melbourne’s ninth coronavirus patient after flying into the airport on Friday.  
+&gt;  
+&gt;The woman, in her 30s, recently returned home from Tehran in Iran, with health authorities working to contact other passengers on her flight.  
+&gt;  
+&gt;Hospital staff considered the woman clinically well enough to be discharged, and she is now isolated at home, health minister Jenny Mikakos confirmed.  
+&gt;  
+&gt;Passengers on flight Malindo Air OD177 from Kuala Lumpur to Denpasar then Melbourne, arriving at 6.04am on Friday, February 28 will be notified.
+
+[
+++++++++++
+ Number of recovered cases are more than number of confirmed cases in New Zealand, how? 
+++++++++++
+ WA Gov attempting to source ventilator manufacturing within state, border restrictions now enacted and Rottnest Island set to become forced quarantine location 
+++++++++++
+ Every 101 years. Not a coincidence. # 1919: Spanish Flu
+
+# 2020: Coronavirus
+
+# 2121: Who knows?
+
+# 2222: Who knows?
+++++++++++
+ Secret recording of Daniel Andrews finding out about the new cases. 
+++++++++++
+ Testing kits Can someone please eli5 why we are unable to manufacture our own supply of testing kits? Is it just the reagent we are lacking?
+++++++++++
+ NSW/Vic Tipping Tuesday 28th QL scratched until they get some proper numbers
+++++++++++
+ Discussion/Press conferences for Victoria, NSW, Queensland, and, New Zealand - 07 September, 2020 # Victoria
+
+7am: Nothing confirmed yet.
+
+&amp;#x200B;
+
+# NSW
+
+7am: Nothing confirmed yet.
+
+&amp;#x200B;
+
+# Queensland
+
+7am: Nothing confirmed yet.
+
+&amp;#x200B;
+
+# New Zealand - 11am AEST
+
+As usual, u/KezzaNZ's case update post will be crossposted approximately around 11am AEST.
+
+&amp;#x200B;
+
+You can watch here closer to the time:
+
+* \[The Age\] - Will update shortly with the link. 
+* [9news live](
+++++++++++
+ Does anyone have any idea of when Victoria may be moving into ‘COVID normal’ restrictions? Is there a criteria (number of case free days) or rough date that has been given? :)
+++++++++++
+ Controversial: With Vic cases increasing rapidly - should NSW look into a 'pre-cautionary' lockdown? The situation VIC has shown us that suppression via testing and home isolation is not working. It is a lagging approach. With a virus that takes up to 2 weeks (or more) to surface - we should look into revising our approach.
+
+* Suggestion: Given many Victorians have moved to NSW (understandably), would it not be it wise to be one step ahead of the virus and initiate a pre-cautionary 2 week lockdown or at least raise restrictions in NSW?
+* If cases rise - we would have prevent unnecessary death and suffering
+* If no cases rise - we can remove the lockdown
+
+Alternatively - We can continue to play catch up and pray cases do not balloon. Given we have remove almost all our restrictions, I do not believe this is wise.
+
+Forest fire analogy:
+
+* NSW is dry terrain - easily ignited as we have removed all fire safety controls
+* VIC is on fire - with evidence that it is spreading to NSW
+* We have a small window to do a controlled burn - should we do it or pray the the fire does not approach us?
+++++++++++
+ r/CoronavirusDownunder random daily discussion thread - 09 October, 2020  **Victoria: TBA**
+
+**NSW:** **TBA**
+
+&amp;#x200B;
+
+**You can watch here**:
+
+* [9news live]( 
+* [ABC Melbourne - Facebook]( 
+* [ABC News - YouTube](  
+
+&amp;#x200B;
+
+\---
+
+**While you wait, check out some of the headlines around the world. Feel free to talk about the COIVD-19 situation affecting any country within this post.** 
+
+* BNO: Countries reporting record increases in new COVID-19 cases:  
+   * Argentina: +16,447 
+   * Netherlands: +5,831 
+   * Ukraine: +5,397 
+   * Czech Republic: +5,335 
+   * Indonesia: +4,850 
+   * Iran: +4,392 
+   * Nepal: +4,364 
+   * Poland: +4,280 
+   * Austria: +1,209 
+   * Slovakia: +1,037 
+   * Bulgaria: +437
+* BNO: The UK reports 17,540 new coronavirus cases, the biggest one-day increase on record. Number in English hospitals rises to 3,044 (+100), of which 368 are on ventilators
+* BNO: Italy reports 4,458 new coronavirus cases, the biggest one-day increase since April.  
+   * Hospitalized: 3,925 (+143) 
+   * ICU: 358 (+21) 
+   * Deaths: +22
+
+**Alternatively, feel free to talk about anything you like (as long as it is within the rules)!**
+++++++++++
+ NSW records 6 new cases * **6** cases were detected in returned travellers in hotel quarantine.
+* **5,432** people were tested in NSW in the 24 hours to 8:00pm yesterday.
+* Total cases in NSW: **3,104**
+   * **367** (+4) active cases.
+   * **2,687** (+2) recoveries.
+   * **50** deaths in total.
+   * **15** in hospital: **1** in ICU, and, **0** ventilated.
+   * **368** locally acquired – contact not identified
+   * **514,651** total tests carried out. 
+
+Source: [**NSW Gov**]( [**NSW Twitter**](
+
+&amp;#x200B;
+
+# All COVID-19 cases diagnosed in NSW*:
+
+||Locally acquired|Interstate|Overseas|
+|:-|:-|:-|:-|
+|**Last 24 hours**|0|0|3|
+|**This week**|2|0|11 (+6)|
+|**Total**|1,233|72|1,793 |
+
+^(\*Based on date of notification to NSW Health, up to 8pm 31 May 2020.)
+
+Source:  [**NSW Health**](
+
+&amp;#x200B;
+
+**NSW Government - helpful links**:
+
+* [Current restrictions](
+* [Information about symptoms and testing](
+* [Testing clinics](
+* [Mental wellbeing services](
+* [Financial support for individuals and households](
+* [Travel and transport advice](
+* [NSW education advice](
+++++++++++
+ [NSW] Get tested if you are from these areas and have symptoms I made a similar post before Easter, but now NSW Health have officially added an alert for Penrith, as well as Inner West, Cumberland and Blacktown LGA, which are massive urban areas.
+
+
+
+For up to date case numbers in your area check out this map, 
+
+Here's a prettier one but the placement of the numbers is not quite right yet. 
+
+Both maps use a dataset from NSW Health which tracks cases by postcode.
+
+You can find your closest COVID-19 clinic here: 
+++++++++++
+ Discussion/Press conferences for Victoria, NSW, and, New Zealand today #Victoria
+
+7am: Nothing confirmed yet.
+
+
+
+&amp;nbsp;
+
+&amp;nbsp;
+
+#NSW
+
+7am: Nothing confirmed yet.
+
+
+
+
+&amp;nbsp;
+
+&amp;nbsp;
+
+---
+
+You can watch here closer to the time:
+
+* [The Age]
+* [9news live](
+
+---
+
+---
+
+
+#New Zealand - should be 11am AEST
+
+**Where to watch**: Most likely the Age/ABC will stream it as they have been doing the last few days. 
+
+**NZ case updates**: u/kezzaNZ's post will be crossposted approximately around 11am AEST. 
+
+&amp;nbsp;
+
+#Developments so far:
+
+**11/08**: 4 new community cases.
+
+**13/08**: 13 new community cases all linked to the four cases from Tuesday - classified as a cluster now. 
+
+**14/08**: 13 new cases: 12 inked to the cluster, 1 under investigation.
+
+**15/08**: 7 new cases: 6 linked to the cluster, 1 under investigation. 
+
+**16/08**: 13 new cases: 12 linked to the cluster, 1 in managed isolation. 
+
+**17/08**: 9 new cases: 7 are linked to the cluster, 2 under investigation. 
+
+&amp;nbsp;
+
+
+**Source**: [Ministry of Health](
+++++++++++
+ NSW records 7 new local cases, 5 new overseas cases, and, 1 new death #New cases reported in the last 24 hours
+
+* **4** locally acquired and linked to known cases.
+* **3** are locally acquired without a known source.
+* **5** are returned travellers from overseas. 
+* **1** new death recorded in a woman in her 80s. The woman's infection is linked to the Our Lady of Lebanon cluster. 
+
+&amp;nbsp;
+
+**Will update this post and the tables below as further information is provided throughout the day.**
+
+&amp;nbsp;
+
+&amp;nbsp;
+
+
+# Cases to date
+
+||Last 24 hours|TOTAL|
+|:-|:-|:-|
+|Confirmed cases|+12| 3,738 |
+|Active||788|
+|[Active (NSW Gov)](
+|Recovered*|N/A|N/A|
+|Deaths|+1|53|
+|[Tests conducted]( 1,751,803 |
+|Treated by NSW Health|+2|135|
+|Hospitalised||17|
+|ICU|-1|7|
+|Ventilated|-1|6|
+|ECMO||0|
+
+^*NSW ^Health ^has ^suspended ^its ^survey ^of ^the ^recovery ^status ^of ^patients ^with ^COVID-19 ^to ^focus ^on ^the ^recent ^increase ^in ^community ^transmission. ^Therefore, ^recovery ^statistics ^are ^no ^longer ^presented.
+
+ &amp;nbsp;
+
+# Sources of confirmed cases
+
+||Last 24 hours|This week|TOTAL|
+|:-|:-|:-|:-|
+|**Locally - Known**|+4|71|1,220|
+|**Locally - Unknown**|+3|9|380|
+|**Interstate**|+0|5|88|
+|**Overseas**|+5|13|2,050|
+|**Under investigation**|+0|0|0|
+
+
+&amp;nbsp;
+
+#Locally acquired - source not identified
+
+^NOTE: ^The ^data ^below ^is ^for ^confirmed ^COVID-19 ^cases ^only ^based ^on ^the ^location ^of ^usual ^residence, ^not ^necessarily ^where ^the ^virus ^was ^contracted.
+
+
+Date reported | Postcode | LGA |LHD| Suburbs|
+---|:---:|------|------|------|
+11/08|2176|Fairfield|[SWSLHD]( Park
+11/08|2747|Penrith|[NBMLHD]( Cambridge Gardens, Cambridge Park, Claremont Meadows, Jordan Springs, Kingswood, Llandilo, Shanes Park, Werrington, Werrington County, Werrington Downs.
+10/08|2200|Canterbury-Bankstown|[SWSLHD]( Bankstown Aerodrome, Bankstown North, Bankstown Square, Condell Park, Manahan, Mount Lewis.
+09/08|2150|Parramatta|[WSLHD]( Park, Parramatta, Parramatta Westfield.
+08/08|2154|The Hills Shire|[WSLHD]( Hill.
+08/08|2177|Fairfield|[SWSLHD]( Bonnyrigg Heights.
+06/08|2303|Newcastle|[HNELHD]( Hamilton Dc, Hamilton East, Hamilton South.
+05/08|2042|Sydney|[Sydney]( Newtown.
+03/08|2213|Canterbury-Bankstown|[SWSLHD]( Hills, Panania, Picnic Point.
+01/08|2161|Cumberland| [WSLHD]( Guildford West, Old Guildford, Yennora.
+31/07|2165|Fairfield|[SWSLHD]( Fairfield East, Fairfield Heights, Fairfield West.
+
+&amp;nbsp;
+
+---
+
+
+# Current clusters
+
+|Date cluster first identified|Cluster|Last 24 hours|TOTAL|Source of cluster (as of 1 August)|Reported|
+|:-|:-|:-|:-|:-|-:|
+18/07|Soldiers Club Batemans Bay||11|Soure not identified|Aug: [12]( [11]( July: [20](
+|17/07|Thai Rock Restaurant Wetherill Park and linked clusters||116|Source not identified|August: [12]( [11]( [8]( [6]( [5]( [4]( [1]( July: [31]( [30]( [29]( [28]( [27]( [26]( [25]( [24]( [23]( [22]( [21]( [20]( [19]( [18](
+|24/07|Bankstown area funeral services and linked cluster||68|Source not identified|August: [12]( [8]( [6]( [4]( [3]( [2]( [1]( July: [31]( [30]( [29]( ,[28]( [27]( [26](
+|27/07|Thai Rock Restaurant Potts Point and linked clusters||34|Thai Rock Wetherill Park case|August: [8]( [7](  [6](  [5]( [4]( [3]( [2]( [1]( July: [31]( [30]( [29]( [28](
+|10/07|Crossroads Hotel Casula and linked clusters||58|Victorian-acquired case|July: [29]( [23]( [22]( [21]( [20]( [19]( [18]( [17]( [16]( [15]( [14]( [13]( [12]( [11]( [08](
+
+&amp;nbsp;
+
+# Affected educational institutions
+
+|School|Suburb|LGA|Last 24 hours|TOTAL|Reported|
+|:-|:-|-|:-|:-|-:|
+Parramatta Public School|Parramatta|Parramatta|-|1|Aug: [12](
+Tangara School for Girls| Cherrybrook| Hornsby|-|19|Aug: [12]( [11]( [10]( [9]( [8](
+Our Lady of Mercy College|Parramatta|Parramatta|-|3|Aug: [12]( [11]( [9](
+Batemans Bay High School| Batehaven| Eurobodalla |-|1|Aug: [11](
+Batemans Bay Public school|Surfside| Eurobodalla |-|1|Aug: [11](
+Bonnyrigg High School| Bonnyrigg| Fairfield |-|2|Aug: [10]( [4](
+Kids’ Early Learning Long Daycare Centre|Quakers Hill| Blacktown |-|1|Aug: [10](
+|St Francis Xavier's College|Hamilton| Newcastle |-|1|Aug: [7](
+|St Margaret Mary’s Primary School|Merrylands| Cumberland |-|1|Aug: [6](
+|St Pius X High School|Adamstown| Newcastle |-|1|Aug: [6](
+|Kids Learning Academy Busby|Busby| Liverpool |-|1|Aug: [5](
+|Greenway Park Public School|Carnes Hill| Liverpool |-|2|Aug: [4](
+|Advanced Early Learning|Merrylands| Cumberland |-|2|Aug: [2](
+|EverLearn Preschool|Prestons| Liverpool |-|0|July: [31]( [30](
+|Mary Immaculate Catholic Primary School|Bossley Park| Fairfield |-|2|July: [30]( [24](
+|Freeman Catholic College|Bonnyrigg Heights| Fairfield |-|3|July: [30]( [24](
+|Fort Street High School|Petersham|Inner West|-|0|July: [30]( [29](
+
+
+&amp;nbsp;
+
+
+#Healthcare
+
+^NOTE: ^The ^data ^below ^is ^for ^confirmed ^COVID-19 ^cases ^working ^in ^the ^mentioned ^hospitals, ^not ^necessarily ^where ^the ^virus ^was ^contracted.
+
+|Hospital|Suburb|LGA/LHD|Last 24 hours|TOTAL|Notes|Reported by NSW Health|
+|:-|:-|:-|:-:|:-:|-|-:|
+Liverpool Hospital|Liverpool|Liverpool/[SWSLHD]( HCWs|Unknown if worked while infectious and if linked to a known source.|Aug: [12](
+Hornsby Hospital ED|Hornsby|Hornsby/[NSLHD]( |-|2 HCWs|1: Worked while infections between 11am-12am on Thursday, 06/08. Linked to known source. 2: Did not work while infectious | Aug: [12]( [9]( 
+
+
+&amp;nbsp;
+
+
+---
+
+**Sources**:
+
+* [NSW Health Twitter](
+* NSW Health media release - 13th August.
+* [NSW Government](
+* [NSW COVID-19 case statistics - up to 8pm 12 August 2020](
+* [COVID-19 cases by notification date and location](
+* [An up-to-date list of locations, places and venues associated with confirmed COVID cases](
+++++++++++
+ A friend and I are doing some ‘isolation math’, re percentages of AUS, USA and UK confirmed cases. Do these numbers mean we are accelerating as quickly as USA? We’re wondering how (or if) to interpret the numbers. 
+
+Australia: 
+
+Population: 24,511,800 (2017, Google)
+
+Confirmed cases: 547 (BunkerJohn, Imgur)
+
+Percentage: 0.0022% 
+
+USA: 
+
+Population: 328,239,523 (2019, Google) 
+
+Confirmed cases: 9,009 (BunkerJohn, Imgur) 
+
+Percentage: 0.0027% 
+
+UK:
+
+Population: 67,545,757 (2019, Google) 
+
+Confirmed cases: 2,457 (BunkerJohn, Imgur) 
+
+Percentage: 0.0036% 
+
+Especially with Australia and USA, it looks like it’s progressing at roughly the same relative speed? That’s a difference of 155 people - 155 people more in Australia and it would be exactly at USA’s percentage. 
+
+Confirmed cases source: [here](
+
+Are these numbers relevant or worth looking at? Morrison keeps saying we’re in a great position because we have fewer numbers, but he’s looking at actual numbers, not the percentage of people it’s reached. 
+
+Or do these numbers mean nothing? I am not math-minded so I don’t mind being told I’m wasting my time (plenty of it to waste at the moment though!) or I’m plain wrong with the math/applying the math to the real world here.
+
+Thanks friends
+++++++++++
+ [NSW] Public health alert – Jetstar flight JQ510   
+02 October 2020
+
+NSW Health is contacting passengers and crew on a flight from Melbourne to Sydney who may have been exposed to an infectious passenger.
+
+The passenger, reported today as a returned traveller from Victoria, is a confirmed case of COVID-19 in hotel quarantine. This traveller tested positive to a Day 2 test in hotel quarantine and is believed to have travelled while infectious.
+
+There is no ongoing risk of infection to the general public.
+
+The majority of passengers on the Jetstar Flight JQ510 which left Melbourne at 11am on 27 September are already undertaking mandatory hotel quarantine.
+
+NSW is contacting 47 passengers travelling with special permits or quarantine exemptions or crew. Those deemed close contacts of the case have been advised to immediately get tested and isolate for 14 days and stay isolated for the entire period, even if a negative test result is received.​
+
+[Source](
+++++++++++
+ Here are some of the testing statistics for Australia, for those who didn't know we were tracking them :) &amp;#x200B;
+
+
+
+Where the testing numbers are approximate, we have calculated based upon that approximate number. Population for each state is based on data from the [Australian Bureau of Statistics.]( 
+
+We keep these alongside our [case tracker]( in our sticky posts. Case tracker is updated throughout the day, and the testing stats are updated at the end of each day.

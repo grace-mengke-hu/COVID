@@ -1,0 +1,1087 @@
+
+++++++++++
+ Mississippi coronavirus increase: 34, with 13 new cases reported Wednesday 
+++++++++++
+ DAILY UPDATE Coronavirus % growth for APRIL 18 - US confirmed cases and deaths are both starting to trend down Below is a summary of trends from yesterday (as of late EST), for the **USA**, and how it compares to **Global**.
+
+The data is available [in more detail here]( I'm also elaborating on the data in a [nightly vlog]( with some highlighted threads from Reddit.
+
+# Global
+
+Confirmed Cases growth is **📈**:
+
+* Increasing to **3.56%**
+* Increasing by **80,324**
+* Total confirmed cases is **2,333,978**
+
+Deaths growth is 📉:
+
+* Decreasing to **4.5%**
+* Increasing by **6,905**
+* Total deaths is **160,767**
+
+Death Rate growth is mixed:
+
+* **21.7%** recovery rate (**📈**)
+* **6.4%** WHO CFR (flat)
+* **11.8%** incubation rate (📉)
+
+# USA
+
+Confirmed Cases growth is 📉:
+
+* Decreasing to **4.64%**
+* Increasing by **32,491**
+* Total confirmed cases is **732,197**
+
+Deaths growth is 📉:
+
+* Decreasing to **5.1%**
+* Increasing by **1,891**
+* Total deaths is **38,664**
+
+Death Rate growth is mixed:
+
+* **37.4%** recovery rate (📉)
+* **5.0%** WHO CFR (flat)
+* **11.1%** incubation rate (📉)
+
+**Disclaimer:** *Please take from this what you choose. I'm also individual country data, although that may still be too small to gather enough meaning from the % growth apart from Iran, Italy, Spain, France, the UK, and the US.*
+
+*I am just breaking down official numbers, and although the official numbers may or may not reflect exactly how many cases remain unreported, I try to remain unopinionated in these reportings and leave the opinions and analysis to the comments.*
+++++++++++
+ Reporting price gouging to end product “shortages”!! Are eBay and Amazon doing any kind of mass identifying on their end for people who are price gouging important supplies such as toilet paper and artificially creating shortages?
+
+Until more is done, I do see that there is a Report ability for people to report individual posts. I’d encourage anyone bored at home to report report report to help end the shortage!!!
+
+Example for toilet paper on eBay:
+1. Click “Report This Item” (upper left corner on mobile)
+2. Report Category: Prohibited and Restricted Items
+3. Reason for Report: Price gouging
+4. Detailed Reason: Sanitation Items
+
+Any other ways for consumers to report price gouging?
+++++++++++
+ U.S. Midwest sees surge in COVID-19 cases as four states report record increases 
+++++++++++
+ If you're pissed off about the US COVID-19 response, sign this 5 wk lockdown petition [removed]
+++++++++++
+ Is there any sub dedicated to calling out shady companies during the COVID crisis? [removed]
+++++++++++
+ Good news headlines for the day! It’s so important need to read and share them too 
+-China has closed down its last coronavirus hospital. Not enough new cases to support them.
+
+- Doctors in India have been successful in treating Coronavirus. Combination of drugs used: Lopinavir, Retonovir, Oseltamivir along with Chlorphenamine. They are going to suggest same medicine, globally.
+
+- Researchers of the Erasmus Medical Center claim to have found an antibody against coronavirus.
+
+- A 103-year-old Chinese grandmother has made a full recovery from COVID-19 after being treated for 6 days in Wuhan, China.
+
+- Apple reopens all 42 china stores,
+
+- Cleveland Clinic developed a COVID-19 test that gives results in hours, not days.
+
+- Good news from South Korea, where the number of new cases is declining.
+
+- Italy is hit hard, experts say, only because they have the oldest population in Europe.
+
+- Scientists in Israel likely to announce the development of a coronavirus vaccine.
+
+- 3 Maryland coronavirus patients fully recovered; able to return to everyday life.
+
+- A network of Canadian scientists are making excellent progress in Covid-19 research.
+
+- A San Diego biotech company is developing a Covid-19 vaccine in collaboration with Duke University and National University of Singapore.
+
+- Tulsa County's first positive COVID-19 case has recovered. This individual has had two negative tests, which is the indicator of recovery.
+
+- All 7 patients who were getting treated for at Safdarjung hospital in New Delhi have recovered.
+
+- Plasma from newly recovered patients from Covid -19 can treat others infected by Covid-19.
+
+CAN SOMEONE START r/CoronavirusGOODNEWS?
+
+I think the world really needs it right now and would really help the mental health of not only the Reddit community but the people that they know and they know... as we’ve seen just how things spread... good or bad.
+++++++++++
+ Why is the US falling short in COVID testing? Because "a few companies dominate this market... Their machines run on chemical kits and disposable plastic parts like sample plates and pipettes that only they sell, much like branded printer cartridges." 
+++++++++++
+ US President Donald Trump is attempting to entice a German lab to develop a vaccine exclusively for the US, a German newspaper reported. Berlin health authorities are in intensive talks with the company. 
+++++++++++
+ San Diego Lab’s Potential Coronavirus Vaccine Could Help Beyond Outbreak 
+++++++++++
+ US Cases are doubling every 6 days on average I've been mapping this on my tiny hobby site since late January, and now that we're about to start testing for real here in the US it seemed like a good time to start looking at how many days pass before our case counts double. 
+
+I have sources for all cases &amp; dates, so just ask if you have questions beyond what I've posted below.
+
+**Days to Double:**
+
+Summary: Average time between case count doubling in the US is 6 days. Our longest stretch was 16 days, which was when the first batch of Diamond Princess cases were confirmed.
+
+|Cases|Date|Days to double|
+|:-|:-|:-|
+|1|Jan 21|3|
+|2|Jan 24|2|
+|4|Jan 26|6|
+|8|Feb 1|16|
+|16|Feb 17|3|
+|32|Feb 20|8|
+|64|Feb 28||
+
+&amp;#x200B;
+
+[ source: 
+
+**Assumptions:**
+
+1. I'm including **all persons** in the US (i.e. Diamond Princess transports are included in my numbers)
+2. Cases must have **tested** positive. No presumptions. No potential cases.
+
+I'm tracking 66 current cases in the US. This includes:
+
+&amp;#x200B;
+
+|Cases|Description|Source|
+|:-|:-|:-|
+|44|Diamond Princess|[
+|3|Wuhan|[
+|15|CDC verified US Cases|[
+|4|1 from Santa Clara, 1 from Oregon, and 2 from Washington (these 4 not yet on the CDC page, b/c it only updates twice a decade)|[ (all four cases have sources linked in the headlines from yesterday and today)|
+++++++++++
+ Confusion spreads over selection of priority groups for Covid-19 vaccines [deleted]
+++++++++++
+ Coronavirus death rates? We may never know how many people have contracted this Coronavirus and how many deaths are Coronavirus-related, especially those who have passed without having been tested. However, I share a genuine concern and curiousity regarding the death rates.
+
+The reported death rates of 2%-8% for confirmed cases is a measurement of case fatality: confirmed deaths divided by confirmed cases. However, is this an accurate representation of how fatal the Coronavirus is, given that this metric includes individuals who had tested positive as early as yesterday and have not progressed far yet? For closed cases (recovered, discharged, death), that death rate is much higher at 21% (
+
+Considerations for false-positive, false-negative, and differences in reporting aside, is the true death rate somewhere between these two metrics?
+++++++++++
+ (FL) Was tested Thursday for corona-virus. Am I a positive case on this list? I haven't heard back from anybody yet. 
+
+I see my age, Demographic, county on [this list (pdf)]( p.44-452.  Florida's Division of Emergency Managment report for 4/18/20
+
+According to this, there  are 24,577 confirmed cases of Coronavirus inside Florida residents . My info is on there. Is that list everybody tested or just confirmed cases?
+
+[
+
+&amp;#x200B;
+
+&amp;#x200B;
+
+&amp;#x200B;
+
+Daily report link:
+
+[
+++++++++++
+ If I was near someone who only has antibodies. Can I get transmission of covid-19? I was taking a covid-19 antibody test (negative both IgG,igM) but there was someone testing there who previously had coronavirus, and his new test showed only antibodies. We were both wearing a mask but, can he have transmitted it to me?
+++++++++++
+ Seasonal Reinfection Possible with Covid-19? For non-Covid19 flu, we get vaccine shots every year. What happens when we get a vaccine for Covid-19? Will it have to be administered every year? If our body gets immunity to one strain of RNA, why would it come back next year requiring vaccines? It is not clear where we are heading.
+++++++++++
+ US coronavirus cases double every 2-3 days I've been watching and recording the daily growth rate of COVID-19 in the US, and what I'm seeing is alarming. At the current rate it's growing, (about 36.5% daily avg) the number of cases doubles every 2-3 days.
+What does that mean? 
+Well, today (3/23) the US has 43,449 confirmed cases.
+In 2 days (3/25), the US will have more cases than Italy.
+By this weekend, the US will have more than double the cases of China.
+If the growth rate does not slow down, in a month there will be 330 million cases...or 1 case for each person living in the US.
+
+These are my own calculations and are based solely off the average growth of daily cases in the US since 3/5. This isn't to scare anyone, but I hope it helps a people realize just how quickly this is spreading and how important it is we slow the growth rate.
+++++++++++
+ VA Secretary: We’re Preparing for Coronavirus ‘Boomerang’ in Fall: In an interview, Robert Wilkie details efforts to stockpile equipment and boost hiring. 
+++++++++++
+ US becomes first country to record 100,000 new daily Covid cases | New single-day record comes as total United States cases surpass 9 million. 
+++++++++++
+ "Public Health Advisor (Quarantine Program)" Insight? Everyone take a minute to look at this job posting on [USAJobs.gov](
+
+[
+
+I have a few questions with regards to the job posting "Public Health Advisor (Quarantine Program)".  
+Under certain circumstances with the emergence of COVID-19 as a worldwide pandemic, is it a coincidence that the CDC posted this job on November 15th, 2019 a few days before the first COVID-19 case was reported in Wuhan? Based on current predictions, the number of COVID-19 cases will be at its greatest death toll around late June and early July. From current trends, the number of peak cases will be late April and early May. Is it a coincidence that the job application closes May 15th, 2020?
+
+Is it a coincidence that there are "many vacancies" in places of large populace hubs in the United States? Places that are perfect for large scale quarantine camps. Places that will presumably exhibit a large amount of cases.
+++++++++++
+ Which way are things going? 
+
+This map shows recent COVID-19 Trends with arrows that represent each county's recent trend history, and weekly new case counts for U.S. counties. 
+
+The map data is updated weekly.
+
+It shows COVID-19 Trend for the most recent Monday with a colored arrow for each county. The larger the arrow, the longer the county has had this trend.  An up arrow indicates the number of active cases continue upward. A down arrow indicates the number of active cases is going down.
+
+The intent of this map is to give more context than just the current day of new data because daily data for COVID-19 cases is volatile and can be unreliable on the day it is first reported. Weekly summaries in the counts of new cases smooth out this volatility.
+
+Click or tap on a county to see a history of trend changes and a weekly graph of new cases going back to February 1, 2020. 
+
+This map is updated every Tuesday based on data through the previous Sunday.  [See also this version of the map]( for additional perspective.
+
+COVID-19 Trends show how each county is doing and are updated daily. We base the trend assignment on the number of new cases in the past two weeks and the number of active cases per 100,000 people. To learn the details for how trends are assigned, see the [full methodology]( There are five trends:
+* Emergent - New cases for the first time or in counties that have had zero new cases for 60 or more days.
+* Spreading - Low to moderate rates of new cases each day. Likely controlled by local policies and individuals taking measures such as wearing masks and curtailing unnecessary activities.
+* Epidemic - Accelerating and uncontrolled rates of new cases.
+* Controlled - Very low rates of new cases.
+* End Stage - One or fewer new cases every 5 days in larger populations and fewer in rural areas.
+
+For more information about COVID-19 trends, see the [full methodology](
+Data Source: [Johns Hopkins University CSSE]( [US Cases by County dashboard]( and [USAFacts for Utah County level Data](
+
+Credits: 
+++++++++++
+ Natural Medicine for Prevention of COVID-!9 Natural medicine has some unique herbs such as Tinospora and Swertia which are anti-inflammatory immunomodulators for curing COVID-19 without acute expressions of the disease. These plant products are also available in the online market in the USA.   For more details
+
+|[CLICK HERE](
+++++++++++
+ Highest increase in confirmed cases ever, and an anomaly in Peru leads to highest increase in deaths - UPDATE Coronavirus % growth for JULY 23 Below is a summary of trends from yesterday (as of late EST). Starting with the **Global** stats for a broad overview. Then stats for the **USA**.
+
+The data is available [in more detail here](
+
+# Global
+
+Confirmed Cases growth is 📈:
+
+* Increasing to **2.20%**
+* Increasing by **333,719**
+* Total confirmed cases is **15,511,157**
+* Total active cases is **6,063,875**
+
+Deaths growth is 📈:
+
+* Increasing to **1.80%**
+* Increasing by **11,189**
+* Total deaths is **633,396**
+
+Death Rate growth is flat:
+
+* **6.7%** recovery rate (flat)
+* **3.9%** WHO CFR (flat)
+* **4.9%** incubation rate (flat)
+
+# USA 🇺🇸
+
+Confirmed Cases growth is 📉:
+
+* Decreasing to **1.71%**
+* Increasing by **67,842**
+* Total confirmed cases is **4,038,748**
+* Total active cases is **2,661,175**
+
+Deaths growth is 📉:
+
+* Decreasing to **0.78%**
+* Increasing by **1,114**
+* Total deaths is **144,304**
+
+Death Rate growth is 📉:
+
+* **10.5%** recovery rate (📉)
+* **3.4%** WHO CFR (📉)
+* **4.5%** incubation rate (📉)
+
+# Peru 🇵🇪
+
+Highest global increase in deaths: **3,887**
+
+# UK 🇬🇧
+
+Highest CFR: **13.3%**
+
+**Disclaimer:** *I'm no longer commenting on these threads due to downvoting on particular days when the facts don't fit people's narratives. COVID-19 is not something you should be cheerleading, whichever side you sit on, but here we are! If you have a genuine question for me, PM from now on - but the data source and other things you may want to know are all detailed in the spreadsheet*
+++++++++++
+ Navajo Nation reports 15 new COVID-19 cases, 5 more deaths 
+++++++++++
+ trial of "Right to try" drug A NY Doctor shared on with Hannity showed his Hydroxy Chloroquine/Azithromycin results.
+
+200mg 2x daily Hydroxy Chloroquine
+
+500mg 1x daily Azithromycin
+
+220mg 1x daily Zinc sulfate
+
+&amp;#x200B;
+
+350 patients
+
+• Breathing restored 3-4 hours
+
+• Zero deaths
+
+• Zero hospitalizations
+
+• Zero intubations
+++++++++++
+ California passes 500,000 total COVID-19 cases after adding 7,622 new cases on July 31 &amp;#x200B;
+
+[COVID19 - USA - California - July 31](
+
+You can find the latest state wide and nationwide statistics and trends here: [
+
+NOTE: The data is fetched from Johns Hopkins University (CSSE).
+++++++++++
+ Wastewater Covid Testing results - are they sharing this online anywhere? If not, why? I keep hearing about [wastewater covid testing]( being a method employed all over the place to detect outbreaks. Down to the granularity of zip codes, or in the case of colleges individual dorms. 
+
+What I **haven't seen** is publicly shared numbers. Countries, states, counties, cities all over the world have covid-tracking dashboards of some sort, giving the result of individual tests, deaths, hospitalizations, etc. Why don't we get to see the wastewater numbers, too? Of course it won't give an accurate human count, but so what? It gives another number to work with. I want to see it.
+++++++++++
+ The Great Costco Run Has Begun Links to different Costco-related shopping tweets:  
+
+
+in Portland, OR:  
+ [ 
+
+in Santa Clara CA:  
+ [ 
+
+In Sunnyvale CA:  
+ [ 
+
+In Brooklyn NY:  
+ [ 
+
+In Hawaii:  
+ [ 
+
+Bay Area CA:  
+ [ 
+
+In NYC:  
+ [ 
+
+Waltham MA:  
+ [
+++++++++++
+ Pennsylvania reports +276 deaths today - attributed to corrected numbers [
+
+We are reporting a significant increase in [\#COVID19]( deaths today—276.   
+
+These deaths DID NOT happen overnight.   
+
+We've been working to reconcile data with information from several different sources. As we collect data, we also are verifying its accuracy.
+++++++++++
+ UPDATE Coronavirus % growth for JUNE 10 Below is a summary of trends from yesterday (as of late EST). Starting with the **Global** stats for a broad overview. Then stats for the **USA**.
+
+The data is available [in more detail here](
+
+# Global
+
+Confirmed Cases growth is 📉:
+
+* Decreasing to **1.63%**
+* Increasing by **118,288**
+* Total confirmed cases is **7,357,011**
+
+Deaths growth is flat:
+
+* Remaining at **1.2%**
+* Increasing by **4,939**
+* Total deaths is **416,116**
+
+Death Rate growth is mixed:
+
+* **10.1%** recovery rate (📉)
+* **5.4%** WHO CFR (flat)
+* **6.9%** incubation rate (flat)
+
+# USA
+
+Confirmed Cases growth is 📈:
+
+* Increasing to **1.06%**
+* Increasing by **21,053**
+* Total confirmed cases is **2,000,464**
+
+Deaths growth is 📉:
+
+* Decreasing to **0.8%**
+* Increasing by **935**
+* Total deaths is **112,924**
+
+Death Rate growth is mixed:
+
+* **17.5%** recovery rate (📉)
+* **5.3%** WHO CFR (📉)
+* **6.2%** incubation rate (flat)
+++++++++++
+ 3.2% death rate for confirmed cases. What do you think the actual death rate is? So in the United States, the death rate is 3.2% when you look at total deaths from confirmed cases. But, what do you think the true death rate is if it counted everyone who has or has had it?
+++++++++++
+ A top federal scientist sounded the alarm about what he feared was contamination in an Atlanta lab where the government made test kits for the coronavirus. :Axios (very reliable reporter, also reports test kit creation moved, lab under investigation) 
+++++++++++
+ USA reported 29,289 coronavirus cases &amp; 2,078 deaths so far. Totaling to 878,006 cases &amp; 49,737 deaths. 
+++++++++++
+ Financial crisis caused 500,000 extra cancer deaths, according to Lancet study This is something for everyone to remember and consider as we deal with coronavirus.  We need social distancing to save lives now, but after we have coronavirus under control we need to still focus on saving lives.
+
+
+Summary:
+
+The global financial crisis may have caused an additional 500,000 cancer deaths from 2008 to 2010, according to a new study, with patients locked out of treatment because of unemployment and healthcare cuts. The figures were extrapolated from an observed rise in cancer deaths for every percentage increase in unemployment, and every drop in public healthcare spending. "From our analysis we estimate that the economic crisis was associated with over 260,000 excess cancer deaths in the OECD (34-member Organisation for Economic Cooperation and Development) alone, between 2008-2010," 
+
+
+Lancet publication:
+
+
+
+Article behind paywall:
+
+++++++++++
+ Florida hits new record with over 2,000 new COVID-19 cases 
+++++++++++
+ Indiana coronavirus: IN reports 884 new COVID-19 cases, 25 deaths as state surpasses 75K positive tests 
+++++++++++
+ Global cases reach over 9 million - UPDATE Coronavirus % growth for JUNE 22 Below is a summary of trends from yesterday (as of late EST). Starting with the **Global** stats for a broad overview. Then stats for the **USA**.
+
+The data is available [in more detail here](
+
+# Global
+
+Confirmed Cases growth is 📉:
+
+* Decreasing to **1.63%**
+* Increasing by **145,972**
+* Total confirmed cases is **9,074,624**
+* Total active cases is **3,701,640**
+
+Deaths growth is 📈:
+
+* Increasing to **0.85%**
+* Increasing by **3,993**
+* Total deaths is **471,754**
+
+Death Rate growth is mixed:
+
+* **8.8%** recovery rate (flat)
+* **4.9%** WHO CFR (📉)
+* **6.2%** incubation rate (📉)
+
+# USA 🇺🇸 
+
+Confirmed Cases growth is 📈:
+
+* Increasing to **1.42%**
+* Increasing by **32,421**
+* Total confirmed cases is **2,312,300**
+* Total active cases is **1,551,700**
+
+Deaths growth is 📈:
+
+* Increasing to **0.36%**
+* Increasing by **433**
+* Total deaths is **120,402**
+
+Death Rate growth is mixed:
+
+* **15.8%** recovery rate (📉)
+* **4.9%** WHO CFR (📉)
+* **5.8%** incubation rate (flat)
+
+# Mexico 🇲🇽 
+
+Highest increase in deaths: **729**
+++++++++++
+ Free COVID vaccine for US citizen: U.S pre-ordered 500 million of COVID vaccine from Pfizer, $1.95 billion signed today ! on top of 100 million doses from Novavax and 300 million from AstraZeneca 
+++++++++++
+ United States Covid-19: Daily Summary (November 26th) United States Covid-19: Daily Summary (November 26th)
+
+➡ Regional/national data (Focus on Thanksgiving holidays)
+
+➡ Latest Restrictions
+
+
+++++++++++
+ Covid-19, What are the variables?   
+
+Why now the corona virus pandemic?
+
+One can say that it is because of the increase of the movement of people around the world that has helped spread the virus, but the Boeing 737 max crisis has removed hundreds of planes from circulation, making tickets more expensive and with a drop of movement of people.
+
+The billions of Asians are accused with prejudice, of eating alternative foods and poor hygiene to feed themselves, but if we think logically, with the gigantic imports from the Americas to Asia, of animal and vegetable proteins, in reality these feeding trends must be going in the opposite direction.
+
+So what are the variables? What do we have in 2020 that we didn't have in 17, 18 or 19?
+
+Let's look back:
+
+November 2019: Serial deaths alarm a Chinese city
+
+December 2019: The new agent is identified (covid19)
+
+March 2020 (today): We already have 7 thousand + tested deaths and the virus is being detected in practically all countries.
+
+But let's reflect: It was only in December 2019 after the virus was identified that it was possible to create detection tests that are made using part of the virus's own DNA or an antibody from it.
+
+In less than 80 days, test design, scale manufacturing, and distribution to all countries had to take place for the tests kits to be used as they are.
+
+This happened quickly like never before. 
+
+We found the variable.
+
+Pandemics have existed before, air mass transportation has existed before, human-animal interaction has existed before. What we have new is the technology that was able to disseminate the tests more quickly than the virus making it possible for the first time a response, albeit late, but efficient to minimize the loss of human life.
+
+One may ask: But why have so many people never died before?
+
+This is where deception comes in: An British study estimates that in 2017 up to 650,000 people died of respiratory influenza worldwide. It is possible that this corona virus outbreak has already occurred before and has not been detected, accounting for the deaths of common flu/influenza.
+++++++++++
+ The soonest way out of this mess - widespread antibody testing Antibody testing shows who has it and who had it.
+
+1) Knowing who has it lets them get treated quickly. Also allows contact tracing.
+
+2) Knowing who had it lets them donate blood, to provide the antibodies to treat those who have it. This can be done very quickly and effectively.
+
+Until we have cheap (free) widespread antibodies testing, I believe we will be shut in and playing wackamole with unpredictable outbreaks nationwide.
+
+Unfortunately this will take a national strategy which we apparently can't muster under this administration.
+++++++++++
+ UT - COVID19 Update - 4/10/2020 For more information, including dashboards and sources, please visit [
+
+# Utah Update
+
+|Type|Count|Last Updated|
+|:-|:-|:-|
+|Total Cases Tested|40,762est.|April 10, 2020|
+|Total Confirmed Cases|2,102|April 10, 2020|
+|COVID-19 Hospitalizations|183|April 10, 2020|
+|Total Deaths|17|April 10, 2020|
+
+## By Jurisdiction
+
+|Jurisdiction|Cases|Visitor Cases|
+|:-|:-|:-|
+|Bear River|42|8|
+|Central Utah|6|1|
+|Davis County|180|15|
+|Salt Lake County|1011|92|
+|San Juan|6|2|
+|Southeast Utah|4|0|
+|Southwest Utah|52|7|
+|Summit County|296|24|
+|Tooele County|28|3|
+|TriCounty|8|0|
+|Utah County|283|17|
+|Wasatch County|96|5|
+|Weber-Morgan|90|9|
+|State Total|2102|183|
+
+# USA UPDATE
+
+|Type|Count|Last Updated|
+|:-|:-|:-|
+|Total Confirmed Cases|459,165|April 10, 2020|
+|Total Deaths|16,570|April 10, 2020|
+|Jurisdictions Reporting|55 (50 states, District of Columbia, Puerto Rico, Guam, the Northern Mariana Islands, and the U.S. Virgin Islands)|April 10, 2020|
+
+## By Exposure
+
+|Source|Count|Last Updated|
+|:-|:-|:-|
+|Travel-related|2,138|April 10, 2020|
+|Close contact|10,956|April 10, 2020|
+|Under investigation|446,071|April 10, 2020|
+|Total cases|459,165|April 10, 2020|
+
+&amp;#x200B;
+
+
+
+For more information, including dashboards and sources, please visit [
+++++++++++
+ US surpasses 4 million reported coronavirus cases as hospitalizations near record US surpasses 4 million reported coronavirus cases as hospitalizations near record
+
+
+++++++++++
+ How testing failures allowed coronavirus to sweep the U.S. The linked [Politico article]( details that there was indeed a test kit ready and widely available prior to the pandemic spread in the US. The Trump administration rejected it. 
+
+**Does anyone have a source detailing who in office made that decision?**
+
+**I'm still looking for real documentation as to** ***why exactly*** **the US did not use the WHO test kit back when we could have avoided all that is coming?**
+
+The article details that no one to date has answered these questions.
+
+&amp;#x200B;
+
+I would like to avoid the tinhat flair, so I'll kindly ask my final questions this way:
+
+**Does anyone have documentation on which companies are going to benefit through the production of the US test kits?** 
+
+**Have they made any political contributions in the near recent past?**
+
+&amp;#x200B;
+
+**Quote from the article:**
+
+"On Saturday Jan. 11 — a month and a half before the first Covid-19 case not linked to travel was diagnosed in the United States — Chinese scientists posted the genome of the mysterious new virus, and within a week virologists in Berlin had produced the first diagnostic test for the disease.
+
+Soon after, researchers in other nations rolled out their own tests, too, sometimes with different genetic targets. By the end of February, the World Health Organization had shipped tests to nearly 60 countries.
+
+The United States was not among them.
+
+Why the United States declined to use the WHO test, even temporarily as a bridge until the Centers for Disease Control and Prevention could produce its own test, remains a perplexing question and the key to the Trump administration’s failure to provide enough tests to identify the coronavirus infections before they could be passed on..."
+
+[
+++++++++++
+ New blood tests for antibodies could show true scale of coronavirus pandemic 
+++++++++++
+ CDC reports aren’t showing the number of people tested increasing. Is testing increasing around you. 
+++++++++++
+ A list of the most common comorbidities in Covid-related deaths and the percentage of the US adult population with each comorbity. For those people arguing (or even thinking) that Americans need to get back to work and lift stay at home orders for the sake of the economy because "only" people with pre-existing comorbidities are dying from Covid, this is a list of the comorbidities at play, along with the percentage of the US adult population with each comorbity. I am using New York's death statistics.
+
+87% of Covid deaths in NY involved people with at least 1 comorbidity. 
+
+55% of all covid deaths in New York involved the comorbity of hypertension. 45% of the adult population of the US is estimated to have hypertension or high good pressure according to the CDC. (Citation in linked article)
+
+33% of all covid deaths in New York involved the comorbity of diabetes. 13% of the adult population in the US has diabetes. (Source: CDC  National Diabetes Statistics Report, Estimates of Diabetes and Its Burden in the United States)
+
+18% of all covid deaths in New York involved the comorbity of hyperlipidemia. 12% of the adult population in the US has hyperlipidemia. (
+
+12% of all covid deaths in New York involved the comorbity of coronary artery disease.
+6.7% of the adult population of the U.S has coronary artery disease. (
+
+11% of all covid deaths in New York involved the comorbity of renal disease. 15% of the adult population of the U.S has renal disease. (National Kidney Foundation 
+
+9% of all covid deaths in New York involved the comorbity of dementia. 2.5% (edited) of the adult population of the U.S has dementia. (
+
+8.3% of all covid deaths in New York involved the comorbity of COPD.
+5% of the adult population of the U.S has COPD. (
+
+8.1% of covid deaths in New York involved the comorbidity of a history of cancer.
+38.4% of the adult population of the U.S has had or will get some form of cancer. (
+
+7.1% of covid deaths in New York involved the comorbidity of AFib.
+2% of the adult population of the U.S younger than 65 has AFib, while 9% over 65 have it. (
+
+7.1% of covid deaths in New York involved the comorbidity of heart failure.
+2% of the adult population of the U.S has heart failure and 48% of adult Americans have some form of cardiovascular disease.(
+
+Those numbers dont seem so comforting for the "average" population anymore, do they?
+++++++++++
+ Does anyone know if the FDA has been looking into approving the South Korea company’s testing kits? Every other day it seems we hear something new regarding issues with testing in the US. First the CDC sent botched tests, then there weren’t enough tests, then private companies got engaged to help but realized they don’t have the necessary materials to perform the testing. Meanwhile, ahem, we know South Korea has an automated test that works fast and would be so much more efficient. 
+
+Does anyone know if the FDA is looking into approving the South Korea company’s testing kits? We clearly need backup plans to the backup plan. Every day that goes by without adequate testing sets us back so much and so many lives are at stake. 
+
+[FDA Has Not Approved South Korea COVID-19 Testing Kit Fast Automated Multiple Testing Genes, People](
+++++++++++
+ World Health Organization - Where is their data coming from? So, I've noticed the numbers in their daily situation reports aren't matching news reports.    
+
+
+I wanted to find the source of the WHO data, but after an hour of looking all I can find is:  
+"Data as reported by national authorities" and   
+"WHO COVID-19 Situation Reports present official counts of confirmed COVID-19 cases, thus differences between WHO reports and other sources of COVID-19 data using different inclusion criteria and different data cutoff times are to be expected "  
+
+
+I've read multiple reports that we have no national tracking on numbers.  
+
+I've seen articles referencing a new york times database and a John Hopkins database.
+
+The CDC says " \* Data include both confirmed and  presumptive positive cases of COVID-19 reported to CDC or tested at CDC  since January 21, 2020, with the exception of testing results for  persons repatriated to the United States from Wuhan, China and Japan.  State and local public health departments are now testing and publicly  reporting their cases. In the event of a discrepancy between CDC cases  and cases reported by state and local public health officials, data  reported by states should be considered the most up to date. "  
+
+
+So, why is WHO burying where they actually get the data from?  Are they getting it from each of the 50 states?   
+
+
+Thanks for any insight.
+++++++++++
+ New York and California COVID19 mortality trends compared to Worst-Case (Hubei and Italy). Hubei (the epicenter) 7-day lag added because it may have taken about that long to realize it was a novel coronavirus (17 deaths in Hubei reported on "day 1"). 
+++++++++++
+ Good info on how to read pandemic statistics [Worldometers.com]( currently reporting a [5.8% case fatality rate in Wuhan]( Current scientific research places the [case fatality rate at 1.4% in Wuhan.](
+
+At the same time, Worldometers does a fantastic job of discussing the inherent problems that go along with pandemic-related statistics:
+
+*"At present, it is tempting to estimate the case fatality rate by dividing the number of known deaths by the number of confirmed cases. The resulting number, however,* ***does not represent*** ***the true case fatality rate and might be off by orders of magnitude..."***
+
+***A precise estimate of the case fatality rate is therefore impossible at present***\*."\*
+
+*"But* ***while an epidemic is still ongoing***\*, as it is the case with the current novel coronavirus outbreak,\* ***this formula is, at the very least, "naïve"*** \*and can be "\****misleading*** *if, at the time of analysis, the outcome is unknown for a non negligible proportion of patients."*
+
+[Source]( &lt;-- Please consider reading this whole page, as it provides excellent context for COVID-19 statistics.
+++++++++++
+ Calculations Comparing the Worst Recent Flu Season (2017-2018) in the US (since 2003) to the Projected Coronavirus Numbers for the First Year (Infections, Hospitalizations, and Deaths) The 2017-2018 flu season was the most severe on recent record (since 2003). I wanted to see how that would compare to the projected COVID-19 forecasts to understand the scope of the problem we're facing.
+
+Below is a chart that shows the numbers of flu cases, hospitalizations, and deaths for the 2017-2018 flu season (which contains data for an entire year), in addition to the projected forecasts for the first year of the COVID-19 outbreak.
+
+ | **2017-2018 Flu Season** | **COVID-19** (20% infection) | **COVID-19** (60% infection)
+:--------:|:--------:|:---------:|:---------:
+**Cases** | 45,000,000 | 42,000,000 | 126,000,000
+**Hospitalizations** | 840,000 | 4,200,000 | 25,200,000
+**Deaths** | 61,000 | 420,000 | 1,260,000
+
+The [historical flu numbers]( come from the CDC. The COVID-19 projections come from the Harvard epidemiologist featured in the [the Atlantic article]( who projected 40-70% of **adults** would get COVID-19 within the first year. Marc Lipsitch has now since [projected a lower range of 20-60% adults]( in comments on Twitter. I used 210,000,000 for the number of adults in the US population. I used a 20% rate for COVID-19 hospitalizations and a conservative 1% fatality rate for COVID-19 (the WHO has projected a higher number, but I figure 1% is easy to multiply depending on your particular brand of doom and gloom).
+
+A different - and maybe more meaningful - way to look at the data is to look at equivalent number of cases. So basically, if you have 1500 people get infected, how would things shake out for both illnesses?
+
+ | **2017-2018 Flu Season** | **COVID-19** 
+:--------:|:--------:|:---------:
+**Cases** | 1500 | 1500 
+**Hospitalizations** | 110 | 300
+**Deaths** | 2 | 15 
+
+So basically, if 1500 had been infected in 2017-2018 with the flu, 110 would have need hospital treatment and 2 would have died. For COVID-19 in the same area, 300 would need hospital treatment and 15 would likely die.
+
+Unfortunately, that direct comparison likely underestimates the problem. COVID-19 is not projected to only infect 14% of the population. It is projected to infect 20-60% of adults, or 15-45% of the population, which is roughly 1.1 to 3.2 times the number of infected in 2017-2018 flu season. So if we look at it by equivalent location, it might look something like this:
+
+ | **2017-2018 Flu Season** | **COVID-19** (20% infection) | **COVID-19** (60% infection)
+:--------:|:--------:|:---------:|:---------:
+**Cases** | 1500 | 1650 | 4800
+**Hospitalizations** | 110 | 330 | 960
+**Deaths** | 2 | 17 | 48
+
+So basically, in 2017, if you lived in an area where 1500 people caught the flu (a town of around 11,000 people), 110 would have ended up in the hospital, and 2 would have died. For COVID-19 in the same area, you could expect between 1650-4800 adults catching the disease, between 330-960 adults in the hospital, and between 17-48 deaths. 
+
+Note: These estimates do not factor in COVID-19 infections in children under 18 years of age.
+
+Please let me know if I have made a math error or if new information challenges these numbers. I am more than willing to revise the numbers, add columns, whatever.
+++++++++++
+ Total daily deaths per day historically? Does anyone have statistics on historical daily deaths per day by state or country?
+
+It would be interesting to do a statistical comparison to see how significant the increase in the total daily death rate has been in the last few weeks compared to normal.
+++++++++++
+ Heartbreaking Updates :Total 104,205 CoronaVirus Cases in USA till Now ,Todays +79 New Cases Reported and +5 NewDeath’s ,Please Stay Home and Stay Safe [Image] 
+++++++++++
+ COVID-19 now No. 3 cause of death in US  [
+++++++++++
+ COVID-19 vaccine candidate shows promise. When tested in mice, the vaccine -- delivered through a fingertip-sized patch -- produces antibodies specific to SARS-CoV-2 at quantities thought to be sufficient for neutralizing the virus. 
+++++++++++
+ New influenza strain identified in pigs has 'essential hallmarks' of a pandemic virus Researchers in China say they have identified a new influenza strain in pigs that could be the next “potential pandemic.” 
+++++++++++
+ Countries ranked by active Coronavirus cases. This is confirmed cases minus recoveries and deaths. The US is now #2, right behind Italy. Today, the US had 13,000+ new cases. Source:  
+++++++++++
+ Wisconsin reports record-high 48 coronavirus deaths, a result of the state's surge in cases 
+++++++++++
+ Where are vital statistics for US 2020? There are people who believe that the death rate really hasn't gone up due to covid. They say, "well, maybe deaths in March 2019 were the same as March 2020". They base this fact on how they can't find the total deaths each month in the US for 2019 and 2020. I know a few of them and want to disprove their claims. I want to compare deaths during a time without covid to a time with covid. I tried to search for this data, but also can't find it. The best I can do is find total deaths in Jan, Feb, and March 2019. But I can't find any data after March 2019.
+
+Shouldn't these be available as vital stats? I see media reports that deaths are up, but where are they getting the data to base this on if it isn't posted anywhere to fact check?
+++++++++++
+ Lawrence Summers says national pandemic response lacking: criticized government spending on economic stimulus and helping corporations while skimping on expanding COVID-19 testing and hiring workers for contact tracing efforts that could help curb the pandemic. 
+++++++++++
+ Can we give an experimental vaccine to our health workers if it's safe? I am not a scientist so this is just a thought of mine. Right now a few companies have started phase 1 clinical trials for their COVID-19 vaccine. For example, Moderna has begun their vaccine clinical trials a few weeks ago. As I understood, the phase 1 study is just to make sure the vaccine is safe that there are no side/negative effects on humans. So I think, if a vaccine passed phase 1 study, can we just give it to some people who need it badly, e.g., our health workers (doctors, nurses, clinicians...). These people are the heroes now and they are at very high risk with exposure to COVID-19 patients. Can we give them an additional protection with an experimental vaccine which passed phase 1?
+
+I'm not saying the health workers do not use other protection (PPE) with the experimental vaccine, since the vaccine may not have enough efficacy. But if it does no harm to human's health, it can be a secondary protection for the most important people now. What can we lose?
+
+Personally I would participate in phase 2 clinical trials for any COVID-19 vaccine.
+++++++++++
+ (AR) COVID-19 results - 165 Positive LITTLE ROCK, Ark. — Today the Governor announced 165 positive test results. This is the largest increase for Arkansas to date.
+
+Testing will continue to increase, as well as a number of positive cases.
+
+[
+++++++++++
+ coronavirus deaths usa sawtooth graph can anyone explain why there is a sawtooth pattern of deaths in the us from covid-19, i would think that even though there are daily variations, graph should be more smooth/random not showing a clear pattern. link:
+ near bottom of page.
+++++++++++
+ Coronavirus 105,000+ Infected, 15 Million People Could Die From Covid-19 Pandemic  
+
+Coronavirus related footage and news about it.
+
+[
+
+Source:
+
+[
+++++++++++
+ (AR) Arkansas Covid-19 cases 4/24/2020, 6:00 p.m. Arkansas Covid-19 cases 4/24/2020, 6:00 p.m.   
+Confirmed cases in Arkansas. - 2,810  
+Confirmed health care worker cases - 285  
+Confirmed deaths in Arkansas. - 47   
+Confirmed recoveries in Arkansas - 964  
+690 inmates at Cummins Unit  
+Total Tested - 35,731   
+Positive Tests - 2,810   
+Positive cases in Perry County: 6  
+Negative Tests - 32,921  
+Updated as of 4/24/2020, 6:00 p.m.   
+Currently Hospitalized : 104   
+Currently on Ventilator 24   
+Total Nursing Home Residents 176  
+Gender Male = 60.9%   
+Gender Female = 38.7%   
+Age 0-17: 75  
+Age 18-24: 207   
+Age 25-44: 1042   
+Age 45-64: 954  
+Age 65+ : 460  
+Black: 773   
+White: 1280  
+Hispanic: 97  
+American Indian: 5   
+Asian: 26  
+Pacific Islander: 19   
+Multiracial: 10   
+Other: 72   
+Missing: 556
+++++++++++
+ 11 new cases of corona virus in Westchester county, NY and 2 new cases in New York City 
+++++++++++
+ Lies I don't know if the government knows more than they are telling us, or is this coronavirus scare being hyped? What do you all think? Is it being over reported causing hysteria or under reported to try to keep from Nationwide (worldwide) hysteria?
+++++++++++
+ Flight Patterns Over Coronavirus Does anyone have a visualization showing flight patterns diminishing over time as a result of the virus? I recall seeing one after 9/11 but haven’t been able to track one down yet. Would be curious how drastically and quickly US and global travel diminished.
+++++++++++
+ Utah surpasses 60K COVID-19 cases; highest daily increase to date reported Thursday 
+++++++++++
+ DAILY UPDATE Coronavirus % growth for MAY 22 Below is a summary of trends from today (as of late EST). Starting with the **Global**stats for a broad overview.
+
+Then stats for the country with the largest confirmed cases and deaths (the **USA**). Also, now that we're starting to have enough data to see more distinct patterns emerging, I've decided to include the death rates for the country attempting the largest herd immunity (**Sweden**).
+
+The data is available [in more detail here](
+
+# Global
+
+Confirmed Cases growth is 📉:
+
+* Increasing to **2.11%**
+* Increasing by **109,778**
+* Total confirmed cases is **5,303,988**
+
+Deaths growth is 📈:
+
+* Remaining at **1.6%**
+* Increasing by **5,382**
+* Total deaths is **340,003**
+
+Death Rate growth is 📉:
+
+* **13.7%** recovery rate (📉)
+* **6.0%** WHO CFR (📉)
+* **7.8%** incubation rate (📉)
+
+# USA
+
+Confirmed Cases growth is 📉:
+
+* Decreasing to **1.51%**
+* Increasing by **23,790**
+* Total confirmed cases is **1,600,937**
+
+Deaths growth is 📉:
+
+* Decreasing to **1.3%**
+* Increasing by **1,277**
+* Total deaths is **94,702**
+
+Death Rate growth is mixed:
+
+* **21.5%** recovery rate (📉)
+* **5.7%** WHO CFR (flat)
+* **7.0%** incubation rate (flat)
+
+# Sweden
+
+Death Rate growth is mixed:
+
+* **44.1%** recovery rate (📈)
+* **10.7%** WHO CFR (flat)
+* **13.4%** incubation rate (📉)
+
+**Disclaimer:** *Please take from this what you choose. Although the official numbers may or may not reflect exactly how many cases remain unreported, I try to remain unopinionated in these reportings and leave the opinions and analysis to the comments.*
+++++++++++
+ Prediction of cases and deaths. Future cases and deaths. We have less around a month to until we reach heard immunity. (Confirmed cases today: 1,750,000 and 100,000 deaths.  Real cases today: 136,470,697 Real deaths today: 351,000 deaths. 5/30/20.) (Based off uptick in flu deaths 6 states + covid deaths) (Cases 27,000,000. 5/13/20.) (Two weeks cases= 300,000,000 deaths= 1,774,119 6/14/20) (Four weeks cases=max deaths=3,900,000 6/30/20 max deaths 5% death rate= 15,000,000)
+
+I know 5 people with it already personally.
+++++++++++
+ VA assurances on COVID contradicted by internal memos and alarming stats: internal memos about PPE shortages at veterans' hospitals contradict official claims of preparedness, and the alarming statistics about how COVID-19 is ravaging state veterans' facilities 
+++++++++++
+ Covid 19 Daily Cases on the Rise NPR: COVID-19 Daily Cases On The Rise In Nearly Half Of U.S. States.
+
+++++++++++
+ UPDATE Coronavirus % growth for JUNE 15 Below is a summary of trends from yesterday (as of late EST). Starting with the **Global** stats for a broad overview. Then stats for the **USA**.
+
+The data is available [in more detail here](
+
+# Global
+
+Confirmed Cases growth is 📉:
+
+* Decreasing to **1.46%**
+* Increasing by **115,506**
+* Total confirmed cases is **8,015,053**
+* Total active cases is **3,365,505**
+
+Deaths growth is flat:
+
+* Remaining at **0.76%**
+* Increasing by **3,303**
+* Total deaths is **436,322**
+
+Death Rate growth is mixed:
+
+* **9.6%** recovery rate (📉)
+* **5.2%** WHO CFR (flat)
+* **6.6%** incubation rate (📉)
+
+# USA
+
+Confirmed Cases growth is 📈:
+
+* Increasing to **0.95%**
+* Increasing by **19,968**
+* Total confirmed cases is **2,114,026**
+* Total active cases is **1,421,565**
+
+Deaths growth is 📈:
+
+* Increasing to **0.34%**
+* Increasing by **395**
+* Total deaths is **116,127**
+
+Death Rate growth is mixed:
+
+* **16.8%** recovery rate (📉)
+* **5.2%** WHO CFR (flat)
+* **6.0%** incubation rate (📉)
+++++++++++
+ Michigan Reports 898 New Coronavirus Cases, 20 New Deaths Tuesday 
+++++++++++
+ Mexico overtakes USA with the highest increase in deaths - UPDATE Coronavirus % growth for JULY 26 Below is a summary of trends from yesterday (as of late EST). Starting with the **Global** stats for a broad overview. Then stats for the **USA**.
+
+The data is available [in more detail here](
+
+# Global
+
+Confirmed Cases growth is 📉:
+
+* Decreasing to **1.27%**
+* Increasing by **202,909**
+* Total confirmed cases is **16,201,176**
+* Total active cases is **6,193,427**
+
+Deaths growth is 📉:
+
+* Decreasing to **0.64%**
+* Increasing by **4,102**
+* Total deaths is **647,928**
+
+Death Rate growth is mixed:
+
+* **6.5%** recovery rate (flat)
+* **3.8%** WHO CFR (📉)
+* **4.8%** incubation rate (flat)
+
+# USA 🇺🇸
+
+Confirmed Cases growth is 📉:
+
+* Decreasing to **1.34%**
+* Increasing by **55,902**
+* Total confirmed cases is **4,233,923**
+* Total active cases is **2,789,125**
+
+Deaths growth is 📉:
+
+* Decreasing to **0.32%**
+* Increasing by **475**
+* Total deaths is **146,935**
+
+Death Rate growth is mixed:
+
+* **10.2%** recovery rate (📉)
+* **3.4%** WHO CFR (flat)
+* **4.3%** incubation rate (flat)
+
+# Mexico 🇲🇽 
+
+Highest global increase in deaths: **1,035**
+
+# UK 🇬🇧
+
+Highest CFR: **13.2%**
+
+**Disclaimer:** *I'm no longer commenting on these threads due to downvoting on particular days when the facts don't fit people's narratives. COVID-19 is not something you should be cheerleading, whichever side you sit on, but here we are! If you have a genuine question for me, PM from now on - but the data source and other things you may want to know are all detailed in the spreadsheet.*
+++++++++++
+ Nassau County coronavirus victim list grows to 19 cases, including two school bus drivers, leading to shuttered classrooms in three school districts 
+++++++++++
+ A Failure of Empathy Led to 200,000 Deaths. It Has Deep Roots. 
+++++++++++
+ 3 new cases of COVID-19 in Ontario, province total now at 18 
+++++++++++
+ Flu Near You There is a crowdsourced flu tracker called FluNearYou that allows you to report what symptoms you are experiencing and your zip code anonymously meant to track where the flu is and where it is going. If you overlay bno news' CoVID-19 verified cases in the USA with Flu Near You reports, there are flu hot spots everywhere with a coronavirus virus case. 
+
+This could be showing covid cases that are unreported, flu, neither or a mixture, but be aware, Flu and CoVID-19 are here.
+++++++++++
+ Deaths in the US by Age (COVID-19) [OC] Most publicly-disseminated information regarding COVID-19 has been epidemiological and not very useful for individual-risk prediction. It is currently difficult to derive death rates by demographics from aggregated CDC data. The goal of this project was to track how closely US death-rate-by-age data has aligned with the (thus-far) canonical WHO and Chinese CCDC reports from Feb 2020.
+
+[Here is the state-level death-by-age data.](
+++++++++++
+ Florida adds another 8,942 new COVID-19 cases, breaking single-day record again 
+++++++++++
+ US airlines would not need the bailout if they didn't spend their recent enormous profits buying back stock. They could've set up emergency funds. They didn't. The money spent for the stock are gone. Now they are bailed out with taxpayers' money. Mismanagement squared times recklessness = our loss "American has spent $12.9 billion over the last six years on its own  stock. People are mad because $12.6 billion is what it cost to pay the  employees' salaries for an entire year "
+
+[
+++++++++++
+ 'Flying blind': US failure to report vital coronavirus data is hobbling response 
+++++++++++
+ LabCorp can now process tests for COVID-19, but no info to be found on how testing numbers and confirmed cases will be counted, tracked, and reported 
+++++++++++
+ U.S. COVID-19 cases hit two-month high, 10 states report record increases 
+++++++++++
+ A Map of Cases in the USA The Johns Hopkins site has the ability to see cases broken down by City, State/Province. It makes it easy to see which states have reported cases -- useful now that the number of states is starting to rise fairly quickly.  
+ [
+++++++++++
+ Conspiracy theorists are using this to try and say no one is dying from covid and every pneumonia death is being reported as covid. What’s the explanation for the trend in the graph? [deleted]
+++++++++++
+ World should learn lessons from China in coronavirus fight Coronavirus live update: [
+
+The rest of the world should learn from China and follow the principles of early detection, early quarantine and early treatment in order to halt the global spread of the coronavirus.
+
+With the number of new domestic cases dwindling, China has now turned its attention to controlling new infections coming into the country from overseas, where the pandemic continues to spread.
+++++++++++
+ Safest Covid Vaccine Trial to Join? Looking to join a Covid vaccine clinical trial. What is the safest trial to join? What vaccine has the smallest chance of instigating autoimmune reactions and other permanent, debilitating side effects? What viral delivery method has side-effects that are well documented?
+++++++++++
+ First presumptive case in MA First presumptive case of coronavirus confirmed in Massachusetts
+  
+(Via WWLP News)
+++++++++++
+ Hawaii and New Jersey researchers develop promising COVID-19 vaccine in early trials. 'Their vaccine candidate successfully demonstrates the ability to rapidly stimulate a balanced antibody response, which includes potent SARS-CoV-2 neutralization and cell-mediated immunity' 
+++++++++++
+ Oxford COVID-19 vaccine prompts immune response among adults old and young, AstraZeneca says 
+++++++++++
+ Coronavirus update NJ: 8 new cases reported Wednesday, total now at 23 
+++++++++++
+ COVID case tracking website with details on stay at home orders Anyone know any  COVID tracking websites that provide graphs that also overlay the changes of stay at home orders by state?
+++++++++++
+ Covid PCR results leadtime in your area? I'm curious on covid PCR results lead time in your area. Seems like they are increasing all over. Please post your experience. 
+
+State:
+City:
+Reported lead time:
+Actual lead time your experenced:
+++++++++++
+ Do you think that most people are going to get a vaccine when one is available? They are saying that a vaccine for the coronavirus will be available early next year. The last I heard is that Moderna was starting its third phase in vaccine testing and was having positive results. If there is going to be a vaccine available next year, I have a feeling that most people will not get one. There are conspiracies out there saying that Bill Gates is going to put microchips in the vaccine so that he can track us or that he wants to depopulate the world. There are a lot of anti-vaxxers out there just like there are anti-maskers.
+++++++++++
+ Mississippi has stopped reporting case and death counts The Mississippi Department of Health has stopped reporting COVID data and are blaming it on issues with their "legacy software." They have not given case or death counts since 6/17 but reported a record high amount of hospitalizations today, 516. If they can report this data, why can they not give updated daily case counts?
+
+I have no doubt that their "legacy software" is old and shitty, thus delaying detailed information graphs but it's just frustrating that they don't at least just tweet out a number or something.
+++++++++++
+ UPDATE Coronavirus % growth for JUNE 9 Below is a summary of trends from yesterday (as of late EST). Starting with the **Global** stats for a broad overview. Then stats for the **USA**.
+
+The data is available [in more detail here](
+
+# Global
+
+Confirmed Cases growth is 📈:
+
+* Increasing to **1.76%**
+* Increasing by **125,537**
+* Total confirmed cases is **7,238,723**
+
+Deaths growth is 📈:
+
+* Increasing to **1.2%**
+* Increasing by **4,764**
+* Total deaths is **411,177**
+
+Death Rate growth is mixed:
+
+* **10.2%** recovery rate (📉)
+* **5.4%** WHO CFR (flat)
+* **6.9%** incubation rate (flat)
+
+# USA
+
+Confirmed Cases growth is 📉:
+
+* Decreasing to **0.94%**
+* Increasing by **18,514**
+* Total confirmed cases is **1,979,411**
+
+Deaths growth is 📈:
+
+* Increasing to **0.9%**
+* Increasing by **999**
+* Total deaths is **111,989**
+
+Death Rate growth is mixed:
+
+* **17.6%** recovery rate (flat)
+* **5.4%** WHO CFR (flat)
+* **6.2%** incubation rate (📉)

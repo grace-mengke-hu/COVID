@@ -1,0 +1,1397 @@
+
+++++++++++
+ “Positivity” - words I won’t say If your “positivity” is contributing to IGNORANCE then you’re contributing to the imminent death of 50,000 people. 
+
+I hope you don’t lose your job or your house.
+++++++++++
+ The modern day Typhoid Marys have just infected QLD and will cost at least a million $ for their selfish actions - what is a meaningful and just punishment? 
+
+To be so selfish that they actively went down to Melb to commit crime (shop lifting), attended an illegal party (social distancing), specifically planned travel to try and avoid any quarantine and then lie and commit fraud on their travel documents. But then the worst of all to then go absolutely mental in the Brisbane Region spreading this virus.
+
+Words can hardly describe how despicable these self centered children are and jail time is the bare minimum they truly deserve.
+
+These Typhoid Marys;
+
+++++++++++
+ Coronavirus Downunder Nightly ɯopuɐɹ Discussion - 19 September, 2020 This is the nightly ɯopuɐɹ discussion thread for r/CoronavirusDownunder, where you can chat about *anything** you like!  
+
+Each night I try to start the discussion with a random question! **Got a suggestion for a random question?** Send me a [message](
+
+
+***Feeling COVID-fatigued?*** [Check out some of our previous random discussions]( You're likely to find some quality [recipes]( new [shows]( to watch, or an interesting [subreddit]( or two!  
+
+
+Don't forget, although moderation is a bit 'softer' in this thread, please keep the discussion civil and friendly. :)  
+&amp;nbsp;
+____
+
+
+- **New to this subreddit?** *Check out our [rules](
+- **Interested in some free mental health resources?** *Check out this [list](
+- **After a long battle, Victoria is on the road to recovery.** *You can find information about what stage Victoria is in [here](
+
+&amp;nbsp;
+
+
+^(*Within reason - don't forget this sub is open to all ages.) ^:)
+++++++++++
+ COVID EARLY RELEASE OF SUPER Anyone else applied for release of super through ato? Just curious to how long it takes from leaving your super till it hit your bank account? 
+(i’m with rest super)
+++++++++++
+ Shops such as Bunnings and Dan Murphy open after tomorrow? We have a supposed lock-down but we only have examples of places that will be open and examples of places that won't be open. The examples don't include the vast majority of shops that could be essential during a longer lock-down. Will hardware shops and such be open?
+++++++++++
+ Daily Discussion Post - 07 April 2020 (help us keep our newsfeed awesome by putting smaller questions/comments/discussion/opinions here). [removed]
+++++++++++
+ Employer asking for the job keeper pay to be returned back to him My employer has told me I will be receiving a lump sum payment from this job keeper payment. He’s told me when he transfers it into my account I will need to withdraw it and give it back to him at work? When my employer applied for the job keeper payments, asked everyone to sign the forms while we were at work. He filled the form and then asked for our signatures. I should have read what I was signing but he made me feel like it was nothing and I could trust him. I feel he is being really dodgy. Our work has picked up again and he has stopped all EFTPOS payments and only accepting cash...my guess is to show the government business has “decreased”.
+++++++++++
+ Aussie picker admits we're 'a bit soft' for many farm labour jobs taken by backpackers — ABC News 
+++++++++++
+ NSW: graph of daily local cases &amp;#x200B;
+
+
+
+    t = 25 for the date 2020-07-31
+    exponential model is 24013.165 * exp(0.0 * t) + -24012.0272
+    simple exponential model is 3.7797 * exp(0.0611 * t)
+    linear model is 1.1368 + 0.6168 * t
+    quadratic model is -0.8046 + 1.1021 * t + -0.0194 * t^2
+    exponential model residue is 237.1
+    linear model residue is 237.1
+    quadratic model residue is 212.4
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 91.8021 * exp(0.0521 * t) + -105.1301
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for NSW.
+
+    “date”,”local_cases”
+    2020-07-06,0
+    2020-07-07,1
+    2020-07-08,1
+    2020-07-09,2
+    2020-07-10,1
+    2020-07-11,1
+    2020-07-12,3
+    2020-07-13,8
+    2020-07-14,11
+    2020-07-15,10
+    2020-07-16,6
+    2020-07-17,6
+    2020-07-18,11
+    2020-07-19,13
+    2020-07-20,15
+    2020-07-21,12
+    2020-07-22,15
+    2020-07-23,15
+    2020-07-24,7
+    2020-07-25,9
+    2020-07-26,11
+    2020-07-27,9
+    2020-07-28,12
+    2020-07-29,17
+    2020-07-30,16
+    2020-07-31,18
+++++++++++
+ Daily Discussion Post - 08 April 2020 (help us keep our newsfeed awesome by putting smaller questions/comments/discussion/opinions here). Don't forget our Discord server for live chat: [
+
+Our our case tracker that's updated throughout the day, and a growing list of useful resources:
+[
+++++++++++
+ Advice needed for family coming back from overseas My brother lost his job today in London and will be flying back into Sydney in the next couple of days... obviously he needs to self isolate but to do this he needs to get to Port Macquarie where my parents have an empty unit he can stay in around the corner from them... 
+
+What’s the best way to get him up there? Public transports a bit iffy I think so would I be safe to drive him up there if I wore a mask?
+++++++++++
+ Don't flatten the curve, bend it: the fatal flaw in our COVID-19 strategy "Flatten the curve" is one of the great public health messaging success stories of our time. Along with a simple graphic, it has become ubiquitous and remarkably effective in communicating the need for social distancing to combat the COVID-19 pandemic. But for all its impact, it may actually be leading our decision-makers astray: rather than flattening the curve, we should instead be aiming to dramatically "bend the curve" to reduce the total number of infections and save lives.”
+
+
+
+++++++++++
+ Victorian Bloke, Needing a Vent/Some Advice Hey guys,
+
+I hardly use Reddit so I'll make this brief. I mainly need a vent at this point. Just wondering what in the hell to do, before COVID things were similar to this for me. Maybe a job interview here or there every couple of months if I was lucky, no friends or anyone to hang around with, depression being a pain in the ass. Now with COVID, things have just hit a new level for me. For a few weeks I was literally applying for jobs not only in my area (Bendigo) but also down at Melbourne - which to me at that point in time was a major hotspot but I didn't have much choice in the matter - you can imagine how that went down. 
+
+Now, it just feels like things aren't going to change - COVID or otherwise - whatsoever for me. Lately I've been leaving the house once a week (wearing a mask, keeping (over) six feet from everyone etc) for a few hours tops. One part of me wants to find someone/some folks down here around town who I can hang out with during those few hours - as take it from someone who knows, being alone does get to you eventually. Hadn't even left the house whatsoever until a few weeks ago with COVID going around. I could go on but aye.
+
+I've got no one close down here (family who I live with, things have been rocky has all hell even before COVID) and I'm slowly going out of my mind here. I even tried looking into contact tracing and nada whatsoever (if anyone has any way of helping with that, let me know). 
+
+TLDR: Aussie Victorian, who is struggling with COVID/Lockdown going on, even before it things were the same. Looking for any pointers from any of you lot. Tried keeping it brief and to the point here.
+++++++++++
+ Should I continue my job at a bottleshop in Sydney? I've been tossing this up in my head for the past few days and would like to get some outside opinion.
+
+Everyone I know has lost their jobs but iv still got one, working in a bottle shop, but I'm torn between keeping it or quitting.  
+
+on one hand I'm really lucky because iv got an income and people would kill for that right now. On the other, it's a pretty high-risk environment.
+
+ Its a very small store so its hard to practice proper social distancing, its in a suburb with a huge amount of homeless customers (Surry Hills) (not a dig at the homeless. Just pointing out that they are obviously at a higher risk of being carriers), the owners arent doing huge amounts to minimise risk (we've got hand sanitiser out and X's every 2 meters on the floor for ques which no customers obey, and thats about it), they havn't even made a rule of card payments only because a lot of our customers dont even have bank accounts. I spoke to my friends dad who works in hospitals and he literally called me a fucking idiot for having not stopped working. In my head its only a matter of time before I get the virus.
+++++++++++
+ 1.5 months of prepping - going to get more cans tomorrow. Still have plenty of more things to go buy, but I don't have a car, so I'm riding my bike to the shops and filling my backpack up which has taken me quite a few trips to get to this stage. Let me know what you think. 
+++++++++++
+ Coronavirus Downunder Nightly ɯopuɐɹ Discussion - 11 October, 2020 This is the nightly ɯopuɐɹ discussion thread for r/CoronavirusDownunder, where you can chat about *anything** you like!  
+
+***Feeling COVID-fatigued?*** [Check out some of our previous random discussions]( You're likely to find some quality [recipes]( new [shows]( to watch, or an interesting [subreddit]( or two!  
+
+
+**Don't forget, although moderation is a bit 'softer' in this thread, please keep the discussion civil and friendly. :)**  
+
+&amp;nbsp;  
+
+____  
+  
+**Tonight's random discussion question is:** ***What is one thing that you are thankful for this week?***
+&amp;nbsp;  
+
+Got a suggestion for a random question? Send me a [message](
+____
+&amp;nbsp;  
+
+- **New to this subreddit?** *Check out our [rules](
+- **Interested in some free mental health resources?** *Check out this [list](
+- **After a long battle, Victoria is on the road to recovery.** *You can find information about what stage Victoria is in [here](
+
+&amp;nbsp;
+
+
+^(*Within reason - don't forget this sub is open to all ages.) ^:)
+++++++++++
+ Coronavirus Downunder Nightly Random Discussion - 12 September, 2020 This is the nightly random discussion thread for r/CoronavirusDownunder.
+
+Here, you can chat about anything you like, even topics that are unrelated to COVID-19! In fact, each night I try to start the discussion with a random question, such as [*What are your fave iso binge-watching shows atm?*](
+
+***Feeling COVID-fatigued?*** Why not check out some of the subs that our Redditors shared with us on [Monday](  For instance: r/mirrorsforsale, r/divorcedbirds 
+
+Don't forget, although moderation will be a bit 'softer' in this thread, please keep the discussion civil and friendly. 
+
+----
+
+* **New to this subreddit? About to ask a question?** Check out our [rules]( the [Reddit content policy]( or this [thread]( might answer your question!
+* We also understand that this may be a difficult time for you or people you support. Therefore, we've compiled a useful list of free [mental health resources](
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Purely my own speculation, I think the peak is at day 54 or 2020-07-30 (see graph below). Please take it with a HUGE grain of salt. Actually with today's result the peak has move backward to day 56 but the graph below still shows the peak at day 54. This shows that even I cannot accurately predict the future.
+
+swift model [
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+    2020-07-06,127
+    2020-07-07,191
+    2020-07-08,134
+    2020-07-09,165
+    2020-07-10,288
+    2020-07-11,216
+    2020-07-12,273
+    2020-07-13,176
+    2020-07-14,270
+    2020-07-15,238
+    2020-07-16,317
+    2020-07-17,428
+    2020-07-18,216
+    2020-07-19,363
+    2020-07-20,275
+    2020-07-21,374
+    2020-07-22,484
+    2020-07-23,403
+    2020-07-24,300
+    2020-07-25,357
+    2020-07-26,459
+    2020-07-27,532
+    2020-07-28,384
+    2020-07-29,295
+    2020-07-30,723
+    2020-07-31,627
+    2020-08-01,397
+    2020-08-02,671
+    2020-08-03,429
+    2020-08-04,439
+    2020-08-05,725
+    2020-08-06,471
+    2020-08-07,450
+    2020-08-08,466
+    2020-08-09,394
+    2020-08-10,322
+    2020-08-11,331
+    2020-08-12,410
+    2020-08-13,278
+    2020-08-14,372
+    2020-08-15,303
+    2020-08-16,279
+    2020-08-17,282
+++++++++++
+ IF Australia locks down, supermarkets and pharmacy’s stay open... what about the workers? I work in retail, upper management with supermarkets. While we stay open, ***IF*** Australia locks down, do we get compensated for that? I know my employer will do everything they can to not pay more, but will the government help? 
+
+With the PM’s latest bullshit about how the economy is more valuable than human lives, I’m worried that all supermarket workers everywhere will, yet again, get shafted.
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Purely my own speculation, I think the peak is at day 54 or 2020-07-30 (see graph below). Please take it with a HUGE grain of salt. Actually with today's result the peak has move backward to day 56 but the graph below still shows the peak at day 54. This shows that even I cannot accurately predict the future.
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+swift model [
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+    2020-07-06,127
+    2020-07-07,191
+    2020-07-08,134
+    2020-07-09,165
+    2020-07-10,288
+    2020-07-11,216
+    2020-07-12,273
+    2020-07-13,176
+    2020-07-14,270
+    2020-07-15,238
+    2020-07-16,317
+    2020-07-17,428
+    2020-07-18,216
+    2020-07-19,363
+    2020-07-20,275
+    2020-07-21,374
+    2020-07-22,484
+    2020-07-23,403
+    2020-07-24,300
+    2020-07-25,357
+    2020-07-26,459
+    2020-07-27,532
+    2020-07-28,384
+    2020-07-29,295
+    2020-07-30,723
+    2020-07-31,627
+    2020-08-01,397
+    2020-08-02,671
+    2020-08-03,429
+    2020-08-04,439
+    2020-08-05,725
+    2020-08-06,471
+    2020-08-07,450
+    2020-08-08,466
+    2020-08-09,394
+    2020-08-10,322
+    2020-08-11,331
+    2020-08-12,410
+    2020-08-13,278
+    2020-08-14,372
+    2020-08-15,303
+    2020-08-16,279
+    2020-08-17,282
+    2020-08-18,222
+    2020-08-19,216
+    2020-08-20,240
+++++++++++
+ Coronavirus Downunder Nightly Random Discussion - 06 September, 2020 This is the nightly random discussion thread for r/CoronavirusDownunder.
+
+Moderation will be a bit 'softer' in this thread, but please remember to keep the discussion civil and friendly.
+
+You are welcome to chat about anything that may not normally fit into the sub rules, including topics that are unrelated to COVID-19. In fact, each night I try to start the discussion with a random question, such as [*What are your fave iso binge-watching shows atm?*](
+
+***Feeling bored?*** Here’s a r/CuteButHorrifying video of a [cat acting like a crab](  Or,  perhaps you need a new r/DiWHY project?  How about this [one](
+
+----
+
+&amp;#x200B;
+
+* **New to this subreddit? About to ask a question?** Check out our [rules]( the [Reddit content policy]( or this [thread]( might answer your question!
+* We also understand that this may be a difficult time for you or people you support. Therefore, we've compiled a useful list of free [mental health resources](
+++++++++++
+ How much longer will there be a shortage of Toilet Paper and in-demand products like Hand Sanitisers ? 
+++++++++++
+ Are people reporting large business breaches (Coles/Woolies)? I encourage you to do so. I'm tired of my local Coles. First, they've always promised that they will clean the self checkout stations after each customer, and yet I have repeatedly seen that they regularly don't do this. I've asked people at the checkout why they don't, and they've just said "it's busy today." Then I've called the location by phone, and they would just deny and stonewall - "we always clean after every customer" and ignore if I say "I see with my own eyes that you regularly don't."
+
+Next, they're not managing the flow of customers into self-checkout well, and as such, violating the 4 square metre rule.
+
+Now I've seen staff members not wear masks over nose on two occasions. So I'm really annoyed. I reported this to the police as a business breach. I wouldn't do this against a small business unless it was egregious, but with the Coles/Woolies duopoly, I want some of those $11K fines to go back into the state coffers and help out other businesses.
+
+Do you think this is fair? If you agree, please report any breaches, especially of large businesses (Kmart too) that you see. The police will probably ignore one report but multiple might have an effect.
+++++++++++
+ Can we please stop with the politics I am getting tired of the continuous political posting.  I thought the live discussion was put up for those who wanted to discuss politics and the way the Govt was handling the situation?  I really find the constant negatively just too much on top of the actual virus and the uncertainty surrounding it. Please can we put all political posts in one area or better yet, quit bagging the PM and the Govts in virtually every post?  I don't say I agree with every decision made but they are doing as well as anywhere else. I just think that this shouldn't become a political site.
+++++++++++
+ 1.6 million people have either lost their jobs, or rely on Govt wage subsidy. [removed]
+++++++++++
+ Why did the Australian Gov and States attempt to make it 4 squared metres between patrons in pubs/cafes and clubs before just locking down all? Would it not have been easier to shut everything instead of this adhoc approach...? 
+++++++++++
+ Vic: graph of daily local cases causes PEAK PANIC &amp;#x200B;
+
+
+
+    t = 54 for the date 2020-07-30
+    exponential model is 73.6014 * exp(0.0401 * t) + -103.6781
+    simple exponential model is 20.9342 * exp(0.0612 * t)
+    linear model is -103.1571 + 9.754 * t
+    quadratic model is 0.2133 + -1.9483 * t + 0.2167 * t^2
+    exponential model residue is 204346.9
+    linear model residue is 322979.8
+    quadratic model residue is 191887.0
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 202.4759 * exp(0.0716 * t) + -470.4776
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+Purely my own **speculation**, I think the peak is at day 54 or 2020-07-30 (see graph below). **Please take it with a HUGE grain of salt.** 
+
+Day 54 is TODAY. GEE I WONDER IF WE SEE ANY SIGNS THAT TODAY IS A PEAK? SARCASM. 
+
+*Actually with today's result the peak has move forward to day 61 but the graph below still shows the peak at day 54. This shows that even I cannot accurately predict the future.*
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+    2020-07-06,127
+    2020-07-07,191
+    2020-07-08,134
+    2020-07-09,165
+    2020-07-10,288
+    2020-07-11,216
+    2020-07-12,273
+    2020-07-13,176
+    2020-07-14,270
+    2020-07-15,238
+    2020-07-16,317
+    2020-07-17,428
+    2020-07-18,216
+    2020-07-19,363
+    2020-07-20,275
+    2020-07-21,374
+    2020-07-22,484
+    2020-07-23,403
+    2020-07-24,300
+    2020-07-25,357
+    2020-07-26,459
+    2020-07-27,532
+    2020-07-28,384
+    2020-07-29,295
+    2020-07-30,723
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+    t = 52 for the date 2020-07-28
+    exponential model is 74.879 * exp(0.0399 * t) + -105.6975
+    simple exponential model is 19.8953 * exp(0.0627 * t)
+    linear model is -95.7128 + 9.3366 * t
+    quadratic model is -0.6036 + -1.8528 * t + 0.2152 * t^2
+    exponential model residue is 122667.9
+    linear model residue is 216423.1
+    quadratic model residue is 109040.5
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 160.7701 * exp(0.0766 * t) + -383.743
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+Purely my own **speculation**, I think the peak is at day 54 or 2020-07-30 (see graph below). **Please take it with a HUGE grain of salt.** *Actually with today's result the peak has move forward to day 57 but the graph below still shows the peak at day 54. This shows that even I cannot accurately predict the future.*
+
+&amp;#x200B;
+
+
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+    2020-07-06,127
+    2020-07-07,191
+    2020-07-08,134
+    2020-07-09,165
+    2020-07-10,288
+    2020-07-11,216
+    2020-07-12,273
+    2020-07-13,176
+    2020-07-14,270
+    2020-07-15,238
+    2020-07-16,317
+    2020-07-17,428
+    2020-07-18,216
+    2020-07-19,363
+    2020-07-20,275
+    2020-07-21,374
+    2020-07-22,484
+    2020-07-23,403
+    2020-07-24,300
+    2020-07-25,357
+    2020-07-26,459
+    2020-07-27,532
+    2020-07-28,384
+++++++++++
+ flinders uni S.A makes class attendance non-compolsury / moving to online 
+++++++++++
+ [AUTOMOD TEST] Daily Discussion Post - 05 April 2020 (help us keep our newsfeed awesome by putting smaller questions/comments/discussion/opinions here). Don't forget our Discord server for live chat: [
+
+Our our case tracker that's updated throughout the day, and a growing list of useful resources:
+[
+++++++++++
+ Does anyone question whether they'd be better off unemployed right now? It's a bit of a perverse question. I realise it may sound opportunistic and rich, but as a full-time hours casual worker in an industry where carpooling can greatly offset the burden of commute, it's hard not to look at stimulus packages and wonder if I'd be better off trying to use the time to retrain in an area that will more promptly offer full-time work, from the appealing isolation of my own home.
+
+My perspective is fueled by the the knowledge that realities of casual employment still apply at a time of crisis. Despite working and blatantly endangering my safety by doing so, I won't accrue any paid or sick leave... after a year like this, everyone deserves a holiday.
+
+EDIT: I'm not proposing I quit to receive unemployment benefits - as I understand, one can't do so and respect to receive them, plus I'm grateful to have a job. I'm more interested in people's perspectives on what's going on at the moment, probably should've made that clear!
+++++++++++
+ Just keep shopping, just keep shopping, just keep shopping, shopping, shopping 
+++++++++++
+ Social distancing regulations are 'over the bloody top': Pauline Hanson 
+++++++++++
+ The University of Notre Dame are offering free professional development to healthcare workers to help them face the coronavirus pandemic. 
+++++++++++
+ Empty Platitudes in a Time of Crisis - Do the people standing outside clapping for the faceless, nameless essential workers feel as though they are genuinely contributing to something or is it just the latest iteration of slacktivism? 
+++++++++++
+ Coronavirus Downunder Nightly ɯopuɐɹ Discussion - 22 September, 2020 This is the nightly ɯopuɐɹ discussion thread for r/CoronavirusDownunder, where you can chat about *anything** you like!  
+
+Each night I try to start the discussion with a random question! **Got a suggestion for a random question?** Send me a [message](
+
+
+***Feeling COVID-fatigued?*** [Check out some of our previous random discussions]( You're likely to find some quality [recipes]( new [shows]( to watch, or an interesting [subreddit]( or two!  
+
+
+Don't forget, although moderation is a bit 'softer' in this thread, please keep the discussion civil and friendly. :)  
+&amp;nbsp;
+____
+
+
+- **New to this subreddit?** *Check out our [rules](
+- **Interested in some free mental health resources?** *Check out this [list](
+- **After a long battle, Victoria is on the road to recovery.** *You can find information about what stage Victoria is in [here](
+
+&amp;nbsp;
+
+
+^(*Within reason - don't forget this sub is open to all ages.) ^:)
+++++++++++
+ PSA- Many Victorian F45 Training studios plan to open with 18-20 members tomorrow despite restrictions saying maximum of 10 Here are the guidelines: 
+
+Studios are playing dumb that there is a line saying gyms can open with 20- completely ignoring the line about maximum of 10 per class!
+
+Putting their profits over community health in Victoria.
+
+Check out the F45 Camberwell story to see 18 per class mentioned.
+
+Plenty of others are as well.
+++++++++++
+ Daily Discussion Post - {{ date %d %B %Y }} - (help us keep our newsfeed awesome by putting smaller questions/comments/discussion/opinions here). Don't forget our Discord server for live chat: [
+
+Our our case tracker that's updated throughout the day, and a growing list of useful resources:
+[
+++++++++++
+ ‘Time to finish the job’: The experts’ road map to beat COVID-19 in Australia 
+++++++++++
+ Woolworths announces dedicated hour of shopping for elderly as shoppers urged to avoid stockpiling goods 
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+    t = 40 for the date 2020-07-16
+    exponential model is 12.6163 * exp(0.082 * t) + -21.8348
+    linear model is -60.0383 + 6.9275 * t
+    quadratic model is 17.3411 + -4.977 * t + 0.2976 * t^2
+    exponential model residue is 28374.8
+    linear model residue is 83660.1
+    quadratic model residue is 26819.5
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 32.7127 * exp(0.1162 * t) + -74.7488
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+    2020-07-06,127
+    2020-07-07,191
+    2020-07-08,134
+    2020-07-09,165
+    2020-07-10,288
+    2020-07-11,216
+    2020-07-12,273
+    2020-07-13,176
+    2020-07-14,270
+    2020-07-15,238
+    2020-07-16,317
+++++++++++
+ Has anyone stopped going to the gym? Question I feel like it’s a no brainer to put my gym membership on hold, curious if many others here have also stopped going?
+++++++++++
+ Flattening the curve for healthcare resources - something for co-workers saying "it only affects old people" or "we will all get it anyway" - the rate it spreads is key. We can all do our bit. Wash hands, don't touch your face! From  
+++++++++++
+ What sparks panic-buying? The core issue arises when the media picks up on the first toilet paper shortages in the few stores where this is an issue. That’s when extended panic buying starts, as people, prompted by sensationalist reporting, begin to feel insecure about the availability of products they had taken for granted.
+
+[
+++++++++++
+ Victoria Prime Minister will speak after the Prime Minister today on ABC News. Please post all your related comments here :) Live news link:  [ 
+
+Link for comments relating to the PM's press conference:  [
+++++++++++
+ 'The show will go on': Organisers say coronavirus won't stop Easter Show 
+++++++++++
+ How soon are you able to do a 2nd Covid-19 test? I'm an aged care worker and had common cold symptoms last week so I let work know and they advised me to have a covid test done and that I should isolate for 14 days regardless of the outcome. My result came the next days saying it's negative. My boss today asks if I am able to work. This doesn't make sense to me since they're the ones who told me to self-isolate regardless of the outcome, so I told them that I thought I had to isolate??? At this point I'm very confused. My boss then says that I must have a second covid test done with a negative outcome and from then on will I be able to work. WTF? 
+
+I asked my GP about the 14 day isolation even with a negative result, and she doesn't agree. She said that I only isolate if showing symptoms but if the symptoms disappear then there is no longer any need for isolation. I also rang the Covid hotline, but they stated that it is "recommended" for aged care workers.
+++++++++++
+ Coronavirus Downunder Nightly ɯopuɐɹ Discussion - 30 September, 2020 This is the nightly ɯopuɐɹ discussion thread for r/CoronavirusDownunder, where you can chat about *anything** you like!  
+
+Each night I try to start the discussion with a random question! **Got a suggestion for a random question?** Send me a [message](
+
+
+***Feeling COVID-fatigued?*** [Check out some of our previous random discussions]( You're likely to find some quality [recipes]( new [shows]( to watch, or an interesting [subreddit]( or two!  
+
+
+Don't forget, although moderation is a bit 'softer' in this thread, please keep the discussion civil and friendly. :)  
+&amp;nbsp;
+____
+
+
+- **New to this subreddit?** *Check out our [rules](
+- **Interested in some free mental health resources?** *Check out this [list](
+- **After a long battle, Victoria is on the road to recovery.** *You can find information about what stage Victoria is in [here](
+
+&amp;nbsp;
+
+
+^(*Within reason - don't forget this sub is open to all ages.) ^:)
+++++++++++
+ Been a bit unwell, and haven’t been to the shops in over a week. Wondering if the shelves are still stripped bare or has this settled a little. I have a bit of a dry cough and a slightly raised temperature, so have stayed home for over a week. I’m not too concerned as I think this is just a change of season bug. It came on after I fell asleep on warm night and woke up to a cold morning. Luckily I stocked up a bit before the crowds descended on the supermarkets. I will be staying home for more days until I’m better.
+
+I’m interested in getting a sense from people across Australia whether it is still bordering on impossible to buy toilet paper, pasta, mince and so on - unless one is there at the exact time the stock is put out.
+
+Anyway, good luck to everyone and stay safe.
+++++++++++
+ Daily Discussion Post - 11 April 2020 (help us keep our newsfeed awesome by putting smaller questions/comments/discussion/opinions here). Don't forget our Discord server for live chat: [
+
+Our case tracker that's updated throughout the day, and a growing list of useful resources:
+[
+++++++++++
+ How did we go from Social Distancing Recommendations to Screw the Economy in a matter of days? What happened in those few days? Social Distancing recommendations started, fine. Roads were near empty and venues slimming of patrons. Then a few days later some tourists go to the beach and we all got talked down to.
+
+What happened in those few days that caused the Gov't to spring into action so fervently?
+++++++++++
+ Just a friendly reminder to always think for yourself. Masks have always been effective, don't let anyone gaslight you - even the government. 
+++++++++++
+ Gained or lost weight during lockdown? The assumption was we'd all get fatter. But having more time to excersize and cook healthy meals maybe had the opposite effect. 
+
+What have people experienced?
+++++++++++
+ Every time I watch a TV Show or Movie lately... 
+++++++++++
+ Report neighbor making daily trips to supermarket I have seen my neighbor make daily trips to the supermarket, and not for big stuff either. Just one bag here and there. Once I saw them literally buy a can of coke.
+
+Is this something I can report to the police for? I think they are flouting the intent of the law.
+++++++++++
+ NSW vs VIC contacting tracing Can anyone please help me understand why Victoria's contact tracing failed and NSW believes there's won't? 
+
+The only thing i can thing of is that Victoria had the breach with the hotels and it must have gone undetected for a period of time?
+
+National cabinet have made the decision to continue with supression- does these mean all of Australia will experience outbreaks and rolling lockdowns? Just want to understand what are their plan is to stop a situation like Victoria happening again- where they lost contact tracing?
+++++++++++
+ Coronavirus Downunder Nightly ɯopuɐɹ Discussion - 7 November, 2020 **This is the nightly ɯopuɐɹ discussion thread for r/CoronavirusDownunder, where you can chat about** ***anything**** **you like!**  Don't forget, although moderation is a bit 'softer' in this thread, please keep the discussion civil and friendly. :)  
+
+ 
+
+
+- **Got a suggestion for a random question?**** *Send me a [message](
+- **New to this subreddit?** *Check out our [rules](
+- **Interested in some free mental health resources?** *Check out this [list](
+
+
+&amp;nbsp;  
+^(* Within reason - don't forget this sub is open to all ages.) ^:)  
+^(** Please send help, I'm running out of discussion questions...)
+
+____  
+
+
+# 𝗧𝗼𝗻𝗶𝗴𝗵𝘁'𝘀 𝗱𝗶𝘀𝗰𝘂𝘀𝘀𝗶𝗼𝗻 𝗾𝘂𝗲𝘀𝘁𝗶𝗼𝗻 𝗶𝘀...  💬  
+
+
+
+####What movie have you always wanted to watch but never got the chance?  
+*Big thanks to u/Jcit878 for suggesting tonight's discussion question!* 
+
+
+&amp;nbsp;
+++++++++++
+ Coffee cup mask exemptions So it appears that takeaway coffees are an acceptable reason for now wearing a mask. 
+I live about 100m from our local coffee shop. 
+I regularly have people strolling past my house with their mask/face covering pulled down while they nonchalantly chat and stroll past with their walking buddy. 
+I remind them that they should have a mask on. The response is usually "how can i drink my coffee?", and not always as polite. 
+FFS can people not get their fresh air/exercise without grabbing a coffee or even worse, find any excuse, no matter how small, to circumvent any lockdown rules? It's infuriating. 
+JUST WEAR YOUR MASK!!!
+Rant over, peace!
+++++++++++
+ Doughnuts Downunder Nightly ɯopuɐɹ Discussion - 22 November, 2020 # 𝗧𝗵𝗶𝘀 𝗶𝘀 𝘁𝗵𝗲 𝗻𝗶𝗴𝗵𝘁𝗹𝘆 ɯ𝗼𝗽𝘂ɐɹ 𝗱𝗶𝘀𝗰𝘂𝘀𝘀𝗶𝗼𝗻 𝘁𝗵𝗿𝗲𝗮𝗱 𝗳𝗼𝗿 𝗗𝗼𝘂𝗴𝗵𝗻𝘂𝘁𝘀𝗗𝗼𝘄𝗻𝘂𝗻𝗱𝗲𝗿, 𝘄𝗵𝗲𝗿𝗲 𝘆𝗼𝘂 𝗰𝗮𝗻 𝗰𝗵𝗮𝘁 𝗮𝗯𝗼𝘂𝘁 (𝗻𝗲𝗮𝗿𝗹𝘆) 𝗮𝗻𝘆𝘁𝗵𝗶𝗻𝗴 𝘆𝗼𝘂 𝗹𝗶𝗸𝗲! 𝗔𝗹𝗹 𝘄𝗲 𝗮𝘀𝗸 𝗶𝘀 𝘁𝗵𝗮𝘁 𝘆𝗼𝘂 𝗮𝗿𝗲 𝗸𝗶𝗻𝗱 𝘁𝗼 𝗼𝗻𝗲 𝗮𝗻𝗼𝘁𝗵𝗲𝗿 ♡
+
+&amp;#x200B;
+
+* **New to this subreddit?** *Check out our* [*rules*](
+* **Got a suggestion for a random question?** *Send me a* [*message*](
+* **Threads from today that you may be interested in:**
+   * [Victoria’s press conference/road map discussion megathread](
+   * [South Australia's Daily Case and News Update](
+   * [New South Wales Daily Case Update - ***0 local cases for 15 days in a row!***](  
+
+
+
+
+# 𝗧𝗼𝗻𝗶𝗴𝗵𝘁'𝘀 𝗱𝗶𝘀𝗰𝘂𝘀𝘀𝗶𝗼𝗻 𝗾𝘂𝗲𝘀𝘁𝗶𝗼𝗻 𝗶𝘀...
+
+&gt;*My usual Sunday special:*
+
+# ❝ What are you thankful for this week? ❞
+++++++++++
+ Scott Morrison is now blaming Australians for the disease continuing to spread, and worse, he's suddenly angry that people followed his advice and went to work, shops, restaurants etc [removed]
+++++++++++
+ Coronavirus Downunder Nightly ɯopuɐɹ Discussion - 9 November, 2020 **This is the nightly ɯopuɐɹ discussion thread for r/CoronavirusDownunder, where you can chat about** ***anything**** **you like!**  Don't forget, although moderation is a bit 'softer' in this thread, please keep the discussion civil and friendly. :)  
+
+ 
+
+
+- **Got a suggestion for a random question?**** *Send me a [message](
+- **New to this subreddit?** *Check out our [rules](
+- **Interested in some free mental health resources?** *Check out this [list](
+
+
+&amp;nbsp;  
+^(* Within reason - don't forget this sub is open to all ages.) ^:)  
+^(** Please send help, I'm running out of discussion questions...)
+
+____  
+
+
+# 𝗧𝗼𝗻𝗶𝗴𝗵𝘁'𝘀 𝗱𝗶𝘀𝗰𝘂𝘀𝘀𝗶𝗼𝗻 𝗾𝘂𝗲𝘀𝘁𝗶𝗼𝗻 𝗶𝘀...  💬  
+
+
+
+####Out of KFC, Maccas, Hungry Jacks and Oporto, which fast food chain has the best chips?  
+*BIG thanks goes to u/letshuglonger for the great discussion question!*
+
+
+&amp;nbsp;
+++++++++++
+ 'No one is making money': New taxes needed for recovery 
+++++++++++
+ Peter Dutton issues stark warning to busload hoarders - Anyone with photo evidence of these buses in front of regional supermarkets is being urged to call Crimestoppers on 1800 333 000. [
+
+[
+
+Edit: Added photo link (No way to verify it, ultimately up to the AFP to decide)
+++++++++++
+ Flatten the Curve: Brendan Murphy and Scott Morrison rockstar remix with other world leaders 
+++++++++++
+ Will there be a mini-baby-boom? We see it sometimes from big storms or blackouts or whatever... 
+
+I wonder if there'll be a slight baby boom at the end of this year? Particularly in China, Italy, etc?
+++++++++++
+ Together we crush the curve Day one is over. Everyone is sick of it already. But can you feel just a bit of community spirit when we work together? 
+
+We don’t have to know each other. Just by the virtue of putting the mask on, we help everyone around us, and everyone around us, helps us. 
+
+No one alive wants to be where we are. No one wants to sit at home and have to try and get overseas Netflix via a VPN because you’ve ran out of anything food on the Aussie version (and become subsequently annoyed that the VPN throttles the speed so much you can barely watch anyway!) 
+
+No one wants to be afraid every time they have to go inside somewhere. Whether it’s woolies or office works or to the bottle shop. But, we are where we are and it’s not really anyone’s fault. And even if we could blame the Chinese potentially, it doesn’t do any good. We are where we are. 
+
+Every “right” decision we make shortens the duration of this event and keeps us safer in the long run. Every wrong decision does the opposite. Everyone, no matter how tough they appear is scared. Everyone is in uncharted waters. Everyone is doing their best to manage. 
+
+We are social animals. And by not being social at the same time as an invisible pandemic running amok, it gets depressing. 
+
+Came back from interstate recently and was away for a few weeks. Melbourne has been fantastic. The regions have been fantastic. People want this to be over, and how good a feeling will it become when we do start to see the numbers going down? That we can prove to ourselves that through sacrifices we can make a real tangible difference? This next shut down has undoubtedly made people angrier than the first when we felt arguably more afraid, but, by working together we crush the curve, and stamp on it so hard and for long as necessary so we can get back to our lives. 
+
+Everyone is doing their best. Even the morons you see on the news are scared, be kind to everyone. Adversity can bring out the best in people. 
+
+#crushthecurve
+++++++++++
+ Overview of some of the major job cuts and hires in Australia 
+++++++++++
+ The easiest foods to grow at home during quarantine | Reader's Digest Australia 
+++++++++++
+ Risking life for minimum wage? My wife is immunocompromised so we cant leave the house at all, we appreciate the people who are working to keep the country running but we feel sad that there is no extra financial reward for those people who risk their lives on a daily basis. Would our politicians agree to work if they were asked to clean the inside of a Nuclear Reactor? NO they wouldn't so why force other people to risk their lives? Shouldn't we encourage people to do risky jobs by offering higher wages? 
+
+&amp;#x200B;
+
+If I can get a "work from home" job I will take it but I am not going to kill my wife just because I applied to get the dole and I have "mutual obligations".
+
+&amp;#x200B;
+
+Does Australia still pretend to be a Democratic Country - or did I miss that memo?
+++++++++++
+ Coronavirus Downunder Nightly ɯopuɐɹ Discussion - 1 November, 2020 🎶 **[I come from a land down under
+Where beer does flow and men chunder
+Can't you hear, can't you hear the thunder
+You better run, you better take cover.]( 🎶 |
+---|  
+  
+  
+**This is the nightly ɯopuɐɹ discussion thread for r/CoronavirusDownunder, where you can chat about** ***anything**** **you like!**  Don't forget, although moderation is a bit 'softer' in this thread, please keep the discussion civil and friendly. :)   
+&amp;nbsp;  
+
+
+- **Got a suggestion for a random question?**** *Send me a [message](
+- **New to this subreddit?** *Check out our [rules](
+- **Interested in some free mental health resources?** *Check out this [list](
+- **After a long battle, Victoria is on the road to recovery.** *You can find information about what stage Victoria is in [here](
+
+ &amp;nbsp;  
+
+&amp;nbsp;  
+^(* Within reason - don't forget this sub is open to all ages.) ^:)  
+^(** Please send help, I'm running out of discussion questions...)
+
+____  
+
+
+# 𝗧𝗼𝗻𝗶𝗴𝗵𝘁'𝘀 𝗱𝗶𝘀𝗰𝘂𝘀𝘀𝗶𝗼𝗻 𝗾𝘂𝗲𝘀𝘁𝗶𝗼𝗻 𝗶𝘀...  💬  
+
+
+
+####Given it’s national doughnut day, what’s your favourite type of doughnut? 🍩 🍩 🍩
+ 
+
+ 
+&amp;nbsp;
+++++++++++
+ The PM will be speaking at 9pm (AEDT) on ABC News, following tonight's cabinet meeting. Super thread for all your related discussions, comments, thoughts and questions :) A bunch of peeps will also be watching it live on our discord server:  [
+++++++++++
+ Between this and ‘Flatten the Curve’, there’s some great marketing that the government could do to help the situation. 
+++++++++++
+ Jobkeeper salary query I am fulltime, management in retail-hospitality. My employer is applyung for jobkeeper. I understood this to mean that $1500 of my salary is paid for them, &amp; the remaining is paid by them. My question is... can they reduce my salary to match the $1500? This is what my employer has suggested to me is going to happen. How does this affect my hours and my benefits (holiday &amp; sick day &amp; time in lieu) accrual?
+++++++++++
+ Don't touch the food! I think it's time to implement some measures around the touching items/food at the supermarkets that you aren't buying. I was in Coles and I saw a lady opening around 20 different cartons of eggs and touching all of the eggs with her bare hands. She was standing there for a good 5-10 minutes and I was absolutely disgusted to say the least. By this stage we are all very well versed in quickly getting in, buying what we need and getting out. There is absolutely no need to "browse". Having signage and getting the message out there to only touch what you are taking with you can be done and I think it will be come the norm as has social distancing. I understand that these measures would be tough to enforce but there has to be a better way!
+++++++++++
+ Daily Discussion Post - 12 April 2020 (help us keep our newsfeed awesome by putting smaller questions/comments/discussion/opinions here). Don't forget our Discord server for live chat: [
+
+Our case tracker that's updated throughout the day, and a growing list of useful resources:
+[
+++++++++++
+ Is there any help for non-residents? Starting to freak out a little! I have worked as a personal trainer at a gym for 4 years, but as of yesterday I have lost my job for the foreseeable future. As a non-resident pommie, is there any help from the government I can get? Centrelink seems to be strictly for residents. Fortunately my landlord seems to be understanding for now, and I am in the process of talking to the bank to pause my car loan repayments. I am not sure how long my savings will keep me afloat though!
+++++++++++
+ ATO vows to crack down on Aussies planning to withdraw $10,000 from their super 
+++++++++++
+ Busloads of Shoppers raiding country town supermarkets. More and more of my friends are reporting this, at one country town 4 buses full of city people turned up and emptied the supermarket. WTF?
+++++++++++
+ Coronavirus Downunder Nightly ɯopuɐɹ Discussion - 21 October, 2020 This is the nightly ɯopuɐɹ discussion thread for r/CoronavirusDownunder, where you can chat about *anything** you like!
+
+*Don't forget, although moderation is a bit 'softer' in this thread, please keep the discussion civil and friendly.* :) 
+
+____  
+
+Tonight's discussion question is...  
+
+
+***What have you already crossed off your bucket list?***  
+
+
+&amp;nbsp;  
+____  
+
+
+- Got a suggestion for a random question? Send me a [message](
+- **New to this subreddit?** *Check out our [rules](
+- **Interested in some free mental health resources?** *Check out this [list](
+- **After a long battle, Victoria is on the road to recovery.** *You can find information about what stage Victoria is in [here](
+
+&amp;nbsp;
+
+
+^(*Within reason - don't forget this sub is open to all ages.) ^:)
+++++++++++
+ PM SlowMo trades dozens if not hundreds of Aussie lives for tens of thousands of jobs If schools close then “tens of thousands of jobs could be lost, if not more”.
+
+It’s all dollars and no sense.
+++++++++++
+ How to help the elderly/vulnerable Hi guys, 
+
+I was wondering if anyone knows how I can get involved with helping those who need help with food shopping/running errands etc?
+++++++++++
+ My friend living in Sydney is upset that he cannot buy a GUN for self protection during this pandemic. When did this illogical GUN BAN start? Can he get one in other cities? Maybe redneck Brisbane? 
+++++++++++
+ The economic cost of this lockdown is so unfairly split (rant) I feel like I am going to lose my home and the small business I have spent my life building so that people in QLD and WA can stand up in the pub. Even if I manage to hold on the ***best case*** scenario for me is that I lose a year's income.
+
+I blame the lockdown in Victoria 100% on the border closures, which forced us to go for elimination rather than #flattenthecurve. The fact is if I was in any other country on the planet my business would still be making some money. If the whole country was open under NSW level of restrictions I would still be making some money. But because of Anastasia and Mark I have had zero revenue for most of the year.
+
+And then I hear the federal government cutting support and individuals in other states act indignant at the idea of kicking in anything to help Victorians pay for the policies that they forced us in to.
+
+I just feel so betrayed by my fellow Australians. I feel like I am going to be bitter about this for the rest of my life. Whenever there is a flood in QLD or a bushfire in NSW we all come together to help, support is substantial to the Australians who need it and nobody is complaining about sharing the cost, so why is this different? Small business owners like me are being asked to potentially sacrifice everything for the greater good while others give so little and even complain about that.
+++++++++++
+ Nick Coatsworth just said teenagers need to remain vigilant with social distancing on ABC ...so when they are at school they are safe, but when hanging out elsewhere they are at risk of spreading the virus. Inconsistencies like this are causing confusion and leading to silly breaking of rules. When the rules are silly people are silly.
+++++++++++
+ Update 6/07 Situation in Public housing complete lockdown. I am one of the 3000 residents. Im a teen. As always i will answer every single question. Thanks for helping me make the situation transparent After receiving food on the floor of our doorstep yesterday a few minutes before midnight. We made the decision to not eat it as it was only enough for 1 person (family of 9) and the fact that the package was sticky on top and we hadnt known how long it had been open for. Basically nobody ate it because a large container was at the lobby with all the food thrown in there. A lot of it was probably not halal either. Most people only found out about it in the morning since nobody knocked. 
+
+Just today we finally got our first food package on the third night. It had enough essentials like cans of tuna and bread. We are grateful to AMSSA since they were the ones who organised it and gave it to us thanks to the many donations that were received. The actual DHHA or the government hasnt given us any food and amssa had to step in that day. I am grateful to them. Lots of constant announcements to get tested and a crazy amount of media and policemen outside. Multiple attempts to escape people have gone crazy. Lots of people were not given food before amssa came in. Lots of food shown on tv but none of it in our kitchens. We are unable to go buy food. 
+
+They have mentioned a hardship payment of $1500-$750 but i seriously doubt we will actually get it. Always lots of hidden conditions and the fact that we have no way of getting it. No info on it yet. Still no communication. I am starting to get restless and worried. 
+
+[Original Post](
+
+[1st Update 5/07](
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Purely my own speculation, I think the peak is at day 54 or 2020-07-30 (see graph below). Please take it with a HUGE grain of salt. Actually with today's result the peak has move backward to day 56 but the graph below still shows the peak at day 54. This shows that even I cannot accurately predict the future.
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+    2020-07-06,127
+    2020-07-07,191
+    2020-07-08,134
+    2020-07-09,165
+    2020-07-10,288
+    2020-07-11,216
+    2020-07-12,273
+    2020-07-13,176
+    2020-07-14,270
+    2020-07-15,238
+    2020-07-16,317
+    2020-07-17,428
+    2020-07-18,216
+    2020-07-19,363
+    2020-07-20,275
+    2020-07-21,374
+    2020-07-22,484
+    2020-07-23,403
+    2020-07-24,300
+    2020-07-25,357
+    2020-07-26,459
+    2020-07-27,532
+    2020-07-28,384
+    2020-07-29,295
+    2020-07-30,723
+    2020-07-31,627
+    2020-08-01,397
+    2020-08-02,671
+    2020-08-03,429
+    2020-08-04,439
+    2020-08-05,725
+    2020-08-06,471
+    2020-08-07,450
+    2020-08-08,466
+    2020-08-09,394
+    2020-08-10,322
+    2020-08-11,331
+    2020-08-12,410
+    2020-08-13,278
+    2020-08-14,372
+    2020-08-15,303
+    2020-08-16,279
+    2020-08-17,282
+    2020-08-18,222
+    2020-08-19,216
+    2020-08-20,240
+    2020-08-21,179
+    2020-08-22,182
+    2020-08-23,208
+    2020-08-24,116
+    2020-08-25,148
+    2020-08-26,149
+    2020-08-27,113
+    2020-08-28,113
+    2020-08-29,94
+    2020-08-30,114
+    2020-08-31,73
+    2020-09-01,70
+    2020-09-02,90
+    2020-09-03,113
+    2020-09-04,81
+    2020-09-05,76
+    2020-09-06,63
+    2020-09-07,41
+    2020-09-08,55
+    2020-09-09,76
+++++++++++
+ Do I have coronavirus?? I’ve got an intense fever and headache over the past 2 days. I’m extremely tired. I have INTENSE neck, back and muscle pain (which I don’t usually ever get back pain or rarely get headaches). No cough or dry throat. I’ve seemingly lost appetite but it feels more related to a gassy stomach pain.
+++++++++++
+ Don't feed the beast: do not buy Made in China This pandemic has exposed our supply chain vulnerability. But it's partly our doing.
+
+It's hard to buy stuff not made in China, but please try.
+
+I just upgraded some items and took me longer finding stuff not made in China and cost extra.
+
+But knowing it will starve corporations that outsource to China is a start.
+
+Some of you may say this is 20 years too late, but we have to start now or we will suffer the same supply chain vulnerability in the future.
+
+ - Don't buy Chinese owned brands like Huawei, Hyer, Great Wall, Motorola, etc. Do your research if a brand is owned or bought by Chinese.
+
+ - If it's a foreign or Aussie brand, check if it's NOT made in China. Only buy it as a last resort if there are no alternatives.
+++++++++++
+ With Victoria's shutdown for 4 weeks what happens to physical activity and walking the dog? I mean I am someone who has been told by the doctor I need to do daily running and my dog needs walking otherwise she can have serious health issues occur. Surely the state doesn't want the whole population to effectively get unhealthy because of not daily exercise? Like not all people have room for home gyms and exercise stations. I know gyms are closed but surely we can still run around the park or block and walk the pets???
+++++++++++
+ Security guards hired for hotel quarantine in an attempt at social inclusion 
+++++++++++
+ I froze my wife's eggs. Australian style. Of all the prep foods that I have a deficiency of, is eggs. The freezing of eggs on the pandemic preps reddit sub is a great idea. But I couldn't find any large ice cube trays that would fit an egg. So I found these from Big W 
+
+ [ 
+
+for $2 you get 2 pods and makes freezing eggs very simple.
+
+I can then peel them easily out of the pod and then put them in a zip lock bag and shove them in the freezer. 
+
+If you take it out of the freezer you can stick it in the fridge to thaw overnight or sit it out on the bench for a couple of hours to thaw. 
+
+&amp;#x200B;
+
+I did see some egg powder for $4.50 at Coles but nothing beats the real deal does it?
+
+&amp;#x200B;
+
+
+
+
+++++++++++
+ Pick the Date of the 'No Shut Down' Shut Down A virus can't be negotiated with.  It can't be reasoned with.  It moves with mathematical ruthlessness. It cares not for the proclamations of politicians.
+
+So, pick a date for when you think the inevitable shut-down will happen.  In this scenario, a shut-down would be similar to a perpetual public holiday except food and medicine suppliers would be open.  Essential infrastructure would also still operate, eg electrical, gas, water.  
+
+So pick your date.  One per person.  Good luck.
+++++++++++
+ To help with covid normal, I made a free tool for small businesses to set up QR code contact tracing.  
+++++++++++
+ Vic suburb lockdowns (I'm confused) Well, my suburb had been locked down due to some outbreak in a local primary school. All of my friends live literally 1-2 suburbs away and they are free to do whatever the hell they please. One friend lives a 5 min walk from me IN A NOT LOCKED DOWN SUBURB. It's like, the two main suburbs in between mine on either side are free and open, whilst I'm here in the dead zone stuck. 
+
+Why cant they just enforce everybody in Melbourne to stay in their own suburbs?!
+++++++++++
+ Seventh coronavirus case in Tasmania as schools implement social distancing 
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+    exponential model is 2.4615 * exp(0.1321 * t) + -1.7278
+    linear model is -43.0195 + 5.5456 * t
+    quadratic model is 20.0236 + -5.5797 * t + 0.3179 * t^2
+    exponential model residue is 12858.8
+    linear model residue is 51758.7
+    quadratic model residue is 17948.6
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 16.3512 * exp(0.137 * t) + -24.4584
+
+Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+    2020-07-06,127
+    2020-07-07,191
+    2020-07-08,134
+    2020-07-09,165
+    2020-07-10,288
+    2020-07-11,216
+++++++++++
+ Donations or assistance on daily essentials for people in need? Just wonder if anyone knows any organisation that will help sending food or other household items to disables and elderlies if they struggle to buy them from supermarkets amid this stockpiling frenzy?
+++++++++++
+ Impending taxpayers' wrath. The bank bailout of 2008 has been roundly cited as a case of the government putting Wall Street ahead of Main Street, and it contributed significantly to the populism that has riven American politics ever since," Marks writes. "This recent step to rescue leveraged lenders may add further fuel to that fire.
+
+
+++++++++++
+ Should I isolate from my partner? My boyfriend lives an hour train ride away. I do not drive. Should i go and see him or not? He is just recently clean from drugs, I have been helping support his sobriety. And he has been helping heal my hypochondriac condition.
+With this Coronavirus I have been told to not leave the house and my parents will not allow anyone in our house so he cannot visit me.
+Do I avoid him and risk him being isolated and slipping back into drug use?
+Is it safe to catch a uber to his house?
+I have moderate/severe chronic asthma and a weak immune system. I am 22y.
+++++++++++
+ Trying to find (essential) things at the shops while social distancing 

@@ -1,0 +1,677 @@
+
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days)     date cases growth doubling
+    2020-03-01 29 1.0 1.0
+    2020-03-02 33 1.14 5.1
+    2020-03-03 41 1.24 5.4
+    2020-03-04 52 1.27 5.3
+    2020-03-05 57 1.1 4.8
+    2020-03-06 63 1.11 4.7
+    2020-03-07 73 1.16 4.8
+    2020-03-08 80 1.1 5.4
+    2020-03-09 92 1.15 4.8
+    2020-03-10 112 1.22 4.2
+    2020-03-11 127 1.13 4.0
+    2020-03-12 156 1.23 3.7
+    2020-03-13 198 1.27 3.4
+    2020-03-14 248 1.25 3.5
+    2020-03-15 298 1.2 3.2
+    2020-03-16 376 1.26 3.2
+    2020-03-17 453 1.2 3.3
+    2020-03-18 566 1.25 3.3
+    2020-03-19 708 1.25 3.2
+    2020-03-20 875 1.24 3.2
+    2020-03-21 1071 1.22 3.1
+    2020-03-22 1352 1.26 3.3 &lt;== 10 days ago, Tom Hanks
+    2020-03-23 1716 1.27 3.5
+    2020-03-24 2146 1.25 3.8
+    2020-03-25 2431 1.13 4.0 &lt;== 10 days ago, overseas self-isolate 14 days
+    2020-03-26 2805 1.15 4.5
+    2020-03-27 3179 1.13 5.3
+    2020-03-28 3639 1.14 6.4
+    2020-03-29 3985 1.1 7.0 &lt;== 10 days ago, TAS self-isolation 14 days
+    2020-03-30 4250 1.07 8.0 &lt;== 10 days ago, closing borders to all
+    2020-03-31 4560 1.07 9.3 &lt;== 10 days ago, rule of 4 square metres
+    2020-04-01 4864 1.07 11.5
+    2020-04-02 5136 1.06 13.6 &lt;== 10 days ago, no social gathering
+    2020-04-03 5358 1.04 15.6 &lt;== 10 days ago, WA,SA closing border
+    2020-04-04 5552 1.04 18.6
+    2020-04-05 5693 1.03 21.2
+    2020-04-06 5800 1.02 24.4
+    2020-04-07 5919 1.02 27.8
+
+Notes: doubling time in days have been smoothed with 7 days (geometric) moving average
+
+
+
+The number of cases in Australia was obtained from this wikipedia page
+
+[
+
+the growth and doubling time was calculated. Growth is easy to calculate, just dividing today's number with yesterday's number. Doubling time was calculated by taking the geometric seven day moving average of growth and then converting the result to doubling time.
+
+Example: doubling time for 2020-03-10 is
+
+log(2) / ( (log(1.16) + log(1.1) + log(1.15) + log(1.22) + log(1.13) + log(1.23) + log(1.27))/7 ) = 4.2169
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days)     date cases growth doubling
+    2020-03-01 29 1.0 1.0
+    2020-03-02 33 1.14 5.1
+    2020-03-03 41 1.24 5.4
+    2020-03-04 52 1.27 5.3
+    2020-03-05 57 1.1 4.8
+    2020-03-06 63 1.11 4.7
+    2020-03-07 73 1.16 4.8
+    2020-03-08 80 1.1 5.4
+    2020-03-09 92 1.15 4.8
+    2020-03-10 112 1.22 4.2
+    2020-03-11 127 1.13 4.0
+    2020-03-12 156 1.23 3.7
+    2020-03-13 198 1.27 3.4
+    2020-03-14 248 1.25 3.5
+    2020-03-15 298 1.2 3.2
+    2020-03-16 376 1.26 3.2
+    2020-03-17 453 1.2 3.3
+    2020-03-18 566 1.25 3.3
+    2020-03-19 708 1.25 3.2
+    2020-03-20 875 1.24 3.2
+    2020-03-21 1071 1.22 3.1
+    2020-03-22 1352 1.26 3.3 &lt;== 10 days ago, Tom Hanks
+    2020-03-23 1716 1.27 3.5
+    2020-03-24 2146 1.25 3.8
+    2020-03-25 2431 1.13 4.0 &lt;== 10 days ago, overseas self-isolate 14 days
+    2020-03-26 2805 1.15 4.5 &lt;== 10 days ago, Vic declare State of Emergency
+    2020-03-27 3179 1.13 5.3
+    2020-03-28 3639 1.14 6.4
+    2020-03-29 3985 1.1 7.0 &lt;== 10 days ago, TAS self-isolation 14 days
+    2020-03-30 4250 1.07 8.0 &lt;== 10 days ago, closing borders to all
+    2020-03-31 4560 1.07 9.3 &lt;== 10 days ago, rule of 4 square metres
+    2020-04-01 4864 1.07 11.5
+    2020-04-02 5136 1.06 13.6 &lt;== 10 days ago, no social gathering
+    2020-04-03 5358 1.04 15.6 &lt;== 10 days ago, WA,SA closing border
+    2020-04-04 5552 1.04 18.7
+    2020-04-05 5687 1.02 22.9
+    2020-04-06 5795 1.02 28.1
+    2020-04-07 5908 1.02 33.1
+    2020-04-08 6013 1.02 38.8 &lt;== 10 days ago, mandatory hotel quarantine
+    2020-04-09 6103 1.01 46.5
+    2020-04-10 6203 1.02 52.2
+    2020-04-11 6292 1.01 60.7
+    2020-04-12 6313 1.003 69.6
+    2020-04-13 6359 1.007 83.5 &lt;== 10 days ago, QLD closing border
+    2020-04-14 6400 1.006 96.5
+    2020-04-15 6447 1.007 114.2
+    2020-04-16 6468 1.003 106.9
+    2020-04-17 6523 1.009 121.1
+    2020-04-18 6565 1.006 129.2
+    2020-04-19 6606 1.006 157.3
+    2020-04-20 6619 1.002 165.0 &lt;== 10 days ago, Good Friday
+    2020-04-21 6645 1.004 210.6
+    2020-04-22 6649 1.001 247.4
+    2020-04-23 6661 1.002 307.7
+    2020-04-24 6675 1.002 320.4
+    2020-04-25 6695 1.003 377.3
+    2020-04-26 6711 1.002 335.0
+    2020-04-27 6720 1.001 353.7
+    2020-04-28 6731 1.002 354.5
+    2020-04-29 6746 1.002 371.6
+    2020-04-30 6753 1.001 364.2
+    2020-05-01 6767 1.002 312.9
+    2020-05-02 6783 1.002 279.2
+    2020-05-03 6801 1.003 256.2
+    2020-05-04 6825 1.004 231.5
+    2020-05-05 6849 1.004 225.8
+    2020-05-06 6875 1.004 227.8
+    2020-05-07 6896 1.003 238.1
+    2020-05-08 6914 1.003 271.6
+    2020-05-09 6929 1.002 291.4
+    2020-05-10 6941 1.002 336.0
+    2020-05-11 6948 1.001 362.2
+    2020-05-12 6964 1.002 313.0
+    2020-05-13 6975 1.002 316.6
+    2020-05-14 6989 1.002 326.2
+    2020-05-15 7022 1.005 303.4
+    2020-05-16 7036 1.002 327.3
+    2020-05-17 7045 1.001 327.8
+    2020-05-18 7060 1.002 371.0
+    2020-05-19 7068 1.001 469.1
+    2020-05-20 7079 1.002 490.1
+    2020-05-21 7081 1.0003 536.5
+    2020-05-22 7095 1.002 593.0
+    2020-05-23 7106 1.0016 530.0
+    2020-05-24 7109 1.0004 574.9
+    2020-05-25 7118 1.0013 500.4
+    2020-05-26 7133 1.0021 443.8
+    2020-05-27 7139 1.0008 438.9
+    2020-05-28 7150 1.0015 403.5
+    2020-05-29 7173 1.0032 404.0
+    2020-05-30 7185 1.0017 395.7 Latest stable value for 7 days MA
+    2020-05-31 7195 1.0014 364.2
+    2020-06-01 7204 1.0013 350.7
+    2020-06-02 7221 1.0024 415.7
+
+Notes: doubling time in days have been smoothed with 7 days (geometric) moving average
+
+
+
+The number of cases in Australia was obtained from this wikipedia page
+
+[
+
+the growth and doubling time was calculated. Growth is easy to calculate, just dividing today's number with yesterday's number. Doubling time was calculated by taking the geometric seven day moving average of growth and then converting the result to doubling time.
+
+Example: doubling time for 2020-03-10 is
+
+log(2) / ( (log(1.16) + log(1.1) + log(1.15) + log(1.22) + log(1.13) + log(1.23) + log(1.27))/7 ) = 4.2169
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days)     date cases growth doubling
+    2020-03-01 29 1.0 1.0
+    2020-03-02 33 1.14 5.1
+    2020-03-03 41 1.24 5.4
+    2020-03-04 52 1.27 5.3
+    2020-03-05 57 1.1 4.8
+    2020-03-06 63 1.11 4.7
+    2020-03-07 73 1.16 4.8
+    2020-03-08 80 1.1 5.4
+    2020-03-09 92 1.15 4.8
+    2020-03-10 112 1.22 4.2
+    2020-03-11 127 1.13 4.0
+    2020-03-12 156 1.23 3.7
+    2020-03-13 198 1.27 3.4
+    2020-03-14 248 1.25 3.5
+    2020-03-15 298 1.2 3.2
+    2020-03-16 376 1.26 3.2
+    2020-03-17 453 1.2 3.3
+    2020-03-18 566 1.25 3.3
+    2020-03-19 708 1.25 3.2
+    2020-03-20 875 1.24 3.2
+    2020-03-21 1071 1.22 3.1
+    2020-03-22 1352 1.26 3.3 &lt;== 10 days ago, Tom Hanks
+    2020-03-23 1716 1.27 3.5
+    2020-03-24 2146 1.25 3.8
+    2020-03-25 2431 1.13 4.0 &lt;== 10 days ago, overseas self-isolate 14 days
+    2020-03-26 2805 1.15 4.5
+    2020-03-27 3179 1.13 5.3
+    2020-03-28 3639 1.14 6.4
+    2020-03-29 3985 1.1 7.0 &lt;== 10 days ago, TAS self-isolation 14 days
+    2020-03-30 4250 1.07 8.0 &lt;== 10 days ago, closing borders to all
+    2020-03-31 4560 1.07 9.3 &lt;== 10 days ago, rule of 4 square metres
+    2020-04-01 4864 1.07 11.5
+    2020-04-02 5136 1.06 13.6 &lt;== 10 days ago, no social gathering
+    2020-04-03 5358 1.04 15.6 &lt;== 10 days ago, WA,SA closing border
+    2020-04-04 5552 1.04 18.6
+    2020-04-05 5693 1.03 22.7
+    2020-04-06 5800 1.02 26.1
+    2020-04-07 5919 1.02 29.6
+    2020-04-08 6024 1.02 34.0 &lt;== 10 days ago, mandatory hotel quarantine
+
+Notes: doubling time in days have been smoothed with 7 days (geometric) moving average
+
+
+
+The number of cases in Australia was obtained from this wikipedia page
+
+[
+
+the growth and doubling time was calculated. Growth is easy to calculate, just dividing today's number with yesterday's number. Doubling time was calculated by taking the geometric seven day moving average of growth and then converting the result to doubling time.
+
+Example: doubling time for 2020-03-10 is
+
+log(2) / ( (log(1.16) + log(1.1) + log(1.15) + log(1.22) + log(1.13) + log(1.23) + log(1.27))/7 ) = 4.2169
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days)     date cases growth doubling
+    2020-03-01 29 1.0 1.0
+    2020-03-02 33 1.14 5.1
+    2020-03-03 41 1.24 5.4
+    2020-03-04 52 1.27 5.3
+    2020-03-05 57 1.1 4.8
+    2020-03-06 63 1.11 4.7
+    2020-03-07 73 1.16 4.8
+    2020-03-08 80 1.1 5.4
+    2020-03-09 92 1.15 4.8
+    2020-03-10 112 1.22 4.2
+    2020-03-11 127 1.13 4.0
+    2020-03-12 156 1.23 3.7
+    2020-03-13 198 1.27 3.4
+    2020-03-14 248 1.25 3.5
+    2020-03-15 298 1.2 3.2
+    2020-03-16 376 1.26 3.2
+    2020-03-17 453 1.2 3.3
+    2020-03-18 566 1.25 3.3
+    2020-03-19 708 1.25 3.2
+    2020-03-20 875 1.24 3.2
+    2020-03-21 1071 1.22 3.1
+    2020-03-22 1352 1.26 3.3 &lt;== 10 days ago, Tom Hanks
+    2020-03-23 1716 1.27 3.5
+    2020-03-24 2146 1.25 3.8
+    2020-03-25 2431 1.13 4.0 &lt;== 10 days ago, overseas self-isolate 14 days
+    2020-03-26 2805 1.15 4.5 &lt;== 10 days ago, Vic declare State of Emergency
+    2020-03-27 3179 1.13 5.3
+    2020-03-28 3639 1.14 6.4
+    2020-03-29 3985 1.1 7.0 &lt;== 10 days ago, TAS self-isolation 14 days
+    2020-03-30 4250 1.07 8.0 &lt;== 10 days ago, closing borders to all
+    2020-03-31 4560 1.07 9.3 &lt;== 10 days ago, rule of 4 square metres
+    2020-04-01 4864 1.07 11.5
+    2020-04-02 5136 1.06 13.6 &lt;== 10 days ago, no social gathering
+    2020-04-03 5358 1.04 15.6 &lt;== 10 days ago, WA,SA closing border
+    2020-04-04 5552 1.04 18.7
+    2020-04-05 5687 1.02 22.9
+    2020-04-06 5795 1.02 28.1
+    2020-04-07 5908 1.02 33.1
+    2020-04-08 6013 1.02 38.8 &lt;== 10 days ago, mandatory hotel quarantine
+    2020-04-09 6103 1.01 46.5
+    2020-04-10 6203 1.02 52.2
+    2020-04-11 6292 1.01 60.7
+    2020-04-12 6313 1.003 69.6
+    2020-04-13 6359 1.007 83.5 &lt;== 10 days ago, QLD closing border
+    2020-04-14 6400 1.006 96.5
+    2020-04-15 6447 1.007 114.2
+    2020-04-16 6468 1.003 106.9
+    2020-04-17 6523 1.009 121.1
+    2020-04-18 6565 1.006 129.2
+    2020-04-19 6606 1.006 157.3
+    2020-04-20 6619 1.002 165.0 &lt;== 10 days ago, Good Friday
+    2020-04-21 6645 1.004 210.6
+    2020-04-22 6649 1.001 247.4
+    2020-04-23 6661 1.002 307.7
+    2020-04-24 6675 1.002 320.4
+    2020-04-25 6695 1.003 377.3
+    2020-04-26 6711 1.002 335.0
+    2020-04-27 6720 1.001 353.7
+    2020-04-28 6731 1.002 354.5
+    2020-04-29 6746 1.002 371.6
+    2020-04-30 6753 1.001 364.2
+    2020-05-01 6767 1.002 312.9
+    2020-05-02 6783 1.002 279.2
+    2020-05-03 6801 1.003 256.2
+    2020-05-04 6825 1.004 231.5
+    2020-05-05 6849 1.004 225.8
+    2020-05-06 6875 1.004 227.8
+    2020-05-07 6896 1.003 238.1
+    2020-05-08 6914 1.003 271.6
+    2020-05-09 6929 1.002 291.4
+    2020-05-10 6941 1.002 336.0
+    2020-05-11 6948 1.001 362.2 Latest stable value for 7 days MA
+    2020-05-12 6964 1.002 385.5
+    2020-05-13 6975 1.002 402.0
+    2020-05-14 6989 1.002 402.3
+
+Notes: doubling time in days have been smoothed with 7 days (geometric) moving average
+
+
+
+The number of cases in Australia was obtained from this wikipedia page
+
+[
+
+the growth and doubling time was calculated. Growth is easy to calculate, just dividing today's number with yesterday's number. Doubling time was calculated by taking the geometric seven day moving average of growth and then converting the result to doubling time.
+
+Example: doubling time for 2020-03-10 is
+
+log(2) / ( (log(1.16) + log(1.1) + log(1.15) + log(1.22) + log(1.13) + log(1.23) + log(1.27))/7 ) = 4.2169
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days)     date cases growth doubling
+    2020-03-01 29 1.0 1.0
+    2020-03-02 33 1.14 5.1
+    2020-03-03 41 1.24 5.4
+    2020-03-04 52 1.27 5.3
+    2020-03-05 57 1.1 4.8
+    2020-03-06 63 1.11 4.7
+    2020-03-07 73 1.16 4.8
+    2020-03-08 80 1.1 5.4
+    2020-03-09 92 1.15 4.8
+    2020-03-10 112 1.22 4.2
+    2020-03-11 127 1.13 4.0
+    2020-03-12 156 1.23 3.7
+    2020-03-13 198 1.27 3.4
+    2020-03-14 248 1.25 3.5
+    2020-03-15 298 1.2 3.2
+    2020-03-16 376 1.26 3.2
+    2020-03-17 453 1.2 3.3
+    2020-03-18 566 1.25 3.3
+    2020-03-19 708 1.25 3.2
+    2020-03-20 875 1.24 3.2
+    2020-03-21 1071 1.22 3.1
+    2020-03-22 1352 1.26 3.3
+    2020-03-23 1716 1.27 3.5
+    2020-03-24 2146 1.25 3.8
+    2020-03-25 2431 1.13 4.0
+    2020-03-26 2805 1.15 4.5
+    2020-03-27 3179 1.13 5.3
+    2020-03-28 3639 1.14 6.1
+    2020-03-29 3985 1.1 6.2
+    2020-03-30 4250 1.07 6.7
+
+Notes: doubling time in days have been smoothed with 7 days (geometric) moving average
+
+The number of cases in Australia was obtained from this wikipedia page
+
+[
+
+the growth and doubling time was calculated. Growth is easy to calculate, just dividing today's number with yesterday's number. Doubling time was calculated by taking the geometric seven day moving average of growth and then converting the result to doubling time.
+
+Example: doubling time for 2020-03-10 is
+
+log(2) / ( (log(1.16) + log(1.1) + log(1.15) + log(1.22) + log(1.13) + log(1.23) + log(1.27))/7 ) = 4.2169
+
+Question: Interesting calculations. Can someone explain a bit more on how log() fits into this, for those of us **who aren't so math-inclined**?
+
+Trying to explain the log() function to someone who is not math-inclined is a bit difficult. This is the best I can do. 
+
+There are two complementary functions, exp() and log(). The exp() function converts time to an amount, while the log() function converts an amount back to time.
+
+The log() function returns the time (in years) to achieving the desired amount X when starting at $1 for **a particular annual interest rate**. This interest rate is known as its "**base**". The default interest rate is 171.8% or **2.718**, this is known as natural logarithm ( denoted by ln()  ). Common logarithm ( denoted by log() )  uses an interest rate of 900% or **10** , Please note that scientists and engineers uses the term ln() for natural logarithm while mathematicians uses term log() for natural logarithm and this causes an unbelievable confusion among ordinary people.
+
+    Example: Let's take a more normal interest rate of 10% or 1.1
+    How many years does it take to achieve $1.61 when starting at $1
+
+log(1.1,1.61) = 5.00         when using the format of log(**base**,X)
+
+or
+
+log(1.61)/log(1.1) = 5.00        where log(**base**,X) = log(X)/log(**base**)
+
+you can get the result of log(number) from your scientific calculator
+
+Answer: it takes 5 years to achieve $1.61 when starting at $1 with 10% interest rate (**base** = 1.1). 
+
+$1 \* 1.1 \* 1.1 \* 1.1 \* 1.1 \* 1.1 = $1.61
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days)     date cases growth doubling
+    2020-03-01 29 1.0 1.0
+    2020-03-02 33 1.14 5.1
+    2020-03-03 41 1.24 5.4
+    2020-03-04 52 1.27 5.3
+    2020-03-05 57 1.1 4.8
+    2020-03-06 63 1.11 4.7
+    2020-03-07 73 1.16 4.8
+    2020-03-08 80 1.1 5.4
+    2020-03-09 92 1.15 4.8
+    2020-03-10 112 1.22 4.2
+    2020-03-11 127 1.13 4.0
+    2020-03-12 156 1.23 3.7
+    2020-03-13 198 1.27 3.4
+    2020-03-14 248 1.25 3.5
+    2020-03-15 298 1.2 3.2
+    2020-03-16 376 1.26 3.2
+    2020-03-17 453 1.2 3.3
+    2020-03-18 566 1.25 3.3
+    2020-03-19 708 1.25 3.2
+    2020-03-20 875 1.24 3.2
+    2020-03-21 1071 1.22 3.1
+    2020-03-22 1352 1.26 3.3 &lt;== 10 days ago, Tom Hanks
+    2020-03-23 1716 1.27 3.5
+    2020-03-24 2146 1.25 3.8
+    2020-03-25 2431 1.13 4.0 &lt;== 10 days ago, overseas self-isolate 14 days
+    2020-03-26 2805 1.15 4.5 &lt;== 10 days ago, Vic declare State of Emergency
+    2020-03-27 3179 1.13 5.3
+    2020-03-28 3639 1.14 6.4
+    2020-03-29 3985 1.1 7.0 &lt;== 10 days ago, TAS self-isolation 14 days
+    2020-03-30 4250 1.07 8.0 &lt;== 10 days ago, closing borders to all
+    2020-03-31 4560 1.07 9.3 &lt;== 10 days ago, rule of 4 square metres
+    2020-04-01 4864 1.07 11.5
+    2020-04-02 5136 1.06 13.6 &lt;== 10 days ago, no social gathering
+    2020-04-03 5358 1.04 15.6 &lt;== 10 days ago, WA,SA closing border
+    2020-04-04 5552 1.04 18.7
+    2020-04-05 5687 1.02 22.9
+    2020-04-06 5795 1.02 28.1
+    2020-04-07 5908 1.02 33.1
+    2020-04-08 6013 1.02 38.8 &lt;== 10 days ago, mandatory hotel quarantine
+    2020-04-09 6103 1.01 46.5
+    2020-04-10 6203 1.02 52.2
+    2020-04-11 6292 1.01 60.7
+    2020-04-12 6313 1.003 69.6
+    2020-04-13 6359 1.007 75.8 &lt;== 10 days ago, QLD closing border
+    2020-04-14 6400 1.006 89.8
+    2020-04-15 6447 1.007 113.9
+
+Notes: doubling time in days have been smoothed with 7 days (geometric) moving average
+
+
+
+The number of cases in Australia was obtained from this wikipedia page
+
+[
+
+the growth and doubling time was calculated. Growth is easy to calculate, just dividing today's number with yesterday's number. Doubling time was calculated by taking the geometric seven day moving average of growth and then converting the result to doubling time.
+
+Example: doubling time for 2020-03-10 is
+
+log(2) / ( (log(1.16) + log(1.1) + log(1.15) + log(1.22) + log(1.13) + log(1.23) + log(1.27))/7 ) = 4.2169
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days)     date cases growth doubling
+    2020-03-01 29 1.0 1.0
+    2020-03-02 33 1.14 5.1
+    2020-03-03 41 1.24 5.4
+    2020-03-04 52 1.27 5.3
+    2020-03-05 57 1.1 4.8
+    2020-03-06 63 1.11 4.7
+    2020-03-07 73 1.16 4.8
+    2020-03-08 80 1.1 5.4
+    2020-03-09 92 1.15 4.8
+    2020-03-10 112 1.22 4.2
+    2020-03-11 127 1.13 4.0
+    2020-03-12 156 1.23 3.7
+    2020-03-13 198 1.27 3.4
+    2020-03-14 248 1.25 3.5
+    2020-03-15 298 1.2 3.2
+    2020-03-16 376 1.26 3.2
+    2020-03-17 453 1.2 3.3
+    2020-03-18 566 1.25 3.3
+    2020-03-19 708 1.25 3.2
+    2020-03-20 875 1.24 3.2
+    2020-03-21 1071 1.22 3.1
+    2020-03-22 1352 1.26 3.3
+    2020-03-23 1716 1.27 3.5
+    2020-03-24 2146 1.25 3.8
+    2020-03-25 2431 1.13 4.0
+    2020-03-26 2805 1.15 4.2
+    2020-03-27 3179 1.13 4.6
+    2020-03-28 3639 1.14 5.3
+
+The number of cases in Australia was obtained from this wikipedia page
+
+[
+
+the growth and doubling time was calculated. Growth is easy to calculate, just dividing today's number with yesterday's number. Doubling time was calculated by taking the geometric seven day moving average of growth and then converting the result to doubling time.
+
+Example: doubling time for 2020-03-10 is
+
+log(2) / ( (log(1.16) + log(1.1) + log(1.15) + log(1.22) + log(1.13) + log(1.23) + log(1.27))/7 ) = 4.2169
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days)     date cases growth doubling
+    2020-03-01 29 1.0 1.0
+    2020-03-02 33 1.14 5.1
+    2020-03-03 41 1.24 5.4
+    2020-03-04 52 1.27 5.3
+    2020-03-05 57 1.1 4.8
+    2020-03-06 63 1.11 4.7
+    2020-03-07 73 1.16 4.8
+    2020-03-08 80 1.1 5.4
+    2020-03-09 92 1.15 4.8
+    2020-03-10 112 1.22 4.2
+    2020-03-11 127 1.13 4.0
+    2020-03-12 156 1.23 3.7
+    2020-03-13 198 1.27 3.4
+    2020-03-14 248 1.25 3.5
+    2020-03-15 298 1.2 3.2
+    2020-03-16 376 1.26 3.2
+    2020-03-17 453 1.2 3.3
+    2020-03-18 566 1.25 3.3
+    2020-03-19 708 1.25 3.2
+    2020-03-20 875 1.24 3.2
+    2020-03-21 1071 1.22 3.1
+    2020-03-22 1352 1.26 3.1
+    2020-03-23 1716 1.27 3.1
+
+The number of cases in Australia was obtained from this wikipedia page
+
+[
+
+The growth and doubling time was calculated. Growth is easy to calculate, just dividing today's number with yesterday's number. Doubling time was calculated by taking the geometric seven day moving average of growth and then converting the result to doubling time.
+
+Example: doubling time for 2020-03-10 is
+
+log(2) / ( (log(1.16) + log(1.1) + log(1.15) + log(1.22) + log(1.13) + log(1.23) + log(1.27))/7 ) = 4.2169
+
+postscript : Not change, still absolutely terrible latest doubling time of 3.1 days
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days)     date cases growth doubling
+    2020-03-01 29 1.0 1.0
+    2020-03-02 33 1.14 5.1
+    2020-03-03 41 1.24 5.4
+    2020-03-04 52 1.27 5.3
+    2020-03-05 57 1.1 4.8
+    2020-03-06 63 1.11 4.7
+    2020-03-07 73 1.16 4.8
+    2020-03-08 80 1.1 5.4
+    2020-03-09 92 1.15 4.8
+    2020-03-10 112 1.22 4.2
+    2020-03-11 127 1.13 4.0
+    2020-03-12 156 1.23 3.7
+    2020-03-13 198 1.27 3.4
+    2020-03-14 248 1.25 3.5
+    2020-03-15 298 1.2 3.2
+    2020-03-16 376 1.26 3.2
+    2020-03-17 453 1.2 3.3
+    2020-03-18 566 1.25 3.3
+    2020-03-19 708 1.25 3.2
+    2020-03-20 875 1.24 3.2
+    2020-03-21 1071 1.22 3.1
+    2020-03-22 1352 1.26 3.3 &lt;== 10 days ago, Tom Hanks
+    2020-03-23 1716 1.27 3.5
+    2020-03-24 2146 1.25 3.8
+    2020-03-25 2431 1.13 4.0 &lt;== 10 days ago, overseas self-isolate 14 days
+    2020-03-26 2805 1.15 4.5
+    2020-03-27 3179 1.13 5.3
+    2020-03-28 3639 1.14 6.4
+    2020-03-29 3985 1.1 7.0 &lt;== 10 days ago, TAS self-isolation 14 days
+    2020-03-30 4250 1.07 8.0 &lt;== 10 days ago, closing borders to all
+    2020-03-31 4560 1.07 9.3 &lt;== 10 days ago, rule of 4 square metres
+    2020-04-01 4864 1.07 11.5
+    2020-04-02 5136 1.06 13.6 &lt;== 10 days ago, no social gathering
+    2020-04-03 5358 1.04 15.6 &lt;== 10 days ago, WA,SA closing border
+    2020-04-04 5552 1.04 18.6
+    2020-04-05 5693 1.03 22.7
+    2020-04-06 5800 1.02 28.0
+    2020-04-07 5919 1.02 32.7
+    2020-04-08 6024 1.02 38.2 &lt;== 10 days ago, mandatory hotel quarantine
+    2020-04-09 6109 1.01 40.9
+    2020-04-10 6215 1.02 41.7
+    2020-04-11 6303 1.01 44.1
+
+Notes: doubling time in days have been smoothed with 7 days (geometric) moving average
+
+
+
+The number of cases in Australia was obtained from this wikipedia page
+
+[
+
+the growth and doubling time was calculated. Growth is easy to calculate, just dividing today's number with yesterday's number. Doubling time was calculated by taking the geometric seven day moving average of growth and then converting the result to doubling time.
+
+Example: doubling time for 2020-03-10 is
+
+log(2) / ( (log(1.16) + log(1.1) + log(1.15) + log(1.22) + log(1.13) + log(1.23) + log(1.27))/7 ) = 4.2169
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days)     date cases growth doubling
+    2020-03-01 29 1.0 1.0
+    2020-03-02 33 1.14 5.1
+    2020-03-03 41 1.24 5.4
+    2020-03-04 52 1.27 5.3
+    2020-03-05 57 1.1 4.8
+    2020-03-06 63 1.11 4.7
+    2020-03-07 73 1.16 4.8
+    2020-03-08 80 1.1 5.4
+    2020-03-09 92 1.15 4.8
+    2020-03-10 112 1.22 4.2
+    2020-03-11 127 1.13 4.0
+    2020-03-12 156 1.23 3.7
+    2020-03-13 198 1.27 3.4
+    2020-03-14 248 1.25 3.5
+    2020-03-15 298 1.2 3.2
+    2020-03-16 376 1.26 3.2
+    2020-03-17 453 1.2 3.3
+    2020-03-18 566 1.25 3.3
+    2020-03-19 708 1.25 3.2
+    2020-03-20 875 1.24 3.2
+    2020-03-21 1071 1.22 3.1
+    2020-03-22 1352 1.26 3.3 &lt;== 10 days ago, Tom Hanks
+    2020-03-23 1716 1.27 3.5
+    2020-03-24 2146 1.25 3.8
+    2020-03-25 2431 1.13 4.0 &lt;== 10 days ago, overseas self-isolate 14 days
+    2020-03-26 2805 1.15 4.5 &lt;== 10 days ago, Vic declare State of Emergency
+    2020-03-27 3179 1.13 5.3
+    2020-03-28 3639 1.14 6.4
+    2020-03-29 3985 1.1 7.0 &lt;== 10 days ago, TAS self-isolation 14 days
+    2020-03-30 4250 1.07 8.0 &lt;== 10 days ago, closing borders to all
+    2020-03-31 4560 1.07 9.3 &lt;== 10 days ago, rule of 4 square metres
+    2020-04-01 4864 1.07 11.5
+    2020-04-02 5136 1.06 13.6 &lt;== 10 days ago, no social gathering
+    2020-04-03 5358 1.04 15.6 &lt;== 10 days ago, WA,SA closing border
+    2020-04-04 5552 1.04 18.7
+    2020-04-05 5687 1.02 22.9
+    2020-04-06 5795 1.02 28.1
+    2020-04-07 5908 1.02 33.1
+    2020-04-08 6013 1.02 38.8 &lt;== 10 days ago, mandatory hotel quarantine
+    2020-04-09 6103 1.01 46.5
+    2020-04-10 6203 1.02 52.2
+    2020-04-11 6292 1.01 60.7
+    2020-04-12 6313 1.003 69.6
+    2020-04-13 6359 1.007 83.5 &lt;== 10 days ago, QLD closing border
+    2020-04-14 6400 1.006 96.5
+    2020-04-15 6447 1.007 114.2
+    2020-04-16 6468 1.003 106.9
+    2020-04-17 6523 1.009 121.1
+    2020-04-18 6565 1.006 129.2
+    2020-04-19 6606 1.006 157.3
+    2020-04-20 6619 1.002 165.0 &lt;== 10 days ago, Good Friday
+    2020-04-21 6645 1.004 210.6
+    2020-04-22 6649 1.001 247.4
+    2020-04-23 6661 1.002 307.7
+    2020-04-24 6675 1.002 320.4
+    2020-04-25 6695 1.003 377.3
+    2020-04-26 6711 1.002 335.0
+    2020-04-27 6720 1.001 353.7
+    2020-04-28 6731 1.002 354.5
+    2020-04-29 6746 1.002 371.6
+    2020-04-30 6753 1.001 364.2
+    2020-05-01 6767 1.002 312.9
+    2020-05-02 6783 1.002 279.2
+    2020-05-03 6801 1.003 256.2
+    2020-05-04 6825 1.004 231.5
+    2020-05-05 6849 1.004 225.8
+    2020-05-06 6875 1.004 227.8
+    2020-05-07 6896 1.003 238.1
+    2020-05-08 6914 1.003 271.6
+    2020-05-09 6929 1.002 291.4
+    2020-05-10 6941 1.002 336.0
+    2020-05-11 6948 1.001 362.2
+    2020-05-12 6964 1.002 313.0
+    2020-05-13 6975 1.002 316.6
+    2020-05-14 6989 1.002 326.2
+    2020-05-15 7022 1.005 303.4
+    2020-05-16 7036 1.002 327.3
+    2020-05-17 7045 1.001 327.8
+    2020-05-18 7060 1.002 371.0
+    2020-05-19 7068 1.001 469.1
+    2020-05-20 7079 1.002 490.1
+    2020-05-21 7081 1.0003 536.5
+    2020-05-22 7095 1.002 593.0  Latest stable value for 7 days MA
+    2020-05-23 7106 1.0016 590.0
+    2020-05-24 7109 1.0004 630.8
+    2020-05-25 7118 1.0013 532.0
+
+Notes: doubling time in days have been smoothed with 7 days (geometric) moving average
+
+
+
+The number of cases in Australia was obtained from this wikipedia page
+
+[
+
+the growth and doubling time was calculated. Growth is easy to calculate, just dividing today's number with yesterday's number. Doubling time was calculated by taking the geometric seven day moving average of growth and then converting the result to doubling time.
+
+Example: doubling time for 2020-03-10 is
+
+log(2) / ( (log(1.16) + log(1.1) + log(1.15) + log(1.22) + log(1.13) + log(1.23) + log(1.27))/7 ) = 4.2169

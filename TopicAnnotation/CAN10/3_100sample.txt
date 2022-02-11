@@ -1,0 +1,409 @@
+
+++++++++++
+ Thoughts on Theresa Tam I was wondering what everyones opinion on Theresa Tam is like on how she is handling the pandemic.
+
+Are you happy with her? Do you think she needs to be more clear on things? Is she not effective at all on media? Just was wondering on everyone's take.
+++++++++++
+ In retrospect, says health minister, Quebec should have tackled school ventilation this summer *NOSHITSHERLOCK 
+++++++++++
+ Wuhan shows the world that the end of lockdown is just the beginning of the Covid-19 crisis 
+++++++++++
+ Strong leadership fought COVID-19 in Africa: strong leadership relies on science 
+++++++++++
+ Doug Ford rattles bars on cell as imposter continues to competently manage COVID-19 pandemic 
+++++++++++
+ Some Warn Against Anti-Inflammatory Drugs to Treat Coronavirus, Recommend Tylenol 
+++++++++++
+ 74 positive cases, 5 cases resolved, 580 cases under investigation and 4470 negative cases in Ontario, Canada. An increase of 20 positive cases from yesterday. [Source] (
+
+___
+
+[Graph of positive cases] (
+
+Date | Positive Cases | Cases Resolved | Cases Under Investigation (+/-) | Negative Cases  | Daily Tested | Total Tested/Testing 
+---|---|---|---|---|---|---
+March 13th |  74 | 5 | 580 (+44) |4,470| 880| 5,129 (+944)
+[March 12th] ( |  54 | 5 | 536 (+71) |3,590| 702| 4,185 (+790)
+[March 11th] ( |  37 | 5 | 465 (+353) |2,888| 289| 3,395 (+648)
+[March 10th] ( |  31 | 5 | 112 (+90) |2,599| 252| 2,747 (+344)
+[March 9th] ( |  31 | 4 | 22 (-33) |2,347| 250| 2,403 (+225)
+[March 7th-8th] ( | 25 | 4 | 55 (-17) |2,094| 429| 2,178 (+415)
+[March 6th] ( | 22 | 4 | 72 (-6) |1,665| 199| 1,763 (+197)
+[March 5th] ( | 18 | 4 | 78 (-24) |1,466| 250| 1,566 (+228)
+[March 4th] ( |  17 | 3 | 102 (+57) |1,216| 155| 1,338 (+212)
+[March 3rd] ( |  17 | 3 | 45 (+33) |1,061| 86| 1,126 (+121)
+[February 29th-March 2nd] ( |  15 | 3 | 12 (-10) |975| 207| 1,005 (+237)
+[February 28th] ( |  4 | 3 | 22 (+1) | 739| 67 | 768 (+69)
+[February 27th] ( |  3 | 3 | 21 (+7) | 672| 62 | 699 (+70)
+[February 26th] ( |  2 | 3 | 14 (-7) | 610| 42 | 629 (+36)
+[February 25th] ( |  1 | 3 | 21 (+12) | 568 | 28 | 593 (+40)
+[February 22nd-24th] ( | 1 | 3 | 9 (-3) | 540 | 57 | 553 (+55)
+[February 21st] ( 0 | 3 | 12 (-2)  | 483 |21 | 498 (+19)
+[February 20th] ( 1 | 2 | 14 (-3)  | 462  | 26| 479 (+23)
+[February 19th] ( 2 | 1 | 17 (+17)  | 436 (436+0)  | 18| 456 (+35)
+[February 18th] ( 2 | 1 | 0  | 418 (418+0)  | 19| 421 (+19)
+[February 15th-17th] ( 2 | 1 | 0 (-8) | 399 (399+0)  | 46| 402 (+38)
+[February 14th] ( | 2 | 1 | 8 (-7) | 353 (353+0)  |31 | 364 (+24)
+[February 13th] ( 2 | 1 | 15 (+6) | 322 (306+16)  | 21| 340 (+27)
+[February 12th] ( 2 | 1 | 9 (-10) | 301 (257+44)  |38 | 313 (+28)
+[February 11th] ( 3 | 0 | 19 (+11) | 263 (184+79)   | 15| 285 (+26) 
+[February 8th-10th] ( 3 | 0 | 8 (-31) | 248 (167+81)   | 93| 259 (+62)
+[February 7th] ( 3 | 0 | 39 (-23) | 155 (130+25)   |51 | 197 (+28)
+[February 6th] ( 3 | 0 | 62 (+19) | 104 (104+0)   |0 | 169 (+19)
+[February 5th] ( 3 | 0 | 43 (+9) | 104 (96+8)  |2 | 150 (+11)
+[February 4th] ( 3 | 0| 34 (+5) | 102 (90+12)  | | 139 
+
+___
+
+As we come to Friday the 13th, Ontario increases its positive cases by another 20 cases. But as we look at the numbers of cases being tested, we can see the quantity steadily rising. However, even with the large amounts of tests each day, it is unable to stop the tide of the number of cases under investigation. Continuing to grow each day even with the increase of testing capabilities. An important key to focus on is Ontario's 67th case, a man in his 80s. He has been hospitalized and is now the only case in Ontario to do so. 
+
+Following the closure of public schools yesterday, various universities and colleges in Ontario are closing as well. Examples like the University of Toronto, York University, Seneca College, etc. 
+
+The number of cases today seemed to have overwhelmed even the personnel updating the website as now shortforms are used instead of their original names. ("Peel Public Health" is now just "Peel"). We also have an increase of "pending status" on cases, from the 75th case to the 79th case, we have no information on the case besides the fact that they are in Toronto. This is worrisome as it almost feels like that they're trying to hide the information. 
+
+___
+
+Case Details
+
+Case Number | Patient Age and Gender | Public Health Unit | Hospital | Transmission | Status 
+---|---|---|---|---|---
+43	|50s Male	|Hamilton Public Health	|pending	|travel (pending)	|self-isolating
+44	|&lt;18 Female|	Peel Public Health	|N/A	|close contact|	self-isolating
+45	|20s Male	|Toronto Public Health	|Sunnybrook	|close contact	|self-isolating
+46	|70s Male	|Toronto Public Health	|Mississauga Hospital|	travel (USA)	|self-isolating
+47	|40s Male	|Toronto Public Health	|St Michael’s Hospital	|travel (USA)|	self-isolating
+48	|60s Female	|Region of Waterloo Public Health	|Grand River Hospital|	travel (Puerto Rico)	|self-isolating
+49	|40s Female	|Ottawa Public Health|Queensway Carlton Hospital	|travel (Italy)|	self-isolating
+50	|20s Female	|Toronto Public Health	|Trillium Health Partners	|travel (Europe)	|self-isolating
+51	|40s Female	|Halton Public Health	|Joseph Brant Hospital	|travel (USA, Costa Rica)	|self-isolating
+52	|&lt;18 Male	|Toronto Public Health	|North York General	|close contact	|self-isolating
+53	|30s Male	|Toronto Public Health	|North York General|	close contact	|self-isolating
+54	|20s Male	|Toronto Public Health	|Sunnybrook	|travel (USA)	|self-isolating
+55	|60s Male	|Toronto Public Health	|Sunnybrook	|travel (USA)	|self-isolating
+56	|60s Female	|Toronto Public Health	|Sunnybrook	|travel (USA)	|self-isolating
+57	|20s Female	|Peel Public Health	|pending	|travel (pending)	|self-isolating
+58	|40s Male	|Region of Waterloo Public Health	|Grand River Hospital	|travel (USA)	|self-isolating
+59	|40s Male	|Simcoe Muskoka District Health Unit	|Royal Victoria Hospital	|travel (Spain)	|self-isolating
+60	|20s Female	|York|	pending|	travel (pending)	|self-isolating
+61	|20s Female	|Peel|	pending|	close contact	|self-isolating
+62	|60s Female	|Peel	|pending|	travel (pending), close contact	|self-isolating
+63	|70s Male	|Toronto	|Sunnybrook|	travel (Egypt)	|self-isolating
+64	|70s Female|	Toronto|	Sunnybrook|	travel (Egypt)	|self-isolating
+65	|40s Male|	Toronto	|Mt. Sinai|	travel (USA), close contact	|self-isolating
+66	|40s Female|	Ottawa	|pending|	travel (England)	|self-isolating
+67	|80s Male|	Niagara|	pending|	pending	|hospitalized
+68	|60s Male|	Toronto|	Sunnybrook|	travel (USA)	|self-isolating
+69	|20s Female|	Toronto|	Sunnybrook|	travel (USA)	|self-isolating
+70	|60s Female|	Toronto|	Sunnybrook|	travel (USA)	|self-isolating
+71	|20s Male|	Toronto|	Sunnybrook|	close contact	|self-isolating
+72	|20s Male|	Peel|	pending	|travel (pending)	|self-isolating
+73	|50s Female|	Waterloo|	pending|	travel (pending), close contact	|self-isolating
+74	|20s Female|	Peel|	pending|	travel (pending)	|self-isolating
+75	|pending|	Toronto|	pending|	pending	|self-isolating
+76	|pending|	Toronto|	pending|	pending	|self-isolating
+77	|pending|	Toronto|	pending|	pending	|self-isolating
+78	|pending|	Toronto|	pending|	pending	|self-isolating
+79	|pending|	Toronto|	pending|	pending	|self-isolating
+
+
+
+
+___
+
+Old Table
+
+Date | Confirmed Cases | Presumptive Confirmed | Cases Recovered (Unoffical) | Cases Under Investigation | +/- From Previous Day
+---|---|---|---|---|---
+[February 1st-3rd] ( 3 | 0  |2| 29 | +12
+[January 31st] ( 3 | 0 |2 | 17 | -10
+[January 30th] ( 2 | 0  |0| 27 | +4
+[January 29th] ( 2 | 0 |0 | 23 | +12
+[January 28th] ( 1 | 1 |0 | 11 | -8
+[January 27th] ( 0 | 2 |0 | 19 | 0
+
+___
+++++++++++
+ Research team has isolated the coronavirus. Lets be optimistic somehow someway things can improve and soon 
+++++++++++
+ Chinese scientists isolate extremely effective antibodies that may help treat Covid-19 
+++++++++++
+ We need a national ZINC campaign to stop the virus and END the lockdowns We need a national [ZINC campaign]( to stop the virus and END the lockdowns
+++++++++++
+ Weekly Discussion Thread: May 27-June 2, 2020 [Weekly Subreddit Update]( 
+
+Not sure if some of you are aware, but /u/StatsCanada has been around for awhile and posts links and surveys relevant to COVID-19 in Canada.  Check out their page, as well as their threads, for more information.  We've approved them as a user going forward.
+
+Adding to the discussion, we wouldn't mind some feedback on the following:
+
+# Submissions Feedback
+
+We wouldn't mind some feedback on how the submission guidelines have worked thus far.
+
+* Do you feel that the submission guidelines have worked as intended?
+* Are the submission guidelines a fair and impartial representation of the news / opinions you are seeking on information or opinions about COVID-19 and our country's response to the pandemic?
+* What kind of changes would you make to the submission guidelines, within the boundaries of the topic being related to COVID-19's impact in Canada?
+
+Feel free to discuss other things in this thread!
+++++++++++
+ So, the life of your child is worth $20? Small town, we have the weekly community newspaper. Today, I witnessed several young girls, about 10, going door to door delivering the newspaper. I have no words.
+++++++++++
+ I find this Wolfram Alpha Comparison of Flu and Covid19 interesting. I think the comparison evolve exponentially in the next 12 months as intense analysis continues. It will be a used table of comparisons. Thank you S. WOLFRAM. flu vs covid19: 
+++++++++++
+ Quebec grocery stores kick out returning snowbird not self-isolating despite mandatory COVID-19 quarantine 
+++++++++++
+ They’re talking about needing to wear non-medical face masks for when we go back to school. So does that mean we can’t wear the single use blue ones you get in a pack of like 50 because they don’t qualify as “non-medical”? So only reusable cloth face masks are allowed? If this is the case then why? Aren’t the medical ones more effective? Why are we asked to wear the non-medical ones?
+++++++++++
+ London Drugs clearing shelf space for Western Canada small businesses to sell their goods 
+++++++++++
+ Will we likely see another lockdown? I don’t see indoor dining and bars and theatre as being open through cold and flu season going over that smoothly, but maybe I am wrong. What’s everyone’s opinion?
+++++++++++
+ Hand sanitizer on a bid running at CAD $265.76 + $32.14 shipping ?? Among other similar strange listings on Canadian E-Bay... 
+++++++++++
+ Police report 2,200 home quarantine checks as Trudeau talks about stricter border measures 
+++++++++++
+ A little song, hope it helps. Sing a little bit for Italy
+
+Because Italy
+
+Sang a little bit for you
+
+All across the world people worry
+
+And this little tune can't name them all
+
+
+
+So sing a little bit for where you live
+
+Help your neighbor
+
+And your fellow man
+
+Sing a little bit for the whole world
+
+And the whole world will sing along
+
+
+
+Yeah sing a little bit for Italy
+
+Because Italy
+
+Sang a little bit for you
+
+All around the world people worry
+
+But we stand here tall and strong
+
+
+
+So sing a little bit for Italy
+
+Because Italy
+
+Sang a little bit for you
+
+All around the world people worry
+
+But our voices ring as one
+
+
+
+
+
+
+Well that's it.  Hope it helps.
+Stay inside, stay safe.  If you need help, ask.  If you can help, answer.  
+
+Good luck everyone.
+++++++++++
+ Anthony Fauci assures Bill Gates the coronavirus crisis 'is going to end' 
+++++++++++
+ Friendly Reminder: Please avoid off-topic political discussions! Hello all, this is the mod team.
+
+Recently, we have noticed that there has been an uptick in political discussions in this subreddit, both on and off topic. While we understand that discussing the coronavirus might inevitably lead to politics, we would still like to remind everyone to try and keep off-topic political discussion away from this subreddit.
+
+Together, we can make r/CanadaCoronavirus a better community than it already is.
+
+In regards,
+
+The Mod Team
+++++++++++
+ Potential Cure for CoVid-19 for Vaccine researcher I'm wondering about the the drug called Chloroquine if this drug can kill resistant strains of a virus then maybe? just maybe the researchers can take that aspect of the drug then it can be used or tested for the Coronavirus and if works, they should use the drug that cured SARS and combine it?  Do you think researcher should look into this option for potential cure?
+
+[View Poll](
+++++++++++
+ What are the chances of a provincial or federal total lockdown What are the chances we can go into full lockdown mode. There are still a lot of non essential companies running. For example, call centers, landscapers, construction, factories. Do you think we'll be in a lockdown for those things? If so, what kind of time frame do you expect?
+++++++++++
+ Concerns with CERB I am self employed and do my own taxes (thoroughly I should add), say something didn’t line up with my taxes from last year, would they audit me still while seeking assistance?
+++++++++++
+ How are you managing your health anxiety during covid-19? I’m terrified of passing it to the elders. I’ve been in isolation for 20 days at least. The only times I went out was to buy groceries. Only 3 times (one in Toronto 2 weeks ago or more) and 2 times in a very small town in Ontario during the weekend when we were moving to the cottage to self isolate. I’m not feeling well today and I’m terrified. Not sure if it’s just anxiety or real symptoms. We are now in complete isolation so the idea of being sick when I finally was able to convince my peers to move north sounds like a bad joke.
+++++++++++
+ Stock up, says NWT health boss: in a remote isolated community it's more important for people in northern rural areas to think ahead 
+++++++++++
+ -form- SOCIALIZING trends in teenagers and young adults during self isolation 
+++++++++++
+ 4 Military College Cadets in precautionary COVID-19 isolation at CFB 
+++++++++++
+ Coronavirus control: Do you prefer physical freedom over digital freedom. Assuming Canada would implement a form of digital/big data tracking of Coronavirus infected or potentially infected citizens and at the same time all of us would wear mask protection outdoor but retain our physical freedom (No internal lockdown). Would you prefer this situation where we are physically free but the infected are tracked, over the current situation where none of us is tracked but we also are not free to go around because of self-isolation requirements?
+
+In other words, would you agree **temporarily** loosing digital freedom (in specific cases) over all of us loosing physical freedom for the remaining of the crisis?
+
+For example, i am talking about the different ways Canada and Taiwan handles the crisis.
+
+**Canada:** digital freedom preferred over physical freedom.
+
+**Taiwan:** Physical freedom preferred over digital freedom.
+
+**For more info on Taiwan tracking:**  [How Taiwan is tracking 55,000 people under home quarantine in real time](
+
+&amp;#x200B;
+
+**So which of these approach do you prefer for the duration of the crisis?**
+
+[View Poll](
+++++++++++
+ Hillary On Covid-19 Can we talk about how much better Hillary would have handled this crisis... As a southern Canadian this is absolutely terrifying.
+++++++++++
+ Anxiety vs COVID-19 symptoms compared, Back To School Anxiety Hey guys. 
+
+After writing an article about reducing [social anxiety after the pandemic]( we got a lot of responses asking about the similarity between anxiety and COVID-19 symptoms. As a result, we wrote this [comparison]( because it is true, intense anxiety can result in similar symptoms to COVID-19. 
+
+As a result of that article, we got a lot of responses about anxious children going back to school. So, we wrote these tips on [how to explain anxiety to a child]( 
+
+For further articles, or to check out the app, head to [Pocketcoach]( :)
+++++++++++
+ Possible places to securely order in house coronavirus testing I was looking at [ does anybody know it ?
+++++++++++
+ Heath-care workers lacking PPE suffer from more anxiety and depression 
+++++++++++
+ Canada Post not delivering to my house, hassle from landlord because of it - advice needed I'm currently heavily self isolating die to my partner being a high risk asthmatic. We are taking isolation seriously and we are minimising contact with the outside world as much as possible.
+
+We have been trying to prepare ourselves in case the economy goes totally to shit and have been relying on online deliveries to do this.
+
+We live in a smaller house behind the main house our landlord lives in, and Canada Post are now for some reason refusing to walk behind the main house to deliver to our door, which is like 30 seconds away from my landlords house and totally accessible. I keep having to go to my landlords house to collect parcels, which isn't ideal isolation wise.
+
+My landlord is very unhappy about this and says that having delivery guys knock is making them uncomfortable and that it is unfair on them that they are having to take our parcels. They have requested that we keep our deliveries to a minimum and only essential items. 
+
+This is making us feel like we can't prepare ourselves and is really stressing us out. I get that it's not ideal for them but I don't know what to do.
+
+I have already tried leaving messages on deliveries instructing delivery people to deliver to our door but it doesn't work.
+
+Does anyone have any experience with Canada Post refusing to deliver to your door in the pandemic? Will I have any luck if I complain to them? I have no idea what to do about this.
+++++++++++
+ A good sign: a Niagara Falls church that's encouraging self-isolation 
+++++++++++
+ Is anyone else here likely to be personally affected by the ICU numbers? I have a vascular surgery being scheduled and probably a GI procedure before that.  With the ICU patient load in Ontario reaching 150, hospitals will begin cancelling electtive surgeries.  I might be affected by having my procedures not booked or cancelled.
+
+Is there anyone else here in the same boat?  Let's compare notes to see what we can do.
+++++++++++
+ Opinion: Forget about schools – open the summer camps in spring 
+++++++++++
+ A campaign that began in Chicago has finally reached Edmonton 
+++++++++++
+ ‘I will be like an 800-pound gorilla on their backs,’ Ford says as province continues to struggle with testing 
+++++++++++
+ Do you think the trend of wearing masks will continue into the summer and into the end of the year? I hope so.
+++++++++++
+ May have contracted COVID-19 from testing facility. I was sick with flu like symptoms that cleared up after a couple of days. I had called the health authorities and they said they would call back in several days to schedule an appointment for testing. They called back and I felt absolutely fine so I asked if I should even get tested. I said that I would continue to self isolate but felt fine. They insisted that I still get tested and so I agreed. 
+
+The next day I go through a drive through testing station. There are three vehicles in front of me. A different nurse goes to each vehicle and performs throat swabs. They all proceed to go back into the nearby facility through the same door. 
+
+I am motioned to drive ahead and my nurse comes out of that same door. She takes my information and then goes back inside again through the same door to finish the paperwork and get the testing kit. 
+
+She then comes out and performs the throat swab with something about the length of a cue tip, a little longer, and sticks her hand in my mouth. I felt contact from her glove in my mouth while she performed the swab. 
+
+Now I have woken up this morning sick and getting worse by the hour. I don't know for sure that nurse infected me but it is a remarkable coincidence. 
+
+I don't want to scare people into not getting tested but perhaps be more vigilant than I was and ask about the precautions the testing facility is taking. 
+
+If I do end up having it unfortunately it's not likely to go well. 
+
+Be safe everyone.
+++++++++++
+ Trudeau is talking about loosening things by summer, but our numbers would indicate that we might be able to loosen things earlier-- do you feel the extended delay is due to a current lack of testing and tracing abilities or it's simply a matter of caution? 
+++++++++++
+ CERB funds in bank accounts today Good Morning everyone, I applied Monday and it's now in my bank account. Advised those who did the same to begin checking. Hope everyone is doing well and staying safe
+++++++++++
+ Canadian Researchers Have Isolated the Novel Coronavirus  [ 
+
+The medical breakthrough means doctors are a step closer to a vaccine for COVID-19.
+++++++++++
+ Weekly Discussion Thread- 02-09 March 2020 
+Please use this thread to discuss whatever is on your mind surrounding the Coronavirus in Canada. This thread will be reset every week. Please ensure that discussions here abide by our rules surrounding reliable, fact-based discussion in the sidebar.
+
+After this week, these threads will be made by u/AutoModerator/.
+++++++++++
+ Parks Canada closing national parks In an effort to limit the spread of COVID-19, Parks Canada has decided to suspend vehicle access to all national parks, historic sites and marine conservation areas until further notice.
+
+[National parks closure](
+++++++++++
+ Kicked out of Quarantine location... I am currently on day 9 of my 14 day quarantine at an AirBnb in Toronto, however, due to a breaking and entering incident in the building, the owner has decided to kick me out and wants me to leave tomorrow??
+
+What do I do? I've tried talking to him saying that it's a MANDATORY quarantine but he's not willing to budge. Can he be liable if I get charged? 
+
+I could easily move to another airbnb or a friend's empty condo but how do I report that to the gov?
+++++++++++
+ If anyone would like to discuss how we can change the world for the better when this is over... 
+++++++++++
+ If a worker was tested positive at a store you shop at regularly would you still go there? Would you shop somewhere less convenient for several weeks or simply continue to shop there.
+++++++++++
+ What happens on August 31st? Will quarantine be over for a lot of countries (probably not USA anytime soon of course) then?
+
+Why hasn't the quarantine been extended or any information at all for that matter? Has anyone heard anything or know of when they will be saying whether or not it will be extended?
+
+I seem to be going round in circles...
+
+P.s this is not me saying I don't think quarantine should happen blah blah blah I just want to know if it's extending.
+++++++++++
+ Coronavirus: man throws away caution tape surrounding London, Ont. playground 
+++++++++++
+ Poll: When will social distancing and isolation practices come to a complete end in Canada? 
+++++++++++
+ I find this Wolfram Alpha Comparison of Flu and Covid19 interesting. I think the comparison evolve exponentially in the next 12 months as intense analysis continues. It will be a used table of comparisons. Thank you S. WOLFRAM. flu vs covid19: 
+++++++++++
+ Herd immunity Hey everyone, I just wanted to ask everyone’s opinion on herd immunity when it comes to tackling coronavirus. Please comment your opinions for or against herd immunity. I can’t wait to hear all your opinions.
+++++++++++
+ More Campbellton COVID-19 cases linked to medical professional who didn't self-isolate 
+++++++++++
+ Self-Employed Canadians Left Out Of Feds’ Coronavirus Aid Say They Feel Ignored 
+++++++++++
+ 7 Things PM urges During Extended Lockdown to fight Coronavirus 
+++++++++++
+ Quebec grocery stores kick out returning snowbird not self-isolating despite mandatory COVID-19 quarantine 
+++++++++++
+ Access to healthcare in Ontario continues well below 2019 volumes 
+++++++++++
+ Expect to see more military vehicles, personnel on GTA roads 
+++++++++++
+ Feds launch ad campaign urging social distancing, hygiene during COVID-19 crisis 
+++++++++++
+ Trudeau urges caution as Quebec plans to ease lockdown: ‘We’re not out of the woods yet’ | World news 
+++++++++++
+ Shouldn't we line up to get the Korean diagnostic kit as well?? Trump asked for those kits directly to the S Korean president. Shouldn't we kinda do the same and start lining up?
+
+I heard we're seriously running out of swabs... We'll never figure out the accurate number.
+++++++++++
+ Self-Employed Canadians Left Out Of Feds’ Coronavirus Aid Say They Feel Ignored 
+++++++++++
+ Google maps for isolation tracking I thought this was interesting.. check out [google maps](maps.google.com) to see how well or not well your area is isolating.
+
+For example in my area of Montreal at 1pm, 3/22.. Costco was at 50% normal load, Canadian Tire was 90%, Home Depot was 105%, Best Buy at 30%.
+++++++++++
+ A hand-washing campaign that began in Chicago has finally reached Edmonton 
+++++++++++
+ Could it be possible that smokers fair better with Covid-19 than non-smokers? Research into using nicotine patches to treat Covid-19 underway in France 
+++++++++++
+ Coronavirus: man throws away caution tape surrounding London, Ont. playground 
+++++++++++
+ N.L. woman arrested for refusing to self-isolate after talking to police 
+++++++++++
+ N.L. woman arrested for refusing to self-isolate after talking to police 
+++++++++++
+ A tale of two COVID quarantines: My strict lockdown experience in Thailand versus a relaxed approach in Canada 
+++++++++++
+ Expect a spike in cases in GTA in 1 to 2 weeks Today we had beautiful weather and I can see from my condo that the Toronto Harbourfront is packed as if times were normal. I anticipate that there will be a lot of cases in a few weeks, especially if everyone is out again tomorrow. I also expect to hear another scolding from Ford about people not taking this seriously.
+++++++++++
+ The airports are still not strict! why? [Self isolation honour system for international arrivals](
+++++++++++
+ A good sign: a Niagara Falls church that's encouraging self-isolation 

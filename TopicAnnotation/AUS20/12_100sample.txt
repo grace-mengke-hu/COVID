@@ -1,0 +1,601 @@
+
+++++++++++
+ Impact of coronavirus revealed by stark difference in flight radar from last year to now 
+++++++++++
+ NSW active cases a review of the numbers NSW current Active cases: **340**
+
+
+
+This link shows total number of cases:
+
+
+Counting backwards we have to go back 60 days to the 9th of April to count up 340 new cases.
+
+A previous report from NSW health stated the following on recovery times:
+
+* 50% recovery at 16 days
+* 75% recovery at 23 days
+* 95% recovery at 42 days
+
+With the recovery time tied to the severity of the infection.
+Source (SMH May 2020):
+
+
+
+NSW currently does not have any COVID patients in ICU and is doing a lot of testing so I think it's reasonable to assume our current caseload wouldn't all be in the severe category.
+
+Number of new cases in the following time period
+
+* 16 days: 26 cases (23rd of May)
+* 23 days: 38 cases (16th of May)
+* 42 days: 108 cases (27th of April)
+
+Based on the above info the NSW active case count is likely to be out by a factor of 6 or 7.
+Any reason why this isn't a priority to resolve?
+++++++++++
+ Victorian LGAs (Councils) by the number of active cases and their growth over the last week 
+++++++++++
+ For those wondering why rumoured LGA cases differ from official data 
+++++++++++
+ What's everyone's estimation before they start closing Schools / Unis in WA? I'm just curious what everyone's prediction is for when they start shutting down Schools and Unis. Since WA has now reach 10+ cases, which is not much compared to other states, in the next few days I expect cases for not only in WA, but all states to start exploding in numbers. It seems WA Government has been proactive, so should we start seeing school / Uni closures soon?
+
+Since I am a Uni student myself, I want to make sure I am prepared for Uni closure cause it will have an impact on studies. I'm someone who finds it hard to use online study which I assume what they'll use while closures are happening.
+
+Cheers, stay safe!
+++++++++++
+ Shopping for "Essentials" I work in retail, so apparently I am an essential worker. Not supermarket retail, but one other the department stores that isnt closed. There has been a lot of talk about only going out for essentials so why the hell are we still open when the only essentials we provide are things you can get elsewhere and are a low percentage of what we sell?
+
+Yesterday I was working and it was exceptionally busy, like, xmas levels of busy. People out buying things that are not essential at all like toys and decorative homewares and a fucking gazebo while barely maintaining any social distancing and giving our store security guard shit when he asks them to distance.
+
+Is there any way to stop these people coming in to basically use our store as a destination to cure their boredom? Myself and staff are livid that these dickheads are just browsing the store and putting staff at risk just so they can entertain themselves while having the ability and luxury to stay home. Can we call the cops and do they have powers now to tell people to get out if they are just buying things that aren't essential?
+++++++++++
+ Harvard University Professor of Epidemiology editorial in the Guardian on the insanity of ‘herd immunity’ - “people should not be exposed to a virus right now in the service of a hypothetical future” 
+++++++++++
+ Can my partner visit me across the border? My partner lives in nsw but crossess the border for work, is she aloud to come to my house in victoria to stay and is that going acording to the " unless it is for work or study (if you cannot do these things from home), caregiving, seeking medical care or to visit your intimate partner."? 
+
+ [  is where I found that statement
+++++++++++
+ My dad is an australian living in mainland China, they’re lying to us. [removed]
+++++++++++
+ Australia’s battlers on Newstart or the pension will each get a one-off $500 payment from the Coalition’s multi-billion-dollar coronavirus stimulus package. 
+++++++++++
+ Coronavirus Downunder Nightly ɯopuɐɹ Discussion - 2 November, 2020 **This is the nightly ɯopuɐɹ discussion thread for r/CoronavirusDownunder, where you can chat about** ***anything**** **you like!**  Don't forget, although moderation is a bit 'softer' in this thread, please keep the discussion civil and friendly. :)  
+
+&amp;nbsp;  
+
+
+- **Got a suggestion for a random question?**** *Send me a [message](
+- **New to this subreddit?** *Check out our [rules](
+- **Interested in some free mental health resources?** *Check out this [list](
+- **After a long battle, Victoria is on the road to recovery.** *You can find information about what stage Victoria is in [here](
+
+ &amp;nbsp;  
+
+&amp;nbsp;  
+^(* Within reason - don't forget this sub is open to all ages.) ^:)  
+^(** Please send help, I'm running out of discussion questions...)
+
+____  
+
+
+# 𝗧𝗼𝗻𝗶𝗴𝗵𝘁'𝘀 𝗱𝗶𝘀𝗰𝘂𝘀𝘀𝗶𝗼𝗻 𝗾𝘂𝗲𝘀𝘁𝗶𝗼𝗻 𝗶𝘀...  💬  
+
+
+
+####If you could relive a moment in your life, what would it be?  
+*Big thanks to u/SG101112 for suggesting tonight's discussion question!*
+ 
+&amp;nbsp;
+++++++++++
+ Thoughts on when domestic travel will be allowed again? Wife and I are both off work thanks to the Rona and we would love to be able to use the spare time to visit faimly in QLD. 
+What would be best case scenario for this to be a reality?
+++++++++++
+ Daily Tests/Positive Ratio and 14day best case, 11th Sept Daily 0.32% positivity ratio, 43 cases on 13341 Test results   
+14 Day Avg: 0.5%, 74 Cases, 15264 Tests
+
+&amp;#x200B;
+
+
+
+Current 14d thresholds are currently 50 and 5.  
+For 50 cases, the earliest we can reach this is 15th Sept, assuming no new cases from now (same as yesterday). This step is currently driven by the date (28th Sept).  
+For 5 cases, the earliest we can reach this is 24th Sept, assuming no new cases from now (one day later than yesterday). This step is currently driven by the date (26th Oct).
+
+Note: I do this on the actual new cases / the number of reported tests. Some other places do it on the 'net new' cases. I prefer this way, as this is the daily snapshot. This way will give slightly higher ratios, and is probably pessimistic about the 14d average. It's important you, the reader, understand what the difference is. A positivity ratio of 1% does not imply that 1% of the wider population is infected - the tests are not of a random sample of the population.
+++++++++++
+ How crazy do you think the numbers will get? How crazy do you think the numbers will get? Do you think we’ll be able to take control again and push it back down to where it was?
+++++++++++
+ Telstra lines jammed as Centrelink callers clog system  
+
+Telstra has blamed problems with its mobile phone network on a 20-fold increase in the number of people calling Centrelink.
+
+Mobile calls have been patchy, cut out, and users have been told “the call cannot be made” at that time or hear a tone.
+
+Telstra said there was “congestion” on Monday and again on Tuesday when there was a 200 per cent surge in calls.
+
+A Telstra spokeswoman said government call centres were experiencing three times the call volumes compared to last week, and more than 20 times the normal call volume.
+
+Government Services Minister Stuart Robert would not comment on how long people were waiting on hold for.
+
+ [
+++++++++++
+ A haircut is NOT essential I own a Barbershop in Melbourne and I am absolutely fuming that the decision to shut down is on my shoulders. The safety of myself, my staff and my clients are apparently less essential than hair. We cannot do our job without touching random members of the public yet having 1.5m distance is required.
+We have done everything we can to make a safe and hygenic environment but it is past that now.
+These half measures will kill Australians. The stress off emotional whiplash between Andrews announcing shutdown and Scovid denying us that protection left me in anxious shock.
+I now have to socially isolate within my own house for the safety of my housemates.
+I'm closing my shop at the end of the week and I am scared it will affect my ability to claim small business stimulus and end my small business. I have worked 6-7 days a week since I took over the business at Easter time last year. Three weeks ago I was planning our 1st birthday celebration. Now I'm not sure if I'll even see it.
+++++++++++
+ Troubling story My cousins were at the same pub as the person who had coronavirus in Regional NSW, they were their at the pub at the same time and had the COVID safe app open and they wrote their name down. But 48 hours later they still haven’t been contacted by NSW health authorities.  So for all the blame on people health authorities are no better
+++++++++++
+ My obstetrician is flying in from Europe on Sunday and starting appointments and deliveries from Monday. I'm not sure what to do at the moment. This is an incredibly stressful time as I'm 36 weeks pregnant and have a scheduled c-section in 3 weeks.  
+My Obstetrician runs his own private practice. He has been absolutely fantastic throughout this pregnancy and for my first child. However I was quite disappointed when he stuck to his holiday travel plans and departed for Europe (unsure where but not Italy) two weeks ago. I understand it was a different situation even then but as Covid-19 has been escalating, I had hoped he would return to Australia earlier than scheduled. 
+
+He flies into Tullamarine airport in Melbourne on Sunday and is holding antenatal appointments on the Monday, which is when I am meant to be seeing him for observation on my pregnancy and an ultrasound to track that baby is doing well. He has obviously assessed the risk as being non-existent. 
+
+I'm planning to cancel this and talk to him via the phone but that doesn't give me the best care. It's very late in the game to change Obstetricians, even to organise another appointment with a covering OB would take time. 
+
+Is it negligent that he's not self quarantining? or would that be an over-reaction? Would 3 weeks till delivery be enough time for him to be considered "cleared" if he hasn't been tested?
+++++++++++
+ Premiered in Wuhan China, then released in cities across Europe. Coming down under to a city near you within the next 3 weeks! 
+++++++++++
+ I have done stupid hours over the weekend and/but this made me cry Royal Melbourne Hospital Scrub choir [singing]( Stand By You."
+++++++++++
+ Any truth to this? I don't have any Army friends to ask! 
+++++++++++
+ Learner driving during stage 4 Hopefully someone has already endured the hotline to ask, my partner is due to go for her drive test in the next couple of weeks, she has a permit/exemption die to being pregnant and needing to drive for appointments. Her usual instructor cannot take her unless it's the lesson immediately before her test.
+
+Can I take her for preliminary lessons, and can we go outside our stage 4 5km radius of we remain in the car ( we is both of us and our toddler)
+
+TIA
+++++++++++
+ Shares drop more than 6% as virus sparks recession fears 
+++++++++++
+ How to help the elderly/vulnerable Hi guys, 
+
+I was wondering if anyone knows how I can get involved with helping those who need help with food shopping/running errands etc?
+++++++++++
+ Long Island COVID-19 Survivors Line Up to Test for Immunity Antibodies 
+++++++++++
+ Border residents will need to update border passes on 27 July - Border restrictions expanded for NSW hotspots - Queensland Police News 
+++++++++++
+ US tech firm to give state's contact tracing system a digital reset 
+++++++++++
+ QLDers, will you vote this Saturday? I cannot believe the Palaszczuk Government’s decision to go ahead with local government elections this Saturday. I applied for a postal vote but know many who did not. This event will only add to the infection rate and death toll of Queenslanders. If the election is not cancelled my only hope is people will not go vote. So, do you plan on voting/not voting and why?
+++++++++++
+ Here are some of the ways Australia is gearing up their healthcare system in preparation for a Coronavirus outbreak. Also, a new test could be able to tell if you had COVID-19 already but didn't know it. Some of the changes being proposed:
+
+\- GP's to offer telephone consultations for suspected coronavirus patients
+
+\- GP's to offer telephone consultations for people with pre-existing health conditions, or those who would prefer not to present to a GP's office amidst the outbreak
+
+\- Video chat would be available if a doctor needed to see a patient
+
+\- A telehealth platform that was created by the CSIRO already exists and is in use by 100 GP's. It is able to bill through medicate and provide electronic prescriptions
+
+\- A new test to tell if you've had coronvirus before is also soon to be released
+
+\- Australia is trying to source more facemasks, as it is feared the existing emergency stockpile would not be enough for a large and sustained outbreak
+
+\- Intensive care specialists are working on how to source more ventilators, and how they can turn general hospital wards into intensive care units
+
+\- Elective surgery may be cancelled to free up room for Coronavirus patients
+
+\- Aged care facilites could be locked down, with visitors prevented from entering
+
+\- If there is a large outbreak in an aged care facility, infected patients would be housed together to prevent the spread of the disease
+
+ [
+++++++++++
+ Australia travel restrictions: The brutal cost of the international travel ban 
+++++++++++
+ Been a bit unwell, and haven’t been to the shops in over a week. Wondering if the shelves are still stripped bare or has this settled a little. I have a bit of a dry cough and a slightly raised temperature, so have stayed home for over a week. I’m not too concerned as I think this is just a change of season bug. It came on after I fell asleep on warm night and woke up to a cold morning. Luckily I stocked up a bit before the crowds descended on the supermarkets. I will be staying home for more days until I’m better.
+
+I’m interested in getting a sense from people across Australia whether it is still bordering on impossible to buy toilet paper, pasta, mince and so on - unless one is there at the exact time the stock is put out.
+
+Anyway, good luck to everyone and stay safe.
+++++++++++
+ Relocating NSW to VIC Hey everyone
+
+Could anyone offer some advice for me please? I am moving from NSW to Vic for work. 
+
+1. With things as they are currently do I need any special documentation to cross the border? I don’t need to be an ‘essential worker’ do I?
+
+2. I have not seen anything about self isolation into Victoria currently. Can someone confirm this is the case? 
+
+If anyone has done this trip recently or know of anyone who has that would be amazing.
+
+Thanks in advance for the advice
+Kevin
+++++++++++
+ If I die I’m going to have my funeral at a shopping centre so there is no limit on numbers Seriously
+++++++++++
+ Coronavirus Downunder Nightly ɯopuɐɹ Discussion - 22 September, 2020 This is the nightly ɯopuɐɹ discussion thread for r/CoronavirusDownunder, where you can chat about *anything** you like!  
+
+Each night I try to start the discussion with a random question! **Got a suggestion for a random question?** Send me a [message](
+
+
+***Feeling COVID-fatigued?*** [Check out some of our previous random discussions]( You're likely to find some quality [recipes]( new [shows]( to watch, or an interesting [subreddit]( or two!  
+
+
+Don't forget, although moderation is a bit 'softer' in this thread, please keep the discussion civil and friendly. :)  
+&amp;nbsp;
+____
+
+
+- **New to this subreddit?** *Check out our [rules](
+- **Interested in some free mental health resources?** *Check out this [list](
+- **After a long battle, Victoria is on the road to recovery.** *You can find information about what stage Victoria is in [here](
+
+&amp;nbsp;
+
+
+^(*Within reason - don't forget this sub is open to all ages.) ^:)
+++++++++++
+ Coronavirus (COVID-19) psychology survey (8-10 mins to complete) Hello, we are a group of psychology researchers at University of Kent, UK. It would be a huge help if anyone interested would fill out our quick survey (18+) about Coronavirus (COVID-19): 
+
+[
+
+The survey takes 8-10 minutes, and we're happy to answer any queries or questions you may have!
+
+Thanks for your time.
+++++++++++
+ To all Victorians , just know that in a few weeks all our hard work has paid off ! We won’t have to hear BT commentating on the AFL till next year . We did it ! Congrats victorians
+++++++++++
+ What has changed for you the most? I used to watch The Office to unwind after work. Now I watch it to remember what its like to work.
+
+Circle of Life
+++++++++++
+ Indoor gatherings (business) So I’ve been trying to get a clear answer on this one... the hotline says no only restaurants and cafes can have up to 10 people inside... The question is, can we host small photo shoots/meetings yet? (adhering to the 4sqm rule and social distancing) 
+
+It looks like other photo studios are operating but the hotline told me that’s not allowed. I need to get back to clients who think it’s business as usual since the announcement.
+++++++++++
+ Death rate used to estimate number of infections - long watch but very informative given the lack of actual testing in Aus 
+++++++++++
+ Cash payments of $500 to be handed out Australians on Centre and pensioners 
+++++++++++
+ A mate of mine was at a pub in Sydney on Saturday night... I spoke to him when he got home and he said the pub was fairly busy with quite a few people there and the regulars. He said the general consensus was that “it’s all overblown, overhyped” and that most people that were there aren’t really taking this seriously. He also said to me that he doesn’t think it’s a big problem. 
+
+I have been following this since late January... I had a feeling things were going to heat up and they have. But it’s worse than I ever thought it would be!
+
+I said to him - hey they are shutting countries down at the moment. Entire cities. I don’t think they would be doing this if there wasn’t a serious, serious, fucking serious threat.
+
+He said he hopes it’s not but we will see.
+
+Most people I speak to think this whole thing isn’t a big issue. I honestly fear for this country as I believe everyone is in for a huge shock in an a couple of weeks, or even sooner when things start getting out of control here. I don’t think a lot of people understand what is happening.
+
+The government isn’t doing enough. People are out and about doing their normal weekend shit and the world is falling apart around us. 
+
+I want to be wrong about this and I hope Australia can get on top of it. But from what I am seeing in the public and from what others are posting on here - the majority of people in the general population are not paying attention, are ignoring it or are just fucking stupid.
+
+There are a lot people in for a huge shock. 
+
+To add to this I’m on blood pressure medication, I’m an asthmatic and high risk. 
+
+Be safe everyone and keep doing what you are doing. 
+
+Apologies for the rant, it’s late and I’m super stressed about this. I just needed somewhere to vent my frustrations.
+++++++++++
+ Am a tad of a prepper. This little Aussie company got me sucked in a few years back cos I like to mini farm. www.theseedcollection.com.au
+
+Heirloom seeds. Cheap. Germination is like 95%
+++++++++++
+ Couch potato is a pedophile Who wants to spread coronavirus to your children
+++++++++++
+ We arrived in Australia on Sunday from Los Angeles and were immediately put into mandatory quarantine at Crown Metropol, Melbourne. This is how it went down as soon as we got off the plane... [PS: looks like we were some of the lucky ones as this hotel is EXCELLENT] 
+++++++++++
+ Parliment passes Economic Stimulus and Clises for FIVE MONTHS. Our Government is very Serious, so should we. FIVE MONTHS. Follow 
+++++++++++
+ NSW restrictions eased further, up to 20 people allowed in homes from Saturday 
+++++++++++
+ My pantry looks like this year round, now that everyone has stripped the stores I am glad I was taught to always keep a good store of food. 
+++++++++++
+ Scott Morrison gave a rundown of the latest coronavirus measures after Friday's National Cabinet meeting. Here's what he said 
+++++++++++
+ Which countries have protected both health and the economy in the pandemic? 
+++++++++++
+ Machine Learning predicted the future number of infected people by Covid-19 
+++++++++++
+ I hope this time next year I won't feel the urge visit this subreddit [removed]
+++++++++++
+ SCV holder returning to Australia Does anyone know if non protected SCV holders will be allowed back into Australia after the ban comes into effect? Really hard to find any consistent messaging
+++++++++++
+ I work in a chicken factory that supplies woolies so it’s busy and doing 12-14 days We all work shoulder to shoulder, no masks. We were ppe gear to not get hair or touch product.
+
+The most the say regarding corona is that we had to sign legal doc that if we are sick we have to let them know and not come to work. Conserve ppe gear. We are not allowed to approach office and they all wear masks, but we don’t get supplied masks.
+++++++++++
+ #Essential Poll VIC Andrews ALP: Approve 61 (+7) Disapprove 33 (-7) #springst #auspol | GhostWhoVotes on Twitter 
+++++++++++
+ Permits to attend appointment in metro melbourne We live in regional Victoria, we are building a house and gave an appointment to do colour selections at the head office in metro Melbourne next week. I cannot find any information anywhere about whether this is somthing I can get a permit for or how it works? Building can’t go ahead without these essential appointments so I’m a bit unsure about all this.
+
+Anyone have any websites they could direct me to?
+++++++++++
+ Damper recipe for oven baking Tried this over the weekend. Easy, bugger all ingredients and really lovely.
+
+www.bestrecipes.com.au/recipes/easy-australian-damper-recipe/vjqvsg8t
+++++++++++
+ Which countries have achieved suppression of COVID-19 via lockdown? The ones that I can think of are China, Vietnam, Thailand, Australia and NZ. [removed]
+++++++++++
+ at least vaccine developers can trial it in Victoria? I had wondered what was the point of developing a vaccine in Australia, when it was just about gone in most of the country.
+++++++++++
+ WA schools closures Seems WA schools (or the one my lids are in at least) are working to transition into online delivery by next Thursday 5th April.
+Not sure if that's all schools, that it just the information in the notice from our principal overnight.
+++++++++++
+ Controversial: With Vic cases increasing rapidly - should NSW look into a 'pre-cautionary' lockdown? The situation VIC has shown us that suppression via testing and home isolation is not working. It is a lagging approach. With a virus that takes up to 2 weeks (or more) to surface - we should look into revising our approach.
+
+* Suggestion: Given many Victorians have moved to NSW (understandably), would it not be it wise to be one step ahead of the virus and initiate a pre-cautionary 2 week lockdown or at least raise restrictions in NSW?
+* If cases rise - we would have prevent unnecessary death and suffering
+* If no cases rise - we can remove the lockdown
+
+Alternatively - We can continue to play catch up and pray cases do not balloon. Given we have remove almost all our restrictions, I do not believe this is wise.
+
+Forest fire analogy:
+
+* NSW is dry terrain - easily ignited as we have removed all fire safety controls
+* VIC is on fire - with evidence that it is spreading to NSW
+* We have a small window to do a controlled burn - should we do it or pray the the fire does not approach us?
+++++++++++
+ NSW and Victoria's press conference today #Victoria press conference at 11am
+
+[**Victorian Premier, Daniel Andrews, and the Minister for Health, Jenny Mikakos, will hold a press conference at 11am**]( 
+
+&amp;nbsp;
+
+
+Update from Dan's North Face Jacket: [I can be worn in Broady, I can be worn in Brighton, a hard-earned Presser deserves a North Face Jacket. See you later today.]( 
+
+&amp;nbsp;
+
+#NSW possibly at 12pm
+
+The Age is reporting: "The NSW Government are listed to speak about COVID-19 and public transport at midday, it's not clear yet if they will do a separate COVID-19 update."
+
+&amp;nbsp;
+
+
+&amp;nbsp;
+
+---
+You can watch here closer to the time:
+
+* [The Age](
+* [9news live](
+++++++++++
+ How to get r/coronavirus news from Europe (Firstly - I only joined reddit in January, so my epiphany might be obvious to 99% of you)
+
+There is no r/coronaviruseurope and I've had various discussions over the last 6 months about how to get r/coronavirus news from Europe (because I keep being frustrated that r/coronavirus is completely dominated by news from the USA).
+
+My epiphany is that you go to r/coronavirus and click on the **Europe** flair (Ditto the **world** flair, etc)  
+
+Thank you reading my rant/epiphany  (-:
+++++++++++
+ How are people reacting to the Melbourne lock down? Just wondering if there has been any run of the shops or supermarkets in Melbourne? Are people trying to evade the lock down by moving to their holiday homes?
+Is traffic on the roads at normal (whatever normal is) volume?
+Are people accepting the lock down as a necessary action or are pissed off?
+++++++++++
+ SA to open borders to WA tonight, and to Victoria from December 1 with no quarantine restrictions. 
+++++++++++
+ Buy / sell car Guess it's time for some to clear off their unproductive assets ie a second car
+
+Are people buying? Selling their cars atm? How you finding it? I know car dealers are on the edge now
+++++++++++
+ Playgrounds The opening of playgrounds today is one of the riskiests choices.
+
+The amount of mass gathering at the playgrounds today is insane.
+
+If this doesn't result in another spike, is there actually any point of the lockdown any more?
+++++++++++
+ We’re not going hard enough. Our case count in Victoria has been almost the same as the United Kingdom...A country with 66 Million people. [removed]
+++++++++++
+ Australian COVID-19 Discord community  [  
+*\*Spoken with moderation before posting*  
+*\*\* We've already had a big group of people join from this subreddit, some of who are now moderators and our best contributors. Thank you again!*
+
+This discord community has been made to help bring people together during the  new social distancing and isolation rules associated with COVID-19. We take community safely very  seriously, with a strong focus on the mental health of our users, along with their physical health during this pandemic. The more people we have contributing, like on reddit, the more value we add to each others lives. Every individual who joins and helps contribute makes our community a little bit more safe.
+
+Our server includes the following features:
+
+Australian government announcements
+
+Social channels including:  
+ \-	General text chat  
+ \-	Serious and emotional support chats  
+ \-	Voice chat channels  
+ \-	Music channels with a jukebox bot
+
+Automatic reddit posts, bringing together news and posts from:  
+ \-	r/Coronavirus  
+ \-	r/CoronavirusAustralia  
+ \-      r/CoronavirusDownunder  
+ \-	r/COVID19_support  
+ \-	r/workfromhome  
+ \-	r/WFH
+
+Hobby and interest channels, like:  
+ \-	Working from home  
+ \-	Finances  
+ \-	Mental health  
+ \-	Gaming  
+ \-	Cooking  
+ \-	Even dogs wearing hats  
+ \-	And more  
+
+
+I'm available here, or on Discord @ August#5462 if you have any questions or feedback
+++++++++++
+ Stage 4 is driven by healthcare worker infections /u/stoaticor presents the data beautifully daily, but just to emphasise that over half of the new cases today are in HCWs; almost all week, the proportion who are HCWs has been high, hitting &gt;60% at times. If you consider that some of the "non-HCW" cases are actually close contacts of the HCWs (I know my friend has infected his whole family), the inability to protect HCWs in Victoria is responsible for the inability to get numbers down and get out of lockdown.
+++++++++++
+ This is the model being used to plan our way out of lockdown [
+
+via University of Melbourne
+
+note the disclaimer: *The model is being built as data comes to hand. At all times it should be regarded as a work in progress and should not be relied upon as a sole basis for decision-making. Like all models, it should be compared to the available observed evidence and considered alongside other inputs*
+++++++++++
+ What went wrong? The search for answers over New Zealand's outbreak 
+++++++++++
+ Need help moving houses, but will my friend get fined for helping? Hey guys. I have a friend who lives with me some times (a few days a week) and has agreed to help me move houses.
+
+Its unlucky timing for me that I need to move but I can't afford to live there any more and various other reasons.
+
+I'm confused with the new stage 3 restrictions, is my friend allowed to help me move? Are they allowed to stay at mine after the move? Would they be considered apart of my household?
+
+Advice needed!
+++++++++++
+ NSW/ Victoria Tipping Comp Thursday 23-7 I’m tipping we’ll be adding Queensland to the comp next week
+++++++++++
+ Victoria’s stage-four lockdown prevented four sick newborn babies­ who subsequently died from being flown from Adelaide to Melbourne to receive lifesaving cardiac surgery. What is your opinion? 
+++++++++++
+ Next Stage by Monday? So many major retailers/employers have announced tomorrow as their final day of trading. Myer, Cottonon etc. Should we expect to go to a new stage on Monday, Australia-wide? I’m expecting  an announcement for tomorrow night. I’m Perth based , my beauty salons shut down Wednesday night but aside from beauty and bars and restaurants most other retail has remained open til now.
+++++++++++
+ Aussieman reviews coronavirus he's a good bloke huge following, he's taking this seriously 
+++++++++++
+ Coronavirus Downunder Nightly ɯopuɐɹ Discussion - 17 September, 2020 This is the nightly ɯopuɐɹ discussion thread for r/CoronavirusDownunder, where you can chat about *anything** you like!
+
+&amp;nbsp;
+
+Each night I try to start the discussion with a random question! **Got a suggestion for a random question?** Send me a [message](
+
+&amp;nbsp;
+
+***Feeling COVID-fatigued?*** [Check out some of our previous random discussions]( You're likely to find some quality [recipes]( new [shows]( to watch, or an interesting [subreddit]( or two!  
+&amp;nbsp;
+
+Don't forget, although moderation is be a bit 'softer' in this thread, please keep the discussion civil and friendly. :)  
+&amp;nbsp;
+____
+
+
+- **New to this subreddit?** *Check out our [rules](
+- **Interested in some free mental health resources?** *Check out this [list](
+- **After a long battle, Victoria is on the road to recovery.** *You can find information about what stage Victoria is in [here](
+
+&amp;nbsp;
+
+
+^(*Within reason - don't forget this sub is open to all ages.) ^:)
+++++++++++
+ What things will be open after the Stage 2 restrictions start at midnight tonight? Here are some more clarifications 
+++++++++++
+ Moonee valley cases - where are they? Does anyone have any concrete info on where these Moonee Valley LGA cases are? It's one of the fastest growing areas in active cases, but the LGA is so huge that the info at the LGA level is unhelpful, as is the council website - TIA
+++++++++++
+ Covid-19 and our economy From the latest budget update, it seems state and federal governments are still missing the big picture. It seems they are still operating under the belief that things are going to go back to normal. 
+
+Unless and only if this disease is eradicated, could the economy go back to normal. It doesn’t look like that is going to happen globally. It also doesn’t look like there is the political will to have a crack at this domestically. 
+
+So we’re going to have lots of people without jobs. People relying on government payments to survive. And when people sit idle for a long time, they lose their skills. Some become ill mentally, and physically. Some give up.
+
+They need purpose, if only during this Covid period. Maybe it’s time for the government to essentially employ them. Sort people into their skills and abilities, and have them work for the state on projects that need doing. With the number one project being the total elimination of Covid-19 within our borders. 
+
+This can be done. Prominent scientists and medical experts agree. Yes children can’t be schooled for a while. Yes there’ll be enormous disruption on a scale most people haven’t witnessed - but this is going to happen Anyway. We may as well be in control of it. Governments have ceded and deferred too much of their power to businesses. 
+
+Think about it like the old public works acts. If they’re going to be idle anyway, and some paid jobK and jobS, let’s give them purpose somehow. This is a war time effort. The sooner we accept this, the sooner we can take the necessary steps to fighting the war. We became far too complacent already which has caused our current national predicament. 
+
+It’s as though many people have not really realised what this is; we are living through the most dramatic change in history since at least the Second World War. We’re just fighting the wrong battle at the moment. 
+It’s be nice if government acted like this wasn’t a short term bother but rather places the economy on something akin to a war footing for as long as necessary. The world has changed, and it’s not going to change back but I think we can do far more than just waiting and hoping (a) not to catch Covid or (b) for a vaccine...
+++++++++++
+ Death toll Anybody else concerned that our death toll just doubled today and the days only half over?
+The health dude just annouched it on ABC news
+++++++++++
+ Anyone else find the ABC News live threads a little cringeworthy at times? I understand the need to try to make things a bit lighter sometimes but their overuse of memes and internet slang often annoys me and mostly just feels lame. I wish they would just keep it to reporting the facts as they get them in clear and consise language.
+++++++++++
+ Thoughts on why masks do and don't work TLDR. I think masks are mainly a visible symptom of societies successful in suppressing Covid-19, not the reason for their success. But I think they do play an important psychological role in combating the virus by acting as a constant reminder of the pandemic. And that is why I personally choose to wear a mask.
+
+A lot of people point out simple analogies like Taiwan (insert other successful country) with mask = success, USA (insert other failed country) without mask = failure and conclude that masks must have done it.
+
+I think it is more complicated and that masks are just a symptom, not a cause of countries success in fighting the virus. To me, mask usage is an indicator of a society more toward the collectivist end on the individualism/collectivism spectrum.
+
+Citizens in countries more of a culture of emphasis on the good of the many vs individual rights, are more likely to take steps to protect others and themselves such as staying home where possible, washing hands etc.
+
+Because many believe masks help, that means many of them will wear masks as well. So the masks are just symptomatic of citizens taking steps for the greater good over their personal comfort.
+
+Masks in and of themselves don't help since the virus is small enough to get through non N95 masks that are the majority of what people are wearing.
+
+Yet I think the most important aspect of masks is the psychological effect they have. Admit it, if you are not wearing a mask and walk into a room full of people wearing surgical masks, your human instinct would automatically put you in danger mode. You would act more cautiously.
+
+Masks are scary because they indicate the presence of an invisible threat and act as a constant reminder of the pandemic. It's human nature to tense up when seeing others wearing masks. This I think is one of the drivers of the political backlash to mask wearing. More individualistic people see masks as scary and a symbol of their lost freedoms and react by attacking the symbol.
+
+So if there is a critical mass of mask wearing, then despite them being mere placebo for stopping the virus particles, they do have a very real psychological effect in reminding everyone to be cautious and washing hands, social distancing etc. I think people are a lot more likely to adhere to social distancing if they see a lot of people wearing masks than if they were not.
+
+For this reason alone, I believe mask wearing should be strongly encouraged.
+++++++++++
+ The covid 19 test show that you've got it. Does it also show if you've had it? 
+++++++++++
+ Queensland schools to remain open tomorrow (as at 11am Sunday, but keep in mind that things can change very quickly ATM) Queensland schools to remain open tomorrow amid coronavirus fears
+
+++++++++++
+ Dropping cases should lead to a 'common-sense' rethink on opening up 
+++++++++++
+ Warm weather probably won’t slow COVID-19 transmission much - Sciencenews.org - 9 April 2020 
+++++++++++
+ People are attempting to illegally ship hundreds of litres of hand sanitizer overseas from Australia  
+
+The Civil Aviation Safety Authority has been made aware of people trying to fly large, undeclared shipments of hand sanitiser overseas, in a move that could land them in jail for seven years.
+
+So far this week, inspections of aircraft freight in Melbourne have revealed two undeclared shipments of hand sanitiser – one of 460 litres and another of 1000 litres.
+
+It is also understood there have been numerous attempts to send hand sanitiser through the post, but these have been intercepted by Australia Post before being loaded on to aircraft.
+
+The problem is hand sanitiser is classified by the aviation safety regulator as a dangerous good, due to the fact it is 75 per cent ethanol which is highly flammable.
+
+As such, the product must be consigned as a dangerous good using a freight forwarding company.
+
+A CASA spokesman said hand sanitiser could still be carried by airline passengers both on board or in checked luggage, in limited quantities.
+
+“Anyone wishing to carry hand sanitiser is restricted to a maximum of two litres, in containers of no more than half a litre each,” he said.
+
+“They must also ensure the release valve is protected by a cap or other suitable means, to prevent the inadvertent release of the contents.”
+
+The spokesman said CASA would urge people not to try to send hand sanitiser overseas by post, or as undeclared freight.
+
+“It is a safety risk to aircraft and those on board,” the spokesman said.
+
+Under Civil Aviation Legislation, penalties for undeclared dangerous goods can run into the thousands of dollars, or up to seven years jail.
+
+Demand for hand sanitiser as a [result of the coronavirus outbreak]( has seen some supermarkets institute restrictions of no more than two bottles a customer.
+
+ [
+++++++++++
+ We took the final flight from Los Angeles to Melbourne before total lockdown and were lucky enough to be put up by the Crown Casino Metropol Hotel for our quarantine. It was eerie how quiet everything was. Please ask us questions as we're happy to answer to pass the time! 
+++++++++++
+ Reserve Bank of Australia slashes interest rates to 0.5% after coronavirus fears escalate 
+++++++++++
+ Illegal Workers in Rural Australia and the Virus spread Something I haven’t seen being discussed and may be  in need of discussion.
+
+There are thousands of workers in Australia who are not on a visa, who don’t speak English and who at some point may become infected, considering many of the people share overcrowded accommodation, it may become a major problem, it may already be.
+
+They are not likely to report any symptoms, fearing deportation, being locked up, loss of income. They may not even be entirely aware of what is happening in Australia.
+++++++++++
+ I think of the interesting and refreshing things about the virus is that it's finally shown the level of racism of Australia which has tended to be ignored. [removed]
+++++++++++
+ Close contact COVID-19 testing in Melbourne My wife tested positive for COVID-19 on the 24th of July and I tested negative on the 23rd of July. I developed symptoms on the 25th of July.
+
+We both were in quarantine (My wife self isolated). I got a call from the health department on my 8th day of quarantine asking me to get tested at my nearest clinic. I told them that I couldn't go as I was experiencing symptoms and I can't drive( They asked me to use public transport or a taxi but I didn't go because I was symptomatic and I did not want to infect others )
+
+My wife got clearance from the health department as she no longer has the symptoms. They said that she does not need to take the test again, however, I was asked to get tested. I don't have any symptoms for the last 4 days. If I tested positive now, do I need to isolate again even though I no longer have any symptoms?
+++++++++++
+ Why are countries with harsher lockdowns still getting massive infection rates, but our half a shutdown has "flattened the curve" and some are saying even beating it? Europian countries have been in a harder shut down for longer yet still has massive infection rates, is it our size and our current hotter weather? Is it our complete lack of community testing up until few days ago?
+++++++++++
+ Rural Victorians in Stage 3. What is the attitude like in your area? Our LGA had a 4 person outbreak in the week prior to the new lockdown announcement. During the first lockdown our towns turned into ghost-towns with the occasional 'tourist' coming to raid our supermarkets. We even had a couple of bus loads told to turn around before getting here. This time it feels like it's 'business as usual, just wear a mask'.
+
+I'm wondering if it's just us or everywhere is behaving so nonchalantly despite some places having confirmed infections.
+++++++++++
+ Elective surgery/treatment, why is IVF being highlighted? Honestly I don't get it, I feel like the treatments that alleviate pain and improve quality of life is more important than giving financially well-off people more babies. I mean if having a baby before the 'cut-off' period is the most important thing in someone's life at the moment, they are probably doing very well in this society, certainly better than a person needing a hip replacement or people whose teeth are falling out but can't go to the dentist yet??
+++++++++++
+ They arent allowing testing in ACT if you have symptoms This week i’ve come down with a few symptoms ie sore throat, fatigue, nausea, and a fever 
+
+In ACT you can only get a test if you’ve travelled overseas, have been in direct contact with a confirmed case (4 currently), or have severe pneumonia.
+
+I know of other people with symptoms that can’t get tested also.
+
+If people can’t get tested it’s a real problem.
+++++++++++
+ Experience getting test Carona virus test. Was it Painful or Uncomfortable? How was it done?  Hi All,
+
+I know lots of people of Australia would have had this test, just curious on your experience if you've had the test.
+
+How was it done? And was it painful/uncomfortable?
+
+Thanks :)
+++++++++++
+ I think it’s revolting that not a single politician on either side of politics has volunteered to have a suspension or temporary reduction in pay. There is a lot of resentment building in the community because of this and that’s why this lockdown won’t hold. We are not all in this together. Criminals
+++++++++++
+ Why is QLD opening up borders right now? (Serious question) I know this might seem like a dumb/obvious question to some, but I’m genuinely wondering why QLD would open up borders right now (open from midday today). I understand tourism is hugely important for our economy and businesses are suffering, but is it really worth the risk when things are so bad in Vic right now? I know borders are remaining closed to Vic, but surely opening up to other states when there’s always a lag in finding positive cases is taking a big risk? As a QLDer, I would love to not be so worried about this so I would welcome any arguments in favour of opening the border/reassurance it’ll be OK!

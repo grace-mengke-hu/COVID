@@ -1,0 +1,61 @@
+
+++++++++++
+ CDC Initial R0 likely to be 5.7 in Wuhan  
+
+We found R0 is likely to be 5.7 given our current state of knowledge, with a broad 95% CI (3.8–8.9). Among many factors, the lack of awareness of this new pathogen and the Lunar New Year travel and gathering in early and mid-January 2020 might or might not play a role in the high R0. A recent study based on structural analysis of the virus particles suggests SARS-CoV-2 has a much higher affinity to the receptor needed for cell entry than the 2003 SARS virus ([*21*]( providing a molecular basis for the high infectiousness of SARS-CoV-2.
+
+How contagious SARS-CoV-2 is in other countries remains to be seen. Given the rapid rate of spread as seen in current outbreaks in Europe, we need to be aware of the difficulty of controlling SARS-CoV-2 once it establishes sustained human-to-human transmission in a new population ([*20*]( Our results suggest that a combination of control measures, including early and active surveillance, quarantine, and especially strong social distancing efforts, are needed to slow down or stop the spread of the virus. If these measures are not implemented early and strongly, the virus has the potential to spread rapidly and infect a large fraction of the population, overwhelming healthcare systems. Fortunately, the decline in newly confirmed cases in China and South Korea in March 2020 and the stably low incidences in Taiwan, Hong Kong, and Singapore strongly suggest that the spread of the virus can be contained with early and appropriate measures.
+
+SOURCE:  [
+++++++++++
+ Does any of you know of a website that tracks the number of detected cases but with percentage of the countries' population? Does any of you know of a website that tracks the number of detected cases but with percentage of the countries' population? I know I can do the math myself but maybe there's already a tracker out there doing it. The total number of cases in a country might be higher but if the population is also higher than it's normal so I would like to compare based on the percentage.
+Thanks :)
+++++++++++
+ Can COVID-19 virus be spread among different units via A/C heating systems in Toronto condo buildings? I am just curious is the A/C heating systems in most of Toronto’s condo buildings central systems? If so, will the COVID-19 virus be spread via the A/C system among different units? The condo building is built in year 2012, and each unit has an A/C Magic Pak (name for the A/C furnace? I’m not an expert🤪)located within the unit. Any clarification or information will be greatly appreciated.
+++++++++++
+ #Worldwide #Covid-19 #Coronavirus #Lockdown Slowing down the spread of the virus and stopping it in its tracks are two separate responsibilities.
+
+Governments, institutions, and companies MUST all simultaneously halt business for three full weeks. That includes allowing individuals, who cannot afford to lose paid vacations, especially if they were booked prior to the outbreak, whether it be due to health or financial reasons. If you penalize people for cancelling flights, hotels, cars, not going to work... it is natural that they will take that trip or go to work, even though they are risking infection and spreading the disease in several locations. 
+
+Each individual is responsible for following hygiene protocol (not just during an outbreak) and to stay away from others, public transport, public places like stores, theatres, etc. The #widespread virus could have been stopped weeks ago, if travel would have ceased (and not put unrealistic rescheduling deadlines). China is not the only country to blame here. All countries have continued to allow people to fly and there is not enough checking before and after travel. Students have been travelling recently for school trips, and there is no quarantine or health check - despite the countries they circulate. The virus is outside #China - EVERYONE is at #risk. China closed their borders, why can't everyone else? Companies are just prolonging their financial burden. 
+
+&amp;#x200B;
+
+How many more cases and how many more deaths will it take for real action? The truth is we do not know whether we can spread the #virus before we show #symptoms. Stop telling people not to #panic. This is a #pandemic. There are people who still think they cannot contract the infection in a life-threatening way. But they can infect others in that way. We are ALL responsible to do our part and make this stop. I'm not panicking, but my immune system and asthma would not be able to support such a virus. Who will be the first country outside of China and Italy (because their cases are numerous already) to be thinking more about the wellbeing of the world than the bottom line? 
+
+Your reward: You will earn the respect of billions and undoubtedly more business after all this havoc subsides. At this point, countries that are not already on lockdown are allowing the virus to become out of control by letting the spread continue. That is NOT being responsible.
+++++++++++
+ How do asymptomatic people spread the virus? If they don’t have symptoms (fever, coughing etc) then how is it they spread the virus? Sure they’ll be touching door handles, buttons, railings etc. so is the virus on their skin? How? I’m obviously not trying to disprove asymptomatic spread being the case, I’m just curious.
+++++++++++
+ Data Visualization of How the virus spread - Coronavirus Worldwide Spread (JAN 01 to End of April) 
+++++++++++
+ Does the virus spread through food If I order pizza or something and the person who prepared the order had the virus and coughed some droplets on the pizza. Will I get the virus if I eat it?
+
+Or is transmission only through say I touched the pizza box, or the bag of chips...etc and then touched my face
+++++++++++
+ Will anyone in northern Ontario rent shelter to quarantine from the virus I live in southern Ontario. This virus is spreading fast and I’ve already been gathering supplies. My partner and I want to leave the city to isolate ourselves from the virus for a few weeks. Would anyone be willing to rent any type of shelter? i.e : a trailer, bedroom, guesthouse, heated shed, etc..
+++++++++++
+ Friendly Competition Proposition Countries need to get competitive: WHICH COUNTRY WINS SLOWING THE SOREAD?
+
+My challenge to all Canadians (and any marketing reps reading this: please plagiarize the absolute guts out of this)  would be to do whatever it takes to “flatten the curve” and show the US, the HISTORY BOOKS and other countries that we are the best country in the world because WE stopped the virus from spreading beyond the single-digit-deaths (at the time of this post)
+
+We are a hearty bunch who hundreds of years ago braved the Canadian winters in nothing more than cabins, without Uber Eats and Skip The Dishes. We defeated a hundred attacks and even were responsible for discovering cities like New Orleans (seriously! Check out A History of Canada by Conrad Black!)    And we help each other, “cuz that’s what neighbours do, bud”
+
+Staying home with free premium Pornhub access (FYI that’s legit and worldwide check it out) is nothing. Let’s show the world how it’s done!
+++++++++++
+ The CBC and Information on Asymptomatic Covid-19 Spread Hello folks. I recently saw a [popular thread]( on the Coronavirus subreddit wherein people wondered how someone could believe that Covid-19 does not spread asymptomatically - or atleast be unaware that one can spread the disease without showing symptoms. [(the article)](
+
+Well, one way is when you have health professionals going on national radio and stating such a thing as fact as late as this last Monday (March 30th, 2020)
+
+CBC radio's afternoon program for British Columbia (BC Today) had on Vancouver Coastal Health's Chief Medical Officer, Dr. Patricia Daly ( - Starting at [51:20]( ) to answer questions for callers concering Covid-19. 
+
+I'll include some of her answers: 
+
+1:02:19 
+&gt;we do not believe that people without symptoms have any significant role in spreading the virus
+
+1:02:34 
+&gt;we really don't have evidence that people in the asymptomatic period - before symptoms start - play any significant role in spreading the virus
+
+1:20:06 
+&gt;its the most common misinformation about Covid-19... every day we're getting questions if people without symptoms can spread the virus but that's not what the data indicates - the data indicates that this is being spread after symptoms start

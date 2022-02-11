@@ -1,0 +1,159 @@
+
+++++++++++
+ Tasmania COVID-19 update 2020/05/20: Cases 226 (+0), Active 15 (+0), Recovered 198 (+0), Deaths 13 (+0)  [
+++++++++++
+ Aggregating all government location data regarding confirmed COVID cases on a map 
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days) [removed]
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+    t = 37 for the date 2020-07-13
+    exponential model is 7.7041 * exp(0.0966 * t) + -13.4755
+    linear model is -48.9231 + 6.0513 * t
+    quadratic model is 17.5273 + -5.0237 * t + 0.2993 * t^2
+    exponential model residue is 24494.1
+    linear model residue is 63900.9
+    quadratic model residue is 24597.6
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 20.0339 * exp(0.1307 * t) + -36.4546
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+    2020-07-06,127
+    2020-07-07,191
+    2020-07-08,134
+    2020-07-09,165
+    2020-07-10,288
+    2020-07-11,216
+    2020-07-12,273
+    2020-07-13,177
+++++++++++
+ Four new cases were enough for Ardern to lock down Auckland. Here's what we know 
+++++++++++
+ After 28 days of zero cases why are Victorian still restricted? [removed]
+++++++++++
+ Australia has just surpassed 1000 cases. With NSW numbers just released, we now sit at 1,022 cases nationally 
+++++++++++
+ News Report - Independent.ie: Irish-developed kit confirms infection in 15 minutes [Irish-developed kit confirms infection in 15 minutes](
+
+\- First products could be out in just seven days
+
+An Irish company is preparing to release rapid Covid-19 testing kits, which can provide results in 15 minutes and potentially act as a "clinical weapon" against coronavirus.
+
+The tests have been developed with the same technology contained in pregnancy tests and although they are in a pilot phase, they could reduce testing times dramatically from four hours to just 15 minutes.
+
+Assay Genie, a Reagent Genie brand, will be releasing the rapid POC (Point of Care) kit within weeks globally and already some Irish hospitals have been in touch to sample the product, according to Colm Ryan, biochemist and chief executive of Assay Genie.
+
+The test measures one drop of blood and according to the co-founder and CTO of the company Seán Mac Fhearraigh "ultimately, we would have a clinical weapon to combat the spread of the virus"
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days)     date cases growth doubling
+    2020-03-01 29 1.0 1.0
+    2020-03-02 33 1.14 5.1
+    2020-03-03 41 1.24 5.4
+    2020-03-04 52 1.27 5.3
+    2020-03-05 57 1.1 4.8
+    2020-03-06 63 1.11 4.7
+    2020-03-07 73 1.16 4.8
+    2020-03-08 80 1.1 5.4
+    2020-03-09 92 1.15 4.8
+    2020-03-10 112 1.22 4.2
+    2020-03-11 127 1.13 4.0
+    2020-03-12 156 1.23 3.7
+    2020-03-13 198 1.27 3.4
+    2020-03-14 248 1.25 3.5
+    2020-03-15 298 1.2 3.2
+    2020-03-16 376 1.26 3.2
+    2020-03-17 453 1.2 3.3
+    2020-03-18 566 1.25 3.3
+    2020-03-19 708 1.25 3.2
+    2020-03-20 875 1.24 3.2
+    2020-03-21 1071 1.22 3.1
+    2020-03-22 1352 1.26 3.3
+    2020-03-23 1716 1.27 3.5
+    2020-03-24 2146 1.25 3.8
+    2020-03-25 2431 1.13 4.0   day -3
+    2020-03-26 2805 1.15 4.5   day -2
+    2020-03-27 3179 1.13 5.3   day -1
+    2020-03-28 3639 1.14 6.4   day 0  lastest stable day in 7 day MA
+    2020-03-29 3985 1.1 6.6    day +1
+    2020-03-30 4250 1.07 7.1   day +2
+    2020-03-31 4560 1.07 7.7   day +3
+
+Notes: doubling time in days have been smoothed with 7 days (geometric) moving average
+
+The number of cases in Australia was obtained from this wikipedia page
+
+[
+
+the growth and doubling time was calculated. Growth is easy to calculate, just dividing today's number with yesterday's number. Doubling time was calculated by taking the geometric seven day moving average of growth and then converting the result to doubling time.
+
+Example: doubling time for 2020-03-10 is
+
+log(2) / ( (log(1.16) + log(1.1) + log(1.15) + log(1.22) + log(1.13) + log(1.23) + log(1.27))/7 ) = 4.2169
+++++++++++
+ SWiFT model update 24/08 People can criticise me personally, attack me and harass me. They can spread misinformation about the model, or tell me how it's just guesswork. But take a look, 18 days in and we're still predicting daily case numbers with 4 cases! There's nothing else I need to say today.
+
+&amp;#x200B;
+
+Peace x
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+

@@ -1,0 +1,732 @@
+
+++++++++++
+ Day to Day Update: 18 March As of 11 pm ET 18 March 2020, Canada reported 727 coronavirus cases (🔺129 vs yesterday 🔺158).Recoveries at 10(No change vs yesterday no change). Deaths 9(🔺1 vs yesterday 🔺4)
+
+Daily summary: BC added 45 cases today, surpassing Ontario again. Alberta adds 22 cases and is now at 119. Ontario reported 13 new cases, and its 1st death. Quebec adds 20 cases and first death.  Saskatchewan both adds 8 new cases.
+
+By province: 
+
+Province(Daily change in brackets)|Confirmed Cases|Recoveries|Deaths|Tested
+
+BC|231(🔺41)|5|7|6326
+
+Ontario|215(🔺25)|5|1|13897
+
+Alberta|119(🔺22)|0|0|14566
+
+Quebec|94(🔺20)|0|0|N/A
+
+Manitoba|17(🔺2)|0|0|2912
+
+Saskatchewan|16(🔺8)|0|0|1978
+
+Nova Scotia|12(🔺5)|0|0|1141
+
+New Brunswick|11(🔺3)|0|0|381
+
+Newfoundland and Labrador|3(No change)|0|0|N/A
+
+PEI|1(No change)|0|0|N/A
+
+Other(No daily updates here, will just keep tally)|9|0|0|N/A
+
+*Ontario total includes Sophie Trudeau.
+
+This is done in tribute to u/DominusDK
+
+Previous days:
+
+[7 March](
+
+[8 March](
+
+[9 March](
+
+[10 March](
+
+[11 March]
+(
+
+[12 March](
+
+[13 March]
+(
+
+[14 March]
+(
+
+[15 March]
+(
+
+[16 March]
+(
+
+[17 March]
+(
+++++++++++
+ N.B. reports 17 new cases of COVID-19 in Moncton zone; 22 active cases 
+++++++++++
+ Quebec COVID-19 Update - 14th April 2020, 691 New Cases, 75 Additional Deaths 
+++++++++++
+ Day to Day Update: 29 March As of 10 pm ET 29 March 2020, Canada reported 6,320 coronavirus cases (🔺665 vs yesterday 🔺898). Recoveries at 495(No change vs yesterday 🔺210). Deaths 66(🔺5 vs yesterday 🔺17).
+
+Daily summary: Quebec added 342 cases today. BC had no update, because ~~apparently the virus takes Sundays off~~? Alberta adds 40 new cases and 1 new death. Ontario reported 211 new cases and 4 new deaths. Saskatchewan adds 22 new cases. Nova Scotia reported 12 new cases, and NFLD reports 15 new cases. Manitoba reported 8 new cases. New Brunswick reported 15 new cases. Canadian total exceeds 6,000. Only province/territory left without a case right now is Nunavut.
+
+By province:
+
+|Province(Daily change in brackets)|Confirmed Cases|Recoveries|Deaths|Tested|
+|-|-|-|-|-|
+|Quebec|2840(🔺342)|0|22|58517|
+|Ontario|1355(🔺211)|8|23|49186|
+|BC|884(No change)|396|17|36643|
+|Alberta|661(🔺40)||1|3|44999|
+|Saskatchewan|156(🔺22)|0|0|9086|
+|Newfoundland and Labrador|135(🔺15)|0|0|2107|
+|Nova Scotia|122(🔺12)|0|0|4853|
+|Manitoba|72(🔺8)|0|1|7147**|
+|New Brunswick|66(🔺15)|0|0|2931|
+|PEI|11(No change)|1|0|622**|
+|Yukon|4(No change)|0|0|603**|
+|Northwest Territories|1(No change)|0|0|817|
+|Other(No daily updates here, will just keep tally)|13|0|0|N/A|
+
+*Sources are on the sidebar, which are the official government sites for the provinces. Data also taken from [this site](
+
+**No change
+
+This is done in tribute to u/DominusDK
+
+[Previous days](
+
+[+27 March](
+++++++++++
+ We have been doing it all wrong. Looking at google mobility data reports of Taiwan vs Canada and United states and also comparing the number of infected cases, one can quickly realize that we are or have been doing it all wrong. Taiwan citizens kept most if not all of their freedom with very few infected case [(At the moment of writing: 363)]( while Canada as 14,426 and United States 331,151 (That is 1000 times more). And yet, while we are lockdown in our homes, Taiwan is enjoying their time under the sun!
+
+Lets keep in mind that Taiwan is neighbor to China and has a very much higher population density than either Canada or United States which would "normally" make Taiwan much more susceptible to have higher infections rates.
+
+See the numbers dated March 29:
+
+Taiwan: [
+
+Canada: [
+
+United states: [
+++++++++++
+ Quebec announced 10 more deaths, bringing the total number of fatalities to 18. Premier Francois Legault confirmed there are 2,201 COVID-19 cases in the province as of Friday afternoon — up 392 from the previous day. [deleted]
+++++++++++
+ Confused: How much cases of coronavirus are in Ottawa? Confirmed cases is 2002
+Deaths 256
+Resolved cases 1669
+
+Is resolved cases recovered or recovered and deaths?
+++++++++++
+ How large is Québec's death backlog? I notice that Québec always reports death that occurred over a week ago, such as today. According to CTV, 30/35 deaths Québec reported today were from before 11 June. I am wondering if there is any way to know an approximate number for this large backlog, and also why they have one unlike other provinces?
+++++++++++
+ How many Canadians have the new coronavirus? Total number of confirmed cases by region - National 
+++++++++++
+ 10 More Positive cases confirmed for WINDSOR on Sunday; Total is now 25 (it was 5 three days ago) 
+++++++++++
+ Percentage of residents tested by Province/Territory? Wondering if anyone knows where to find the percentage of population tested by Province or Territory?
+++++++++++
+ Ontario Case Projections   
+
+
+
+I dug into the Ontario case disclosures ( [ and [ to try to disentangle the signal from the noise given the bumps in the testing/reporting process.
+
+Hopefully this will give a more forward looking estimate on if we are bending the curve here in Ontario. If the data generates interest I will do my best to update it each day and refine my projections.
+
+   
+ 
+
+I have compiled four series of data using the following methodology.
+
+&amp;#x200B;
+
+1. Current Cases Per Day: estimated from the pdf data's      episode date.
+2. Cumulative Cases: again estimated from the pdf data's      episode date. Add up all of the current cases per day up until that date.
+3. Projected Case Per Day: estimated by
+
+i) calculating the difference in current cases per day between the March 31stand April 1st.
+
+ii) Add the increase in cases for all previous cases to the current case count. Sofor example for the March 26th date in the April 1st report there were 140 cases. Between the March 31st and April 1st there were 224 new cases added for all days before march 26th. So I add 140 + 224 to get a projected total of 364.
+
+iii) I deflate the added value by the change in the number of tests under investigations. So from March 31st to April 31st the number of tests outstanding went from 4280 to 3135. So for the above example I multiple 364\*(3135/4280) = 304.
+
+4) Projected Cumulative Cases: estimated by adding up all the projected cases per day up until that point
+
+   
+ 
+
+The Episode Date is defined as on the public health website ([ as "an estimate of the onset date of the disease for the case" the following heirechy is in place:
+
+"1) Onset Date ; 2) Specimen Collection Date; 3) Laboratory Test Date; 4) Report Date).
+++++++++++
+ Day to Day Update: 25 March As of 9 pm ET 25 March 2020, Canada reported 3,409 coronavirus cases (🔺617 vs yesterday 🔺701) .Recoveries at 192(🔺10 vs yesterday 🔺73). Deaths 34(🔺7 vs yesterday 🔺3).
+
+Daily summary: Quebec added 326 cases and 2 new deaths today. BC added 42 new cases, 1 new death, and 10new recoveries. Alberta adds 61 new cases, total now 417. Ontario reported 100 new cases and 4 new deaths. Saskatchewan adds 14 new cases to 86 cases. Nova Scotia reported 17 new cases. NFLD reports 32 new cases, total now 68. Manitoba reported 14 new cases, and New Brunswick reported 8 new cases. Yukon added 1 new case. PEI added 2 new cases. Canadian total exceeds 3,000. Only province/territory left without a case right now is Nunavut.
+
+By province:
+
+|Province(Daily change in brackets)|Confirmed Cases|Recoveries|Deaths|Tested|
+|-|-|-|-|-|
+|Quebec|1339(🔺326)|0|6|No confirmed source|
+|Ontario|688(🔺100)|8|12|35635|
+|BC|659(🔺42)|183|14|21296|
+|Alberta|419(🔺61)|1|2|35508|
+|Saskatchewan|86(🔺14)|0|0|6270|
+|Nova Scotia|68(🔺17)|0|0|2840|
+|Newfoundland and Labrador|67(🔺32)|0|0|1336|
+|Manitoba|35(🔺14)|0|0|4520*|
+|New Brunswick|26(🔺8)|0|0|1550|
+|PEI|5(🔺2)|0|0|550|
+|Yukon|3(🔺1)|0|0|517|
+|Northwest Territories|1(No change)|0|0|553|
+|Other(No daily updates here, will just keep tally)|13|0|0|N/A|
+
+*Sources are on the sidebar, which are the official government sites for the provinces. Data also taken from [this site](
+
+This is done in tribute to u/DominusDK
+
+[Previous days](
+++++++++++
+ 25 new cases of COVID-19 in B.C. bringing total to 1291 - 4 additional deaths reported 
+++++++++++
+ Ontario Cases (as of Mar 3/20) **Scroll right for more details.** **Additional details on newer cases will be added as they become available.**
+
+|Patient|Age/Gender|Date of Announced Diagnosis|Location|*Presumptive* Source|Hospitalized?|Recovered / Dead|Date of Announced Recovery / Death|
+|:-|:-|:-|:-|:-|:-|:-|:-|
+|1|Male, mid-50s|Jan 25|Toronto Sunnybrook|Imported (China)|Yes (\~7 days)|Recovered|Feb 21|
+|2|Female, mid-50s|Jan 26|Toronto Sunnybrook|Community (Spouse of Patient 1)|No|Recovered|Feb 20|
+|3|Female, 20s|Jan 31|London UH|Imported (China)|No|Recovered|Feb 12|
+|4|Female, 20s|Feb 23|North York|Imported (China)|No|||
+|5|Female, 60s|Feb 26|Toronto Sunnybrook|Imported (Iran)|No|||
+|6|Male, 60s|Feb 27|Toronto Sunnybrook|Imported (Iran), Spouse of Patient 5|No|||
+|7|Male, 50s|Feb 28|Toronto Sunnybrook|Imported (Iran)|No|||
+|8|Male, 80s|Feb 28|Toronto Scarborough|Imported (Egypt)|No|||
+|9|Female, 34|Feb 29|Richmond Hill Mackenzie|Imported (Iran)|No|||
+|10|Female, 51|Feb 29|Ajax (clinic)|Imported (Iran)|No|||
+|11|Male, 69|Feb 29|Ajax (clinic)|Community (Spouse of Patient 10)|No|||
+|12|Male, 50s|Mar 1|Richmond Hill Mackenzie|Imported (Iran),  Brother of Patient 6 or 7?|No|||
+|13|Male, 40s|Mar 1|Richmond Hill Mackenzie|Imported (Iran), Spouse of Patient 9|No|||
+|14|Male, 60s|Mar 1|North York|Imported (Iran)|No|||
+|15|Female, 70s|Mar 1|Newmarket|Imported (Egypt), Travelled with Patient 8|No|||
+|*16*||*Mar 2*||*Imported (Iran or Egypt)*||||
+|*17*||*Mar 2*||*Imported (Iran or Egypt)*||||
+|*18*||*Mar 2*||*Imported (Iran or Egypt)*||||
+|*19*||*Mar 3*||*Imported (Iran or Egypt)*||||
+|*20*||*Mar 3*||*Imported (Iran or Egypt)*||||
+
+Source: [
+++++++++++
+ 25 new cases in Alberta bringing COVID-19 total to 1373- additional 2 deaths reported 
+++++++++++
+ 21st March: 74 cases and 1 new death in BC 
+++++++++++
+ Canada Day to Day Update: 7 March This is a new thing that will happen every day at 10pm EST.
+
+As of 10 PM EST 7 Mar 2020, Canada has reported 60 cases of the coronavirus, 6 more than yesterday. 8 recoveries, 0 new. 0 deaths.
+
+Provincial:(Cases/Serious/Critical/Recovered/Deaths)
+
+Ontario: 28/0/0/4/0
+
+B.C.: 27/0/1/4/0
+
+Quebec: 3/0/0/0/0
+
+Alberta: 0/0/0/0/0
+
+All other provinces have not reported any cases.
+++++++++++
+ Quarter of a million cases worldwide - 10,000+ deathcount - 90,000 recovered 
+++++++++++
+ Top 15 leading causes of death in Canada (2016-2018) + Covid-19 deaths (2020) 
+++++++++++
+ Does any of you know of a website that tracks the number of detected cases but with percentage of the countries' population? Does any of you know of a website that tracks the number of detected cases but with percentage of the countries' population? I know I can do the math myself but maybe there's already a tracker out there doing it. The total number of cases in a country might be higher but if the population is also higher than it's normal so I would like to compare based on the percentage.
+Thanks :)
+++++++++++
+ Day to Day Update: 28 March As of 10 pm ET 28 March 2020, Canada reported 5,655 coronavirus cases (🔺898 vs yesterday 🔺714). Recoveries at 495(🔺210 vs yesterday 🔺90). Deaths 61(🔺7 vs yesterday 🔺16).
+
+Daily summary: Quebec added 477 cases and 4 new deaths today. BC added 92 new cases and 1 new death. Alberta adds 79 new cases. Ontario reported 151 new cases and 1 new death. Saskatchewan adds 30 new cases. Nova Scotia reported 20 new cases, and NFLD reports 18 new cases. Manitoba reported 25 new cases. New Brunswick reported 6 new cases. Canadian total exceeds 5,500. Only province/territory left without a case right now is Nunavut.
+
+By province:
+
+|Province(Daily change in brackets)|Confirmed Cases|Recoveries|Deaths|Tested|
+|-|-|-|-|-|
+|Quebec|2498(🔺477)|0|22|35835**|
+|Ontario|1144(🔺151)|8|19|43072|
+|BC|884(🔺92)|396|17|36643|
+|Alberta|621(🔺79)||1|2|42527|
+|Saskatchewan|134(🔺30)|0|0|8248|
+|Newfoundland and Labrador|120(🔺18)|0|0|1927|
+|Nova Scotia|110(🔺20)|0|0|4141|
+|Manitoba|64(🔺25)|0|1|7147|
+|New Brunswick|51(🔺6)|0|0|2605|
+|PEI|11(No change)|1|0|622***|
+|Yukon|4(No change)|0|0|603***|
+|Northwest Territories|1(No change)|0|0|762|
+|Other(No daily updates here, will just keep tally)|13|0|0|N/A|
+
+*Sources are on the sidebar, which are the official government sites for the provinces. Data also taken from [this site](
+
+**No clear source
+
+***No change
+
+This is done in tribute to u/DominusDK
+
+[Previous days](
+
+[+27 March]
+++++++++++
+ Alberta reports 27 new cases of COVID-19 bringing total to 146 - up to 8 are community transmission - 1 death reported in Edmonton 
+++++++++++
+ [Toronto Star]“70% of new infections are coming from the broader community” “Ontario’s regional health units are reporting another 24-hour period with more than 400 new COVID-19 cases as the rate of new infections has continued to rise in recent days, according to the Star’s latest count.
+
+As of 11 a.m. Saturday, the health units had reported a total of 26,301 confirmed and probable cases, including 2,114 deaths.
+
+The total of 475 new confirmed and probable cases reported since the same time Friday morning was once again up from recent daily averages, a sign the provincewide decline in infection rate has reversed in recent days.
+
+Meanwhile, the recent increase in cases is now primarily coming from infections in the broader community outside outbreaks in places like seniors homes, according to a Star analysis based on data from Ontario’s hardest-hit health units. In mid-April, at the peak of infections in the province, most new case appeared in institutional outbreaks; since then, the rate of outbreak cases have fallen, and now about 70 per cent of new infections are coming in the broader community.
+
+On Saturday morning, the province released its version of the same data, which showed the same trends.
+
+The province once again reported another day in which testing labs completed far fewer COVID-19 tests than the target of 16,000 daily. The 11,028 tests completed the previous day was the sixth straight well below the target. The province says the labs have the capacity to complete about 20,000 tests daily; last week they completed as many as 18,354 in a day.
+
+In the past, spikes in case counts have followed days with high testing rates, and vice versa for days of low testing.
+
+The number of new cases reported each day had been on a downward trend since hitting a peak of more than 700 in late April. However, the average has begun to rise slightly after flattening out to about 360 cases per day last week; before this week, the province last saw more than 400 cases on May 8.
+
+Meanwhile, the 24 fatal cases reported in the province since Friday morning was back in line with the recent falling trend. The rate of deaths is down considerably since peaking at more than 90 deaths in a day earlier this month, about two weeks after the peak in the daily case totals.”
+
+
+++++++++++
+ CDC adjusts death count - comorbidities Hey all,
+
+Genuinely curious if someone can explain the effect of CDC adjusting how they're counting covid deaths. 
+
+According to their new data only 6% of deaths in the US have been from covid19 on its own. The other 94% had another health condition directly involved in the cause of death. 
+
+Does this change anything or give us anymore information we didn't already know? 
+
+In healthy people this would make it seem like the actual mortality rate from covid19 alone is extremely low. Do we just have an extremely unhealthy population?
+++++++++++
+ Why does tracking focus on total cases vs active cases? Just an observation, it seems like all tracking websites and headlines focus on the total number of cases instead of the active number of cases.
+
+To me, the active number seems much more relevant, and should be the focus.
+
+Am I overlooking something?
+++++++++++
+ Alberta reports 3rd death from COVID-19 as total cases hit 661 
+++++++++++
+ I’m no statistician, but if we’re not testing some consistently sized random sample of the population, how can you draw any conclusions from the number of cases? Provinces and other jurisdictions keep posting numbers of detected cases. 
+
+However, the number of people that are being tested and the criteria for being eligible for a test vary wildly. 
+
+I don’t see how you could draw any meaningful conclusions from the resulting data when the testing is so inconsistent. 
+
+Am I missing something?
+++++++++++
+ 6 more COVID-19 patients die in B.C., for a total of 31, as case confirmed at Okanagan jail 
+++++++++++
+ 29 new cases in B.C.'s bringing total to 1203; additional 3 deaths reported 
+++++++++++
+ Nova Scotia reports no new cases of COVID-19; 4 active cases remain 
+++++++++++
+ 426 new cases in Ontario; 37 new deaths; Medical Health Officer De Villa: "Toronto has seen more than 500% increase in cases"; Mayor Tory: "The numbers are presently headed in the wrong direction in Toronto." There have been 426 new cases in Ontario with 37 new deaths, announced at 10:30 AM on April 1.
+
+The City of Toronto's Coronavirus Response Unit is currently holding a press briefing with some rather alarming (but not unsurprising, given the lack of social distancing) statistics. Toronto has seen more than a 500% increase in the last two weeks, and Mayor John Tory is urging Torontonians to better exercise social distancing as the numbers are presently heading in the wrong direction. (Source: [
+
+Now imagine if they were actually testing... What would those numbers look like? NOT GOOD!
+++++++++++
+ 10 New Cases Of COVID-19 In Windsor (Total 462); 3 New Deaths (Total 27) 
+++++++++++
+ 50 new cases of COVID-19 in Alberta bringing total to 1423 - additional 3 deaths reported 
+++++++++++
+ P.E.I. reports one more case of COVID-19, bringing the total number of cases to 22 
+++++++++++
+ Alberta COVID-19 Update - 17th April - 239 New Cases, 0 new Deaths 50 total Deaths, 2397 Total Cases 
+++++++++++
+ British Columbia report 74 new cases COVID-19 bringing total to 424 positive cases, 1 more death reported bringing total deaths to 10 
+++++++++++
+ It would be so useful to be able to retrace the steps of all confirmed cases so far and going forward I feel like there isn't enough awareness and information around all the confirmed cases so far, aside from the one case of the woman who got on the GO Bus in Ontario. The main purpose of this would be to alert those who might have come in close contact to a confirmed case.
+
+South Korea has taken this a step further where companies have set up websites and alerts that help track where confirmed cases had been to keep people informed and alert.
+
+Source: 
+++++++++++
+ Bc Update April 8 - 45 new cases / 5 deaths. [CBC Link](
+
+Edit: All deaths are resident from care homes. Case total is 1336 now.
+++++++++++
+ Quebec reports no new COVID-19 deaths, lowest number of new cases since March 22 
+++++++++++
+ Dutch mink farms have had severe outbreaks of mink infected with COVID-19 and two reported cases of mink-to-human CODID-19 virus transmissions. This could be an issue in Canada. Canada produces 1.7 mink pelts annually on mink fur farms. 
+++++++++++
+ Where can I find previous daily Covid-19 cases province by province? Working on some home schooling stuff with the kids and I want them to make some graphs of Covid-19 growth.  I cannot find daily cases by province that includes the actual daily numbers by province.  I have looked on the dashboards like Johns Hopkins, but they don't break down numbers for March 15, March 16, March 17, etc.  Any suggestions would be appreciated! Thanks
+++++++++++
+ NUNAVUT - 11/30/2020 - 4 new cases. TOTAL active cases 108 
+++++++++++
+ WHO Update: Coronavirus Confirmed Case Stats - Coronavirus Chart Race Update MAY 2020 
+++++++++++
+ Debunking the myth: why 5G doesn't cause or spread coronavirus. Conspiracy theories and logical fallacies explained! 
+++++++++++
+ 449 new cases of COVID-19 in Quebec bringing total to 4611, additional 2 deaths reported 
+++++++++++
+ Manitoba update: November 2 241 new cases, 122 in winnipeg. 9%, 3455 active, 2740 recovered and 6275 total. 124 hospitalizations, 18 in icu and 80 deaths (5 new). 2458 tests done yesterday.
+++++++++++
+ Numbers drop as Quebec reports 92 new cases of COVID-19 with nine deaths 
+++++++++++
+ A sobering statistic: this week, 1 in every 100 Canadians will have been a confirmed case of COVID-19 Nation-wide total as reported right now: [364,810]( ([Government of Canada source](
+
+Current population: [37.88 million](
+
+Current daily cases are nearing [6,000](
+
+At that rate, by this coming Wednesday, over **1% of all Canadians will have been a confirmed case of COVID-19.**
+++++++++++
+ Quebec reports smallest number of new COVID-19 deaths since April 4, fewest new cases since March 25 
+++++++++++
+ 590 new cases of COVID-19 in Quebec bringing total to 3430, 3 more deaths reported 
+++++++++++
+ Study conducted by Public Health Ontario! [ 
+
+"We estimate that 0.6% (N=89,839) of the Ontario population has been infected with COVID-19, in contrast to 0.2% (N=22,942) of the population who have been reported as confirmed cases as of May 17, 2020." - under Highlights in page 1.
+
+Statistics start from page 5.
+++++++++++
+ Alberta's reports 57 new cases of COVID-19 bringing total to 358, second death reported 80-year-old woman from Calgary 
+++++++++++
+ Where are the missing Toronto and York Region cases? [**Map of COVID-19 cases by Region**](
+
+According to [Toronto Public Health]( they are monitoring 104 active cases, but the province is only reporting 81 as of today's update. Same thing with [York Region]( they are reporting 22 cases, but the province's website only shows 18.
+++++++++++
+ 6 more COVID-19 deaths in B.C., 55 new cases confirmed for a total of 1,121 
+++++++++++
+ As of 11:40 EST, Ontario has not yet provided its daily 10:30 EST COVID-19 update - an ominous sign? I hope the reason for the delay is not a large spike in cases, with officials scrambling to announce the numbers more formally via a press conference. The last three daily updates have seen cases under investigation increase from 22 to 122 and then 465. I have always suspected our relatively low numbers in Ontario are due to under-testing. We shall soon find out.
+
+[
+++++++++++
+ 489 positive cases, 8 cases resolved, 6 cases deceased, 8417 cases under investigation, and 19586 negative cases in Ontario, Canada. An increase of 78 positive cases from yesterday. 
+++++++++++
+ Ottawa public healthOttawa public health reported 194 laboratory-confirmed cases reported 194 laboratory-confirmed cases &amp;#x200B;
+
+[
+++++++++++
+ Canadian Case Summary (34 cases as of March 4th) One new case in BC and I was so sad to read that she in critical condition. Let's all think of her and her family. I've added an additional graph that shows the number of tests completed daily in Ontario only.
+
+&amp;#x200B;
+
+
+
+**Case Details (Scroll table to the right to see all the details):**
+
+|Patient|Gender / Age|Date of Announced Diagnosis|City/Hospital|Presumptive Source|Hospitalized?|Recovered / Dead|Date of Announced Recovery / Death|
+|:-|:-|:-|:-|:-|:-|:-|:-|
+|ON-1|Male, 50s|[Jan 25]( Sunnybrook|Imported (China)|Yes (7 days)|Recovered|[Feb 21](
+|ON-2|Female, 50s|[Jan 26]( Sunnybrook|Community (Spouse of Patient ON-1)|No|Recovered|[Feb 20](
+|BC-1|Male, 40s|[Jan 27]( Coastal Health|Imported (China)|No|Recovered|[Feb 19](
+|ON-3|Female, 20s|[Jan 31]( UH|Imported (China)|No|Recovered|[Feb 12](
+|BC-2|Female, 50s|[Feb 3]( Coastal Health|Community (Close Contacts of Patients  BC-3 and BC-4)|No|Recovered|[Feb 25](
+|BC-3|Male, 30s|[Feb 6]( Coastal Health|Imported (China)|No|Recovered|[Feb 25](
+|BC-4|Female, 30s|[Feb 6]( Coastal Health|Imported (China), Spouse of BC-3|No|Recovered|[Feb 25](
+|BC-5|Female, 30s|[Feb 14]( Health Region|Imported (China)|No|||
+|BC-6|Female, 30s|[Feb 20]( Health Region|Imported (Iran)|No|||
+|ON-4|Female, 20s|[Feb 23]( York|Imported (China)|No|||
+|BC-7|Male, 40s|[Feb 24]( Health Region|Community (Close Contact of BC-6)|No|||
+|ON-5|Female, 60s|[Feb 26]( Sunnybrook|Imported (Iran)|No|||
+|ON-6|Male, 60s|[Feb 27]( Sunnybrook|Imported (Iran), Spouse of Patient ON-5|No|||
+|ON-7|Male, 50s|[Feb 28]( Sunnybrook|Imported (Iran)|No|||
+|ON-8|Male, 80s|[Feb 28]( Scarborough|Imported (Egypt)|No|||
+|ON-9|Female, 34|[Feb 29]( Hill Mackenzie|Imported (Iran)|No|||
+|ON-10|Female, 51|[Feb 29]( (clinic)|Imported (Iran)|No|||
+|ON-11|Male, 69|[Feb 29]( (clinic)|Community (Spouse of Patient ON-10)|No|||
+|BC-8|Female, 60s|[Feb 29]( Coastal Health|Imported (Iran)|No|||
+|QC-1|Female, 41|[Feb 29]( (Iran)|[No](
+|ON-12|Male, 50s|[Mar 1]( Hill Mackenzie|Imported (Iran),  Brother of Patient ON-7|No|||
+|ON-13|Male, 40s|[Mar 1]( Hill Mackenzie|Imported (Iran), Spouse of Patient ON-9|No|||
+|ON-14|Male, 60s|[Mar 1]( York|Imported (Iran)|No|||
+|ON-15|Female, 70s|[Mar 1]( (Egypt), Travelled with Patient ON-8|No|||
+|ON-16|Female, 60s|[Mar 2]( (Egypt)|No|||
+|ON-17|Female, 70s|[Mar 2]( (Egypt)|No|||
+|ON-18|Male, 60s|[Mar 2]( (Iran)|No|||
+|ON-19|Female, 70s|[Mar 3]( Hill Mackenzie|Imported (Egypt)|No|||
+|ON-20|Male, 50s|[Mar 3]( York|Imported (Iran)|No|||
+|BC-9|Male, 50s|[Mar 3]( Health Region|Imported (Iran)|No|||
+|BC-10|Male, 60s|[Mar 3]( Coastal Health|Imported (Iran)|No|||
+|BC-11|Female, age?|[Mar 3]( Coastal Health|Imported (Iran)|No|||
+|BC-12|Female, 30s|[Mar 3]( Coastal Health|Community (Close Contact of BC-8)|No|||
+|BC-13|Female, 80s|[Mar 4]( Coastal Health|Imported (Hong Kong / India)|No|||
+
+&amp;#x200B;
+
+
+
+Note: The source is only updated on weekdays so the total weekend test count is split evenly across the weekend days for graphical purposes.
+
+[Source (note that the number of tests completed is not explicitly reported but can be deduced through the daily increase in the positive+negative test results from the prior day's table).](
+++++++++++
+ When will NB close schools/daycares/universities?? Wondering when New Brunswick will start to close schools/daycares/universities?? Anyone have any insight..
+++++++++++
+ Things are not improving here in Canada I hear a lot of people talk about how things are improving, but the number of active cases keep increasing and it'll only get worse once schools open, and even more if they open the border and let Americans in.
+
+
+In Canada
+
+
+July 17th: 4141 active cases
+
+
+
+July 24th: 5452 active cases
+
+
+
+July 31st: 6150 active cases
+
+
+
+
+August 8th (yesterday): 6679 active cases
+++++++++++
+ Asymptomatic confirmed cases of COVID-19 reported at Thorncliffe Park Public School: TDSB 
+++++++++++
+ B.C. reports 45 new coronavirus cases for a total of 231 in the province. National nears 900 [deleted]
+++++++++++
+ Quebec reports 1,107 new COVID-19 cases in one day, highest increase to date 
+++++++++++
+ 19 New Cases Of COVID-19,(427 total) One New Death (17 Total) in Windsor 
+++++++++++
+ Some more positive news: Active cases in Ontario goes down for the first time today Active cases (defined as total cases minus recoveries and deaths) went down today for the first time (from 5,675 to 5,597). I hope this downward trend continues and that 25th April will remain our peak date (for reported cases).
+
+Keep in mind: all these numbers come with some imperfections / uncertainty starting from lag in infection to getting tested to getting results, definitions of 'recoveries', undetected cases and uncertainty around cases in LTCs.
+
+Ontario also reported the lowest number of deaths since April 13th, so the decline in active cases is also not due to a large daily death toll.
+++++++++++
+ 881 new cases of COVID-19 in Quebec bringing total to 10912, additional 41 deaths reported 
+++++++++++
+ Quebec Covid-19 Update - 18th May 2020, 707 New Cases, 34 Additional Deaths 
+++++++++++
+ B.C. hits highest ever count for active COVID-19 cases after confirming 236 new cases 
+++++++++++
+ Coronavirus Update: Data Visualization Of The Spread COVID19 Coronavirus Worldwide 
+++++++++++
+ Deaths in 0-19-year-olds in Canada My count is still 4-6 deaths in this age range but the data is still flowing to the official count.  It would be much more useful if there was a data series available showing the dates because if the case count is 13,175 today but the deaths that are being reported occured in April then it is really hard to know how dangerous this actually is to kids.
+
+13,175 cumulative cases in 0-19 year olds
+
+159 cumulative hospitalizations (1.2% - this was 1.4% last month)
+
+31 ICU cases (0.24% - this was 0.27% last month)
+
+2 Deaths - 1 in 6100.
+
+[
+++++++++++
+ Canada added 502 cases over the past week [10 March update](
+
+[17 March(today) update]
+()
+
+96 confirmed-&gt;598 confirmed
+++++++++++
+ Quebec total # of cases reached 5518, an increase 907 cases from last report [removed]
+++++++++++
+ 53 new cases of COVID-19 in B.C. bringing total to 1066, reports 1 additional death 
+++++++++++
+ Working on an Ontario dashboard tracking coronavirus cases Here's the link - feedback welcome. What else do you want to see or know?
+
+&amp;#x200B;
+
+ [
+++++++++++
+ Aug 15, Number of active cases per 100k people by province/regionCanada *Province | Aug 10 | Aug 14*
+——————————————-
+Alberta  | 24.7 | 23.48 
+——————————————-
+Quebec | 22.41 | 19.77 
+——————————————-
+Manitoba | 14.23 | 17.86
+——————————————-
+Saskatchewan | 13.96 | 14.72
+——————————————-
+British Columbia | 8.71 | 12.41
+——————————————- 
+**Canada | 12.64 | 12.36**
+——————————————- 
+Ontario | 6.78 | 6.11
+——————————————- 
+Prince Edward Island | 0 | 3.16
+——————————————- 
+New Brunswick | 0.77 | 1.15
+——————————————- 
+The Territories | 1.6 | 0.8
+——————————————- 
+Newfoundland | 0.38 | 0.38
+——————————————- 
+Nova Scotia | 0 | 0.1
+——————————————-
+++++++++++
+ 13 more COVID-19 deaths and 309 more cases confirmed in Ontario 
+++++++++++
+ Quebec COVID-19 Update - 16th April - 917New Cases, 143 Additional Deaths, 15857 Total Cases 
+++++++++++
+ Ontario Canada reports people over 80 account for 60% of deaths and 16% of all confirmed cases. 
+++++++++++
+ Quebec reports six new COVID-19 deaths, 195 new cases as daily numbers continue to drop 
+++++++++++
+ Interesting reverse of Swine Flu Nova Scotia was the very first province to report a case of the Swine Flu and now it will be the final province to report a case of covid-19.
+++++++++++
+ [OC] Ranking Countries according to Confirmed Cases as of 18th April 2020 
+++++++++++
+ 'We are flattening the curve,' Ford says as Ontario's COVID-19 average grows to 600 new cases per day [
+++++++++++
+ Manitoba May 16th: Zero new cases for 4th straight day. Current numbers: 25 active cases, 2 hospitalized, 1 ICU, 7 deaths. 908 tests yesterday. 
+++++++++++
+ 106 New cases reported in Alberta bringing total to 1181 - 2 deaths additional deaths 
+++++++++++
+ 3rd death related to COVID-19 reported in Ontario bringing total deaths in Canada to 18 
+++++++++++
+ NUNAVUT - 11/26/2020 - 0 new cases TOTAL 150 active cases 
+++++++++++
+ April 3rd: BC announces 53 cases, 4 deaths, but number of patients hospitalized falls 
+++++++++++
+ CORONAVIRUS Cases Count in Each Country | Top countries with most CORONAVIRUS Cases | Ranking Freak 
+++++++++++
+ 106 New cases reported in Alberta bringing total to 1181 - 2 deaths addtional deaths 
+++++++++++
+ 29 new cases in Alberta bringing total COVID-19 total to 690, 5 deaths reported bringing total to 8 
+++++++++++
+ Number of COVID-19 cases in Ontario surpasses 1,000 - 151 new cases bringing total to 1144 [deleted]
+++++++++++
+ Canadian Nurse explains in layman's terms why Covid-19 shouldnt be compared to other causes of death. (Funny/informative) 
+++++++++++
+ New Brunswick CoronaVirus Update - 1st April 2020, 11 New cases, 81 Total in NB  [
+++++++++++
+ Quebec COVID-19 Update - 11th April 2020 - 615 New Cases 48 Additional Deaths 
+++++++++++
+ Coronavirus Update: COVID-19 Coronavirus Outside Of Mainland China Spread Overtime 
+++++++++++
+ Quebec reports 52 more COVID-19 deaths and 156 new confirmed cases 
+++++++++++
+ Day to Day Update: 1 April As of 9 pm ET ~~32 March~~ 1 April 2020, Canada reported 9,730 coronavirus cases (🔺1139 vs yesterday 🔺1143). Recoveries at 1736(🔺493 vs yesterday 🔺303). Deaths 111***(🔺7*** vs yesterday 🔺12***).
+
+Daily summary: Quebec added 449 cases today and 2 new deaths. BC added 53 new cases and 1 new death.  Alberta adds 117 new cases and 2 new death. Ontario reported 405 new cases and 1*** new death. Saskatchewan adds 9 new cases and 1 new death. Nova Scotia reported 26 new cases, and NFLD reports 23 new cases. Manitoba reported 23 new cases. New Brunswick reported 11 new cases. PEI erased a case for some reason. Canadian total exceeds 9,500; we’re on track to surpass South Korea tomorrow. There’s now &gt;!still Nunavut!&lt; in Nunavut.
+Hospitalisations will now be added to the chart as well. 
+
+Note: Today’s recovery numbers may seem like a spike, but I am getting more accurate info on recoveries, so I am correcting it today by adding it in today’s update.
+
+By province:
+
+|Province(Daily change in brackets)|Confirmed Cases|Recoveries|Deaths|Hospitalised|Tested|
+|-|-|-|-|-|
+|Quebec|4611(🔺449)|231|33|308|75463|
+|Ontario|2392(🔺426)|689|37***|N/A|61009|
+|BC|1066(🔺53)|606|25|128|43229|
+|Alberta|871(🔺117)|142|11|49|53141|
+|Saskatchewan|193(🔺9)|30|3|3|10528|
+|Newfoundland and Labrador|175(🔺23)|4|1|N/A|2816|
+|Nova Scotia|173(🔺26)|7|0|N/A|6764|
+|Manitoba|127(🔺24)|4|1|3|10044|
+|New Brunswick|81(🔺11)|14|0|N/A|3917|
+|PEI|21(🔻1)|3|0|N/A|870|
+|Yukon|6(🔺1)|3|0|N/A|722|
+|Northwest Territories|2(🔺1)|0|0|N/A|979
+|Other(No daily updates here, will just keep tally)|13|0|0|N/A|
+
+*Sources are on the sidebar, which are the official government sites for the provinces. Data also taken from [this site]( and [this site](
+
+**No change
+
+***~~Ontario’s death toll was listed as 36 yesterday, but is now 33. This is quite confusing. The death toll is currently counted as 36 in Ontario until further news.~~ Death toll in Ontario confirmed to be 37 with today’s 4 new deaths, therefore, I am adding only 1 new death today for Ontario to fix the error. 
+
+This is done in tribute to u/DominusDK
+
+[Previous days](
+++++++++++
+ Ontario reports 351 new coronavirus cases, total cases now at 1,706 
+++++++++++
+ Day to Day Update: 23 March As of 9 pm ET 23 March 2020, Canada reported 2,091 coronavirus cases (🔺621 vs yesterday 🔺140) .Recoveries at 109(🔺94 vs yesterday 🔺3) Deaths 24(🔺4 vs yesterday 🔺1).
+
+Daily summary: Quebec added **409 cases(yes, not a typo)** today because they included probable cases as well, total now 628. Quebec has taken the lead in cases. BC added 48 cases today, 3 new deaths, and 94 new recoveries. Alberta adds 42 new cases. Ontario reported 78 new cases and 1 new death. Saskatchewan adds 14 new cases to 66 cases. Nova Scotia reported 13 new cases. NFLD reports 15 new cases. Manitoba reports 1 new case, but also erased a previous case due to that patient testing negative, total remaining at 20. 
+
+*Quebec changes their death toll by -1 to 4
+
+By province: 
+
+Province(Daily change in brackets)|Confirmed Cases|Recoveries|Deaths|Tested
+
+Quebec|628(🔺409)|0|4|No confirmed source
+
+Ontario|503(🔺78)|8|6|28506
+
+BC|482(🔺48)|100|13|21296
+
+Alberta|301(🔺42)|1|1|30058
+
+Saskatchewan|66(🔺14)|0|0|5269
+
+Nova Scotia|41(🔺13)|0|0|2349
+
+Manitoba|20(🔺1+🔻1=No change)|0|0|4245
+
+New Brunswick|17(No change)|0|0|1096
+
+Newfoundland and Labrador|24(🔺15)|0|0|938***
+
+PEI|3(No change)|0|0|400
+
+Northwest Territories|1(No change)|0|0|370****
+
+Other(No daily updates here, will just keep tally)|13|0|0|N/A
+
+*~~PEI and NFLD have no info on the number of tested on their websites. Will update sporadically if other sources mention number of tested.~~ Found sources for both.
+
+**Sources are on the sidebar, which are the official government sites for the provinces. Data also taken from [this site](
+
+***NFLD reduced # of tested for some reason
+
+****The Northwest Territories website for COVID-19 cannot be accessed at the moment. Will try again later; number of tested is from yesterday for now.
+
+This is done in tribute to u/DominusDK
+
+Previous days:
+
+[7 March](
+
+[8 March](
+
+[9 March](
+
+[10 March](
+
+[11 March]
+(
+
+[12 March](
+
+[13 March]
+(
+
+[14 March]
+(
+
+[15 March]
+(
+
+[16 March]
+(
+
+[17 March]
+(
+
+[18 March](
+
+[19 March](
+
+[20 March]
+(
+
+[21 March]
+(

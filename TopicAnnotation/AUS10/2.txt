@@ -1,0 +1,130 @@
+
+++++++++++
+ Confirmed Cases per Million of Population - Italy, South Korea, China, Europe ex-Italy, Australia and USA 
+++++++++++
+ Australia's Coronavirus App Hits 1 Million Downloads In A Few Hours 
+++++++++++
+ Covid-19 Death Ranking | TOP 10 Country (updated on 10 Sep 2020) 
+++++++++++
+ I know the PM is touting smaller growth of new confirmed cases, but have they actually changed any of the testing criteria? How can we trust the data if they haven’t? I’m thinking particularly for states like NSW and maybe Vic where there is evidence of community transmission, but even as of 3 days ago when I spoke to my doctor, they still had strict criteria on who can and can’t be tested, and it was still mostly targeted at overseas travel.
+++++++++++
+ Rockhampton aged care residents evacuated after nurse tests positive to coronavirus [deleted]
+++++++++++
+ Queensland records 1 new overseas case # New cases reported in the last 24 hours
+
+* **1** is an overseas arrival in quarantine
+* It has been 17 days since the last infectious case has been out in the community.
+
+&amp;#x200B;
+
+**Please visit the following link to view the full contact tracing list of places visited by confirmed cases:** [**Current contact tracing alerts**](
+
+# Cases to date
+
+||Last 24 hours|Total|
+|:-|:-|:-|
+|Confirmed cases|\+1|1,157|
+|Active cases|\+1|8|
+|Recovered|\+0|1,141|
+|Current hospitalisations||5|
+|Patients currently in ICU||0|
+|Deaths|\+0|6|
+|Tests conducted|\+3,040|1,097,964|
+|Cases of First Nations people||10|
+
+# Likely source of infection
+
+||Last 24 hours|Total|
+|:-|:-|:-|
+|Locally Acquired—close contact with a confirmed case|\+0|237|
+|Locally Acquired—no known contact|\+0|41|
+|Interstate acquired|\+0|21|
+|Overseas acquired|\+1|858|
+|Under investigation|\+0|0|
+
+# Sources:
+
+* [AP Twitter](
+* [**Queensland COVID-19 statistics**](
+* [QLD Health: Urgent COVID-19 update](
+* [Current status: Public health directions regarding movements and gatherings](
+* [COVID-19 symptoms and testing locations](
+++++++++++
+ NSW has reported 20 new confirmed cases today. Three have arrived from Italy, one from Germany, one from the USA and two from the UK and two from other European countries 
+++++++++++
+ Daily Discussion Post - 11 April 2020 (help us keep our newsfeed awesome by putting smaller questions/comments/discussion/opinions here). Don't forget our Discord server for live chat: [
+
+Our case tracker that's updated throughout the day, and a growing list of useful resources:
+[
+++++++++++
+ Daily Tests/Positive Ratio 15th Sept Daily 0.48% positivity ratio, 42 cases on 8803 Test results  
+14 Day Avg: 0.42%, 60 Cases, 14733 Tests
+
+&amp;#x200B;
+
+
+
+Note: I do this on the actual new cases / the number of reported tests. Some other places do it on the 'net new' cases. I prefer this way, as this is the daily snapshot. This way will give slightly higher ratios, and is probably pessimistic about the 14d average. It's important you, the reader, understand what the difference is. A positivity ratio of 1% does not imply that 1% of the wider population is infected - the tests are not of a random sample of the population.
+++++++++++
+ NSW records 10 new overseas cases #New cases reported in the last 24 hours:
+
+* **10** new cases detected in returned travellers in hotel quarantine.
+
+
+
+#Cases to date:
+
+| | Last 24 hours | TOTAL
+---|-----|-----
+**Confirmed cases** | +10  | **3,240** 
+**Active** | +10 | 390
+**Active (NSW Gov)*** | +0 | 6
+**Recovered** | +0 | 2,799
+**Deaths** | +0  | 51
+| Tests conducted | +11,555 | 953,987
+| Hospital |  | 2
+| ICU | +0 | 1
+| Ventilated| +0 |0 | 
+
+^*[NSWGov]( ^records ^active ^cases ^as ^locally ^acquired ^COVID-19 ^cases ^with ^onset ^in ^the ^last ^4 ^weeks. ^Overseas ^acquired ^cases ^in ^quarantine ^hotels ^are ^not ^counted.
+
+---
+---
+
+**SOURCES OF CONFIRMED CASES:** 
+
+| | Last 24 hours | This week | TOTAL
+---|---|----|----
+Locally - Known | - | - | 881 
+Locally - Unknown | - | +1  | 364 
+Interstate | - | - | 69 
+Overseas | +10 |  +55| 1,926
+Under investigation | - | - | 0 
+
+&amp;nbsp;
+
+**LOCALLY ACQUIRED CASES IN THE LAST 14 DAYS ([Google maps](
+
+Outbreak | Suburb | Last 24 hours | Last reported case | Total
+--------|-----------|---------|-----|-----
+Penrith male | Penrith | - | [27/06]( 1
+Camden High School | Camden | - | [26/06]( | 1
+Lane Cove West Public School | Lane Cove | - | [25/06]( | 1
+
+&amp;nbsp;
+
+**AFFECTED EDUCATIONAL INSTITUTIONS  IN THE LAST 14 DAYS:**
+
+Name | Suburb | Positive case | Multiple cases (Total) | Reported
+----|--------|-------------|--------|--------|--------
+Green Point Christian College | Central Coast | Student (historic) | - | [03/07](
+Camden High School | Camden | Student | - | [26/06](
+Lane Cove West Public School | Lane Cove | Student  | - | [25/06](
+
+---
+**Sources**: 
+
+ * [The Age]( 
+ * [nsw.gov.au]( 
+ * [NSW COVID-19 case statistics - up to 8pm 4 July 2020
+](

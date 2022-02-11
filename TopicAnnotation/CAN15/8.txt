@@ -1,0 +1,74 @@
+
+++++++++++
+ We created a COVID-19 antibody test interpreter  Dear r/CanadaCoronavirus,
+
+I’m sure a lot of you have seen all of the news articles recently about how COVID-19 antibody testing doesn’t actually tell you much even if they claim to be very accurate. Well, we have decided to create a [site]( that helps anyone interpret their results in a more meaningful way. All you have to do is enter a couple of statistics from the specific test you took and you will instantly be able to see what your test results really mean.
+
+We also try to give a more intuitive explanation for the incredibly unintuitive results which arise out of COVID-19 antibody tests.
+
+If you have taken an antibody test or just want to learn a bit more on what testing accuracy really means, please check out [our site]( and let us know what you think.
+
+Thanks, [the Covid Test Interpreter Team]( (CTIT)
+
+&amp;#x200B;
+
+[covidtestinterpreter.com](
+++++++++++
+ Antibody test Does anyone know if there are antibody tests available to buy here? They're now available from High Street stores in the UK as some of my family have taken them.
+++++++++++
+ Where are we with antibody tests being available in Canada ? One of the most crucial aspects is testing everyone, and especially antibody tests to see who has had the virus, anti body tests can even be done at home technically, where are we in Canada with this ?
+
+The second thing to be done is make enough masks in Canada for everyone to use, doubt that will happen tho
+++++++++++
+ Tests in Canada vs Tests in USA - Similarities and Differences The false negatives, releasing patients who were later found positive, and the lack of testing are all concerns in the USA. 
+
+I have seen that we are doing more tests here in Canada than the USA:
+
+"The B.C. Centre for Disease Control (BC CDC) reported that it has tested 1,012 people for the virus as of Feb. 27, 2020."
+
+
+"Theresa Tam, Canada’s Chief Public Health Officer, said that some provinces, particularly B.C. and Ontario, are starting to test a wider sample of the population to detect possible community spread of the virus, including those who go to the hospital with flu-like symptoms even if they haven’t travelled outside of Canada recently."
+
+
+However, I haven't found much information about how the actual tests we do here in Canada differ from the ones in the USA. 
+What do we know so far about the test itself? How are our tests (the actual tests, not the testing proess itself although that is important too) similar or different from the tests in the USA? Should we also be concerned about false positives? Please include links where possible.
+++++++++++
+ What are the mild symptoms vs coughing, sneezing, fever, ...etc? Thanks. 
+++++++++++
+ Coronavirus vaccine being tested in China could be tested in Canada soon - National 
+++++++++++
+ Testing Requirements? Alberta isn't testing anyone unless they have travelled or come into contact with someone or have shortness of breath while resting or worse; Symptoms listed by WHO:
+
+ People may experience:  
+
+* Runny nose
+* Sore throat
+* Cough
+* Fever
+* Difficulty breathing (severe cases)
+
+So.. they're only testing severe cases?! I've been sick for a while now, longer than usual, could be it, don't know, can't get tested because while my lungs feel crappy and are congested I am just barely at the threshold where I would say I'm 'short of breath while resting'; according to WHO it could be a not severe case, according to AHS, " There are many common viruses other than COVID-19 that can cause your  symptoms. Based on your responses you do not need to be tested for  COVID-19 at this time. "
+
+Shouldn't we be testing anyone with symptoms? I've read so many things that say testing is the key..?
+
+Or are we just going to lock everyone inside until it goes away?
+
+Thoughts?
+
+\--
+
+I created a wiki for Canadian COVID-19 Resources; please visit and contribute: 
+++++++++++
+ Question: COVID19 or Flu? How can you tell if someone possibly has COVID19 or the common flu? 
+
+For example, my friend had food poisoning and now has a cold (slight fever, dry cough).
+++++++++++
+ Do I bother getting tested for covid-19? My workplace got hit with 2 cases of covid-19 and I am unsure if it worth it to get tested. I want to get tested, but I am given no clear timeline when my results will come in. I could miss 2 days of work or a week waiting for my results. If I do get tested, I am not getting paid despite it coming from work.
+
+So far all my coworkers that volunteered to get tested have tested negative.   I don't have any symptoms and I haven't worked directly with the two that tested positive.
+++++++++++
+ Do I need to self isolate while waiting for results with no symptoms? I'm in Ottawa and was just tested. I don't have any symptoms although over the weekend I was outdoors at the same picnic table as someone who tested positive (they found out Tuesday, had no symptoms, and were only tested because they had close contact with someone 16 days prior who recently tested positive).
+
+When I went to get tested they only asked if I was part of an outbreak and if I had any symptoms, when I answered no to both of those they performed the test and did not give me any further instructions besides that I will hear back about my results in 5 to 7 days.
+
+Do I need to self isolate until I get my results? I feel like the chances of me having caught it are pretty low, and I'm not even sure I would consider it close contact (outdoors the entire time, opposite ends of a picnic table for only a short while, windy day, the person had no symptoms and had caught the virus 16 days prior and did not know).

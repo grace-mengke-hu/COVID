@@ -1,0 +1,79 @@
+
+++++++++++
+ Nova Scotia's current number of cases drops for the first time [
+
+To date, **19,032 test results have been reported** in Nova Scotia, or 1.95% of the entire population, or about 1 out of every 50 people. Today marks the first day our current cases went down. 
+
+Out of those tests:
+
+* **18,453** results were **negative** (97% of all tests) and **579** results were positive (3% of all results)
+* There are **400** **current cases** (2.1% of all tests), **389** of which are being treated at home
+* **11** are currently **hospitalized** across the province (2.75% of all current positive cases)
+   * The number of hospitalizations has been stable for the last 12 days despite the number of tests and cases dramatically increasing, ranging from 9-11 admissions,  with no more than 5 cases admitted to ICU units on a given date.
+* **176** have **recovered** (30.4% of all positive tests)
+* **3** people have **died**: a woman in her 70s and a woman in her 90s, both from Cape Breton and both with underlying medical conditions, and a man in his 80s from HRM.
+* Since our state of emergency was declared, an average of **2.8% of all daily tests** performed have come back **positive**
+
+It is *incredible* to see the change in numbers from my update from the start of the month: [
+++++++++++
+ Quebec Covid-19 Update - 18th May 2020, 707 New Cases, 34 Additional Deaths 
+++++++++++
+ Canada surpasses South Korea and the 10,000 cases mark at the same time; now 10,132 cases and 131 deaths 
+++++++++++
+ 25 new cases in Alberta bringing COVID-19 total to 1373- additional 2 deaths reported 
+++++++++++
+ Help understanding this data please [Ontario] May 20, 3622 cases 991 hospitalized, 7382 tests completed
+
+Nov 20, today, 12623 cases, 518 hospitalizations, 48173 tests completed.
+
+
+
+more tests equals more cases but more cases doesnt equal more hospitalizations? that doesnt make sense?
+
+also interesting to note in footnotes:
+
+7] Back to paragraph^ Deaths are determined by using the outcome field in iPHIS, CORES, CCMtool or The COD. Any case marked "Fatal" is included in the deaths data. Deaths are included whether or not COVID-19 was determined to be a contributing or underlying cause of death as indicated in the iPHIS field “Type of Death”.
+
+[8] Total number of tests completed by the COVID-19 Clinical Lab network (including PHO, hospital and community laboratories). This number represents total tests and not persons tested.
+
+
+++++++++++
+ Day to Day Update: 26 March As of 9 pm ET 26 March 2020, Canada reported 4,043 coronavirus cases (🔺634 vs yesterday 🔺617) .Recoveries at 195(🔺3 vs yesterday 🔺10). Deaths 38(🔺4 vs yesterday 🔺3).
+
+Daily summary: Quebec added 290 cases and 2 new deaths today. BC added 66 new cases and 3 recoveries. Alberta adds 67 new cases. Ontario reported 170 new cases and 2 new deaths. Saskatchewan adds 9 new cases to 95 cases. Nova Scotia reported 5 new cases. NFLD reports 15 new cases. Manitoba reported 1 new cases, and New Brunswick reported 7 new cases. PEI added 4 new cases. Canadian total exceeds 4,000. Only province/territory left without a case right now is Nunavut.
+
+By province:
+
+|Province(Daily change in brackets)|Confirmed Cases|Recoveries|Deaths|Tested|
+|-|-|-|-|-|
+|Quebec|1629(🔺290)|0|8|35835|
+|Ontario|858(🔺170)|8|14|38550|
+|BC|725(🔺66)|186|14|21296|
+|Alberta|486(🔺67)|1|2|36660|
+|Saskatchewan|95(🔺9)|0|0|6915|
+|Nova Scotia|73(🔺5)|0|0|3274|
+|Newfoundland and Labrador|82(🔺15)|0|0|1491|
+|Manitoba|36(🔺1)|0|0|5606|
+|New Brunswick|33(🔺7)|0|0|1550**
+|PEI|9(🔺4)|0|0|555|
+|Yukon|3(No change)|0|0|517|
+|Northwest Territories|1(No change)|0|0|559|
+|Other(No daily updates here, will just keep tally)|13|0|0|N/A|
+
+*Sources are on the sidebar, which are the official government sites for the provinces. Data also taken from [this site](
+
+**It appears that I can’t access the NB government page right now, so these are yesterday’s numbers. Will try again later.
+
+This is done in tribute to u/DominusDK
+
+[Previous days](
+
++[25 March(Can’t update the previous days site today)]
+++++++++++
+ 98 new cases if COVID-19 in Alberta bringing total to 1348 - 1 additional death 
+++++++++++
+ Ontario Schools with fully resolved cases I am going to post some data about the schools that have 100% of their cases resolved in Ontario.  These schools no longer show up on the daily reports.  Right now I have the data in a table that I can't post but hope to post some graphs to this thread over the next couple of days.
+++++++++++
+ Canada, COVID-19 May 18, 2020 - Atlantic Canada (pop. just shy of 2.5M), has only 50 Active Cases left. 24 New Cases over past 7 days all in NS. NL had only one in past 14. Disease is contained in NB &amp; PEI. To the west, Quebec (pop. about 8.5M) has 27,986 Active Cases. Added 5,158 last week. 
+++++++++++
+ 907 new cases of COVID-19 in Quebec bringing total to 5518; 3 additional deaths reported 

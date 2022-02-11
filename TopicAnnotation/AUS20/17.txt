@@ -1,0 +1,426 @@
+
+++++++++++
+ NSW records 3 new cases * **3** cases are returned overseas travellers (2 from Pakistan, 1 from the USA) in hotel quarantine.
+* **8,995** people were tested in NSW in the 24 hours to 8:00pm yesterday.
+* Total cases in NSW: **3,086**
+  * **383** (-3) active cases.
+  * **2,653** (+5) have recovered.
+  * **50** deaths in total. 
+  * **369** (-1) locally acquired – contact not identified.
+  * **411,618** people tested in total.
+
+Source: **[NSW Health](
+
+Areas for increased testing and surveillance as of 17/05:
+
+ * [The Hills LGA](
+ * [Penrith LGA](
+
+---
+
+
+**NSW Government - helpful links:**
+
+* [Current restrictions](
+* [Information about symptoms and testing](
+* [Testing clinics](
+* [Mental wellbeing services](
+* [Financial support for individuals and households](
+* [Travel and transport advice](
+* [NSW education advice](
+++++++++++
+ Time series data of positive Victoria Covid-19 tests. Hi, attached are CSV files for [active]( and [cumulative]( Covid-19 cases in Victorian LGA's from 2020-05-07 to 2020-07-18.
+
+These files were generated from an automated process, and does not contain positive tests from an unknown LGA. I hope these files may be useful in calculating the percentage change at an LGA level for example.
+
+Very heartening to see Victorians are succeeding in slowing the spread of the virus. I hope things will start improving as we start heading out of Winter.
+++++++++++
+ Queensland records 2 new local cases # New cases reported in the last 24 hours
+
+&amp;#x200B;
+
+* 2 new local cases, both linked to known infections - according to ABC
+
+&amp;#x200B;
+
+**Will update this post as further information is provided.**
+
+&amp;#x200B;
+
+**Please visit the following link to view the full contact tracing list of places visited by confirmed cases:** [**Current contact tracing alerts**](
+
+&amp;#x200B;
+
+# Cases to date
+
+||Last 24 hours|Total|
+|:-|:-|:-|
+|Confirmed cases|\+2|1,126|
+|Active cases|\+0|28|
+|Recovered||1,084|
+|Current hospitalisations||18|
+|Patients currently in ICU||0|
+|Deaths|\+0|6|
+|Tests conducted|\+18,151|921,429|
+|Cases of First Nations people||10|
+
+&amp;#x200B;
+
+# Likely source of infection
+
+||Last 24 hours|Total|
+|:-|:-|:-|
+|Locally Acquired—close contact with a confirmed case||208|
+|Locally Acquired—no known contact||40|
+|Interstate acquired||21|
+|Overseas acquired|\+0|851|
+|Under investigation||4|
+
+&amp;#x200B;
+
+# Active cluster
+
+&amp;#x200B;
+
+|Outbreak|Suburb|LGA|Last 24 hours|Total|Reported|
+|:-|:-|:-|:-|:-|:-|
+|Brisbane Youth Detention Centre / QCS academy|Wacol|Brisbane|\-|24|August: 31, 30, 29, 28, 26, 24, 23, [22]( [20](
+
+&amp;#x200B;
+
+**Sources**:
+
+* [**Queensland COVID-19 statistics**](
+* [QLD Health: Urgent COVID-19 update](
+* [Current status: Public health directions regarding movements and gatherings](
+* [COVID-19 symptoms and testing locations](
+++++++++++
+ Sydney school to close after staff member tests positive for COVID-19 
+++++++++++
+ Queensland records 1 new overseas case # New cases reported in the last 24 hours
+
+* **1** is an overseas arrival in quarantine
+* It has been 17 days since the last infectious case has been out in the community.
+
+&amp;#x200B;
+
+**Please visit the following link to view the full contact tracing list of places visited by confirmed cases:** [**Current contact tracing alerts**](
+
+# Cases to date
+
+||Last 24 hours|Total|
+|:-|:-|:-|
+|Confirmed cases|\+1|1,157|
+|Active cases|\+1|8|
+|Recovered|\+0|1,141|
+|Current hospitalisations||5|
+|Patients currently in ICU||0|
+|Deaths|\+0|6|
+|Tests conducted|\+3,040|1,097,964|
+|Cases of First Nations people||10|
+
+# Likely source of infection
+
+||Last 24 hours|Total|
+|:-|:-|:-|
+|Locally Acquired—close contact with a confirmed case|\+0|237|
+|Locally Acquired—no known contact|\+0|41|
+|Interstate acquired|\+0|21|
+|Overseas acquired|\+1|858|
+|Under investigation|\+0|0|
+
+# Sources:
+
+* [AP Twitter](
+* [**Queensland COVID-19 statistics**](
+* [QLD Health: Urgent COVID-19 update](
+* [Current status: Public health directions regarding movements and gatherings](
+* [COVID-19 symptoms and testing locations](
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+    t = 47 for the date 2020-07-23
+    exponential model is 30.7661 * exp(0.0591 * t) + -49.1944
+    simple exponential model is 11.8643 * exp(0.0781 * t)
+    linear model is -86.8248 + 8.8019 * t
+    quadratic model is 14.1594 + -4.3699 * t + 0.2803 * t^2
+    exponential model residue is 75620.8
+    linear model residue is 179644.6
+    quadratic model residue is 68704.4
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+exponential2 model is 83.6642 \* exp(0.0917 \* t) + -209.2362
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+Purely my own **speculation**, I think the peak is at day 54 or 2020-07-30 (see graph below). **Please take it with a HUGE grain of salt.**
+
+&amp;#x200B;
+
+
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+    2020-07-06,127
+    2020-07-07,191
+    2020-07-08,134
+    2020-07-09,165
+    2020-07-10,288
+    2020-07-11,216
+    2020-07-12,273
+    2020-07-13,176
+    2020-07-14,270
+    2020-07-15,238
+    2020-07-16,317
+    2020-07-17,428
+    2020-07-18,216
+    2020-07-19,363
+    2020-07-20,275
+    2020-07-21,374
+    2020-07-22,484
+    2020-07-23,403
+++++++++++
+ r/CoronavirusDownunder random daily discussion thread - 08 November, 2020 # Victoria: TBA 
+
+**Victorian Premier, Daniel Andrews, is expected to announce further easing of restrictions today. A megathread will be posted at 8:30am.**
+
+&amp;#x200B;
+
+* **NSW: TBA**
+
+**You can watch here:** The Age | [9news live]( | [ABC Melbourne - Facebook]( | [ABC News - YouTube](
+
+&amp;#x200B;
+
+# 🇺🇸 - US elections 2020: [Biden wins Presidency but no signs of Trump concession](
+
+## Here’s what you need to know:
+
+* [Joe Biden is elected the 46th president of the United States.](
+* [Kamala Harris, elected V.P., has risen higher in national politics than any woman before her.](
+* [President Trump gets the news while heading to a golf outing.](
+* [News of Joe Biden’s victory starts to reverberate around the world.](
+* [Democrats cheer ‘historic’ win as race is called for Biden and Harris.](
+* [Van Jones, breaking down on CNN, invokes George Floyd’s words in declaring Trump’s loss a ‘vindication.’](
+* [Perdue’s re-election race goes to a runoff in Georgia, leaving the Senate majority in limbo.](
+* [Biden defeats Trump in Nevada.](
+
+Source: [nytimes.com](
+
+&amp;#x200B;
+
+# Other COVID-19 headlines around the world
+
+**Feel free to talk about the COVID-19 situation in any country within this post and/or anything else you like as long as it is within the rules.**
+
+|SUBMISSION|DOMAIN|
+|:-|:-|
+|🇺🇸 - The U.S. will not be leaving the World Health Organization. Trump's withdrawal would have taken effect on July 6, which Biden has said will be revoked on his first day in office|BNODesk|
+|🇺🇸 - [Mark Meadows, White House chief of staff, tests positive for coronavirus](
+|🇺🇸 - [Biden has ambitious plans to curb the coronavirus. But they could face big hurdles in a divided country and Congress.](
+|🇺🇸 - [Rachel Maddow to quarantine after ‘close contact’ tests positive for coronavirus.]( |nytimes.com|
+|🇩🇰 - [Denmark defends its plans to slaughter millions of farmed mink over fears of viral mutation.](   |nytimes.com|
+|🇺🇸 - [A study of grocery store workers in Boston found one in five were infected, and most were asymptomatic.](   |nytimes.com|
+|🇨🇳 - [China blocks more foreign residents from returning to the country.]( |nytimes.com|
+|🇺🇸 - [Dr. Scott Gottlieb: Daily U.S. Covid cases are at least half a million](
+|🇧🇷 - [Brazil’s COVID-19 deaths pass 162,000, with 5.6 million cases: ministry](
+|🇨🇦 - [As the pandemic’s second wave digs in, Winnipeg’s homeless shelters brace for a bleak winter](
+|🏴󠁧󠁢󠁥󠁮󠁧󠁿 - [Test and trace needs radical reform in England, health experts say]( |theguardian.com|
+|🇯🇵 - [Tokyo reports 294 new coronavirus cases Saturday, the most since Aug. 20](
+
+&amp;#x200B;
+
+# Some numbers around the world      
+
+🇬🇧 - **UK**:
+
+* **+24,957** (total cases: 1,171,441).
+* **+413** (total deaths: 48,888). 
+
+&amp;#x200B;
+
+🇵🇱 - **POLAND**:
+
+* **+27,875** (total cases: 521,640) **- Biggest one day increase on record.**
+* **+349** (total deaths: 7,636).
+* Positivity rate: **41.7%** (+9).
+* **+770** (total hospitalisations: 20,249).
+* **+110** (total ICU admissions: 1,813).
+
+&amp;#x200B;
+
+🇮🇹 - **ITALY**:
+
+* **+39,811** (total cases: 902,490) **- Biggest one day increase on record.**
+* **+425** (total deaths: 41,063).
+* Positivity rate: **28.9%** (+0.8).
+* **+1,104** (total hospitalisations: 25,109).
+* **+119** (total ICU admissions: 2,634). 
+
+&amp;#x200B;
+
+🇺🇸 - **US** (as of 06/11):
+
+* **+125,552** (total cases: 10,058,586) **- Biggest one day increase on record, setting world record for the 3rd day in a row.**
+* **+1,186** (total deaths: 242,230).
+* Positivity rate: **8.2%** (+0.6).
+* **+1,502** (total hospitalisations: 54,824).
+* **+502** (total ICU admissions: 11,085).
+
+&amp;#x200B;
+
+
+
+
+++++++++++
+ NSW PUBLIC HEALTH ALERT: New locations in Western and South Western Sydney and the South Coast visited by a person who tested positive for COVID19. People who may have taken taxis in Western and South Western Sydney need to watch for symptoms. 
+++++++++++
+ Queensland records 0 new cases # 0 new cases reported in the last 24 hours
+
+* It has been 18 days since the last infectious case has been out in the community.
+
+&amp;#x200B;
+
+**Please visit the following link to view the full contact tracing list of places visited by confirmed cases:** [**Current contact tracing alerts**](
+
+# Cases to date
+
+||Last 24 hours|Total|
+|:-|:-|:-|
+|Confirmed cases||1,157|
+|Active cases||8|
+|Recovered||1,141|
+|Current hospitalisations||5|
+|Patients currently in ICU||0|
+|Deaths||6|
+|Tests conducted||1,097,964|
+|Cases of First Nations people||10|
+
+# Likely source of infection
+
+||Last 24 hours|Total|
+|:-|:-|:-|
+|Locally Acquired—close contact with a confirmed case||237|
+|Locally Acquired—no known contact||41|
+|Interstate acquired||21|
+|Overseas acquired||858|
+|Under investigation||0|
+
+# Sources:
+
+* [AP Twitter](
+* [**Queensland COVID-19 statistics**](
+* [QLD Health: Urgent COVID-19 update](
+* [Current status: Public health directions regarding movements and gatherings](
+* [COVID-19 symptoms and testing locations](
+++++++++++
+ As of March 13, the way QLD Health reports Covid19 cases changed drastically. They stopped giving details of where the person is believed to have contracted the virus.  Text from QLD Health alerts: 
+Queensland coronavirus update
+12 March 2020
+
+Seven new cases of novel coronavirus (COVID-19) have been confirmed in Queensland.
+
+Details of the cases are:
+
+A 19-year-old male from the Brisbane region with confirmed COVID-19 is in isolation in The Prince Charles Hospital in a stable condition. He is a close contact of the 22-year-old male university student, confirmed as a case of COVID-19, 10 March 2020.
+
+37-year-old male from the Brisbane region with confirmed COVID-19 is in isolation in The Princess Alexandra Hospital in a stable condition. He had recently returned from travel in Geneva, Switzerland and through Abu Dhabi, and Dubai.
+
+63-year-old male with confirmed COVID-19 is in isolation in the Gold Coast Hospital in a stable condition. He had recently returned from travel in the United States of America and recently arrived on the Gold Coast.
+
+64-year-old female with confirmed COVID-19 is in isolation in the Gold Coast Hospital in a stable condition. She had recently returned from travel in the United States of America and is a travelling companion of the third confirmed case.
+
+40-year-old male from the Brisbane region with confirmed COVID-19 is in isolation in The Prince Charles Hospital in a stable condition. He had recently returned from travel in the United Kingdom.
+
+24-year-old male from Brisbane region with confirmed COVID-19 is in isolation in the Royal Brisbane and Women’s Hospital in a stable condition. He had recently returned from travel in the United States of America.
+
+56-year-old female from the Brisbane region with confirmed COVID-19 is in isolation in the Princess Alexandra Hospital in a stable condition. She had recently returned from travel in Indonesia.
+
+Contact tracing is underway for these seven new cases, in addition to the previously confirmed cases. We will notify the community if any other public health alerts are required.
+
+
+Compared to qld health update: 
+
+14 March 2020
+
+11 new cases of novel coronavirus (COVID-19) have been confirmed in Queensland.
+
+This takes the state total to 46 which includes 3 passengers from the Diamond Princess Cruise Ship.
+
+A 69 year old year-old male is being managed by the Brisbane Metro North Public Health Unit after being with confirmed COVID-19.
+
+A 51-year-old male is being  managed by The West Moreton Public Health unit after being confirmed with COVID-19.
+
+A 48 year old female is being managed by the Wide Bay region Public Health unit after has being confirmed with COVID-19.
+
+A 31 year old female is being managed by the Gold Coast Public Health Unit after being confirmed with COVID-19.
+
+A 19 year old man is being  managed by the Brisbane Metro North Public Health Unit after being confirmed with COVID-19.
+
+A 23 year old man is being  managed by the Brisbane Metro South Public Health Unit after being confirmed with COVID-19.
+
+A 47 year old man is being managed by the Sunshine Coast Public Health Unit after being confirmed with COVID-19.
+
+A 61 year old female is being managed by the Sunshine Coast Public Health Unit after being confirmed with COVID-19.
+
+A 23 year old is being managed by the Brisbane Metro North Public Health Unit after being confirmed with COVID-19.
+
+A 39 year old man is being managed by the Gold Coast Public Health Unit after being confirmed with COVID-19.
+
+A 39 year old female is being managed by the Sunshine Coast Public Health Unit after being confirmed with COVID-19.
+
+[March 14 qld health update](

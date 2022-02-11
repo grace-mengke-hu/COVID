@@ -1,0 +1,163 @@
+
+++++++++++
+ Research shows that an approved drug from Japan shows great potential in the prevention and… A study was published about Cepharanthine an approved medicine from Japan that is showing great potential in the treatment and prevention of Coronavirus.
+
+Anyone who is interested in more information about this, please check out the following [article]( and [study](
+++++++++++
+ Please help me with my thesis that will contribute to our understanding of how we cope with stress during this pandemic! Hi! I am currently collecting data for my doctoral dissertation. I kindly ask that anybody who is of 18 years or older please complete my survey, which has been linked below. It should take about 15-25 minutes to complete and aims to advance our understanding of the factors that contribute to individual’s stress and coping in the context of the COVID-19 outbreak. 
+
+Please forward this survey to others who are over 18 years of age to complete, thank you! 
+
+[
+++++++++++
+ Online Study on COVID-induced stress and Decision Making  McLean researchers are seeking volunteers between ages 18 – 89 to understand the role of COVID-induced stress on decision making and mental health. The study involves completing surveys and playing cognitive games. Every 25th participant to complete the baseline session will receive a $25 Amazon gift card! If interested, please click link below,
+
+[
+++++++++++
+ Help us understand if physical activity and fitness levels influence COVID symptoms (academic research) Hello everyone,
+
+We (researchers from the University of the Fraser Valley, BC, Canada) are looking for individuals (19+ years of age) who have had COVID-19 (as indicated by a +ive test) and are of ***any*** fitness level to complete an online survey. The online survey consist of 3 parts: demographic variables, COVID-19 symptoms, and physical activity/fitness levels prior to being infected. The survey takes about 6-8 minutes to complete.
+
+The aim of our study is to learn if physical activity levels have any influence on the number of symptoms, durations and severity of symptoms, as well as any complications associated with having COVID-19.
+
+Survey link: [
+
+Thank-you for time and consideration. We appreciate it.
+++++++++++
+ New Cases (7-Day Average) by State: Before and After Reopening &amp;#x200B;
+
+|*State*|[*State Reopening Date*]( Cases 7 Day Average: Day Before Reopening*|*New Cases 7 Day Average: 29 May*|
+|:-|:-|:-|:-|
+|[**Alabama**](
+|[Arizona](
+|[**Connecticut**](
+|[Florida](
+|[Hawaii](
+|[Idaho](
+|[**Indiana**](
+|[Iowa](
+|[**Kansas**](
+|[Kentucky](
+|[Louisiana](
+|[Maryland](
+|[**Massachusetts**](
+|[Minnesota](
+|[Missouri](
+|[Nevada](
+|[New Hampshire](
+|[**North Carolina**](
+|[North Dakota](
+|[Ohio](
+|[Rhode Island](
+|[South Carolina](
+|[**Texas**](
+|[Utah](
+|[Vermont](
+|[**Virginia**](
+|[West Virginia](
+|[**Wisconsin**](
+|[Wyoming](
+++++++++++
+ Help us understand if physical activity and fitness levels influence COVID symptoms (academic research study) Hello everyone,
+
+We (researchers from the University of the Fraser Valley, BC, Canada) are looking for individuals (19+ years of age) who have had COVID-19 and are of ***any*** fitness level to complete an online survey (in english). The online survey consist of 3 parts: demographic variables, COVID-19 symptoms, and physical activity/fitness levels prior to being infected. The survey takes about 5-10 minutes to complete (average time = 6 min).
+
+The aim of our study is to learn if physical activity levels have any influence on the number of symptoms, durations and severity of symptoms, as well as any complications associated with having COVID-19.
+
+Survey link: [
+
+Thank-you for time and consideration.
+++++++++++
+ Hi guys, please take this quick survey to help us understand the impact of the coronavirus pandemic (All welcome) ENGLISH:   
+[  
+SPANISH:  
+[  
+
+
+GERMAN:  
+[  
+
+
+ITALIAN:  
+[  
+
+
+TURKISH:  
+[  
+
+
+———  
+
+
+Bay Area scientists together with international collaborators want to understand the mental and physical health effects of the coronavirus quarantine and isolation on people. Please help by taking this 10 minute survey.  
+
+
+This study, conducted by researchers from around the world, was approved by the Ethics Committee of the University Autonomous of Madrid (Spain). It is anonymous. Information will be used for scientific purposes only and will help develop physical and mental health interventions for people. Thank you so much for your time!
+++++++++++
+ [Discussion] Ratio of ACE to ACE2 as the driver of COVID disease progression? Looking at information about how COVID interacts with cells, clinical data, and anecdotes about its effects in patients, it seems like a pattern can be drawn.
+
+This is a hypothetical model, based on the question “What if COVID-19 disease progression is a result of the virus downregulating ACE2?” What if increasing ratio of ACE to ACE2 is the culprit?
+
+Angiotensin II's effects are largely balanced out and countered by Angiotensin 1-7 in the ACE2-angiotensin 1-7 – MAS axis.
+
+The immune system still has an inflammatory response to the virus. But this would be peripheral to what we see as the disease develops.
+
+Some things we know:
+
+We know that the virus binds to ACE2 and uses it to enter host cells.
+
+We know that upon entering cells, it causes ACE2 to shed and downregulates ACE2 production in the affected tissue.
+
+We know that interleukin-6 (IL-6) is directly correlated to viral load.
+
+We know that IL-6 is an indicator of poor prognosis. When people have higher levels of IL-6, they seem more likely to progress to edema and death.
+
+We know that angiotensin II induces IL-6 production, both directly and via aldosterone. We know that angiotensin 1-7 reduces expression of IL-6.
+
+The renin-angiotensin-aldosterone system is has two arms. One of them involves angiotensin II. I'll just summarize. Our body evolved this system to maintain fluid volume &amp; homeostasis. Renin brings about production of angiotensin I.
+
+ACE and ACE2 are expressed primarily the lung and also in other tissues. Think of them as two sides of the angiotensin coin.
+
+ACE changes angiotensin I to angiotensin II. Angiotensin II causes vasoconstriction, induces release of inflammatory cytokines such as IL-6, and increases aldosterone secretion.
+
+Aldosterone causes the kidneys to retain salt and excrete potassium. High levels of aldosterone can induce cardiac remodeling. Aldosterone and impairs pancreas function and insulin release. This would affect blood-glucose regulation in diabetics.
+
+The ACE-Angiotensin II-Aldosterone axis is implicated in almost every modern disease; diabetes, heart failure, obesity, chronic stress.
+
+The other side of the coin is the ACE2-Angiotensin 1-7 – MAS axis.
+
+ACE2 breaks down angiotensin II. Just by breaking down angiotensin II, it reduces its activity. It takes angiotensin II and breaks it down to angiotensin 1-7.
+
+Angiotensin 1-7 protects heart and lungs from the effects of angiotensin II. ACE2/Angiotensin 1-7 reduces inflammatory markers such as TNF alpha and interleukin 6.
+
+Angiotensin 1-7 induces release of nitric oxide.
+
+In this model of COVID, the disease progression is the physiological effect of a high ACE to ACE2 ratio. High ACE → unregulated angiotensin II activity → increased IL-6, aldosterone.
+
+Insufficient ACE2 --&gt; insufficient angiotensin 1-7 --&gt; insufficient nitric oxide 
+
+Deficient ACE2 and low levels of nitric oxide are linked to other types of pulmonary edema such as high-altitude pulmonary edema.
+
+High-altitude pulmonary edema (HAPE) also involves an increased ratio of ACE to ACE2. High levels of IL-6 are predictors of HAPE risk. HAPE is a type of hydrostatic edema that is associated with pulmonary arterial pressure. It occurs when pulmonary capillary pressure exceeds a threshold value for edema to form. The edema is not caused by inflammatory factors, but by a dysregulation of capillary pressure in the lungs.
+
+[
+
+Loss of ACE2 has been linked to the development of pulmonary edema. In HAPE, levels of exhaled nitric oxide tend to be low. Increased ACE/ACE2 ratio would lead to decreased angiotensin 1-7 and nitric oxide.
+
+Estrogen plays a protective role in the RAAS. Estrogen lowers the ratio of ACE to ACE2. Interestingly, the ratio of estrogen to testosterone predicts HAPE risk in young men. During pregnancy, highlanders adapted to living in high altitudes express higher levels of estrogen than lowlanders who reside at high altitude.
+
+The protective effect of estrogen on the ACE/ACE2 ratio could shed light on sex differences in COVID. Women have lower COVID mortality rates than men.
+
+If estrogen's effect on the RAAS plays a role in COVID prognosis, this would suggest three things:
+
+1. Post-menopausal women have increased mortality vs. pre-menopausal women.
+2. COVID-infected women in the third trimester of pregnancy, when estradiol levels are high might have milder symptoms vs. women in early stages. Once estrogen levels decrease after birth severe symptoms would appear.
+3. Hormonal changes during the menstrual cycle which RAAS regulation would affect severity of symptoms.
+
+In addition to its other effects, angiotensin stimulates release of endothelin. Endothelin is a potent vasoconstrictor. It downregulates levels of ACE2.
+
+The effect of unregulated vasoconstriction caused by angiotensin II and endothelin, along with deficient ACE2, angiotensin 1-7 and nitric oxide, could be predicted to caused the type of high pulmonary capillary pressure characteristic of HAPE, triggering pulmonary edema. In COVID, this would be a direct effect of viral destruction &amp; downregulation of ACE2.
+
+[ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [
+
+[ [ [ [ [ ncbi.nlm.nih.gov/pmc/articles/PMC3010150/ [ [ [ [ [ [ [ [

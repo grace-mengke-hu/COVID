@@ -1,0 +1,4319 @@
+
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days)     date cases growth doubling
+    2020-03-01 29 1.0 1.0
+    2020-03-02 33 1.14 5.1
+    2020-03-03 41 1.24 5.4
+    2020-03-04 52 1.27 5.3
+    2020-03-05 57 1.1 4.8
+    2020-03-06 63 1.11 4.7
+    2020-03-07 73 1.16 4.8
+    2020-03-08 80 1.1 5.4
+    2020-03-09 92 1.15 4.8
+    2020-03-10 112 1.22 4.2
+    2020-03-11 127 1.13 4.0
+    2020-03-12 156 1.23 3.7
+    2020-03-13 198 1.27 3.4
+    2020-03-14 248 1.25 3.5
+    2020-03-15 298 1.2 3.2
+    2020-03-16 376 1.26 3.2
+    2020-03-17 453 1.2 3.3
+    2020-03-18 566 1.25 3.3
+    2020-03-19 708 1.25 3.2
+    2020-03-20 875 1.24 3.2
+    2020-03-21 1071 1.22 3.1
+    2020-03-22 1352 1.26 3.3 &lt;== 10 days ago, Tom Hanks
+    2020-03-23 1716 1.27 3.5
+    2020-03-24 2146 1.25 3.8
+    2020-03-25 2431 1.13 4.0 &lt;== 10 days ago, overseas self-isolate 14 days
+    2020-03-26 2805 1.15 4.5 &lt;== 10 days ago, Vic declare State of Emergency
+    2020-03-27 3179 1.13 5.3
+    2020-03-28 3639 1.14 6.4
+    2020-03-29 3985 1.1 7.0 &lt;== 10 days ago, TAS self-isolation 14 days
+    2020-03-30 4250 1.07 8.0 &lt;== 10 days ago, closing borders to all
+    2020-03-31 4560 1.07 9.3 &lt;== 10 days ago, rule of 4 square metres
+    2020-04-01 4864 1.07 11.5
+    2020-04-02 5136 1.06 13.6 &lt;== 10 days ago, no social gathering
+    2020-04-03 5358 1.04 15.6 &lt;== 10 days ago, WA,SA closing border
+    2020-04-04 5552 1.04 18.7
+    2020-04-05 5687 1.02 22.9
+    2020-04-06 5795 1.02 28.1
+    2020-04-07 5908 1.02 33.1
+    2020-04-08 6013 1.02 38.8 &lt;== 10 days ago, mandatory hotel quarantine
+    2020-04-09 6103 1.01 46.5
+    2020-04-10 6203 1.02 52.2
+    2020-04-11 6292 1.01 60.7
+    2020-04-12 6313 1.003 69.6
+    2020-04-13 6359 1.007 83.5 &lt;== 10 days ago, QLD closing border
+    2020-04-14 6400 1.006 96.5
+    2020-04-15 6447 1.007 114.2
+    2020-04-16 6468 1.003 106.9
+    2020-04-17 6523 1.009 121.1
+    2020-04-18 6565 1.006 129.2
+    2020-04-19 6606 1.006 157.3
+    2020-04-20 6619 1.002 165.0 &lt;== 10 days ago, Good Friday
+    2020-04-21 6645 1.004 210.6
+    2020-04-22 6649 1.001 247.4
+    2020-04-23 6661 1.002 307.7
+    2020-04-24 6675 1.002 320.4
+    2020-04-25 6695 1.003 377.3
+    2020-04-26 6711 1.002 335.0
+    2020-04-27 6720 1.001 353.7
+    2020-04-28 6731 1.002 354.5
+    2020-04-29 6746 1.002 371.6
+    2020-04-30 6753 1.001 364.2
+    2020-05-01 6767 1.002 312.9
+    2020-05-02 6783 1.002 279.2
+    2020-05-03 6801 1.003 256.2
+    2020-05-04 6825 1.004 231.5
+    2020-05-05 6849 1.004 225.8
+    2020-05-06 6875 1.004 227.8
+    2020-05-07 6896 1.003 238.1
+    2020-05-08 6914 1.003 271.6
+    2020-05-09 6929 1.002 291.4
+    2020-05-10 6941 1.002 336.0
+    2020-05-11 6948 1.001 362.2
+    2020-05-12 6964 1.002 313.0
+    2020-05-13 6975 1.002 316.6
+    2020-05-14 6989 1.002 326.2
+    2020-05-15 7022 1.005 303.4
+    2020-05-16 7036 1.002 327.3
+    2020-05-17 7045 1.001 327.8
+    2020-05-18 7060 1.002 371.0
+    2020-05-19 7068 1.001 469.1
+    2020-05-20 7079 1.002 490.1
+    2020-05-21 7081 1.0003 536.5
+    2020-05-22 7095 1.002 593.0
+    2020-05-23 7106 1.0016 530.0
+    2020-05-24 7109 1.0004 574.9
+    2020-05-25 7118 1.0013 500.4
+    2020-05-26 7133 1.0021 443.8
+    2020-05-27 7139 1.0008 438.9
+    2020-05-28 7150 1.0015 403.5
+    2020-05-29 7173 1.0032 404.0 Latest stable value for 7 days MA
+    2020-05-30 7185 1.0017 419.9
+    2020-05-31 7195 1.0014 382.4
+    2020-06-01 7204 1.0013 368.5
+
+Notes: doubling time in days have been smoothed with 7 days (geometric) moving average
+
+
+
+The number of cases in Australia was obtained from this wikipedia page
+
+[
+
+the growth and doubling time was calculated. Growth is easy to calculate, just dividing today's number with yesterday's number. Doubling time was calculated by taking the geometric seven day moving average of growth and then converting the result to doubling time.
+
+Example: doubling time for 2020-03-10 is
+
+log(2) / ( (log(1.16) + log(1.1) + log(1.15) + log(1.22) + log(1.13) + log(1.23) + log(1.27))/7 ) = 4.2169
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days)     date cases growth doubling
+    2020-03-01 29 1.0 1.0
+    2020-03-02 33 1.14 5.1
+    2020-03-03 41 1.24 5.4
+    2020-03-04 52 1.27 5.3
+    2020-03-05 57 1.1 4.8
+    2020-03-06 63 1.11 4.7
+    2020-03-07 73 1.16 4.8
+    2020-03-08 80 1.1 5.4
+    2020-03-09 92 1.15 4.8
+    2020-03-10 112 1.22 4.2
+    2020-03-11 127 1.13 4.0
+    2020-03-12 156 1.23 3.7
+    2020-03-13 198 1.27 3.4
+    2020-03-14 248 1.25 3.5
+    2020-03-15 298 1.2 3.2
+    2020-03-16 376 1.26 3.2
+    2020-03-17 453 1.2 3.3
+    2020-03-18 566 1.25 3.3
+    2020-03-19 708 1.25 3.2
+    2020-03-20 875 1.24 3.2
+    2020-03-21 1071 1.22 3.1
+    2020-03-22 1352 1.26 3.3 &lt;== 10 days ago, Tom Hanks
+    2020-03-23 1716 1.27 3.5
+    2020-03-24 2146 1.25 3.8
+    2020-03-25 2431 1.13 4.0 &lt;== 10 days ago, overseas self-isolate 14 days
+    2020-03-26 2805 1.15 4.5 &lt;== 10 days ago, Vic declare State of Emergency
+    2020-03-27 3179 1.13 5.3
+    2020-03-28 3639 1.14 6.4
+    2020-03-29 3985 1.1 7.0 &lt;== 10 days ago, TAS self-isolation 14 days
+    2020-03-30 4250 1.07 8.0 &lt;== 10 days ago, closing borders to all
+    2020-03-31 4560 1.07 9.3 &lt;== 10 days ago, rule of 4 square metres
+    2020-04-01 4864 1.07 11.5
+    2020-04-02 5136 1.06 13.6 &lt;== 10 days ago, no social gathering
+    2020-04-03 5358 1.04 15.6 &lt;== 10 days ago, WA,SA closing border
+    2020-04-04 5552 1.04 18.7
+    2020-04-05 5687 1.02 22.9
+    2020-04-06 5795 1.02 28.1
+    2020-04-07 5908 1.02 33.1
+    2020-04-08 6013 1.02 38.8 &lt;== 10 days ago, mandatory hotel quarantine
+    2020-04-09 6103 1.01 46.5
+    2020-04-10 6203 1.02 52.2
+    2020-04-11 6292 1.01 60.7
+    2020-04-12 6313 1.003 69.6
+    2020-04-13 6359 1.007 83.5 &lt;== 10 days ago, QLD closing border
+    2020-04-14 6400 1.006 96.5
+    2020-04-15 6447 1.007 114.2
+    2020-04-16 6468 1.003 106.9
+    2020-04-17 6523 1.009 121.1
+    2020-04-18 6565 1.006 129.2
+    2020-04-19 6606 1.006 157.3
+    2020-04-20 6619 1.002 165.0 &lt;== 10 days ago, Good Friday
+    2020-04-21 6645 1.004 210.6
+    2020-04-22 6649 1.001 247.4
+    2020-04-23 6661 1.002 307.7
+    2020-04-24 6675 1.002 320.4
+    2020-04-25 6695 1.003 377.3
+    2020-04-26 6711 1.002 335.0
+    2020-04-27 6720 1.001 353.7
+    2020-04-28 6731 1.002 354.5
+    2020-04-29 6746 1.002 371.6
+    2020-04-30 6753 1.001 364.2
+    2020-05-01 6767 1.002 312.9
+    2020-05-02 6783 1.002 279.2
+    2020-05-03 6801 1.003 256.2
+    2020-05-04 6825 1.004 231.5
+    2020-05-05 6849 1.004 225.8
+    2020-05-06 6875 1.004 227.8
+    2020-05-07 6896 1.003 238.1
+    2020-05-08 6914 1.003 271.6
+    2020-05-09 6929 1.002 291.4
+    2020-05-10 6941 1.002 336.0
+    2020-05-11 6948 1.001 362.2
+    2020-05-12 6964 1.002 313.0
+    2020-05-13 6975 1.002 316.6
+    2020-05-14 6989 1.002 326.2
+    2020-05-15 7022 1.005 303.4
+    2020-05-16 7036 1.002 327.3
+    2020-05-17 7045 1.001 327.8
+    2020-05-18 7060 1.002 371.0
+    2020-05-19 7068 1.001 469.1
+    2020-05-20 7079 1.002 490.1
+    2020-05-21 7081 1.0003 536.5
+    2020-05-22 7095 1.002 593.0  Latest stable value for 7 days MA
+    2020-05-23 7106 1.0016 590.0
+    2020-05-24 7109 1.0004 630.8
+    2020-05-25 7118 1.0013 532.0
+
+Notes: doubling time in days have been smoothed with 7 days (geometric) moving average
+
+
+
+The number of cases in Australia was obtained from this wikipedia page
+
+[
+
+the growth and doubling time was calculated. Growth is easy to calculate, just dividing today's number with yesterday's number. Doubling time was calculated by taking the geometric seven day moving average of growth and then converting the result to doubling time.
+
+Example: doubling time for 2020-03-10 is
+
+log(2) / ( (log(1.16) + log(1.1) + log(1.15) + log(1.22) + log(1.13) + log(1.23) + log(1.27))/7 ) = 4.2169
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days)     date cases growth doubling
+    2020-03-01 29 1.0 1.0
+    2020-03-02 33 1.14 5.1
+    2020-03-03 41 1.24 5.4
+    2020-03-04 52 1.27 5.3
+    2020-03-05 57 1.1 4.8
+    2020-03-06 63 1.11 4.7
+    2020-03-07 73 1.16 4.8
+    2020-03-08 80 1.1 5.4
+    2020-03-09 92 1.15 4.8
+    2020-03-10 112 1.22 4.2
+    2020-03-11 127 1.13 4.0
+    2020-03-12 156 1.23 3.7
+    2020-03-13 198 1.27 3.4
+    2020-03-14 248 1.25 3.5
+    2020-03-15 298 1.2 3.2
+    2020-03-16 376 1.26 3.2
+    2020-03-17 453 1.2 3.3
+    2020-03-18 566 1.25 3.3
+    2020-03-19 708 1.25 3.2
+    2020-03-20 875 1.24 3.2
+    2020-03-21 1071 1.22 3.1
+    2020-03-22 1352 1.26 3.3 &lt;== 10 days ago, Tom Hanks
+    2020-03-23 1716 1.27 3.5
+    2020-03-24 2146 1.25 3.8
+    2020-03-25 2431 1.13 4.0 &lt;== 10 days ago, overseas self-isolate 14 days
+    2020-03-26 2805 1.15 4.5 &lt;== 10 days ago, Vic declare State of Emergency
+    2020-03-27 3179 1.13 5.3
+    2020-03-28 3639 1.14 6.4
+    2020-03-29 3985 1.1 7.0 &lt;== 10 days ago, TAS self-isolation 14 days
+    2020-03-30 4250 1.07 8.0 &lt;== 10 days ago, closing borders to all
+    2020-03-31 4560 1.07 9.3 &lt;== 10 days ago, rule of 4 square metres
+    2020-04-01 4864 1.07 11.5
+    2020-04-02 5136 1.06 13.6 &lt;== 10 days ago, no social gathering
+    2020-04-03 5358 1.04 15.6 &lt;== 10 days ago, WA,SA closing border
+    2020-04-04 5552 1.04 18.7
+    2020-04-05 5687 1.02 22.9
+    2020-04-06 5795 1.02 28.1
+    2020-04-07 5908 1.02 33.1
+    2020-04-08 6013 1.02 38.8 &lt;== 10 days ago, mandatory hotel quarantine
+    2020-04-09 6103 1.01 46.5
+    2020-04-10 6203 1.02 52.2
+    2020-04-11 6292 1.01 60.7
+    2020-04-12 6313 1.003 69.6
+    2020-04-13 6359 1.007 83.5 &lt;== 10 days ago, QLD closing border
+    2020-04-14 6400 1.006 96.5
+    2020-04-15 6447 1.007 114.2
+    2020-04-16 6468 1.003 106.9
+    2020-04-17 6523 1.009 121.1
+    2020-04-18 6565 1.006 129.2
+    2020-04-19 6606 1.006 157.3
+    2020-04-20 6619 1.002 165.0 &lt;== 10 days ago, Good Friday
+    2020-04-21 6645 1.004 210.6
+    2020-04-22 6649 1.001 247.4
+    2020-04-23 6661 1.002 307.7
+    2020-04-24 6675 1.002 320.4
+    2020-04-25 6695 1.003 377.3
+    2020-04-26 6711 1.002 335.0
+    2020-04-27 6720 1.001 353.7
+    2020-04-28 6731 1.002 354.5
+    2020-04-29 6746 1.002 371.6
+    2020-04-30 6753 1.001 364.2
+    2020-05-01 6767 1.002 312.9
+    2020-05-02 6783 1.002 279.2
+    2020-05-03 6801 1.003 256.2
+    2020-05-04 6825 1.004 231.5
+    2020-05-05 6849 1.004 225.8
+    2020-05-06 6875 1.004 227.8
+    2020-05-07 6896 1.003 238.1
+    2020-05-08 6914 1.003 271.6
+    2020-05-09 6929 1.002 291.4
+    2020-05-10 6941 1.002 336.0
+    2020-05-11 6948 1.001 362.2
+    2020-05-12 6964 1.002 313.0
+    2020-05-13 6975 1.002 316.6 Latest stable value for 7 days MA
+    2020-05-14 6989 1.002 305.9
+    2020-05-15 7022 1.005 275.4
+    2020-05-16 7036 1.002 269.6
+
+Notes: doubling time in days have been smoothed with 7 days (geometric) moving average
+
+
+
+The number of cases in Australia was obtained from this wikipedia page
+
+[
+
+the growth and doubling time was calculated. Growth is easy to calculate, just dividing today's number with yesterday's number. Doubling time was calculated by taking the geometric seven day moving average of growth and then converting the result to doubling time.
+
+Example: doubling time for 2020-03-10 is
+
+log(2) / ( (log(1.16) + log(1.1) + log(1.15) + log(1.22) + log(1.13) + log(1.23) + log(1.27))/7 ) = 4.2169
+++++++++++
+ It is safe to send your children to School Scomo.... lets not worry about children health and health of the carers who can often be the mature aged grandparents.  
+But its not safe to have your extended family around for a meal.... wtf  
+We have a word for people that make comments like you .... its Tosser !!!!
+++++++++++
+ The children who were being tested at the Sydney child care centre after visiting the infected nursing home have all tested negative for Coronavirus. They are being asked to stay home for 14 days as a precaution.   [ 
+
+Health authorities conducted an emergency clinic for children from the Banksia childcare centre on Thursday night to screen for coronavirus. A group of children from the childcare centre visited the Dorothy Henderson Lodge, the site of five COVID-19 cases, in late February.
+
+Dr Chant said all children had been cleared of coronavirus, but they would not be attending childcare for the next 14 days.
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days) [removed]
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days)     date cases growth doubling
+    2020-03-01 29 1.0 1.0
+    2020-03-02 33 1.14 5.1
+    2020-03-03 41 1.24 5.4
+    2020-03-04 52 1.27 5.3
+    2020-03-05 57 1.1 4.8
+    2020-03-06 63 1.11 4.7
+    2020-03-07 73 1.16 4.8
+    2020-03-08 80 1.1 5.4
+    2020-03-09 92 1.15 4.8
+    2020-03-10 112 1.22 4.2
+    2020-03-11 127 1.13 4.0
+    2020-03-12 156 1.23 3.7
+    2020-03-13 198 1.27 3.4
+    2020-03-14 248 1.25 3.5
+    2020-03-15 298 1.2 3.2
+    2020-03-16 376 1.26 3.2
+    2020-03-17 453 1.2 3.3
+    2020-03-18 566 1.25 3.3
+    2020-03-19 708 1.25 3.2
+    2020-03-20 875 1.24 3.2
+    2020-03-21 1071 1.22 3.1
+    2020-03-22 1352 1.26 3.3 &lt;== 10 days ago, Tom Hanks
+    2020-03-23 1716 1.27 3.5
+    2020-03-24 2146 1.25 3.8
+    2020-03-25 2431 1.13 4.0 &lt;== 10 days ago, overseas self-isolate 14 days
+    2020-03-26 2805 1.15 4.5 &lt;== 10 days ago, Vic declare State of Emergency
+    2020-03-27 3179 1.13 5.3
+    2020-03-28 3639 1.14 6.4
+    2020-03-29 3985 1.1 7.0 &lt;== 10 days ago, TAS self-isolation 14 days
+    2020-03-30 4250 1.07 8.0 &lt;== 10 days ago, closing borders to all
+    2020-03-31 4560 1.07 9.3 &lt;== 10 days ago, rule of 4 square metres
+    2020-04-01 4864 1.07 11.5
+    2020-04-02 5136 1.06 13.6 &lt;== 10 days ago, no social gathering
+    2020-04-03 5358 1.04 15.6 &lt;== 10 days ago, WA,SA closing border
+    2020-04-04 5552 1.04 18.7
+    2020-04-05 5687 1.02 22.9
+    2020-04-06 5795 1.02 28.1
+    2020-04-07 5908 1.02 33.1
+    2020-04-08 6013 1.02 38.8 &lt;== 10 days ago, mandatory hotel quarantine
+    2020-04-09 6103 1.01 46.5
+    2020-04-10 6203 1.02 52.2
+    2020-04-11 6292 1.01 60.7
+    2020-04-12 6313 1.003 69.6
+    2020-04-13 6359 1.007 83.5 &lt;== 10 days ago, QLD closing border
+    2020-04-14 6400 1.006 96.5
+    2020-04-15 6447 1.007 114.2
+    2020-04-16 6468 1.003 106.9
+    2020-04-17 6523 1.009 121.1
+    2020-04-18 6565 1.006 129.2
+    2020-04-19 6606 1.006 157.3
+    2020-04-20 6619 1.002 165.0 &lt;== 10 days ago, Good Friday
+    2020-04-21 6645 1.004 210.6
+    2020-04-22 6649 1.001 247.4
+    2020-04-23 6661 1.002 307.7
+    2020-04-24 6675 1.002 320.4
+    2020-04-25 6695 1.003 377.3
+    2020-04-26 6711 1.002 335.0
+    2020-04-27 6720 1.001 353.7
+    2020-04-28 6731 1.002 354.5
+    2020-04-29 6746 1.002 371.6
+    2020-04-30 6753 1.001 364.2
+    2020-05-01 6767 1.002 312.9
+    2020-05-02 6783 1.002 279.2
+    2020-05-03 6801 1.003 256.2
+    2020-05-04 6825 1.004 231.5
+    2020-05-05 6849 1.004 225.8
+    2020-05-06 6875 1.004 227.8
+    2020-05-07 6896 1.003 238.1
+    2020-05-08 6914 1.003 271.6
+    2020-05-09 6929 1.002 291.4
+    2020-05-10 6941 1.002 336.0
+    2020-05-11 6948 1.001 362.2
+    2020-05-12 6964 1.002 313.0
+    2020-05-13 6975 1.002 316.6
+    2020-05-14 6989 1.002 326.2
+    2020-05-15 7022 1.005 303.4 Latest stable value for 7 days MA
+    2020-05-16 7036 1.002 303.8
+    2020-05-17 7045 1.001 286.1
+    2020-05-18 7060 1.002 274.3
+
+Notes: doubling time in days have been smoothed with 7 days (geometric) moving average
+
+
+
+The number of cases in Australia was obtained from this wikipedia page
+
+[
+
+the growth and doubling time was calculated. Growth is easy to calculate, just dividing today's number with yesterday's number. Doubling time was calculated by taking the geometric seven day moving average of growth and then converting the result to doubling time.
+
+Example: doubling time for 2020-03-10 is
+
+log(2) / ( (log(1.16) + log(1.1) + log(1.15) + log(1.22) + log(1.13) + log(1.23) + log(1.27))/7 ) = 4.2169
+++++++++++
+ What will the 14 day average be on the 28th of September? I have a running average using only the days that count. 
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days)     date cases growth doubling
+    2020-03-01 29 1.0 1.0
+    2020-03-02 33 1.14 5.1
+    2020-03-03 41 1.24 5.4
+    2020-03-04 52 1.27 5.3
+    2020-03-05 57 1.1 4.8
+    2020-03-06 63 1.11 4.7
+    2020-03-07 73 1.16 4.8
+    2020-03-08 80 1.1 5.4
+    2020-03-09 92 1.15 4.8
+    2020-03-10 112 1.22 4.2
+    2020-03-11 127 1.13 4.0
+    2020-03-12 156 1.23 3.7
+    2020-03-13 198 1.27 3.4
+    2020-03-14 248 1.25 3.5
+    2020-03-15 298 1.2 3.2
+    2020-03-16 376 1.26 3.2
+    2020-03-17 453 1.2 3.3
+    2020-03-18 566 1.25 3.3
+    2020-03-19 708 1.25 3.2
+    2020-03-20 875 1.24 3.2
+    2020-03-21 1071 1.22 3.1
+    2020-03-22 1352 1.26 3.3
+    2020-03-23 1716 1.27 3.5
+    2020-03-24 2146 1.25 3.8
+    2020-03-25 2431 1.13 4.0
+    2020-03-26 2805 1.15 4.5
+    2020-03-27 3179 1.13 5.3
+    2020-03-28 3639 1.14 6.1
+    2020-03-29 3985 1.1 6.2
+    2020-03-30 4250 1.07 6.7
+
+Notes: doubling time in days have been smoothed with 7 days (geometric) moving average
+
+The number of cases in Australia was obtained from this wikipedia page
+
+[
+
+the growth and doubling time was calculated. Growth is easy to calculate, just dividing today's number with yesterday's number. Doubling time was calculated by taking the geometric seven day moving average of growth and then converting the result to doubling time.
+
+Example: doubling time for 2020-03-10 is
+
+log(2) / ( (log(1.16) + log(1.1) + log(1.15) + log(1.22) + log(1.13) + log(1.23) + log(1.27))/7 ) = 4.2169
+
+Question: Interesting calculations. Can someone explain a bit more on how log() fits into this, for those of us **who aren't so math-inclined**?
+
+Trying to explain the log() function to someone who is not math-inclined is a bit difficult. This is the best I can do. 
+
+There are two complementary functions, exp() and log(). The exp() function converts time to an amount, while the log() function converts an amount back to time.
+
+The log() function returns the time (in years) to achieving the desired amount X when starting at $1 for **a particular annual interest rate**. This interest rate is known as its "**base**". The default interest rate is 171.8% or **2.718**, this is known as natural logarithm ( denoted by ln()  ). Common logarithm ( denoted by log() )  uses an interest rate of 900% or **10** , Please note that scientists and engineers uses the term ln() for natural logarithm while mathematicians uses term log() for natural logarithm and this causes an unbelievable confusion among ordinary people.
+
+    Example: Let's take a more normal interest rate of 10% or 1.1
+    How many years does it take to achieve $1.61 when starting at $1
+
+log(1.1,1.61) = 5.00         when using the format of log(**base**,X)
+
+or
+
+log(1.61)/log(1.1) = 5.00        where log(**base**,X) = log(X)/log(**base**)
+
+you can get the result of log(number) from your scientific calculator
+
+Answer: it takes 5 years to achieve $1.61 when starting at $1 with 10% interest rate (**base** = 1.1). 
+
+$1 \* 1.1 \* 1.1 \* 1.1 \* 1.1 \* 1.1 = $1.61
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days)     date cases growth doubling
+    2020-03-01 29 1.0 1.0
+    2020-03-02 33 1.14 5.1
+    2020-03-03 41 1.24 5.4
+    2020-03-04 52 1.27 5.3
+    2020-03-05 57 1.1 4.8
+    2020-03-06 63 1.11 4.7
+    2020-03-07 73 1.16 4.8
+    2020-03-08 80 1.1 5.4
+    2020-03-09 92 1.15 4.8
+    2020-03-10 112 1.22 4.2
+    2020-03-11 127 1.13 4.0
+    2020-03-12 156 1.23 3.7
+    2020-03-13 198 1.27 3.4
+    2020-03-14 248 1.25 3.5
+    2020-03-15 298 1.2 3.2
+    2020-03-16 376 1.26 3.2
+    2020-03-17 453 1.2 3.3
+    2020-03-18 566 1.25 3.3
+    2020-03-19 708 1.25 3.2
+    2020-03-20 875 1.24 3.2
+    2020-03-21 1071 1.22 3.1
+    2020-03-22 1352 1.26 3.3 &lt;== 10 days ago, Tom Hanks
+    2020-03-23 1716 1.27 3.5
+    2020-03-24 2146 1.25 3.8
+    2020-03-25 2431 1.13 4.0 &lt;== 10 days ago, overseas self-isolate 14 days
+    2020-03-26 2805 1.15 4.5 &lt;== 10 days ago, Vic declare State of Emergency
+    2020-03-27 3179 1.13 5.3
+    2020-03-28 3639 1.14 6.4
+    2020-03-29 3985 1.1 7.0 &lt;== 10 days ago, TAS self-isolation 14 days
+    2020-03-30 4250 1.07 8.0 &lt;== 10 days ago, closing borders to all
+    2020-03-31 4560 1.07 9.3 &lt;== 10 days ago, rule of 4 square metres
+    2020-04-01 4864 1.07 11.5
+    2020-04-02 5136 1.06 13.6 &lt;== 10 days ago, no social gathering
+    2020-04-03 5358 1.04 15.6 &lt;== 10 days ago, WA,SA closing border
+    2020-04-04 5552 1.04 18.7
+    2020-04-05 5687 1.02 22.9
+    2020-04-06 5795 1.02 28.1
+    2020-04-07 5908 1.02 33.1
+    2020-04-08 6013 1.02 38.8 &lt;== 10 days ago, mandatory hotel quarantine
+    2020-04-09 6103 1.01 46.5
+    2020-04-10 6203 1.02 52.2
+    2020-04-11 6292 1.01 60.7
+    2020-04-12 6313 1.003 69.6
+    2020-04-13 6359 1.007 83.5 &lt;== 10 days ago, QLD closing border
+    2020-04-14 6400 1.006 96.5
+    2020-04-15 6447 1.007 114.2
+    2020-04-16 6468 1.003 106.9
+    2020-04-17 6523 1.009 121.1
+    2020-04-18 6565 1.006 129.2
+    2020-04-19 6606 1.006 157.3
+    2020-04-20 6619 1.002 165.0 &lt;== 10 days ago, Good Friday
+    2020-04-21 6645 1.004 210.6
+    2020-04-22 6649 1.001 247.4
+    2020-04-23 6661 1.002 307.7
+    2020-04-24 6675 1.002 320.4
+    2020-04-25 6695 1.003 377.3
+    2020-04-26 6711 1.002 335.0
+    2020-04-27 6720 1.001 353.7
+    2020-04-28 6731 1.002 354.5
+    2020-04-29 6746 1.002 371.6
+    2020-04-30 6753 1.001 364.2
+    2020-05-01 6767 1.002 312.9
+    2020-05-02 6783 1.002 279.2
+    2020-05-03 6801 1.003 256.2
+    2020-05-04 6825 1.004 231.5
+    2020-05-05 6849 1.004 225.8
+    2020-05-06 6875 1.004 227.8
+    2020-05-07 6896 1.003 238.1
+    2020-05-08 6914 1.003 271.6
+    2020-05-09 6929 1.002 291.4
+    2020-05-10 6941 1.002 336.0
+    2020-05-11 6948 1.001 362.2
+    2020-05-12 6964 1.002 313.0
+    2020-05-13 6975 1.002 316.6
+    2020-05-14 6989 1.002 326.2
+    2020-05-15 7022 1.005 303.4
+    2020-05-16 7036 1.002 327.3
+    2020-05-17 7045 1.001 327.8
+    2020-05-18 7060 1.002 371.0
+    2020-05-19 7068 1.001 469.1
+    2020-05-20 7079 1.002 490.1
+    2020-05-21 7081 1.0003 536.5 Latest stable value for 7 days MA
+    2020-05-22 7095 1.002 601.3
+    2020-05-23 7106 1.0016 599.2
+    2020-05-24 7109 1.0004 655.6
+
+Notes: doubling time in days have been smoothed with 7 days (geometric) moving average
+
+
+
+The number of cases in Australia was obtained from this wikipedia page
+
+[
+
+the growth and doubling time was calculated. Growth is easy to calculate, just dividing today's number with yesterday's number. Doubling time was calculated by taking the geometric seven day moving average of growth and then converting the result to doubling time.
+
+Example: doubling time for 2020-03-10 is
+
+log(2) / ( (log(1.16) + log(1.1) + log(1.15) + log(1.22) + log(1.13) + log(1.23) + log(1.27))/7 ) = 4.2169
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days)     date cases growth doubling
+    2020-03-01 29 1.0 1.0
+    2020-03-02 33 1.14 5.1
+    2020-03-03 41 1.24 5.4
+    2020-03-04 52 1.27 5.3
+    2020-03-05 57 1.1 4.8
+    2020-03-06 63 1.11 4.7
+    2020-03-07 73 1.16 4.8
+    2020-03-08 80 1.1 5.4
+    2020-03-09 92 1.15 4.8
+    2020-03-10 112 1.22 4.2
+    2020-03-11 127 1.13 4.0
+    2020-03-12 156 1.23 3.7
+    2020-03-13 198 1.27 3.4
+    2020-03-14 248 1.25 3.5
+    2020-03-15 298 1.2 3.2
+    2020-03-16 376 1.26 3.2
+    2020-03-17 453 1.2 3.3
+    2020-03-18 566 1.25 3.3
+    2020-03-19 708 1.25 3.2
+    2020-03-20 875 1.24 3.2
+    2020-03-21 1071 1.22 3.1
+    2020-03-22 1352 1.26 3.3 &lt;== 10 days ago, Tom Hanks
+    2020-03-23 1716 1.27 3.5
+    2020-03-24 2146 1.25 3.8
+    2020-03-25 2431 1.13 4.0 &lt;== 10 days ago, overseas self-isolate 14 days
+    2020-03-26 2805 1.15 4.5 &lt;== 10 days ago, Vic declare State of Emergency
+    2020-03-27 3179 1.13 5.3
+    2020-03-28 3639 1.14 6.4
+    2020-03-29 3985 1.1 7.0 &lt;== 10 days ago, TAS self-isolation 14 days
+    2020-03-30 4250 1.07 8.0 &lt;== 10 days ago, closing borders to all
+    2020-03-31 4560 1.07 9.3 &lt;== 10 days ago, rule of 4 square metres
+    2020-04-01 4864 1.07 11.5
+    2020-04-02 5136 1.06 13.6 &lt;== 10 days ago, no social gathering
+    2020-04-03 5358 1.04 15.6 &lt;== 10 days ago, WA,SA closing border
+    2020-04-04 5552 1.04 18.7
+    2020-04-05 5687 1.02 22.9
+    2020-04-06 5795 1.02 28.1
+    2020-04-07 5908 1.02 33.1
+    2020-04-08 6013 1.02 38.8 &lt;== 10 days ago, mandatory hotel quarantine
+    2020-04-09 6103 1.01 46.5
+    2020-04-10 6203 1.02 52.2
+    2020-04-11 6292 1.01 60.7
+    2020-04-12 6313 1.003 69.6
+    2020-04-13 6359 1.007 83.5 &lt;== 10 days ago, QLD closing border
+    2020-04-14 6400 1.006 96.5
+    2020-04-15 6447 1.007 114.2
+    2020-04-16 6468 1.003 106.9
+    2020-04-17 6523 1.009 121.1
+    2020-04-18 6565 1.006 129.2
+    2020-04-19 6606 1.006 157.3
+    2020-04-20 6619 1.002 165.0 &lt;== 10 days ago, Good Friday
+    2020-04-21 6645 1.004 210.6
+    2020-04-22 6649 1.001 247.4
+    2020-04-23 6661 1.002 307.7
+    2020-04-24 6675 1.002 320.4
+    2020-04-25 6695 1.003 377.3
+    2020-04-26 6711 1.002 335.0
+    2020-04-27 6720 1.001 353.7
+    2020-04-28 6731 1.002 354.5
+    2020-04-29 6746 1.002 371.6
+    2020-04-30 6753 1.001 364.2
+    2020-05-01 6767 1.002 312.9
+    2020-05-02 6783 1.002 279.2
+    2020-05-03 6801 1.003 256.2
+    2020-05-04 6825 1.004 231.5
+    2020-05-05 6849 1.004 225.8
+    2020-05-06 6875 1.004 227.8
+    2020-05-07 6896 1.003 238.1
+    2020-05-08 6914 1.003 271.6
+    2020-05-09 6929 1.002 291.4
+    2020-05-10 6941 1.002 336.0
+    2020-05-11 6948 1.001 362.2
+    2020-05-12 6964 1.002 313.0
+    2020-05-13 6975 1.002 316.6
+    2020-05-14 6989 1.002 326.2
+    2020-05-15 7022 1.005 303.4
+    2020-05-16 7036 1.002 327.3
+    2020-05-17 7045 1.001 327.8
+    2020-05-18 7060 1.002 371.0
+    2020-05-19 7068 1.001 469.1
+    2020-05-20 7079 1.002 490.1
+    2020-05-21 7081 1.0003 536.5
+    2020-05-22 7095 1.002 593.0
+    2020-05-23 7106 1.0016 530.0
+    2020-05-24 7109 1.0004 574.9
+    2020-05-25 7118 1.0013 500.4
+    2020-05-26 7133 1.0021 443.8
+    2020-05-27 7139 1.0008 438.9
+    2020-05-28 7150 1.0015 403.5
+    2020-05-29 7173 1.0032 404.0
+    2020-05-30 7185 1.0017 395.7 Latest stable value for 7 days MA
+    2020-05-31 7195 1.0014 364.2
+    2020-06-01 7204 1.0013 350.7
+    2020-06-02 7221 1.0024 415.7
+
+Notes: doubling time in days have been smoothed with 7 days (geometric) moving average
+
+
+
+The number of cases in Australia was obtained from this wikipedia page
+
+[
+
+the growth and doubling time was calculated. Growth is easy to calculate, just dividing today's number with yesterday's number. Doubling time was calculated by taking the geometric seven day moving average of growth and then converting the result to doubling time.
+
+Example: doubling time for 2020-03-10 is
+
+log(2) / ( (log(1.16) + log(1.1) + log(1.15) + log(1.22) + log(1.13) + log(1.23) + log(1.27))/7 ) = 4.2169
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days)     date cases growth doubling
+    2020-03-01 29 1.0 1.0
+    2020-03-02 33 1.14 5.1
+    2020-03-03 41 1.24 5.4
+    2020-03-04 52 1.27 5.3
+    2020-03-05 57 1.1 4.8
+    2020-03-06 63 1.11 4.7
+    2020-03-07 73 1.16 4.8
+    2020-03-08 80 1.1 5.4
+    2020-03-09 92 1.15 4.8
+    2020-03-10 112 1.22 4.2
+    2020-03-11 127 1.13 4.0
+    2020-03-12 156 1.23 3.7
+    2020-03-13 198 1.27 3.4
+    2020-03-14 248 1.25 3.5
+    2020-03-15 298 1.2 3.2
+    2020-03-16 376 1.26 3.2
+    2020-03-17 453 1.2 3.3
+    2020-03-18 566 1.25 3.3
+    2020-03-19 708 1.25 3.2
+    2020-03-20 875 1.24 3.2
+    2020-03-21 1071 1.22 3.1
+    2020-03-22 1352 1.26 3.3 &lt;== 10 days ago, Tom Hanks
+    2020-03-23 1716 1.27 3.5
+    2020-03-24 2146 1.25 3.8
+    2020-03-25 2431 1.13 4.0 &lt;== 10 days ago, overseas self-isolate 14 days
+    2020-03-26 2805 1.15 4.5 &lt;== 10 days ago, Vic declare State of Emergency
+    2020-03-27 3179 1.13 5.3
+    2020-03-28 3639 1.14 6.4
+    2020-03-29 3985 1.1 7.0 &lt;== 10 days ago, TAS self-isolation 14 days
+    2020-03-30 4250 1.07 8.0 &lt;== 10 days ago, closing borders to all
+    2020-03-31 4560 1.07 9.3 &lt;== 10 days ago, rule of 4 square metres
+    2020-04-01 4864 1.07 11.5
+    2020-04-02 5136 1.06 13.6 &lt;== 10 days ago, no social gathering
+    2020-04-03 5358 1.04 15.6 &lt;== 10 days ago, WA,SA closing border
+    2020-04-04 5552 1.04 18.7
+    2020-04-05 5687 1.02 22.9
+    2020-04-06 5795 1.02 28.1
+    2020-04-07 5908 1.02 33.1
+    2020-04-08 6013 1.02 38.8 &lt;== 10 days ago, mandatory hotel quarantine
+    2020-04-09 6103 1.01 46.5
+    2020-04-10 6203 1.02 52.2
+    2020-04-11 6292 1.01 60.7
+    2020-04-12 6313 1.003 69.6
+    2020-04-13 6359 1.007 83.5 &lt;== 10 days ago, QLD closing border
+    2020-04-14 6400 1.006 96.5
+    2020-04-15 6447 1.007 114.2
+    2020-04-16 6468 1.003 106.9
+    2020-04-17 6523 1.009 121.1
+    2020-04-18 6565 1.006 129.2
+    2020-04-19 6606 1.006 157.3
+    2020-04-20 6619 1.002 165.0 &lt;== 10 days ago, Good Friday
+    2020-04-21 6645 1.004 210.6
+    2020-04-22 6649 1.001 247.4
+    2020-04-23 6661 1.002 307.7
+    2020-04-24 6675 1.002 320.4
+    2020-04-25 6695 1.003 377.3
+    2020-04-26 6711 1.002 335.0
+    2020-04-27 6720 1.001 353.7
+    2020-04-28 6731 1.002 354.5
+    2020-04-29 6746 1.002 371.6
+    2020-04-30 6753 1.001 364.2
+    2020-05-01 6767 1.002 312.9
+    2020-05-02 6783 1.002 279.2
+    2020-05-03 6801 1.003 256.2
+    2020-05-04 6825 1.004 231.5
+    2020-05-05 6849 1.004 225.8
+    2020-05-06 6875 1.004 227.8
+    2020-05-07 6896 1.003 238.1
+    2020-05-08 6914 1.003 271.6
+    2020-05-09 6929 1.002 291.4
+    2020-05-10 6941 1.002 336.0
+    2020-05-11 6948 1.001 362.2
+    2020-05-12 6964 1.002 313.0
+    2020-05-13 6975 1.002 316.6
+    2020-05-14 6989 1.002 326.2
+    2020-05-15 7022 1.005 303.4
+    2020-05-16 7036 1.002 327.3
+    2020-05-17 7045 1.001 327.8
+    2020-05-18 7060 1.002 371.0
+    2020-05-19 7068 1.001 469.1
+    2020-05-20 7079 1.002 457.6 Latest stable value for 7 days MA
+    2020-05-21 7081 1.0 446.0
+    2020-05-22 7095 1.002 481.5
+    2020-05-23 7111 1.002 457.1
+
+Notes: doubling time in days have been smoothed with 7 days (geometric) moving average
+
+![img](4bzu0i230n051)
+
+The number of cases in Australia was obtained from this wikipedia page
+
+[
+
+the growth and doubling time was calculated. Growth is easy to calculate, just dividing today's number with yesterday's number. Doubling time was calculated by taking the geometric seven day moving average of growth and then converting the result to doubling time.
+
+Example: doubling time for 2020-03-10 is
+
+log(2) / ( (log(1.16) + log(1.1) + log(1.15) + log(1.22) + log(1.13) + log(1.23) + log(1.27))/7 ) = 4.2169
+++++++++++
+ PSA: It's asymptomatic, not asymptotic. I've seen the word asymptotic used here, and even in some media posts. If you do a Google search for 'asymptotic disease' you'll get this:
+
+&gt; Did you mean: *asymptomatic* disease
+&gt; 
+&gt; In medicine, a disease is considered asymptomatic if a patient is a carrier for a disease or infection but experiences no symptoms.
+
+The confusion probably comes since asymptotic is a word, but it's is a mathematical term.
+
+[Dictionary.com now has a page]( up explaining the difference.
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days)     date cases growth doubling
+    2020-03-01 29 1.0 1.0
+    2020-03-02 33 1.14 5.1
+    2020-03-03 41 1.24 5.4
+    2020-03-04 52 1.27 5.3
+    2020-03-05 57 1.1 4.8
+    2020-03-06 63 1.11 4.7
+    2020-03-07 73 1.16 4.8
+    2020-03-08 80 1.1 5.4
+    2020-03-09 92 1.15 4.8
+    2020-03-10 112 1.22 4.2
+    2020-03-11 127 1.13 4.0
+    2020-03-12 156 1.23 3.7
+    2020-03-13 198 1.27 3.4
+    2020-03-14 248 1.25 3.5
+    2020-03-15 298 1.2 3.2
+    2020-03-16 376 1.26 3.2
+    2020-03-17 453 1.2 3.3
+    2020-03-18 566 1.25 3.3
+    2020-03-19 708 1.25 3.2
+    2020-03-20 875 1.24 3.2
+    2020-03-21 1071 1.22 3.1
+    2020-03-22 1352 1.26 3.3 &lt;== 10 days ago, Tom Hanks
+    2020-03-23 1716 1.27 3.5
+    2020-03-24 2146 1.25 3.8
+    2020-03-25 2431 1.13 4.0 &lt;== 10 days ago, overseas self-isolate 14 days
+    2020-03-26 2805 1.15 4.5
+    2020-03-27 3179 1.13 5.3
+    2020-03-28 3639 1.14 6.4
+    2020-03-29 3985 1.1 7.0 &lt;== 10 days ago, TAS self-isolation 14 days
+    2020-03-30 4250 1.07 8.0 &lt;== 10 days ago, closing borders to all
+    2020-03-31 4560 1.07 9.3 &lt;== 10 days ago, rule of 4 square metres
+    2020-04-01 4864 1.07 11.5
+    2020-04-02 5136 1.06 13.6 &lt;== 10 days ago, no social gathering
+    2020-04-03 5358 1.04 15.6 &lt;== 10 days ago, WA,SA closing border
+    2020-04-04 5552 1.04 18.6
+    2020-04-05 5693 1.03 21.2
+    2020-04-06 5800 1.02 24.4
+    2020-04-07 5919 1.02 27.8
+
+Notes: doubling time in days have been smoothed with 7 days (geometric) moving average
+
+
+
+The number of cases in Australia was obtained from this wikipedia page
+
+[
+
+the growth and doubling time was calculated. Growth is easy to calculate, just dividing today's number with yesterday's number. Doubling time was calculated by taking the geometric seven day moving average of growth and then converting the result to doubling time.
+
+Example: doubling time for 2020-03-10 is
+
+log(2) / ( (log(1.16) + log(1.1) + log(1.15) + log(1.22) + log(1.13) + log(1.23) + log(1.27))/7 ) = 4.2169
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days)     date cases growth doubling
+    2020-03-01 29 1.0 1.0
+    2020-03-02 33 1.14 5.1
+    2020-03-03 41 1.24 5.4
+    2020-03-04 52 1.27 5.3
+    2020-03-05 57 1.1 4.8
+    2020-03-06 63 1.11 4.7
+    2020-03-07 73 1.16 4.8
+    2020-03-08 80 1.1 5.4
+    2020-03-09 92 1.15 4.8
+    2020-03-10 112 1.22 4.2
+    2020-03-11 127 1.13 4.0
+    2020-03-12 156 1.23 3.7
+    2020-03-13 198 1.27 3.4
+    2020-03-14 248 1.25 3.5
+    2020-03-15 298 1.2 3.2
+    2020-03-16 376 1.26 3.2
+    2020-03-17 453 1.2 3.3
+    2020-03-18 566 1.25 3.3
+    2020-03-19 708 1.25 3.2
+    2020-03-20 875 1.24 3.2
+    2020-03-21 1071 1.22 3.1
+    2020-03-22 1352 1.26 3.3 &lt;== 10 days ago, Tom Hanks
+    2020-03-23 1716 1.27 3.5
+    2020-03-24 2146 1.25 3.8
+    2020-03-25 2431 1.13 4.0 &lt;== 10 days ago, overseas self-isolate 14 days
+    2020-03-26 2805 1.15 4.5 &lt;== 10 days ago, Vic declare State of Emergency
+    2020-03-27 3179 1.13 5.3
+    2020-03-28 3639 1.14 6.4
+    2020-03-29 3985 1.1 7.0 &lt;== 10 days ago, TAS self-isolation 14 days
+    2020-03-30 4250 1.07 8.0 &lt;== 10 days ago, closing borders to all
+    2020-03-31 4560 1.07 9.3 &lt;== 10 days ago, rule of 4 square metres
+    2020-04-01 4864 1.07 11.5
+    2020-04-02 5136 1.06 13.6 &lt;== 10 days ago, no social gathering
+    2020-04-03 5358 1.04 15.6 &lt;== 10 days ago, WA,SA closing border
+    2020-04-04 5552 1.04 18.7
+    2020-04-05 5687 1.02 22.9
+    2020-04-06 5795 1.02 28.1
+    2020-04-07 5908 1.02 33.1
+    2020-04-08 6013 1.02 38.8 &lt;== 10 days ago, mandatory hotel quarantine
+    2020-04-09 6103 1.01 46.5
+    2020-04-10 6203 1.02 52.2
+    2020-04-11 6292 1.01 60.7
+    2020-04-12 6313 1.003 69.6
+    2020-04-13 6359 1.007 83.5 &lt;== 10 days ago, QLD closing border
+    2020-04-14 6400 1.006 96.5
+    2020-04-15 6447 1.007 114.2
+    2020-04-16 6468 1.003 106.9
+    2020-04-17 6523 1.009 121.1
+    2020-04-18 6565 1.006 129.2
+    2020-04-19 6606 1.006 157.3
+    2020-04-20 6619 1.002 165.0 &lt;== 10 days ago, Good Friday
+    2020-04-21 6645 1.004 210.6
+    2020-04-22 6649 1.001 247.4
+    2020-04-23 6661 1.002 307.7
+    2020-04-24 6675 1.002 320.4
+    2020-04-25 6695 1.003 377.3
+    2020-04-26 6711 1.002 335.0
+    2020-04-27 6720 1.001 353.7
+    2020-04-28 6731 1.002 354.5
+    2020-04-29 6746 1.002 371.6
+    2020-04-30 6753 1.001 364.2
+    2020-05-01 6767 1.002 312.9
+    2020-05-02 6783 1.002 279.2
+    2020-05-03 6801 1.003 256.2
+    2020-05-04 6825 1.004 231.5
+    2020-05-05 6849 1.004 225.8
+    2020-05-06 6875 1.004 227.8
+    2020-05-07 6896 1.003 238.1
+    2020-05-08 6914 1.003 271.6
+    2020-05-09 6929 1.002 291.4
+    2020-05-10 6941 1.002 336.0
+    2020-05-11 6948 1.001 362.2
+    2020-05-12 6964 1.002 313.0
+    2020-05-13 6975 1.002 316.6
+    2020-05-14 6989 1.002 326.2
+    2020-05-15 7022 1.005 303.4
+    2020-05-16 7036 1.002 327.3
+    2020-05-17 7045 1.001 327.8
+    2020-05-18 7060 1.002 371.0
+    2020-05-19 7068 1.001 469.1
+    2020-05-20 7079 1.002 490.1
+    2020-05-21 7081 1.0003 536.5
+    2020-05-22 7095 1.002 593.0
+    2020-05-23 7106 1.0016 530.0 Latest stable value for 7 days MA
+    2020-05-24 7109 1.0004 547.3
+    2020-05-25 7118 1.0013 473.7
+    2020-05-26 7133 1.0021 519.1
+
+Notes: doubling time in days have been smoothed with 7 days (geometric) moving average
+
+
+
+The number of cases in Australia was obtained from this wikipedia page
+
+[
+
+the growth and doubling time was calculated. Growth is easy to calculate, just dividing today's number with yesterday's number. Doubling time was calculated by taking the geometric seven day moving average of growth and then converting the result to doubling time.
+
+Example: doubling time for 2020-03-10 is
+
+log(2) / ( (log(1.16) + log(1.1) + log(1.15) + log(1.22) + log(1.13) + log(1.23) + log(1.27))/7 ) = 4.2169
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days)     date cases growth doubling
+    2020-03-01 29 1.0 1.0
+    2020-03-02 33 1.14 5.1
+    2020-03-03 41 1.24 5.4
+    2020-03-04 52 1.27 5.3
+    2020-03-05 57 1.1 4.8
+    2020-03-06 63 1.11 4.7
+    2020-03-07 73 1.16 4.8
+    2020-03-08 80 1.1 5.4
+    2020-03-09 92 1.15 4.8
+    2020-03-10 112 1.22 4.2
+    2020-03-11 127 1.13 4.0
+    2020-03-12 156 1.23 3.7
+    2020-03-13 198 1.27 3.4
+    2020-03-14 248 1.25 3.5
+    2020-03-15 298 1.2 3.2
+    2020-03-16 376 1.26 3.2
+    2020-03-17 453 1.2 3.3
+    2020-03-18 566 1.25 3.3
+    2020-03-19 708 1.25 3.2
+    2020-03-20 875 1.24 3.2
+    2020-03-21 1071 1.22 3.1
+    2020-03-22 1352 1.26 3.3 &lt;== 10 days ago, Tom Hanks
+    2020-03-23 1716 1.27 3.5
+    2020-03-24 2146 1.25 3.8
+    2020-03-25 2431 1.13 4.0 &lt;== 10 days ago, overseas self-isolate 14 days
+    2020-03-26 2805 1.15 4.5 &lt;== 10 days ago, Vic declare State of Emergency
+    2020-03-27 3179 1.13 5.3
+    2020-03-28 3639 1.14 6.4
+    2020-03-29 3985 1.1 7.0 &lt;== 10 days ago, TAS self-isolation 14 days
+    2020-03-30 4250 1.07 8.0 &lt;== 10 days ago, closing borders to all
+    2020-03-31 4560 1.07 9.3 &lt;== 10 days ago, rule of 4 square metres
+    2020-04-01 4864 1.07 11.5
+    2020-04-02 5136 1.06 13.6 &lt;== 10 days ago, no social gathering
+    2020-04-03 5358 1.04 15.6 &lt;== 10 days ago, WA,SA closing border
+    2020-04-04 5552 1.04 18.7
+    2020-04-05 5687 1.02 22.9
+    2020-04-06 5795 1.02 28.1
+    2020-04-07 5908 1.02 33.1
+    2020-04-08 6013 1.02 38.8 &lt;== 10 days ago, mandatory hotel quarantine
+    2020-04-09 6103 1.01 46.5
+    2020-04-10 6203 1.02 52.2
+    2020-04-11 6292 1.01 60.7
+    2020-04-12 6313 1.003 69.6
+    2020-04-13 6359 1.007 83.5 &lt;== 10 days ago, QLD closing border
+    2020-04-14 6400 1.006 96.5
+    2020-04-15 6447 1.007 114.2
+    2020-04-16 6468 1.003 106.9
+    2020-04-17 6523 1.009 121.1
+    2020-04-18 6565 1.006 129.2
+    2020-04-19 6606 1.006 157.3
+    2020-04-20 6619 1.002 165.0 &lt;== 10 days ago, Good Friday
+    2020-04-21 6645 1.004 210.6
+    2020-04-22 6649 1.001 247.4
+    2020-04-23 6661 1.002 307.7
+    2020-04-24 6675 1.002 320.4
+    2020-04-25 6695 1.003 377.3
+    2020-04-26 6711 1.002 335.0
+    2020-04-27 6720 1.001 353.7
+    2020-04-28 6731 1.002 354.5
+    2020-04-29 6746 1.002 371.6
+    2020-04-30 6753 1.001 364.2
+    2020-05-01 6767 1.002 312.9
+    2020-05-02 6783 1.002 279.2
+    2020-05-03 6801 1.003 256.2
+    2020-05-04 6825 1.004 231.5
+    2020-05-05 6849 1.004 225.8
+    2020-05-06 6875 1.004 227.8
+    2020-05-07 6896 1.003 238.1
+    2020-05-08 6914 1.003 271.6
+    2020-05-09 6929 1.002 291.4
+    2020-05-10 6941 1.002 336.0
+    2020-05-11 6948 1.001 362.2
+    2020-05-12 6964 1.002 313.0
+    2020-05-13 6975 1.002 316.6
+    2020-05-14 6989 1.002 326.2
+    2020-05-15 7022 1.005 303.4
+    2020-05-16 7036 1.002 327.3
+    2020-05-17 7045 1.001 327.8
+    2020-05-18 7060 1.002 371.0
+    2020-05-19 7068 1.001 469.1
+    2020-05-20 7079 1.002 490.1
+    2020-05-21 7081 1.0003 536.5
+    2020-05-22 7095 1.002 593.0
+    2020-05-23 7106 1.0016 530.0
+    2020-05-24 7109 1.0004 574.9
+    2020-05-25 7118 1.0013 500.4
+    2020-05-26 7133 1.0021 443.8
+    2020-05-27 7139 1.0008 438.9 Latest stable value for 7 days MA
+    2020-05-28 7150 1.0015 391.1
+    2020-05-29 7173 1.0032 369.9
+    2020-05-30 7185 1.0017 381.7
+
+Notes: doubling time in days have been smoothed with 7 days (geometric) moving average
+
+
+
+The number of cases in Australia was obtained from this wikipedia page
+
+[
+
+the growth and doubling time was calculated. Growth is easy to calculate, just dividing today's number with yesterday's number. Doubling time was calculated by taking the geometric seven day moving average of growth and then converting the result to doubling time.
+
+Example: doubling time for 2020-03-10 is
+
+log(2) / ( (log(1.16) + log(1.1) + log(1.15) + log(1.22) + log(1.13) + log(1.23) + log(1.27))/7 ) = 4.2169
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days)     date cases growth doubling
+    2020-03-01 29 1.0 1.0
+    2020-03-02 33 1.14 5.1
+    2020-03-03 41 1.24 5.4
+    2020-03-04 52 1.27 5.3
+    2020-03-05 57 1.1 4.8
+    2020-03-06 63 1.11 4.7
+    2020-03-07 73 1.16 4.8
+    2020-03-08 80 1.1 5.4
+    2020-03-09 92 1.15 4.8
+    2020-03-10 112 1.22 4.2
+    2020-03-11 127 1.13 4.0
+    2020-03-12 156 1.23 3.7
+    2020-03-13 198 1.27 3.4
+    2020-03-14 248 1.25 3.5
+    2020-03-15 298 1.2 3.2
+    2020-03-16 376 1.26 3.2
+    2020-03-17 453 1.2 3.3
+    2020-03-18 566 1.25 3.3
+    2020-03-19 708 1.25 3.2
+    2020-03-20 875 1.24 3.2
+    2020-03-21 1071 1.22 3.1
+    2020-03-22 1352 1.26 3.3 &lt;== 10 days ago, Tom Hanks
+    2020-03-23 1716 1.27 3.5
+    2020-03-24 2146 1.25 3.8
+    2020-03-25 2431 1.13 4.0 &lt;== 10 days ago, overseas self-isolate 14 days
+    2020-03-26 2805 1.15 4.5
+    2020-03-27 3179 1.13 5.3
+    2020-03-28 3639 1.14 6.4
+    2020-03-29 3985 1.1 7.0 &lt;== 10 days ago, TAS self-isolation 14 days
+    2020-03-30 4250 1.07 8.0 &lt;== 10 days ago, closing borders to all
+    2020-03-31 4560 1.07 9.3 &lt;== 10 days ago, rule of 4 square metres
+    2020-04-01 4864 1.07 11.5
+    2020-04-02 5136 1.06 13.6 &lt;== 10 days ago, no social gathering
+    2020-04-03 5358 1.04 15.6 &lt;== 10 days ago, WA,SA closing border
+    2020-04-04 5552 1.04 18.7
+    2020-04-05 5687 1.02 22.9
+    2020-04-06 5795 1.02 28.1
+    2020-04-07 5908 1.02 33.1
+    2020-04-08 6013 1.02 38.8 &lt;== 10 days ago, mandatory hotel quarantine
+    2020-04-09 6103 1.01 46.5
+    2020-04-10 6203 1.02 48.6
+    2020-04-11 6292 1.01 52.3
+    2020-04-12 6313 1.0 56.9
+
+Notes: doubling time in days have been smoothed with 7 days (geometric) moving average
+
+
+
+The number of cases in Australia was obtained from this wikipedia page
+
+[
+
+the growth and doubling time was calculated. Growth is easy to calculate, just dividing today's number with yesterday's number. Doubling time was calculated by taking the geometric seven day moving average of growth and then converting the result to doubling time.
+
+Example: doubling time for 2020-03-10 is
+
+log(2) / ( (log(1.16) + log(1.1) + log(1.15) + log(1.22) + log(1.13) + log(1.23) + log(1.27))/7 ) = 4.2169
+
+Please note/Warning! Wikipedia page have changed their data points after April 5 to follow the Australian Government values
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days)     date cases growth doubling
+    2020-03-01 29 1.0 1.0
+    2020-03-02 33 1.14 5.1
+    2020-03-03 41 1.24 5.4
+    2020-03-04 52 1.27 5.3
+    2020-03-05 57 1.1 4.8
+    2020-03-06 63 1.11 4.7
+    2020-03-07 73 1.16 4.8
+    2020-03-08 80 1.1 5.4
+    2020-03-09 92 1.15 4.8
+    2020-03-10 112 1.22 4.2
+    2020-03-11 127 1.13 4.0
+    2020-03-12 156 1.23 3.7
+    2020-03-13 198 1.27 3.4
+    2020-03-14 248 1.25 3.5
+    2020-03-15 298 1.2 3.2
+    2020-03-16 376 1.26 3.2
+    2020-03-17 453 1.2 3.3
+    2020-03-18 566 1.25 3.3
+    2020-03-19 708 1.25 3.2
+    2020-03-20 875 1.24 3.2
+    2020-03-21 1071 1.22 3.1
+    2020-03-22 1352 1.26 3.1
+    2020-03-23 1716 1.27 3.1
+
+The number of cases in Australia was obtained from this wikipedia page
+
+[
+
+The growth and doubling time was calculated. Growth is easy to calculate, just dividing today's number with yesterday's number. Doubling time was calculated by taking the geometric seven day moving average of growth and then converting the result to doubling time.
+
+Example: doubling time for 2020-03-10 is
+
+log(2) / ( (log(1.16) + log(1.1) + log(1.15) + log(1.22) + log(1.13) + log(1.23) + log(1.27))/7 ) = 4.2169
+
+postscript : Not change, still absolutely terrible latest doubling time of 3.1 days
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days) [removed]
+++++++++++
+ The exponential growth outside China - Jan 29 = 102 Cases
+- Feb 18 = 999 Cases (10x in 20 Days)
+- Mar 2 = 10,292 Cases (10x in 13 Days)
+- Mar 16 = 101,609 Cases (10x in 14 Days)
+
+Estimates if the same growth holds
+
+- Mar 31 = 1 Million Cases
+- Apr 15 = 10 Million Cases
+- Apr 30 = 100 Million Cases
+
+## Australia 
+
+- Feb 29 = 25 Cases
+- Mar 14 = 250 Cases (10x in 15 Days)
+- Mar 18 = 596 Cases (2.3x in 4 Days)
+
+Estimates if the same growth rate holds (23% /day for past 10 days) 
+
+- Mar 25 = 2,500 Cases (10x in 11 Days)
+- Apr 5 = 25,000 Cases (10x in 11 Days)
+- Apr 16 = 250,000 Cases (10x in 11 Days)
+
+
+++++++++++
+ My 13 year old daughter tested positive, I live in semi-remote VIC. Just wanted to express my anger to our clown PM, Scott Morrison **Dear Scott Morrison,**
+
+Fuck you, Fuck you, and Fuck you
+
+I was always concerned about sending my daughter to school because of this virus. You made an announcement that schools will remain open here no matter a week ago, and you made attempts to justify this in vain.
+
+My 13yo has asthma. She was feeling very sick on Wednesday after a large school gathering of over 500 people (Scotty said schools are exempt from the 500+ ban so the school went ahead with the event)
+
+I just received a phone call from an authority saying that the result was positive. I now have to take my 13yo to an intensive care unit in Melbourne and she has to undergo additional procedures since she has asthma. 
+
+I have written to the school saying to no longer follow Scotty the clown’s advice.
+
+It’s a three hour drive to Melbourne.
+
+It is a difficult time. I am a single mother. When almost every first-world country has either a partial of full closure of National schools and yet you decide to keep them open and try and kill my child. She already has asthma, and now she has coronavirus because she got it from a school function during school hours.
+
+In return, I curse you an your family 🖕🤬
+
+I hope both your daughters, Abbey and Lily, get infected and suffer, just like my daughter.
+
+# I give a curse to you, your wife Jenny, your daughters Abbey and Lily and your entire family. Fuck you.
+
+&amp;#x200B;
+
+I now have to drive to Melbourne. I may not be able to reply to your comments but please comment.
+
+&amp;#x200B;
+
+(I didn't actually send this to Scotty, but I thought it would be nice to curse his family on social media)
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days)     date cases growth doubling
+    2020-03-01 29 1.0 1.0
+    2020-03-02 33 1.14 5.1
+    2020-03-03 41 1.24 5.4
+    2020-03-04 52 1.27 5.3
+    2020-03-05 57 1.1 4.8
+    2020-03-06 63 1.11 4.7
+    2020-03-07 73 1.16 4.8
+    2020-03-08 80 1.1 5.4
+    2020-03-09 92 1.15 4.8
+    2020-03-10 112 1.22 4.2
+    2020-03-11 127 1.13 4.0
+    2020-03-12 156 1.23 3.7
+    2020-03-13 198 1.27 3.4
+    2020-03-14 248 1.25 3.5
+    2020-03-15 298 1.2 3.2
+    2020-03-16 376 1.26 3.2
+    2020-03-17 453 1.2 3.3
+    2020-03-18 566 1.25 3.3
+    2020-03-19 708 1.25 3.2
+    2020-03-20 875 1.24 3.2
+    2020-03-21 1071 1.22 3.1
+    2020-03-22 1352 1.26 3.3 &lt;== 10 days ago, Tom Hanks
+    2020-03-23 1716 1.27 3.5
+    2020-03-24 2146 1.25 3.8
+    2020-03-25 2431 1.13 4.0 &lt;== 10 days ago, overseas self-isolate 14 days
+    2020-03-26 2805 1.15 4.5 &lt;== 10 days ago, Vic declare State of Emergency
+    2020-03-27 3179 1.13 5.3
+    2020-03-28 3639 1.14 6.4
+    2020-03-29 3985 1.1 7.0 &lt;== 10 days ago, TAS self-isolation 14 days
+    2020-03-30 4250 1.07 8.0 &lt;== 10 days ago, closing borders to all
+    2020-03-31 4560 1.07 9.3 &lt;== 10 days ago, rule of 4 square metres
+    2020-04-01 4864 1.07 11.5
+    2020-04-02 5136 1.06 13.6 &lt;== 10 days ago, no social gathering
+    2020-04-03 5358 1.04 15.6 &lt;== 10 days ago, WA,SA closing border
+    2020-04-04 5552 1.04 18.7
+    2020-04-05 5687 1.02 22.9
+    2020-04-06 5795 1.02 28.1
+    2020-04-07 5908 1.02 33.1
+    2020-04-08 6013 1.02 38.8 &lt;== 10 days ago, mandatory hotel quarantine
+    2020-04-09 6103 1.01 46.5
+    2020-04-10 6203 1.02 52.2
+    2020-04-11 6292 1.01 60.7
+    2020-04-12 6313 1.003 69.6
+    2020-04-13 6359 1.007 83.5 &lt;== 10 days ago, QLD closing border
+    2020-04-14 6400 1.006 96.5
+    2020-04-15 6447 1.007 114.2
+    2020-04-16 6468 1.003 106.9
+    2020-04-17 6523 1.009 121.1
+    2020-04-18 6565 1.006 129.2
+    2020-04-19 6606 1.006 157.3
+    2020-04-20 6619 1.002 165.0 &lt;== 10 days ago, Good Friday
+    2020-04-21 6645 1.004 210.6
+    2020-04-22 6649 1.001 247.4
+    2020-04-23 6661 1.002 307.7
+    2020-04-24 6675 1.002 320.4
+    2020-04-25 6695 1.003 377.3
+    2020-04-26 6711 1.002 335.0
+    2020-04-27 6720 1.001 353.7
+    2020-04-28 6731 1.002 354.5
+    2020-04-29 6746 1.002 371.6
+    2020-04-30 6753 1.001 364.2
+    2020-05-01 6767 1.002 312.9
+    2020-05-02 6783 1.002 279.2
+    2020-05-03 6801 1.003 256.2
+    2020-05-04 6825 1.004 231.5
+    2020-05-05 6849 1.004 225.8
+    2020-05-06 6875 1.004 227.8
+    2020-05-07 6896 1.003 238.1
+    2020-05-08 6914 1.003 271.6
+    2020-05-09 6929 1.002 291.4
+    2020-05-10 6941 1.002 336.0
+    2020-05-11 6948 1.001 362.2
+    2020-05-12 6964 1.002 313.0 Latest stable value for 7 days MA
+    2020-05-13 6975 1.002 311.9
+    2020-05-14 6989 1.002 298.7
+    2020-05-15 7022 1.005 261.7
+
+Notes: doubling time in days have been smoothed with 7 days (geometric) moving average
+
+
+
+The number of cases in Australia was obtained from this wikipedia page
+
+[
+
+the growth and doubling time was calculated. Growth is easy to calculate, just dividing today's number with yesterday's number. Doubling time was calculated by taking the geometric seven day moving average of growth and then converting the result to doubling time.
+
+Example: doubling time for 2020-03-10 is
+
+log(2) / ( (log(1.16) + log(1.1) + log(1.15) + log(1.22) + log(1.13) + log(1.23) + log(1.27))/7 ) = 4.2169
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days) [removed]
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days)     date cases growth doubling
+    2020-03-01 29 1.0 1.0
+    2020-03-02 33 1.14 5.1
+    2020-03-03 41 1.24 5.4
+    2020-03-04 52 1.27 5.3
+    2020-03-05 57 1.1 4.8
+    2020-03-06 63 1.11 4.7
+    2020-03-07 73 1.16 4.8
+    2020-03-08 80 1.1 5.4
+    2020-03-09 92 1.15 4.8
+    2020-03-10 112 1.22 4.2
+    2020-03-11 127 1.13 4.0
+    2020-03-12 156 1.23 3.7
+    2020-03-13 198 1.27 3.4
+    2020-03-14 248 1.25 3.5
+    2020-03-15 298 1.2 3.2
+    2020-03-16 376 1.26 3.2
+    2020-03-17 453 1.2 3.3
+    2020-03-18 566 1.25 3.3
+    2020-03-19 708 1.25 3.2
+    2020-03-20 875 1.24 3.2
+    2020-03-21 1071 1.22 3.1
+    2020-03-22 1352 1.26 3.3 &lt;== 10 days ago, Tom Hanks
+    2020-03-23 1716 1.27 3.5
+    2020-03-24 2146 1.25 3.8
+    2020-03-25 2431 1.13 4.0 &lt;== 10 days ago, overseas self-isolate 14 days
+    2020-03-26 2805 1.15 4.5
+    2020-03-27 3179 1.13 5.3
+    2020-03-28 3639 1.14 6.4
+    2020-03-29 3985 1.1 7.0 &lt;== 10 days ago, TAS self-isolation 14 days
+    2020-03-30 4250 1.07 8.0 &lt;== 10 days ago, closing borders to all
+    2020-03-31 4560 1.07 9.3 &lt;== 10 days ago, rule of 4 square metres
+    2020-04-01 4864 1.07 11.5
+    2020-04-02 5136 1.06 13.6 &lt;== 10 days ago, no social gathering
+    2020-04-03 5358 1.04 15.6 &lt;== 10 days ago, WA,SA closing border
+    2020-04-04 5552 1.04 18.7
+    2020-04-05 5687 1.02 22.9
+    2020-04-06 5795 1.02 28.1
+    2020-04-07 5908 1.02 33.1
+    2020-04-08 6013 1.02 38.8 &lt;== 10 days ago, mandatory hotel quarantine
+    2020-04-09 6103 1.01 46.5
+    2020-04-10 6203 1.02 52.2
+    2020-04-11 6292 1.01 60.7
+    2020-04-12 6313 1.003 66.7
+    2020-04-13 6359 1.007 72.9 &lt;== 10 days ago, QLD closing border
+    2020-04-14 6400 1.006 88.7
+
+Notes: doubling time in days have been smoothed with 7 days (geometric) moving average
+
+
+
+The number of cases in Australia was obtained from this wikipedia page
+
+[
+
+the growth and doubling time was calculated. Growth is easy to calculate, just dividing today's number with yesterday's number. Doubling time was calculated by taking the geometric seven day moving average of growth and then converting the result to doubling time.
+
+Example: doubling time for 2020-03-10 is
+
+log(2) / ( (log(1.16) + log(1.1) + log(1.15) + log(1.22) + log(1.13) + log(1.23) + log(1.27))/7 ) = 4.2169
+++++++++++
+ WA schools to cease formal classes on April 3  
+
+WA Premier Mark McGowan says from now until next Friday, all children who attend public schools will continue to be taught.  
+ 
+
+&gt;*"However, the State Government encourages families to keep their children at home if they can access the online or other resources for the education of their children to continue.*   
+   
+*"Children of people who need their children to attend school, to enable them to maintain employment and those children in vulnerable families, like children living with grandparents, are encouraged to attend school. Formal classes will now finish at the end of Friday, April 3."*
+
+He says arrangements will be in place in schools to supervise children who need to attend school on the last four days prior to Easter.  Education Minister Sue Ellery says students who stay at home will be required to use online learning. 
+
+&gt;*"In the week of the 6th of  April, teachers and education assistants and other school staff begin the preparation for what education in a combination of physical school settings and distance and online education will look like in term 2.*  
+   
+*"Students who attend, again, because their parents need them to attend so they can maintain their jobs, will be supervised, not taught.*  
+   
+*"Schools will continue to manage vulnerable staff members, no students will be turned away from schools if they attend."*  
+&gt;  
+&gt; [
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days) [removed]
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days) [removed]
+++++++++++
+ Kids Was out for my 1-hour exercise yesterday afternoon and noticed the follow;
+
+* Kids from a number of different households playing 'bike tag' in the street with each other... parents watching on, with masks and distanced from each other;
+* Two parents from different households chatting in the street, again with masks and distanced, but with their kids playing and mingling with each other;
+* Several kids, again from different families, kicking a football around the local oval while their respective parents watched on
+
+I know the rate of infection in children is low... but it's not non-existent.  More importantly, surely it kinda defeats the purpose of wearing a mask and socially distancing if your kids are mingling?  Even if they don't *contract* covid, they can still *transmit* it.
+++++++++++
+ Schools need to close  
+
+I teach over 200 kids a day (sometimes more) in a school of about 1000 (wow, that's over 500). Now, this is just my little rant about the issue of keeping public schools open and by no means is it actually guided by scientific studies. It is purely my opinion and there could many flaws and no one might even read this. However, I feel that teachers have little say and we all feel the fear of speaking out (but thank you teacher's federation for your efforts).
+
+The arguments about keeping schools open are just plain dumb. Schools aren't just made up of children, there are teachers, cleaners, general assistants and office staff and more. Ask any of us and we will tell you that a school is the perfect place to spread germs (the flu gets spread at least once a year in a school; no it's not scientific, it's just based on experience).
+
+Now the government's main issue for keeping schools open is that it's safer?
+
+\- Children will run around and spread covid-19 to the public by hanging out in big groups at the park and shopping centres? How is that any different to before and after school? Do we not trust that our children and parents of the children to keep them at home as if they were at school? Are they rabid animals who hang around in gangs of 30 and terrorise everyone around them with the threat of viruses by coughing and sneezing on people?
+
+\- They need supervision/ parents can't all stay home to look after them. Well Sherlock, some parents are at home already and some have been sent home. Schools should be left open for kids who have no other options (no parents /no access to technology/HSC related work that needs face to face instruction or the like). Not only does this cut down on numbers, it means that any kid walking around in public should be at home or at school just like any other school day. This isn't a holiday. This is a lockdown.
+
+\- Children don't apparate into school. They walk or take public transport. Some travel a fair distance. Just because a kid is at school, doesn't mean that they're never out in public. Kids dominate public transport before and after school (I apologise to the public in advance) and now we've increased the number of people who are in the line of exposure. Well done.
+
+\- Big companies such as CBA, Telstra, Macquarie, NBN, Tabcorp and many more, have sent their non-essential staff to work from home because they understand that it reduces the chances of spreading. They haven’t closed nor have they continued at 100% load. Why can’t schools do the same??? No more than 500 people in a gathering (haha, have you been in a public school before?). What a joke.
+
+Now I know that there are some parents who are wanting their kids at school and there are definitely parents who aren't able to stay home to look after young children. However, this is a pandemic. We are trying to limit the numbers of people catching this NOT BECAUSE THEY WILL DIE but because THEY WILL SPREAD IT. Schools should stay open for only the absolutely essential kids with no face to face teaching but just supervision for them to do their work and otherwise, there needs to be arrangements made for kids to not be in large class groups (1.5metres apart. Ha. Good one. Have you met children? Have you seen schools?)
+
+Tl;dr Schools are over 500 people. Close them.
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days) [removed]
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days) [removed]
+++++++++++
+ We are the sacrificial lambs': Teachers plead for government to shut schools 
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days)     date cases growth doubling
+    2020-03-01 29 1.0 1.0
+    2020-03-02 33 1.14 5.1
+    2020-03-03 41 1.24 5.4
+    2020-03-04 52 1.27 5.3
+    2020-03-05 57 1.1 4.8
+    2020-03-06 63 1.11 4.7
+    2020-03-07 73 1.16 4.8
+    2020-03-08 80 1.1 5.4
+    2020-03-09 92 1.15 4.8
+    2020-03-10 112 1.22 4.2
+    2020-03-11 127 1.13 4.0
+    2020-03-12 156 1.23 3.7
+    2020-03-13 198 1.27 3.4
+    2020-03-14 248 1.25 3.5
+    2020-03-15 298 1.2 3.2
+    2020-03-16 376 1.26 3.2
+    2020-03-17 453 1.2 3.3
+    2020-03-18 566 1.25 3.3
+    2020-03-19 708 1.25 3.2
+    2020-03-20 875 1.24 3.2
+    2020-03-21 1071 1.22 3.1
+    2020-03-22 1352 1.26 3.3 &lt;== 10 days ago, Tom Hanks
+    2020-03-23 1716 1.27 3.5
+    2020-03-24 2146 1.25 3.8
+    2020-03-25 2431 1.13 4.0 &lt;== 10 days ago, overseas self-isolate 14 days
+    2020-03-26 2805 1.15 4.5 &lt;== 10 days ago, Vic declare State of Emergency
+    2020-03-27 3179 1.13 5.3
+    2020-03-28 3639 1.14 6.4
+    2020-03-29 3985 1.1 7.0 &lt;== 10 days ago, TAS self-isolation 14 days
+    2020-03-30 4250 1.07 8.0 &lt;== 10 days ago, closing borders to all
+    2020-03-31 4560 1.07 9.3 &lt;== 10 days ago, rule of 4 square metres
+    2020-04-01 4864 1.07 11.5
+    2020-04-02 5136 1.06 13.6 &lt;== 10 days ago, no social gathering
+    2020-04-03 5358 1.04 15.6 &lt;== 10 days ago, WA,SA closing border
+    2020-04-04 5552 1.04 18.7
+    2020-04-05 5687 1.02 22.9
+    2020-04-06 5795 1.02 28.1
+    2020-04-07 5908 1.02 33.1
+    2020-04-08 6013 1.02 38.8 &lt;== 10 days ago, mandatory hotel quarantine
+    2020-04-09 6103 1.01 46.5
+    2020-04-10 6203 1.02 52.2
+    2020-04-11 6292 1.01 60.7
+    2020-04-12 6313 1.003 69.6
+    2020-04-13 6359 1.007 83.5 &lt;== 10 days ago, QLD closing border
+    2020-04-14 6400 1.006 96.5
+    2020-04-15 6447 1.007 114.2
+    2020-04-16 6468 1.003 106.3
+    2020-04-17 6523 1.009 108.7
+    2020-04-18 6565 1.006 108.9
+
+Notes: doubling time in days have been smoothed with 7 days (geometric) moving average
+
+
+
+The number of cases in Australia was obtained from this wikipedia page
+
+[
+
+the growth and doubling time was calculated. Growth is easy to calculate, just dividing today's number with yesterday's number. Doubling time was calculated by taking the geometric seven day moving average of growth and then converting the result to doubling time.
+
+Example: doubling time for 2020-03-10 is
+
+log(2) / ( (log(1.16) + log(1.1) + log(1.15) + log(1.22) + log(1.13) + log(1.23) + log(1.27))/7 ) = 4.2169
+++++++++++
+ Schools preparing to shut down I'm a student of a school in Western Australia and even though we still haven't had any cases my school is still preparing to close. Nearly all of my teachers have set up some way that we can still access our work from home and my math teacher even has us practicing 'corona classes' where even when she's in the class we are told to act like we would home and only ask questions through the Google classroom. My science teacher also said nothing is official but all teachers are prepared for schools closing soon.
+++++++++++
+ cases in Australia: growth rate and doubling time (in days)     date cases growth doubling
+    2020-03-01 29 1.0 1.0
+    2020-03-02 33 1.14 5.1
+    2020-03-03 41 1.24 5.4
+    2020-03-04 52 1.27 5.3
+    2020-03-05 57 1.1 4.8
+    2020-03-06 63 1.11 4.7
+    2020-03-07 73 1.16 4.8
+    2020-03-08 80 1.1 5.4
+    2020-03-09 92 1.15 4.8
+    2020-03-10 112 1.22 4.2
+    2020-03-11 127 1.13 4.0
+    2020-03-12 156 1.23 3.7
+    2020-03-13 198 1.27 3.4
+    2020-03-14 248 1.25 3.5
+    2020-03-15 298 1.2 3.2
+    2020-03-16 376 1.26 3.2
+    2020-03-17 453 1.2 3.3
+    2020-03-18 566 1.25 3.3
+    2020-03-19 708 1.25 3.2
+    2020-03-20 875 1.24 3.2
+    2020-03-21 1071 1.22 3.2
+    2020-03-22 1352 1.26 3.2
+
+The number of cases in Australia was obtained from this wikipedia page
+
+[
+
+The growth and doubling time was calculated. Growth is easy to calculate, just dividing today's number with yesterday's number. Doubling time was calculated by taking the geometric seven day moving average of growth and then converting the result to doubling time (in days).
+++++++++++
+ NSW Health report tracking coronavirus cases in schools finds no teachers infected by students RELATED STORY: There's a lesson for our leaders in the debate over schoolsRELATED STORY: Schools are open for essential workers but are you one? Here's what happens for term twoRELATED STORY: Teachers say they've been 'thrown to the sharks' — but Morrison is standing firm
+A highly anticipated report into the spread of COVID-19 in classrooms, relied on by the Federal Government to fast-track the reopening of schools, indicates the disease has very limited transmissibility between students, and from students to teachers.
+
+Key points:
+
+The report discovered two secondary infections in students, who are believed to have caught the virus at school
+NSW Education Minister Sarah Mitchell said the report will be released to schools to help them plan for a staggered return
+According to the NSW Government, only 1.7 per cent of COVID-19 infections have occurred among school aged children
+Chief Medical Officer Brendan Murphy cited the report on Friday at a press conference with Prime Minister Scott Morrison, who stressed that social distancing measures did not need to be followed in schools.
+
+The findings of NSW Health's Centre for Immunisation Research and Surveillance (NCIRS), tracked the spread of 18 cases — 9 teachers and 9 students — across 15 schools.
+
+The study, led by NCIRS director Kristine Macartney and soon to be peer reviewed, analysed the tests of 863 close contacts of the infections, interactions which occurred between early March and April 21.
+
+Coronavirus update: Follow the latest news in our daily wrap.
+It also discovered two secondary infections in students, who are believed to have caught the virus at school.
+
+ Cases and close contacts among teachers and students in five NSW primary schools showing one secondary case in a student.
+INFOGRAPHIC: Cases and close contacts among teachers and students in five NSW primary schools showing one secondary case in a student. (Supplied)
+"Our investigation found no evidence of children infecting teachers. One secondary case [in the child in a high school] was presumed to have been infected following close contact with two student cases," Professor Macartney wrote.
+
+"The other secondary case was presumed to have been infected by a staff member [teacher]."
+Coronavirus questions answered
+
+Coronavirus questions answered
+Breaking down the latest news and research to understand how the world is living through an epidemic, this is the ABC's Coronacast podcast.
+Australian Education Union federal president Correna Haythorpe said on Friday the decision to reopen schools was ill-conceived.
+
+"Today's updated guidelines do not provide a solution in terms of creating a safe environment for teachers, principals and support staff in schools," Ms Haythorpe said.
+
+"To announce the scrapping of school social distance guidelines on the Friday before students return to school in all states and territories is beyond comprehension."
+
+'Schools remain open and are safe for students to return'
+
+Mr Morrison has repeatedly said teachers face a greater risk in the staffroom than the classroom — and it appears this report is the basis for that.
+
+"It is notable that half of the initial cases that occurred in schools were in staff. This is consistent with the higher rate of COVID-19 seen in adults than in children," Professor Macartney concludes.
+
+NSW schools return as coronavirus curve flattens
+
+NSW schools return as coronavirus curve flattens
+When will school return in NSW? Are schools safe from coronavirus? Your questions answered here.
+"It is also important for all adults, including teachers, to follow the social distancing practices while at school and in the community."
+
+NSW Education Minister Sarah Mitchell said the report will be released to schools later today to help them plan for a staggered return to school.
+
+"We know that COVID-19 has created some anxiety for parents, teachers and school staff, however, the findings in this report confirm existing health advice that schools remain open and are safe for students to return," Ms Mitchell said.
+
+According to the findings of the NSW Government, while school-aged children are 16 per cent of the population, only 1.7 per cent of COVID-19 infections have been in this age group.
+
+Students in NSW are expected to begin returning to school one day a week from May 11.
+
+"Our managed return to school provides an orderly pathway to return students to the classroom, and allows for additional measures for teachers and parents," Ms Mitchell said.
+
+To control the COVID-19 outbreak we need to keep growth factor below 1.0
+
+Australia's current
+growth factor is
+1.11
+Mar 27Apr 25
+HIGHEST
+1.39 Mar 12th
+LOWEST
+0.71 Apr 24th
+FIND OUT MORE
+"[Our teachers] have shown great innovation in adapting to the uncertainty that COVID-19 has brought, but nothing replaces the experience of learning in a classroom."
+
+Professor Macartney said the report builds on evidence from abroad, indicating a reduced transmissibility of COVID-19 between children, or from children to adults.
+
+"A unique aspect of this work is that we were able to look specifically for spread in schools over many weeks and utilise additional testing methods," Professor Macartney said.
+
+"We appreciate the cooperation of the students, families, teachers and principals who really saw the value of systematically and scientifically approaching the investigation."[ABC News Report](
+++++++++++
+ High school tutor here: the government might not be recommending a school shut down but attendence for all of my students classes have dwindled drastically anyway. The people are no longer listening to the government's advice on all matters. I am tutoring 8 students across years 8 to 12 atm and these are the numbers of attendance from their pastoral classes. 
+
+11/26 attended
+10/18 attended
+14/25 attended
+12/23 attended
+17/24 attended
+8/19   attended
+13/23 attended
+
+
+So yea people are now taking matters into their own and ignoring the government advice.
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days)     date cases growth doubling
+    2020-03-01 29 1.0 1.0
+    2020-03-02 33 1.14 5.1
+    2020-03-03 41 1.24 5.4
+    2020-03-04 52 1.27 5.3
+    2020-03-05 57 1.1 4.8
+    2020-03-06 63 1.11 4.7
+    2020-03-07 73 1.16 4.8
+    2020-03-08 80 1.1 5.4
+    2020-03-09 92 1.15 4.8
+    2020-03-10 112 1.22 4.2
+    2020-03-11 127 1.13 4.0
+    2020-03-12 156 1.23 3.7
+    2020-03-13 198 1.27 3.4
+    2020-03-14 248 1.25 3.5
+    2020-03-15 298 1.2 3.2
+    2020-03-16 376 1.26 3.2
+    2020-03-17 453 1.2 3.3
+    2020-03-18 566 1.25 3.3
+    2020-03-19 708 1.25 3.2
+    2020-03-20 875 1.24 3.2
+    2020-03-21 1071 1.22 3.1
+    2020-03-22 1352 1.26 3.3 &lt;== 10 days ago, Tom Hanks
+    2020-03-23 1716 1.27 3.5
+    2020-03-24 2146 1.25 3.8
+    2020-03-25 2431 1.13 4.0 &lt;== 10 days ago, overseas self-isolate 14 days
+    2020-03-26 2805 1.15 4.5 &lt;== 10 days ago, Vic declare State of Emergency
+    2020-03-27 3179 1.13 5.3
+    2020-03-28 3639 1.14 6.4
+    2020-03-29 3985 1.1 7.0 &lt;== 10 days ago, TAS self-isolation 14 days
+    2020-03-30 4250 1.07 8.0 &lt;== 10 days ago, closing borders to all
+    2020-03-31 4560 1.07 9.3 &lt;== 10 days ago, rule of 4 square metres
+    2020-04-01 4864 1.07 11.5
+    2020-04-02 5136 1.06 13.6 &lt;== 10 days ago, no social gathering
+    2020-04-03 5358 1.04 15.6 &lt;== 10 days ago, WA,SA closing border
+    2020-04-04 5552 1.04 18.7
+    2020-04-05 5687 1.02 22.9
+    2020-04-06 5795 1.02 28.1
+    2020-04-07 5908 1.02 33.1
+    2020-04-08 6013 1.02 38.8 &lt;== 10 days ago, mandatory hotel quarantine
+    2020-04-09 6103 1.01 46.5
+    2020-04-10 6203 1.02 52.2
+    2020-04-11 6292 1.01 60.7
+    2020-04-12 6313 1.003 69.6
+    2020-04-13 6359 1.007 83.5 &lt;== 10 days ago, QLD closing border
+    2020-04-14 6400 1.006 96.5
+    2020-04-15 6447 1.007 114.2
+    2020-04-16 6468 1.003 106.9
+    2020-04-17 6523 1.009 121.1
+    2020-04-18 6565 1.006 129.2
+    2020-04-19 6606 1.006 157.3
+    2020-04-20 6619 1.002 165.0 &lt;== 10 days ago, Good Friday
+    2020-04-21 6645 1.004 210.6
+    2020-04-22 6649 1.001 247.4
+    2020-04-23 6661 1.002 307.7
+    2020-04-24 6675 1.002 320.4
+    2020-04-25 6695 1.003 377.3
+    2020-04-26 6711 1.002 335.0
+    2020-04-27 6720 1.001 353.7
+    2020-04-28 6731 1.002 354.5
+    2020-04-29 6746 1.002 371.6
+    2020-04-30 6753 1.001 364.2
+    2020-05-01 6767 1.002 312.9
+    2020-05-02 6783 1.002 279.2
+    2020-05-03 6801 1.003 256.2
+    2020-05-04 6825 1.004 231.5
+    2020-05-05 6849 1.004 225.8
+    2020-05-06 6875 1.004 227.8
+    2020-05-07 6896 1.003 238.1
+    2020-05-08 6914 1.003 271.6
+    2020-05-09 6929 1.002 291.4
+    2020-05-10 6941 1.002 336.0
+    2020-05-11 6948 1.001 362.2
+    2020-05-12 6964 1.002 313.0
+    2020-05-13 6975 1.002 316.6
+    2020-05-14 6989 1.002 326.2
+    2020-05-15 7022 1.005 303.4
+    2020-05-16 7036 1.002 327.3
+    2020-05-17 7045 1.001 327.8 Latest stable value for 7 days MA
+    2020-05-18 7060 1.002 325.0
+    2020-05-19 7068 1.001 428.7
+    2020-05-20 7079 1.002 455.1
+
+Notes: doubling time in days have been smoothed with 7 days (geometric) moving average
+
+
+
+The number of cases in Australia was obtained from this wikipedia page
+
+[
+
+the growth and doubling time was calculated. Growth is easy to calculate, just dividing today's number with yesterday's number. Doubling time was calculated by taking the geometric seven day moving average of growth and then converting the result to doubling time.
+
+Example: doubling time for 2020-03-10 is
+
+log(2) / ( (log(1.16) + log(1.1) + log(1.15) + log(1.22) + log(1.13) + log(1.23) + log(1.27))/7 ) = 4.2169
+++++++++++
+ Teachers strike - Covid-19 What is the likely hood of a nation wide teachers strike amist the reopening of schools across Australia? 
+
+If so, would you be willing to stand up for teachers, school workers and children amist this pandemic to stop the reopening of schools?
+
+How could we as a community mobilise and show our support and protest while keeping social distancing and "non essentials" travel?
+++++++++++
+ WA schools reopen for term two amid coronavirus pandemic, children encouraged to attend 
+++++++++++
+ Surely school closures mean that we're going for elimination... If not, why are they closed? Sitting here in Victoria on another beautiful lockdown winter's day there is one thing I find thoroughly bemusing about this supposed "suppression strategy".  Given our state CMO is quoted that he would "love elimination" that seems like prima facie bullshit. Our deputy federal CMO uses the word, but calls it "aggressive supression". Well it's certainly aggressive something.
+
+Anyway, if they won't come out and say it, then surely the re-closure of Victorian primary schooling blows a gaping hole the so called suppression narrative. Either that, or they truly don't have an idea as to what they are doing.
+
+**Ummm, guys, the data is in about schools...**
+
+Aside from hysterical headlines about school clusters here in Australia, the data has been in on  schooling and school aged children as a driver of the pandemic for a long time now.
+
+From the journal *Pediatrics* July '20 *-* [COVID-19 Transmission and Children: The Child Is Not to Blame](
+
+&gt;Almost 6 months into the pandemic, accumulating evidence and collective experience argue that children, particularly school-aged children, are far less important drivers of SARS-CoV-2 transmission than adults. Therefore, serious consideration should be paid toward strategies that allow schools to remain open, even during periods of COVID-19 spread. In doing so, we could minimize the potentially profound adverse social, developmental, and health costs that our children will continue to suffer...
+
+We've being seeing this in Europe since way back in March... [
+
+&gt;Within families, the virus is mainly transmitted from adults to children. Children are sometimes infected with the virus, but less often than adults. There were no families in which a child under 12 years old was the first patient in the family.
+
+Same for Iceland in April... [
+
+&gt;Children under 10 are less likely to get infected than adults and if they get infected, they are less likely to get seriously ill. What is interesting is that even if children do get infected, they are less likely to transmit the disease to others than adults. We have not found a single instance of a child infecting parents.
+
+How about when Finland reopened schools in April?  [
+
+&gt;“When investigating chains of transmission, it has been found that children clearly are infected less often than adults, and chains of transmission have rarely started with a child. In light of this information, the risk of large-scale spread of the coronavirus in contact teaching is low. However, it is likely that some coronavirus infections will be diagnosed among those in contact teaching.”
+
+What about Denmark, the first country in Europe to reopen schools and childcare?  [
+
+&gt;“You cannot see any negative effects from the reopening of schools,” Peter Andersen, doctor of infectious disease epidemiology and prevention at the Danish Serum Institute
+
+**So, what are we doing exactly?**
+
+Obviously you could argue that we're going for elimination, so therefore the schools are closed until we have no cases. That would be a coherent action with such a strategy. Otherwise, what exactly is the government doing shutting down schools under a "suppression strategy"?
+
+I contend we may actually have the worst of all situations...  no real strategy combined with the willingness to simply throw away one of the most valuable pillars of our society for no real gain.
+++++++++++
+ It's a start, 'Victorian public school students to be kept home for two days' 
+
+
+Victorian public school students will be asked to stay home for two days to allow teachers to prepare to run classes remotely, in case the coronavirus pandemic escalates.
+
+Schools were told late on Friday that the last day of term one (next Friday) and the first day of term two would be pupil-free days.
+
+During those two days, teachers will finalise preparations to run classes remotely should schools shut down at the peak of the pandemic.
+
+"Teachers and schools are working hard to prepare for the possibility that we will need to move at some stage to more flexible learning arrangements, including remote learning," Dr David Howes, Education Department deputy secretary said in a notice to public schools.
+
+This will provide an important opportunity for schools to consolidate their preparations."
+
+Dr Howes said schools were already prepared to teach remotely but "it won't always be perfect, and we will learn as we go".
+
+Principals have also been asked to support vulnerable teachers and staff who need to work from home to minimise their exposure.
+
+The notice, seen by The Age, repeated that schools would be open next week as anxiety about spreading the coronavirus within schools festered.
+
+On Thursday, Victoria's Chief Health Officer Brett Sutton said schools needed to remain open this early in the outbreak
+
+There is not widespread community transmission at this point, and levels of COVID-19 illness are likely to be very low," Dr Sutton said.
+
+"Children who are at all unwell are advised to be at home, and schools and teachers should exclude any unwell children who present to school. Any children with undetected symptoms are likely to be minimally infectious.
+
+"The evidence is reviewed daily and advice will continue to be tailored to the evidence."
+
+Advertisement
+
+Earlier on Friday, it was revealed NAPLAN tests had been canned for the year. The tests – taken annually by children in years 3, 5, 7 and 9 – will resume next year.
+
+The news came as a senior boarder at Geelong Grammar at the Corio campus was diagnosed with coronavirus.
+
+Five school parents have also tested positive, having attended a cocktail night for parents of year 9 students at the Timbertop campus.
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days)     date cases growth doubling
+    2020-03-01 29 1.0 1.0
+    2020-03-02 33 1.14 5.1
+    2020-03-03 41 1.24 5.4
+    2020-03-04 52 1.27 5.3
+    2020-03-05 57 1.1 4.8
+    2020-03-06 63 1.11 4.7
+    2020-03-07 73 1.16 4.8
+    2020-03-08 80 1.1 5.4
+    2020-03-09 92 1.15 4.8
+    2020-03-10 112 1.22 4.2
+    2020-03-11 127 1.13 4.0
+    2020-03-12 156 1.23 3.7
+    2020-03-13 198 1.27 3.4
+    2020-03-14 248 1.25 3.5
+    2020-03-15 298 1.2 3.2
+    2020-03-16 376 1.26 3.2
+    2020-03-17 453 1.2 3.3
+    2020-03-18 566 1.25 3.3
+    2020-03-19 708 1.25 3.2
+    2020-03-20 875 1.24 3.2
+    2020-03-21 1071 1.22 3.1
+    2020-03-22 1352 1.26 3.3 &lt;== 10 days ago, Tom Hanks
+    2020-03-23 1716 1.27 3.5
+    2020-03-24 2146 1.25 3.8
+    2020-03-25 2431 1.13 4.0 &lt;== 10 days ago, overseas self-isolate 14 days
+    2020-03-26 2805 1.15 4.5 &lt;== 10 days ago, Vic declare State of Emergency
+    2020-03-27 3179 1.13 5.3
+    2020-03-28 3639 1.14 6.4
+    2020-03-29 3985 1.1 7.0 &lt;== 10 days ago, TAS self-isolation 14 days
+    2020-03-30 4250 1.07 8.0 &lt;== 10 days ago, closing borders to all
+    2020-03-31 4560 1.07 9.3 &lt;== 10 days ago, rule of 4 square metres
+    2020-04-01 4864 1.07 11.5
+    2020-04-02 5136 1.06 13.6 &lt;== 10 days ago, no social gathering
+    2020-04-03 5358 1.04 15.6 &lt;== 10 days ago, WA,SA closing border
+    2020-04-04 5552 1.04 18.7
+    2020-04-05 5687 1.02 22.9
+    2020-04-06 5795 1.02 28.1
+    2020-04-07 5908 1.02 33.1
+    2020-04-08 6013 1.02 38.8 &lt;== 10 days ago, mandatory hotel quarantine
+    2020-04-09 6103 1.01 46.5
+    2020-04-10 6203 1.02 52.2
+    2020-04-11 6292 1.01 60.7
+    2020-04-12 6313 1.003 69.6
+    2020-04-13 6359 1.007 83.5 &lt;== 10 days ago, QLD closing border
+    2020-04-14 6400 1.006 96.5
+    2020-04-15 6447 1.007 114.2
+    2020-04-16 6468 1.003 106.9
+    2020-04-17 6523 1.009 121.1
+    2020-04-18 6565 1.006 129.2
+    2020-04-19 6606 1.006 157.3
+    2020-04-20 6619 1.002 165.0 &lt;== 10 days ago, Good Friday
+    2020-04-21 6645 1.004 210.6
+    2020-04-22 6649 1.001 247.4
+    2020-04-23 6661 1.002 307.7
+    2020-04-24 6675 1.002 320.4
+    2020-04-25 6695 1.003 377.3
+    2020-04-26 6711 1.002 335.0
+    2020-04-27 6720 1.001 353.7
+    2020-04-28 6731 1.002 354.5
+    2020-04-29 6746 1.002 371.6
+    2020-04-30 6753 1.001 364.2
+    2020-05-01 6767 1.002 312.9
+    2020-05-02 6783 1.002 279.2
+    2020-05-03 6801 1.003 256.2
+    2020-05-04 6825 1.004 231.5
+    2020-05-05 6849 1.004 225.8
+    2020-05-06 6875 1.004 227.8
+    2020-05-07 6896 1.003 238.1
+    2020-05-08 6914 1.003 271.6
+    2020-05-09 6929 1.002 291.4 Latest stable value for 7 days MA
+    2020-05-10 6941 1.002 323.3
+    2020-05-11 6948 1.001 353.2
+    2020-05-12 6964 1.002 384.8
+
+Notes: doubling time in days have been smoothed with 7 days (geometric) moving average
+
+
+
+The number of cases in Australia was obtained from this wikipedia page
+
+[
+
+the growth and doubling time was calculated. Growth is easy to calculate, just dividing today's number with yesterday's number. Doubling time was calculated by taking the geometric seven day moving average of growth and then converting the result to doubling time.
+
+Example: doubling time for 2020-03-10 is
+
+log(2) / ( (log(1.16) + log(1.1) + log(1.15) + log(1.22) + log(1.13) + log(1.23) + log(1.27))/7 ) = 4.2169
+++++++++++
+ Schools shutting soon Anyone have any information about schools shutting soon? Some websites and 7news are saying they are shutting in the next couple days but, the PM says not yet???
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days)     date cases growth doubling
+    2020-03-01 29 1.0 1.0
+    2020-03-02 33 1.14 5.1
+    2020-03-03 41 1.24 5.4
+    2020-03-04 52 1.27 5.3
+    2020-03-05 57 1.1 4.8
+    2020-03-06 63 1.11 4.7
+    2020-03-07 73 1.16 4.8
+    2020-03-08 80 1.1 5.4
+    2020-03-09 92 1.15 4.8
+    2020-03-10 112 1.22 4.2
+    2020-03-11 127 1.13 4.0
+    2020-03-12 156 1.23 3.7
+    2020-03-13 198 1.27 3.4
+    2020-03-14 248 1.25 3.5
+    2020-03-15 298 1.2 3.2
+    2020-03-16 376 1.26 3.2
+    2020-03-17 453 1.2 3.3
+    2020-03-18 566 1.25 3.3
+    2020-03-19 708 1.25 3.2
+    2020-03-20 875 1.24 3.2
+    2020-03-21 1071 1.22 3.1
+    2020-03-22 1352 1.26 3.3 &lt;== 10 days ago, Tom Hanks
+    2020-03-23 1716 1.27 3.5
+    2020-03-24 2146 1.25 3.8
+    2020-03-25 2431 1.13 4.0 &lt;== 10 days ago, overseas self-isolate 14 days
+    2020-03-26 2805 1.15 4.5
+    2020-03-27 3179 1.13 5.3
+    2020-03-28 3639 1.14 6.4
+    2020-03-29 3985 1.1 7.0 &lt;== 10 days ago, TAS self-isolation 14 days
+    2020-03-30 4250 1.07 8.0 &lt;== 10 days ago, closing borders to all
+    2020-03-31 4560 1.07 9.3 &lt;== 10 days ago, rule of 4 square metres
+    2020-04-01 4864 1.07 11.5
+    2020-04-02 5136 1.06 13.6 &lt;== 10 days ago, no social gathering
+    2020-04-03 5358 1.04 15.6 &lt;== 10 days ago, WA,SA closing border
+    2020-04-04 5552 1.04 18.6
+    2020-04-05 5693 1.03 22.7
+    2020-04-06 5800 1.02 26.1
+    2020-04-07 5919 1.02 29.6
+    2020-04-08 6024 1.02 34.0 &lt;== 10 days ago, mandatory hotel quarantine
+
+Notes: doubling time in days have been smoothed with 7 days (geometric) moving average
+
+
+
+The number of cases in Australia was obtained from this wikipedia page
+
+[
+
+the growth and doubling time was calculated. Growth is easy to calculate, just dividing today's number with yesterday's number. Doubling time was calculated by taking the geometric seven day moving average of growth and then converting the result to doubling time.
+
+Example: doubling time for 2020-03-10 is
+
+log(2) / ( (log(1.16) + log(1.1) + log(1.15) + log(1.22) + log(1.13) + log(1.23) + log(1.27))/7 ) = 4.2169
+++++++++++
+ Schools Open For Infection!!!! Discussion/Rant ***One Day Is All It Takes.***
+
+Our PM is not looking after school staff or Australia's children.
+
+By saying if you have a job, you can send your child to school for the economy's sake is ridiculous. A lot of children at school do not take this pandemic seriously they don't understand the implications of this virus.
+
+Children do not show the symptoms as much as others, if any at all.
+
+most families I can say consist of two children if one child were to contract COVID-19 theres 14 days of glorious incubation time where symptoms may not show. during this time should your child be attending school ( say they are in year 2) they will sit with their 20 odd classmates where social distancing is not possible due to small classrooms. during lunch they tend to spend 15+ mins during lunch and recess playing with children from other classes, maybe friends up one grade or down a grade. then your child will go home after 6 hours of crowded contact with their classmates. and spend time with their sibling that doesn't have COVID-19 yet. They spend well over 15+min together playing/fighting whatever most siblings do at home. Now your year 5 child starts spreading the virus to her class for 13 days.
+
+Now COVID-19 has a nice trip home with other students and families.
+
+The Australian Average School size is about 470 students plus 40+ school staff. the average household as of 2016 is 2.6 (let round that to 3).
+
+1530 people now have to be quarantined, as **SCHOOL STAFF CANNOT CONFIRM WHO HAS BEEN IN CONTACT WITH THAT CHILD FOR 15 + MINUTES OVER THE LAST 14 DAYS.**
+
+Yet Scomo says, let close play lands and birthday parties, no more than 10 in a space. while classrooms are double that.
+
+Personally we are f\*&amp;(ed.
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days)     date cases growth doubling
+    2020-03-01 29 1.0 1.0
+    2020-03-02 33 1.14 5.1
+    2020-03-03 41 1.24 5.4
+    2020-03-04 52 1.27 5.3
+    2020-03-05 57 1.1 4.8
+    2020-03-06 63 1.11 4.7
+    2020-03-07 73 1.16 4.8
+    2020-03-08 80 1.1 5.4
+    2020-03-09 92 1.15 4.8
+    2020-03-10 112 1.22 4.2
+    2020-03-11 127 1.13 4.0
+    2020-03-12 156 1.23 3.7
+    2020-03-13 198 1.27 3.4
+    2020-03-14 248 1.25 3.5
+    2020-03-15 298 1.2 3.2
+    2020-03-16 376 1.26 3.2
+    2020-03-17 453 1.2 3.3
+    2020-03-18 566 1.25 3.3
+    2020-03-19 708 1.25 3.2
+    2020-03-20 875 1.24 3.2
+    2020-03-21 1071 1.22 3.1
+    2020-03-22 1352 1.26 3.3 &lt;== 10 days ago, Tom Hanks
+    2020-03-23 1716 1.27 3.5
+    2020-03-24 2146 1.25 3.8
+    2020-03-25 2431 1.13 4.0 &lt;== 10 days ago, overseas self-isolate 14 days
+    2020-03-26 2805 1.15 4.5
+    2020-03-27 3179 1.13 5.3
+    2020-03-28 3639 1.14 6.4
+    2020-03-29 3985 1.1 7.0 &lt;== 10 days ago, TAS self-isolation 14 days
+    2020-03-30 4250 1.07 8.0 &lt;== 10 days ago, closing borders to all
+    2020-03-31 4560 1.07 9.3 &lt;== 10 days ago, rule of 4 square metres
+    2020-04-01 4864 1.07 11.5
+    2020-04-02 5136 1.06 13.6 &lt;== 10 days ago, no social gathering
+    2020-04-03 5358 1.04 15.6 &lt;== 10 days ago, WA,SA closing border
+    2020-04-04 5552 1.04 18.6
+    2020-04-05 5693 1.03 22.7
+    2020-04-06 5800 1.02 28.0
+    2020-04-07 5919 1.02 31.7
+    2020-04-08 6024 1.02 36.3 &lt;== 10 days ago, mandatory hotel quarantine
+    2020-04-09 6109 1.01 39.3
+
+Notes: doubling time in days have been smoothed with 7 days (geometric) moving average
+
+The number of cases in Australia was obtained from this wikipedia page
+
+
+
+[
+
+the growth and doubling time was calculated. Growth is easy to calculate, just dividing today's number with yesterday's number. Doubling time was calculated by taking the geometric seven day moving average of growth and then converting the result to doubling time.
+
+Example: doubling time for 2020-03-10 is
+
+log(2) / ( (log(1.16) + log(1.1) + log(1.15) + log(1.22) + log(1.13) + log(1.23) + log(1.27))/7 ) = 4.2169
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days)     date cases growth doubling
+    2020-03-01 29 1.0 1.0
+    2020-03-02 33 1.14 5.1
+    2020-03-03 41 1.24 5.4
+    2020-03-04 52 1.27 5.3
+    2020-03-05 57 1.1 4.8
+    2020-03-06 63 1.11 4.7
+    2020-03-07 73 1.16 4.8
+    2020-03-08 80 1.1 5.4
+    2020-03-09 92 1.15 4.8
+    2020-03-10 112 1.22 4.2
+    2020-03-11 127 1.13 4.0
+    2020-03-12 156 1.23 3.7
+    2020-03-13 198 1.27 3.4
+    2020-03-14 248 1.25 3.5
+    2020-03-15 298 1.2 3.2
+    2020-03-16 376 1.26 3.2
+    2020-03-17 453 1.2 3.3
+    2020-03-18 566 1.25 3.3
+    2020-03-19 708 1.25 3.2
+    2020-03-20 875 1.24 3.2
+    2020-03-21 1071 1.22 3.1
+    2020-03-22 1352 1.26 3.3 &lt;== 10 days ago, Tom Hanks
+    2020-03-23 1716 1.27 3.5
+    2020-03-24 2146 1.25 3.8
+    2020-03-25 2431 1.13 4.0 &lt;== 10 days ago, overseas self-isolate 14 days
+    2020-03-26 2805 1.15 4.5 &lt;== 10 days ago, Vic declare State of Emergency
+    2020-03-27 3179 1.13 5.3
+    2020-03-28 3639 1.14 6.4
+    2020-03-29 3985 1.1 7.0 &lt;== 10 days ago, TAS self-isolation 14 days
+    2020-03-30 4250 1.07 8.0 &lt;== 10 days ago, closing borders to all
+    2020-03-31 4560 1.07 9.3 &lt;== 10 days ago, rule of 4 square metres
+    2020-04-01 4864 1.07 11.5
+    2020-04-02 5136 1.06 13.6 &lt;== 10 days ago, no social gathering
+    2020-04-03 5358 1.04 15.6 &lt;== 10 days ago, WA,SA closing border
+    2020-04-04 5552 1.04 18.7
+    2020-04-05 5687 1.02 22.9
+    2020-04-06 5795 1.02 28.1
+    2020-04-07 5908 1.02 33.1
+    2020-04-08 6013 1.02 38.8 &lt;== 10 days ago, mandatory hotel quarantine
+    2020-04-09 6103 1.01 46.5
+    2020-04-10 6203 1.02 52.2
+    2020-04-11 6292 1.01 60.7
+    2020-04-12 6313 1.003 69.6
+    2020-04-13 6359 1.007 83.5 &lt;== 10 days ago, QLD closing border
+    2020-04-14 6400 1.006 96.5
+    2020-04-15 6447 1.007 114.2
+    2020-04-16 6468 1.003 106.9
+    2020-04-17 6523 1.009 121.1
+    2020-04-18 6565 1.006 129.2
+    2020-04-19 6606 1.006 157.3
+    2020-04-20 6619 1.002 165.0 &lt;== 10 days ago, Good Friday
+    2020-04-21 6645 1.004 210.6
+    2020-04-22 6649 1.001 247.4
+    2020-04-23 6661 1.002 307.7
+    2020-04-24 6675 1.002 320.4
+    2020-04-25 6695 1.003 377.3
+    2020-04-26 6711 1.002 335.0
+    2020-04-27 6720 1.001 353.7
+    2020-04-28 6731 1.002 354.5
+    2020-04-29 6746 1.002 371.6
+    2020-04-30 6753 1.001 364.2
+    2020-05-01 6767 1.002 312.9
+    2020-05-02 6783 1.002 279.2
+    2020-05-03 6801 1.003 256.2
+    2020-05-04 6825 1.004 231.5
+    2020-05-05 6849 1.004 225.8
+    2020-05-06 6875 1.004 227.8
+    2020-05-07 6896 1.003 238.1
+    2020-05-08 6914 1.003 271.6
+    2020-05-09 6929 1.002 291.4
+    2020-05-10 6941 1.002 336.0
+    2020-05-11 6948 1.001 362.2
+    2020-05-12 6964 1.002 313.0
+    2020-05-13 6975 1.002 316.6
+    2020-05-14 6989 1.002 326.2
+    2020-05-15 7022 1.005 303.4
+    2020-05-16 7036 1.002 327.3 Latest stable value for 7 days MA
+    2020-05-17 7045 1.001 314.0
+    2020-05-18 7060 1.002 308.3
+    2020-05-19 7068 1.001 424.6
+
+Notes: doubling time in days have been smoothed with 7 days (geometric) moving average
+
+
+
+The number of cases in Australia was obtained from this wikipedia page
+
+[
+
+the growth and doubling time was calculated. Growth is easy to calculate, just dividing today's number with yesterday's number. Doubling time was calculated by taking the geometric seven day moving average of growth and then converting the result to doubling time.
+
+Example: doubling time for 2020-03-10 is
+
+log(2) / ( (log(1.16) + log(1.1) + log(1.15) + log(1.22) + log(1.13) + log(1.23) + log(1.27))/7 ) = 4.2169
+++++++++++
+ To close or not to close (schools) Why is the idea of closing schools or keeping them open an all or nothing option? Are there any discussions about schools operating on partial capacity? Eg, kids do their schooling at home who can, but those who's parents are working can still attend school. Could that help?
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days) [removed]
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days)     date cases growth doubling
+    2020-03-01 29 1.0 1.0
+    2020-03-02 33 1.14 5.1
+    2020-03-03 41 1.24 5.4
+    2020-03-04 52 1.27 5.3
+    2020-03-05 57 1.1 4.8
+    2020-03-06 63 1.11 4.7
+    2020-03-07 73 1.16 4.8
+    2020-03-08 80 1.1 5.4
+    2020-03-09 92 1.15 4.8
+    2020-03-10 112 1.22 4.2
+    2020-03-11 127 1.13 4.0
+    2020-03-12 156 1.23 3.7
+    2020-03-13 198 1.27 3.4
+    2020-03-14 248 1.25 3.5
+    2020-03-15 298 1.2 3.2
+    2020-03-16 376 1.26 3.2
+    2020-03-17 453 1.2 3.3
+    2020-03-18 566 1.25 3.3
+    2020-03-19 708 1.25 3.2
+    2020-03-20 875 1.24 3.2
+    2020-03-21 1071 1.22 3.1
+    2020-03-22 1352 1.26 3.3 &lt;== 10 days ago, Tom Hanks
+    2020-03-23 1716 1.27 3.5
+    2020-03-24 2146 1.25 3.8
+    2020-03-25 2431 1.13 4.0 &lt;== 10 days ago, all overseas arrivals self-isolate 14 days
+    2020-03-26 2805 1.15 4.5
+    2020-03-27 3179 1.13 5.3
+    2020-03-28 3639 1.14 6.4
+    2020-03-29 3985 1.1 7.0
+    2020-03-30 4250 1.07 8.0 &lt;== 10 days ago, closing borders to all
+    2020-03-31 4560 1.07 9.3 &lt;== 10 days ago, rule of 4 square metres
+    2020-04-01 4864 1.07 11.5
+    2020-04-02 5136 1.06 12.5 &lt;== 10 days ago, no social gathering
+    2020-04-03 5358 1.04 13.0 &lt;== 10 days ago, WA closing border
+    2020-04-04 5552 1.04 14.1
+
+Notes: doubling time in days have been smoothed with 7 days (geometric) moving average
+
+The number of cases in Australia was obtained from this wikipedia page
+
+[
+
+the growth and doubling time was calculated. Growth is easy to calculate, just dividing today's number with yesterday's number. Doubling time was calculated by taking the geometric seven day moving average of growth and then converting the result to doubling time.
+
+Example: doubling time for 2020-03-10 is
+
+log(2) / ( (log(1.16) + log(1.1) + log(1.15) + log(1.22) + log(1.13) + log(1.23) + log(1.27))/7 ) = 4.2169
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days)     date cases growth doubling
+    2020-03-01 29 1.0 1.0
+    2020-03-02 33 1.14 5.1
+    2020-03-03 41 1.24 5.4
+    2020-03-04 52 1.27 5.3
+    2020-03-05 57 1.1 4.8
+    2020-03-06 63 1.11 4.7
+    2020-03-07 73 1.16 4.8
+    2020-03-08 80 1.1 5.4
+    2020-03-09 92 1.15 4.8
+    2020-03-10 112 1.22 4.2
+    2020-03-11 127 1.13 4.0
+    2020-03-12 156 1.23 3.7
+    2020-03-13 198 1.27 3.4
+    2020-03-14 248 1.25 3.5
+    2020-03-15 298 1.2 3.2
+    2020-03-16 376 1.26 3.2
+    2020-03-17 453 1.2 3.3
+    2020-03-18 566 1.25 3.3
+    2020-03-19 708 1.25 3.2
+    2020-03-20 875 1.24 3.2
+    2020-03-21 1071 1.22 3.1
+    2020-03-22 1352 1.26 3.3
+    2020-03-23 1716 1.27 3.5
+    2020-03-24 2146 1.25 3.8
+    2020-03-25 2431 1.13 4.0
+    2020-03-26 2805 1.15 4.2
+    2020-03-27 3179 1.13 4.6
+    2020-03-28 3639 1.14 5.3
+
+The number of cases in Australia was obtained from this wikipedia page
+
+[
+
+the growth and doubling time was calculated. Growth is easy to calculate, just dividing today's number with yesterday's number. Doubling time was calculated by taking the geometric seven day moving average of growth and then converting the result to doubling time.
+
+Example: doubling time for 2020-03-10 is
+
+log(2) / ( (log(1.16) + log(1.1) + log(1.15) + log(1.22) + log(1.13) + log(1.23) + log(1.27))/7 ) = 4.2169
+++++++++++
+ Can someone answer this question about asymptotic carriers? Can someone answer this:
+
+If child A gets the virus from their parents and hangs out with child B, and Child B goes home back to their family with the virus - does the virus magically disappear or does the family that interact with child B get the virus?
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days) [removed]
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days)     date cases growth doubling
+    2020-03-01 29 1.0 1.0
+    2020-03-02 33 1.14 5.1
+    2020-03-03 41 1.24 5.4
+    2020-03-04 52 1.27 5.3
+    2020-03-05 57 1.1 4.8
+    2020-03-06 63 1.11 4.7
+    2020-03-07 73 1.16 4.8
+    2020-03-08 80 1.1 5.4
+    2020-03-09 92 1.15 4.8
+    2020-03-10 112 1.22 4.2
+    2020-03-11 127 1.13 4.0
+    2020-03-12 156 1.23 3.7
+    2020-03-13 198 1.27 3.4
+    2020-03-14 248 1.25 3.5
+    2020-03-15 298 1.2 3.2
+    2020-03-16 376 1.26 3.2
+    2020-03-17 453 1.2 3.3
+    2020-03-18 566 1.25 3.3
+    2020-03-19 708 1.25 3.2
+    2020-03-20 875 1.24 3.2
+    2020-03-21 1071 1.22 3.1
+    2020-03-22 1352 1.26 3.3
+    2020-03-23 1716 1.27 3.5
+    2020-03-24 2146 1.25 3.8
+    2020-03-25 2431 1.13 4.0
+    2020-03-26 2805 1.15 4.5
+    2020-03-27 3179 1.13 5.3
+    2020-03-28 3639 1.14 6.4
+    2020-03-29 3985 1.1 7.0
+    2020-03-30 4250 1.07 8.0 &lt;== 10 days ago, closing borders to all
+    2020-03-31 4560 1.07 8.7 &lt;== 10 days ago, rule of 4 square metres
+    2020-04-01 4864 1.07 10.1
+    2020-04-02 5136 1.06 10.9 &lt;== 10 days ago, no social gathering
+    2020-04-03 ???? ???? ???? &lt;== 10 days ago, WA closing border
+
+Notes: doubling time in days have been smoothed with 7 days (geometric) moving average
+
+The number of cases in Australia was obtained from this wikipedia page
+
+[
+
+the growth and doubling time was calculated. Growth is easy to calculate, just dividing today's number with yesterday's number. Doubling time was calculated by taking the geometric seven day moving average of growth and then converting the result to doubling time.
+
+Example: doubling time for 2020-03-10 is
+
+log(2) / ( (log(1.16) + log(1.1) + log(1.15) + log(1.22) + log(1.13) + log(1.23) + log(1.27))/7 ) = 4.2169
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days)     date cases growth doubling
+    2020-03-01 29 1.0 1.0
+    2020-03-02 33 1.14 5.1
+    2020-03-03 41 1.24 5.4
+    2020-03-04 52 1.27 5.3
+    2020-03-05 57 1.1 4.8
+    2020-03-06 63 1.11 4.7
+    2020-03-07 73 1.16 4.8
+    2020-03-08 80 1.1 5.4
+    2020-03-09 92 1.15 4.8
+    2020-03-10 112 1.22 4.2
+    2020-03-11 127 1.13 4.0
+    2020-03-12 156 1.23 3.7
+    2020-03-13 198 1.27 3.4
+    2020-03-14 248 1.25 3.5
+    2020-03-15 298 1.2 3.2
+    2020-03-16 376 1.26 3.2
+    2020-03-17 453 1.2 3.3
+    2020-03-18 566 1.25 3.3
+    2020-03-19 708 1.25 3.2
+    2020-03-20 875 1.24 3.2
+    2020-03-21 1071 1.22 3.1
+    2020-03-22 1352 1.26 3.3 &lt;== 10 days ago, Tom Hanks
+    2020-03-23 1716 1.27 3.5
+    2020-03-24 2146 1.25 3.8
+    2020-03-25 2431 1.13 4.0 &lt;== 10 days ago, overseas self-isolate 14 days
+    2020-03-26 2805 1.15 4.5 &lt;== 10 days ago, Vic declare State of Emergency
+    2020-03-27 3179 1.13 5.3
+    2020-03-28 3639 1.14 6.4
+    2020-03-29 3985 1.1 7.0 &lt;== 10 days ago, TAS self-isolation 14 days
+    2020-03-30 4250 1.07 8.0 &lt;== 10 days ago, closing borders to all
+    2020-03-31 4560 1.07 9.3 &lt;== 10 days ago, rule of 4 square metres
+    2020-04-01 4864 1.07 11.5
+    2020-04-02 5136 1.06 13.6 &lt;== 10 days ago, no social gathering
+    2020-04-03 5358 1.04 15.6 &lt;== 10 days ago, WA,SA closing border
+    2020-04-04 5552 1.04 18.7
+    2020-04-05 5687 1.02 22.9
+    2020-04-06 5795 1.02 28.1
+    2020-04-07 5908 1.02 33.1
+    2020-04-08 6013 1.02 38.8 &lt;== 10 days ago, mandatory hotel quarantine
+    2020-04-09 6103 1.01 46.5
+    2020-04-10 6203 1.02 52.2
+    2020-04-11 6292 1.01 60.7
+    2020-04-12 6313 1.003 69.6
+    2020-04-13 6359 1.007 83.5 &lt;== 10 days ago, QLD closing border
+    2020-04-14 6400 1.006 96.5
+    2020-04-15 6447 1.007 114.2
+    2020-04-16 6468 1.003 106.9
+    2020-04-17 6523 1.009 121.1
+    2020-04-18 6565 1.006 129.2
+    2020-04-19 6606 1.006 157.3
+    2020-04-20 6619 1.002 165.0 &lt;== 10 days ago, Good Friday
+    2020-04-21 6645 1.004 210.6
+    2020-04-22 6649 1.001 247.4
+    2020-04-23 6661 1.002 307.7
+    2020-04-24 6675 1.002 320.4
+    2020-04-25 6695 1.003 377.3
+    2020-04-26 6711 1.002 335.0
+    2020-04-27 6720 1.001 353.7
+    2020-04-28 6731 1.002 354.5
+    2020-04-29 6746 1.002 371.6
+    2020-04-30 6753 1.001 364.2
+    2020-05-01 6767 1.002 312.9
+    2020-05-02 6783 1.002 279.2
+    2020-05-03 6801 1.003 256.2
+    2020-05-04 6825 1.004 231.5
+    2020-05-05 6849 1.004 225.8
+    2020-05-06 6875 1.004 227.8
+    2020-05-07 6896 1.003 238.1
+    2020-05-08 6914 1.003 271.6
+    2020-05-09 6929 1.002 291.4
+    2020-05-10 6941 1.002 336.0 Latest stable value for 7 days MA
+    2020-05-11 6948 1.001 365.1
+    2020-05-12 6964 1.002 394.6
+    2020-05-13 6975 1.002 419.0
+
+Notes: doubling time in days have been smoothed with 7 days (geometric) moving average
+
+
+
+The number of cases in Australia was obtained from this wikipedia page
+
+[
+
+the growth and doubling time was calculated. Growth is easy to calculate, just dividing today's number with yesterday's number. Doubling time was calculated by taking the geometric seven day moving average of growth and then converting the result to doubling time.
+
+Example: doubling time for 2020-03-10 is
+
+log(2) / ( (log(1.16) + log(1.1) + log(1.15) + log(1.22) + log(1.13) + log(1.23) + log(1.27))/7 ) = 4.2169
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days)     date cases growth doubling
+    2020-03-01 29 1.0 1.0
+    2020-03-02 33 1.14 5.1
+    2020-03-03 41 1.24 5.4
+    2020-03-04 52 1.27 5.3
+    2020-03-05 57 1.1 4.8
+    2020-03-06 63 1.11 4.7
+    2020-03-07 73 1.16 4.8
+    2020-03-08 80 1.1 5.4
+    2020-03-09 92 1.15 4.8
+    2020-03-10 112 1.22 4.2
+    2020-03-11 127 1.13 4.0
+    2020-03-12 156 1.23 3.7
+    2020-03-13 198 1.27 3.4
+    2020-03-14 248 1.25 3.5
+    2020-03-15 298 1.2 3.2
+    2020-03-16 376 1.26 3.2
+    2020-03-17 453 1.2 3.3
+    2020-03-18 566 1.25 3.3
+    2020-03-19 708 1.25 3.2
+    2020-03-20 875 1.24 3.2
+    2020-03-21 1071 1.22 3.1
+    2020-03-22 1352 1.26 3.3
+    2020-03-23 1716 1.27 3.5
+    2020-03-24 2146 1.25 3.8
+    2020-03-25 2431 1.13 4.0   day -3
+    2020-03-26 2805 1.15 4.5   day -2
+    2020-03-27 3179 1.13 5.3   day -1
+    2020-03-28 3639 1.14 6.4   day 0  lastest stable day in 7 day MA
+    2020-03-29 3985 1.1 6.6    day +1
+    2020-03-30 4250 1.07 7.1   day +2
+    2020-03-31 4560 1.07 7.7   day +3
+
+Notes: doubling time in days have been smoothed with 7 days (geometric) moving average
+
+The number of cases in Australia was obtained from this wikipedia page
+
+[
+
+the growth and doubling time was calculated. Growth is easy to calculate, just dividing today's number with yesterday's number. Doubling time was calculated by taking the geometric seven day moving average of growth and then converting the result to doubling time.
+
+Example: doubling time for 2020-03-10 is
+
+log(2) / ( (log(1.16) + log(1.1) + log(1.15) + log(1.22) + log(1.13) + log(1.23) + log(1.27))/7 ) = 4.2169
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days)     date cases growth doubling
+    2020-03-01 29 1.0 1.0
+    2020-03-02 33 1.14 5.1
+    2020-03-03 41 1.24 5.4
+    2020-03-04 52 1.27 5.3
+    2020-03-05 57 1.1 4.8
+    2020-03-06 63 1.11 4.7
+    2020-03-07 73 1.16 4.8
+    2020-03-08 80 1.1 5.4
+    2020-03-09 92 1.15 4.8
+    2020-03-10 112 1.22 4.2
+    2020-03-11 127 1.13 4.0
+    2020-03-12 156 1.23 3.7
+    2020-03-13 198 1.27 3.4
+    2020-03-14 248 1.25 3.5
+    2020-03-15 298 1.2 3.2
+    2020-03-16 376 1.26 3.2
+    2020-03-17 453 1.2 3.3
+    2020-03-18 566 1.25 3.3
+    2020-03-19 708 1.25 3.2
+    2020-03-20 875 1.24 3.2
+    2020-03-21 1071 1.22 3.1
+    2020-03-22 1352 1.26 3.3
+    2020-03-23 1716 1.27 3.5
+    2020-03-24 2146 1.25 3.8
+    2020-03-25 2431 1.13 4.0
+    2020-03-26 2805 1.15 4.5
+    2020-03-27 3179 1.13 5.3
+    2020-03-28 3639 1.14 6.4
+    2020-03-29 3985 1.1 7.0
+    2020-03-30 4250 1.07 7.6
+    2020-03-31 4560 1.07 8.1
+    2020-04-01 4864 1.07 9.6
+
+Notes: doubling time in days have been smoothed with 7 days (geometric) moving average
+
+The number of cases in Australia was obtained from this wikipedia page
+
+[
+
+the growth and doubling time was calculated. Growth is easy to calculate, just dividing today's number with yesterday's number. Doubling time was calculated by taking the geometric seven day moving average of growth and then converting the result to doubling time.
+
+Example: doubling time for 2020-03-10 is
+
+log(2) / ( (log(1.16) + log(1.1) + log(1.15) + log(1.22) + log(1.13) + log(1.23) + log(1.27))/7 ) = 4.2169
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days)     date cases growth doubling
+    2020-03-01 29 1.0 1.0
+    2020-03-02 33 1.14 5.1
+    2020-03-03 41 1.24 5.4
+    2020-03-04 52 1.27 5.3
+    2020-03-05 57 1.1 4.8
+    2020-03-06 63 1.11 4.7
+    2020-03-07 73 1.16 4.8
+    2020-03-08 80 1.1 5.4
+    2020-03-09 92 1.15 4.8
+    2020-03-10 112 1.22 4.2
+    2020-03-11 127 1.13 4.0
+    2020-03-12 156 1.23 3.7
+    2020-03-13 198 1.27 3.4
+    2020-03-14 248 1.25 3.5
+    2020-03-15 298 1.2 3.2
+    2020-03-16 376 1.26 3.2
+    2020-03-17 453 1.2 3.3
+    2020-03-18 566 1.25 3.3
+    2020-03-19 708 1.25 3.2
+    2020-03-20 875 1.24 3.2
+    2020-03-21 1071 1.22 3.1
+    2020-03-22 1352 1.26 3.3 &lt;== 10 days ago, Tom Hanks
+    2020-03-23 1716 1.27 3.5
+    2020-03-24 2146 1.25 3.8
+    2020-03-25 2431 1.13 4.0 &lt;== 10 days ago, overseas self-isolate 14 days
+    2020-03-26 2805 1.15 4.5 &lt;== 10 days ago, Vic declare State of Emergency
+    2020-03-27 3179 1.13 5.3
+    2020-03-28 3639 1.14 6.4
+    2020-03-29 3985 1.1 7.0 &lt;== 10 days ago, TAS self-isolation 14 days
+    2020-03-30 4250 1.07 8.0 &lt;== 10 days ago, closing borders to all
+    2020-03-31 4560 1.07 9.3 &lt;== 10 days ago, rule of 4 square metres
+    2020-04-01 4864 1.07 11.5
+    2020-04-02 5136 1.06 13.6 &lt;== 10 days ago, no social gathering
+    2020-04-03 5358 1.04 15.6 &lt;== 10 days ago, WA,SA closing border
+    2020-04-04 5552 1.04 18.7
+    2020-04-05 5687 1.02 22.9
+    2020-04-06 5795 1.02 28.1
+    2020-04-07 5908 1.02 33.1
+    2020-04-08 6013 1.02 38.8 &lt;== 10 days ago, mandatory hotel quarantine
+    2020-04-09 6103 1.01 46.5
+    2020-04-10 6203 1.02 52.2
+    2020-04-11 6292 1.01 60.7
+    2020-04-12 6313 1.003 69.6
+    2020-04-13 6359 1.007 83.5 &lt;== 10 days ago, QLD closing border
+    2020-04-14 6400 1.006 96.5
+    2020-04-15 6447 1.007 115.3
+    2020-04-16 6468 1.003 105.9
+    2020-04-17 6523 1.009 108.9
+
+Notes: doubling time in days have been smoothed with 7 days (geometric) moving average
+
+
+
+The number of cases in Australia was obtained from this wikipedia page
+
+[
+
+the growth and doubling time was calculated. Growth is easy to calculate, just dividing today's number with yesterday's number. Doubling time was calculated by taking the geometric seven day moving average of growth and then converting the result to doubling time.
+
+Example: doubling time for 2020-03-10 is
+
+log(2) / ( (log(1.16) + log(1.1) + log(1.15) + log(1.22) + log(1.13) + log(1.23) + log(1.27))/7 ) = 4.2169
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days)     date cases growth doubling
+    2020-03-01 29 1.0 1.0
+    2020-03-02 33 1.14 5.1
+    2020-03-03 41 1.24 5.4
+    2020-03-04 52 1.27 5.3
+    2020-03-05 57 1.1 4.8
+    2020-03-06 63 1.11 4.7
+    2020-03-07 73 1.16 4.8
+    2020-03-08 80 1.1 5.4
+    2020-03-09 92 1.15 4.8
+    2020-03-10 112 1.22 4.2
+    2020-03-11 127 1.13 4.0
+    2020-03-12 156 1.23 3.7
+    2020-03-13 198 1.27 3.4
+    2020-03-14 248 1.25 3.5
+    2020-03-15 298 1.2 3.2
+    2020-03-16 376 1.26 3.2
+    2020-03-17 453 1.2 3.3
+    2020-03-18 566 1.25 3.3
+    2020-03-19 708 1.25 3.2
+    2020-03-20 875 1.24 3.2
+    2020-03-21 1071 1.22 3.1
+    2020-03-22 1352 1.26 3.3 &lt;== 10 days ago, Tom Hanks
+    2020-03-23 1716 1.27 3.5
+    2020-03-24 2146 1.25 3.8
+    2020-03-25 2431 1.13 4.0 &lt;== 10 days ago, overseas self-isolate 14 days
+    2020-03-26 2805 1.15 4.5 &lt;== 10 days ago, Vic declare State of Emergency
+    2020-03-27 3179 1.13 5.3
+    2020-03-28 3639 1.14 6.4
+    2020-03-29 3985 1.1 7.0 &lt;== 10 days ago, TAS self-isolation 14 days
+    2020-03-30 4250 1.07 8.0 &lt;== 10 days ago, closing borders to all
+    2020-03-31 4560 1.07 9.3 &lt;== 10 days ago, rule of 4 square metres
+    2020-04-01 4864 1.07 11.5
+    2020-04-02 5136 1.06 13.6 &lt;== 10 days ago, no social gathering
+    2020-04-03 5358 1.04 15.6 &lt;== 10 days ago, WA,SA closing border
+    2020-04-04 5552 1.04 18.7
+    2020-04-05 5687 1.02 22.9
+    2020-04-06 5795 1.02 28.1
+    2020-04-07 5908 1.02 33.1
+    2020-04-08 6013 1.02 38.8 &lt;== 10 days ago, mandatory hotel quarantine
+    2020-04-09 6103 1.01 46.5
+    2020-04-10 6203 1.02 52.2
+    2020-04-11 6292 1.01 60.7
+    2020-04-12 6313 1.003 69.6
+    2020-04-13 6359 1.007 83.5 &lt;== 10 days ago, QLD closing border
+    2020-04-14 6400 1.006 96.5
+    2020-04-15 6447 1.007 114.2
+    2020-04-16 6468 1.003 106.9
+    2020-04-17 6523 1.009 121.1
+    2020-04-18 6565 1.006 129.2
+    2020-04-19 6606 1.006 157.3
+    2020-04-20 6619 1.002 165.0 &lt;== 10 days ago, Good Friday
+    2020-04-21 6645 1.004 210.6
+    2020-04-22 6649 1.001 247.4
+    2020-04-23 6661 1.002 307.7
+    2020-04-24 6675 1.002 320.4
+    2020-04-25 6695 1.003 377.3
+    2020-04-26 6711 1.002 335.0
+    2020-04-27 6720 1.001 353.7
+    2020-04-28 6731 1.002 354.5
+    2020-04-29 6746 1.002 371.6
+    2020-04-30 6753 1.001 364.2
+    2020-05-01 6767 1.002 312.9
+    2020-05-02 6783 1.002 279.2
+    2020-05-03 6801 1.003 256.2
+    2020-05-04 6825 1.004 231.5
+    2020-05-05 6849 1.004 225.8
+    2020-05-06 6875 1.004 227.8
+    2020-05-07 6896 1.003 238.1
+    2020-05-08 6914 1.003 271.6
+    2020-05-09 6929 1.002 291.4
+    2020-05-10 6941 1.002 336.0
+    2020-05-11 6948 1.001 362.2
+    2020-05-12 6964 1.002 313.0
+    2020-05-13 6975 1.002 316.6
+    2020-05-14 6989 1.002 326.2
+    2020-05-15 7022 1.005 303.4
+    2020-05-16 7036 1.002 327.3
+    2020-05-17 7045 1.001 327.8
+    2020-05-18 7060 1.002 371.0
+    2020-05-19 7068 1.001 469.1
+    2020-05-20 7079 1.002 490.1
+    2020-05-21 7081 1.0003 536.5
+    2020-05-22 7095 1.002 593.0
+    2020-05-23 7106 1.0016 530.0
+    2020-05-24 7109 1.0004 574.9
+    2020-05-25 7118 1.0013 500.4
+    2020-05-26 7133 1.0021 443.8
+    2020-05-27 7139 1.0008 438.9
+    2020-05-28 7150 1.0015 403.5 Latest stable value for 7 days MA
+    2020-05-29 7173 1.0032 386.5
+    2020-05-30 7185 1.0017 400.5
+    2020-05-31 7195 1.0014 354.8
+
+Notes: doubling time in days have been smoothed with 7 days (geometric) moving average
+
+
+
+The number of cases in Australia was obtained from this wikipedia page
+
+[
+
+the growth and doubling time was calculated. Growth is easy to calculate, just dividing today's number with yesterday's number. Doubling time was calculated by taking the geometric seven day moving average of growth and then converting the result to doubling time.
+
+Example: doubling time for 2020-03-10 is
+
+log(2) / ( (log(1.16) + log(1.1) + log(1.15) + log(1.22) + log(1.13) + log(1.23) + log(1.27))/7 ) = 4.2169
+++++++++++
+ Please stop sending your son or daughter to school NOW Now is the time to act. Countries are closing down schools every second. The UK closed all their schools indefinitely. Our Prime Minister is slack idiot who wants to keep schools open just because of his own daughters. **He will close schools only if his daughters get the coronavirus.**
+
+This idiot (ScoMo) follows Singapore‘s advice, a tiny little island nation that has only 25 schools (Primary and High combined) nationwide, while Australia has 10,607 schools (Primary and High Combined).  
+
+
+As a former teacher and a former advisor to an Education minister, I can tell you it is certainly NOT okay to send your kids to school.    
+Many parents and guardians are withdrawing their children from school every day. Join them. Phone, text or send an email to the school and education department that you are worried about your child’s safety.
+
+And make sure you 🖕Scott Morrison for keeping schools open and risking children’s safety just to save the economy, when everyone knows that it will go into a recession anyway.
+
+And there are plenty of online teaching and tutoring services online to continue learning such as zoom.us
+++++++++++
+ So Vic and ACT schools are shutting on Tuesday but what about the NSW schools? 
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days)     date cases growth doubling
+    2020-03-01 29 1.0 1.0
+    2020-03-02 33 1.14 5.1
+    2020-03-03 41 1.24 5.4
+    2020-03-04 52 1.27 5.3
+    2020-03-05 57 1.1 4.8
+    2020-03-06 63 1.11 4.7
+    2020-03-07 73 1.16 4.8
+    2020-03-08 80 1.1 5.4
+    2020-03-09 92 1.15 4.8
+    2020-03-10 112 1.22 4.2
+    2020-03-11 127 1.13 4.0
+    2020-03-12 156 1.23 3.7
+    2020-03-13 198 1.27 3.4
+    2020-03-14 248 1.25 3.5
+    2020-03-15 298 1.2 3.2
+    2020-03-16 376 1.26 3.2
+    2020-03-17 453 1.2 3.3
+    2020-03-18 566 1.25 3.3
+    2020-03-19 708 1.25 3.2
+    2020-03-20 875 1.24 3.2
+    2020-03-21 1071 1.22 3.1
+    2020-03-22 1352 1.26 3.3 &lt;== 10 days ago, Tom Hanks
+    2020-03-23 1716 1.27 3.5
+    2020-03-24 2146 1.25 3.8
+    2020-03-25 2431 1.13 4.0 &lt;== 10 days ago, overseas self-isolate 14 days
+    2020-03-26 2805 1.15 4.5 &lt;== 10 days ago, Vic declare State of Emergency
+    2020-03-27 3179 1.13 5.3
+    2020-03-28 3639 1.14 6.4
+    2020-03-29 3985 1.1 7.0 &lt;== 10 days ago, TAS self-isolation 14 days
+    2020-03-30 4250 1.07 8.0 &lt;== 10 days ago, closing borders to all
+    2020-03-31 4560 1.07 9.3 &lt;== 10 days ago, rule of 4 square metres
+    2020-04-01 4864 1.07 11.5
+    2020-04-02 5136 1.06 13.6 &lt;== 10 days ago, no social gathering
+    2020-04-03 5358 1.04 15.6 &lt;== 10 days ago, WA,SA closing border
+    2020-04-04 5552 1.04 18.7
+    2020-04-05 5687 1.02 22.9
+    2020-04-06 5795 1.02 28.1
+    2020-04-07 5908 1.02 33.1
+    2020-04-08 6013 1.02 38.8 &lt;== 10 days ago, mandatory hotel quarantine
+    2020-04-09 6103 1.01 46.5
+    2020-04-10 6203 1.02 52.2
+    2020-04-11 6292 1.01 60.7
+    2020-04-12 6313 1.003 69.6
+    2020-04-13 6359 1.007 83.5 &lt;== 10 days ago, QLD closing border
+    2020-04-14 6400 1.006 96.5
+    2020-04-15 6447 1.007 114.2
+    2020-04-16 6468 1.003 106.9
+    2020-04-17 6523 1.009 121.1
+    2020-04-18 6565 1.006 129.2
+    2020-04-19 6606 1.006 157.3
+    2020-04-20 6619 1.002 165.0 &lt;== 10 days ago, Good Friday
+    2020-04-21 6645 1.004 210.6
+    2020-04-22 6649 1.001 247.4
+    2020-04-23 6661 1.002 307.7
+    2020-04-24 6675 1.002 320.4
+    2020-04-25 6695 1.003 377.3
+    2020-04-26 6711 1.002 335.0
+    2020-04-27 6720 1.001 353.7
+    2020-04-28 6731 1.002 354.5
+    2020-04-29 6746 1.002 371.6
+    2020-04-30 6753 1.001 364.2
+    2020-05-01 6767 1.002 312.9
+    2020-05-02 6783 1.002 279.2
+    2020-05-03 6801 1.003 256.2
+    2020-05-04 6825 1.004 231.5
+    2020-05-05 6849 1.004 225.8
+    2020-05-06 6875 1.004 227.8
+    2020-05-07 6896 1.003 238.1
+    2020-05-08 6914 1.003 271.6
+    2020-05-09 6929 1.002 291.4
+    2020-05-10 6941 1.002 336.0
+    2020-05-11 6948 1.001 362.2
+    2020-05-12 6964 1.002 313.0
+    2020-05-13 6975 1.002 316.6
+    2020-05-14 6989 1.002 326.2
+    2020-05-15 7022 1.005 303.4
+    2020-05-16 7036 1.002 327.3
+    2020-05-17 7045 1.001 327.8
+    2020-05-18 7060 1.002 371.0
+    2020-05-19 7068 1.001 469.1
+    2020-05-20 7079 1.002 490.1
+    2020-05-21 7081 1.0003 536.5
+    2020-05-22 7095 1.002 593.0
+    2020-05-23 7106 1.0016 530.0
+    2020-05-24 7109 1.0004 574.9 Latest stable value for 7 days MA
+    2020-05-25 7118 1.0013 509.8
+    2020-05-26 7133 1.0021 560.6
+    2020-05-27 7139 1.0008 598.4
+
+Notes: doubling time in days have been smoothed with 7 days (geometric) moving average
+
+
+
+The number of cases in Australia was obtained from this wikipedia page
+
+[
+
+the growth and doubling time was calculated. Growth is easy to calculate, just dividing today's number with yesterday's number. Doubling time was calculated by taking the geometric seven day moving average of growth and then converting the result to doubling time.
+
+Example: doubling time for 2020-03-10 is
+
+log(2) / ( (log(1.16) + log(1.1) + log(1.15) + log(1.22) + log(1.13) + log(1.23) + log(1.27))/7 ) = 4.2169
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days)     date cases growth doubling
+    2020-03-01 29 1.0 1.0
+    2020-03-02 33 1.14 5.1
+    2020-03-03 41 1.24 5.4
+    2020-03-04 52 1.27 5.3
+    2020-03-05 57 1.1 4.8
+    2020-03-06 63 1.11 4.7
+    2020-03-07 73 1.16 4.8
+    2020-03-08 80 1.1 5.4
+    2020-03-09 92 1.15 4.8
+    2020-03-10 112 1.22 4.2
+    2020-03-11 127 1.13 4.0
+    2020-03-12 156 1.23 3.7
+    2020-03-13 198 1.27 3.4
+    2020-03-14 248 1.25 3.5
+    2020-03-15 298 1.2 3.2
+    2020-03-16 376 1.26 3.2
+    2020-03-17 453 1.2 3.3
+    2020-03-18 566 1.25 3.3
+    2020-03-19 708 1.25 3.2
+    2020-03-20 875 1.24 3.2
+    2020-03-21 1071 1.22 3.1
+    2020-03-22 1352 1.26 3.3 &lt;== 10 days ago, Tom Hanks
+    2020-03-23 1716 1.27 3.5
+    2020-03-24 2146 1.25 3.8
+    2020-03-25 2431 1.13 4.0 &lt;== 10 days ago, overseas self-isolate 14 days
+    2020-03-26 2805 1.15 4.5 &lt;== 10 days ago, Vic declare State of Emergency
+    2020-03-27 3179 1.13 5.3
+    2020-03-28 3639 1.14 6.4
+    2020-03-29 3985 1.1 7.0 &lt;== 10 days ago, TAS self-isolation 14 days
+    2020-03-30 4250 1.07 8.0 &lt;== 10 days ago, closing borders to all
+    2020-03-31 4560 1.07 9.3 &lt;== 10 days ago, rule of 4 square metres
+    2020-04-01 4864 1.07 11.5
+    2020-04-02 5136 1.06 13.6 &lt;== 10 days ago, no social gathering
+    2020-04-03 5358 1.04 15.6 &lt;== 10 days ago, WA,SA closing border
+    2020-04-04 5552 1.04 18.7
+    2020-04-05 5687 1.02 22.9
+    2020-04-06 5795 1.02 28.1
+    2020-04-07 5908 1.02 33.1
+    2020-04-08 6013 1.02 38.8 &lt;== 10 days ago, mandatory hotel quarantine
+    2020-04-09 6103 1.01 46.5
+    2020-04-10 6203 1.02 52.2
+    2020-04-11 6292 1.01 60.7
+    2020-04-12 6313 1.003 69.6
+    2020-04-13 6359 1.007 83.5 &lt;== 10 days ago, QLD closing border
+    2020-04-14 6400 1.006 96.5
+    2020-04-15 6447 1.007 114.2
+    2020-04-16 6468 1.003 106.9
+    2020-04-17 6523 1.009 121.1
+    2020-04-18 6565 1.006 129.2
+    2020-04-19 6606 1.006 157.3
+    2020-04-20 6619 1.002 165.0 &lt;== 10 days ago, Good Friday
+    2020-04-21 6645 1.004 210.6
+    2020-04-22 6649 1.001 247.4
+    2020-04-23 6661 1.002 307.7
+    2020-04-24 6675 1.002 320.4
+    2020-04-25 6695 1.003 377.3
+    2020-04-26 6711 1.002 335.0 Latest stable value for 7 days MA
+    2020-04-27 6720 1.001 328.0
+    2020-04-28 6731 1.002 327.6
+    2020-04-29 6746 1.002 365.4
+
+Notes: doubling time in days have been smoothed with 7 days (geometric) moving average
+
+
+
+The number of cases in Australia was obtained from this wikipedia page
+
+[
+
+the growth and doubling time was calculated. Growth is easy to calculate, just dividing today's number with yesterday's number. Doubling time was calculated by taking the geometric seven day moving average of growth and then converting the result to doubling time.
+
+Example: doubling time for 2020-03-10 is
+
+log(2) / ( (log(1.16) + log(1.1) + log(1.15) + log(1.22) + log(1.13) + log(1.23) + log(1.27))/7 ) = 4.2169
+++++++++++
+ Tipping - not numbers, but days When will be NSW's first zero day?
+
+When will be Victoria's first double digit day?
+
+When will Queensland get to two consecutive zero days?
+
+(Local cases only)
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days)     date cases growth doubling
+    2020-03-01 29 1.0 1.0
+    2020-03-02 33 1.14 5.1
+    2020-03-03 41 1.24 5.4
+    2020-03-04 52 1.27 5.3
+    2020-03-05 57 1.1 4.8
+    2020-03-06 63 1.11 4.7
+    2020-03-07 73 1.16 4.8
+    2020-03-08 80 1.1 5.4
+    2020-03-09 92 1.15 4.8
+    2020-03-10 112 1.22 4.2
+    2020-03-11 127 1.13 4.0
+    2020-03-12 156 1.23 3.7
+    2020-03-13 198 1.27 3.4
+    2020-03-14 248 1.25 3.5
+    2020-03-15 298 1.2 3.2
+    2020-03-16 376 1.26 3.2
+    2020-03-17 453 1.2 3.3
+    2020-03-18 566 1.25 3.3
+    2020-03-19 708 1.25 3.2
+    2020-03-20 875 1.24 3.2
+    2020-03-21 1071 1.22 3.1
+    2020-03-22 1352 1.26 3.3 &lt;== 10 days ago, Tom Hanks
+    2020-03-23 1716 1.27 3.5
+    2020-03-24 2146 1.25 3.8
+    2020-03-25 2431 1.13 4.0 &lt;== 10 days ago, overseas self-isolate 14 days
+    2020-03-26 2805 1.15 4.5
+    2020-03-27 3179 1.13 5.3
+    2020-03-28 3639 1.14 6.4
+    2020-03-29 3985 1.1 7.0 &lt;== 10 days ago, TAS self-isolation 14 days
+    2020-03-30 4250 1.07 8.0 &lt;== 10 days ago, closing borders to all
+    2020-03-31 4560 1.07 9.3 &lt;== 10 days ago, rule of 4 square metres
+    2020-04-01 4864 1.07 11.5
+    2020-04-02 5136 1.06 13.6 &lt;== 10 days ago, no social gathering
+    2020-04-03 5358 1.04 15.6 &lt;== 10 days ago, WA,SA closing border
+    2020-04-04 5552 1.04 18.7
+    2020-04-05 5687 1.02 22.9
+    2020-04-06 5795 1.02 28.1
+    2020-04-07 5908 1.02 33.1
+    2020-04-08 6013 1.02 38.8 &lt;== 10 days ago, mandatory hotel quarantine
+    2020-04-09 6103 1.01 46.5
+    2020-04-10 6203 1.02 52.2
+    2020-04-11 6292 1.01 56.5
+    2020-04-12 6313 1.003 61.9
+    2020-04-13 6359 1.007 67.5 &lt;== 10 days ago, QLD closing border
+
+Notes: doubling time in days have been smoothed with 7 days (geometric) moving average
+
+
+
+The number of cases in Australia was obtained from this wikipedia page
+
+[
+
+the growth and doubling time was calculated. Growth is easy to calculate, just dividing today's number with yesterday's number. Doubling time was calculated by taking the geometric seven day moving average of growth and then converting the result to doubling time.
+
+Example: doubling time for 2020-03-10 is
+
+log(2) / ( (log(1.16) + log(1.1) + log(1.15) + log(1.22) + log(1.13) + log(1.23) + log(1.27))/7 ) = 4.2169
+
+Warning! Reduced testing during Easter break.
+
+Program changed to used 3 digits after the 43th array element (see source code snippet below)
+
+    rounded_growth = round.(growth,digits=2)
+    for k = 43:length(growth)
+        rounded_growth[k] = round(growth[k],digits=3)
+    end
+
+&amp;#x200B;
+++++++++++
+ Hypothetical question : If they had to do contact tracing for one of your average days, how many people would have interacted with ? say for an average day.
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days)     date cases growth doubling
+    2020-03-01 29 1.0 1.0
+    2020-03-02 33 1.14 5.1
+    2020-03-03 41 1.24 5.4
+    2020-03-04 52 1.27 5.3
+    2020-03-05 57 1.1 4.8
+    2020-03-06 63 1.11 4.7
+    2020-03-07 73 1.16 4.8
+    2020-03-08 80 1.1 5.4
+    2020-03-09 92 1.15 4.8
+    2020-03-10 112 1.22 4.2
+    2020-03-11 127 1.13 4.0
+    2020-03-12 156 1.23 3.7
+    2020-03-13 198 1.27 3.4
+    2020-03-14 248 1.25 3.5
+    2020-03-15 298 1.2 3.2
+    2020-03-16 376 1.26 3.2
+    2020-03-17 453 1.2 3.3
+    2020-03-18 566 1.25 3.3
+    2020-03-19 708 1.25 3.2
+    2020-03-20 875 1.24 3.2
+    2020-03-21 1071 1.22 3.1
+    2020-03-22 1352 1.26 3.3 &lt;== 10 days ago, Tom Hanks
+    2020-03-23 1716 1.27 3.5
+    2020-03-24 2146 1.25 3.8
+    2020-03-25 2431 1.13 4.0 &lt;== 10 days ago, overseas self-isolate 14 days
+    2020-03-26 2805 1.15 4.5 &lt;== 10 days ago, Vic declare State of Emergency
+    2020-03-27 3179 1.13 5.3
+    2020-03-28 3639 1.14 6.4
+    2020-03-29 3985 1.1 7.0 &lt;== 10 days ago, TAS self-isolation 14 days
+    2020-03-30 4250 1.07 8.0 &lt;== 10 days ago, closing borders to all
+    2020-03-31 4560 1.07 9.3 &lt;== 10 days ago, rule of 4 square metres
+    2020-04-01 4864 1.07 11.5
+    2020-04-02 5136 1.06 13.6 &lt;== 10 days ago, no social gathering
+    2020-04-03 5358 1.04 15.6 &lt;== 10 days ago, WA,SA closing border
+    2020-04-04 5552 1.04 18.7
+    2020-04-05 5687 1.02 22.9
+    2020-04-06 5795 1.02 28.1
+    2020-04-07 5908 1.02 33.1
+    2020-04-08 6013 1.02 38.8 &lt;== 10 days ago, mandatory hotel quarantine
+    2020-04-09 6103 1.01 46.5
+    2020-04-10 6203 1.02 52.2
+    2020-04-11 6292 1.01 60.7
+    2020-04-12 6313 1.003 69.6
+    2020-04-13 6359 1.007 83.5 &lt;== 10 days ago, QLD closing border
+    2020-04-14 6400 1.006 96.5
+    2020-04-15 6447 1.007 114.2
+    2020-04-16 6468 1.003 106.9
+    2020-04-17 6523 1.009 121.1
+    2020-04-18 6565 1.006 129.2
+    2020-04-19 6606 1.006 157.3
+    2020-04-20 6619 1.002 165.0 &lt;== 10 days ago, Good Friday
+    2020-04-21 6645 1.004 210.6
+    2020-04-22 6649 1.001 247.4
+    2020-04-23 6661 1.002 307.7
+    2020-04-24 6675 1.002 320.4
+    2020-04-25 6695 1.003 370.6
+    2020-04-26 6711 1.002 326.3
+    2020-04-27 6720 1.001 314.4
+
+Notes: doubling time in days have been smoothed with 7 days (geometric) moving average
+
+
+
+The number of cases in Australia was obtained from this wikipedia page
+
+[
+
+the growth and doubling time was calculated. Growth is easy to calculate, just dividing today's number with yesterday's number. Doubling time was calculated by taking the geometric seven day moving average of growth and then converting the result to doubling time.
+
+Example: doubling time for 2020-03-10 is
+
+log(2) / ( (log(1.16) + log(1.1) + log(1.15) + log(1.22) + log(1.13) + log(1.23) + log(1.27))/7 ) = 4.2169
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days)     date cases growth doubling
+    2020-03-01 29 1.0 1.0
+    2020-03-02 33 1.14 5.1
+    2020-03-03 41 1.24 5.4
+    2020-03-04 52 1.27 5.3
+    2020-03-05 57 1.1 4.8
+    2020-03-06 63 1.11 4.7
+    2020-03-07 73 1.16 4.8
+    2020-03-08 80 1.1 5.4
+    2020-03-09 92 1.15 4.8
+    2020-03-10 112 1.22 4.2
+    2020-03-11 127 1.13 4.0
+    2020-03-12 156 1.23 3.7
+    2020-03-13 198 1.27 3.4
+    2020-03-14 248 1.25 3.5
+    2020-03-15 298 1.2 3.2
+    2020-03-16 376 1.26 3.2
+    2020-03-17 453 1.2 3.3
+    2020-03-18 566 1.25 3.3
+    2020-03-19 708 1.25 3.2
+    2020-03-20 875 1.24 3.2
+    2020-03-21 1071 1.22 3.1
+    2020-03-22 1352 1.26 3.3 &lt;== 10 days ago, Tom Hanks
+    2020-03-23 1716 1.27 3.5
+    2020-03-24 2146 1.25 3.8
+    2020-03-25 2431 1.13 4.0 &lt;== 10 days ago, overseas self-isolate 14 days
+    2020-03-26 2805 1.15 4.5 &lt;== 10 days ago, Vic declare State of Emergency
+    2020-03-27 3179 1.13 5.3
+    2020-03-28 3639 1.14 6.4
+    2020-03-29 3985 1.1 7.0 &lt;== 10 days ago, TAS self-isolation 14 days
+    2020-03-30 4250 1.07 8.0 &lt;== 10 days ago, closing borders to all
+    2020-03-31 4560 1.07 9.3 &lt;== 10 days ago, rule of 4 square metres
+    2020-04-01 4864 1.07 11.5
+    2020-04-02 5136 1.06 13.6 &lt;== 10 days ago, no social gathering
+    2020-04-03 5358 1.04 15.6 &lt;== 10 days ago, WA,SA closing border
+    2020-04-04 5552 1.04 18.7
+    2020-04-05 5687 1.02 22.9
+    2020-04-06 5795 1.02 28.1
+    2020-04-07 5908 1.02 33.1
+    2020-04-08 6013 1.02 38.8 &lt;== 10 days ago, mandatory hotel quarantine
+    2020-04-09 6103 1.01 46.5
+    2020-04-10 6203 1.02 52.2
+    2020-04-11 6292 1.01 60.7
+    2020-04-12 6313 1.003 69.6
+    2020-04-13 6359 1.007 83.5 &lt;== 10 days ago, QLD closing border
+    2020-04-14 6400 1.006 96.5
+    2020-04-15 6447 1.007 114.2
+    2020-04-16 6468 1.003 106.9
+    2020-04-17 6523 1.009 121.1
+    2020-04-18 6565 1.006 129.2
+    2020-04-19 6606 1.006 157.3
+    2020-04-20 6619 1.002 165.0 &lt;== 10 days ago, Good Friday
+    2020-04-21 6645 1.004 210.6
+    2020-04-22 6649 1.001 247.4
+    2020-04-23 6661 1.002 307.7
+    2020-04-24 6675 1.002 320.4
+    2020-04-25 6695 1.003 377.3
+    2020-04-26 6711 1.002 335.0
+    2020-04-27 6720 1.001 353.7
+    2020-04-28 6731 1.002 354.5
+    2020-04-29 6746 1.002 371.6
+    2020-04-30 6753 1.001 364.2
+    2020-05-01 6767 1.002 312.9
+    2020-05-02 6783 1.002 279.2
+    2020-05-03 6801 1.003 256.2
+    2020-05-04 6825 1.004 231.5
+    2020-05-05 6849 1.004 225.8
+    2020-05-06 6875 1.004 227.8
+    2020-05-07 6896 1.003 238.1
+    2020-05-08 6914 1.003 271.6
+    2020-05-09 6929 1.002 291.4
+    2020-05-10 6941 1.002 336.0
+    2020-05-11 6948 1.001 362.2 Latest stable value for 7 days MA
+    2020-05-12 6964 1.002 385.5
+    2020-05-13 6975 1.002 402.0
+    2020-05-14 6989 1.002 402.3
+
+Notes: doubling time in days have been smoothed with 7 days (geometric) moving average
+
+
+
+The number of cases in Australia was obtained from this wikipedia page
+
+[
+
+the growth and doubling time was calculated. Growth is easy to calculate, just dividing today's number with yesterday's number. Doubling time was calculated by taking the geometric seven day moving average of growth and then converting the result to doubling time.
+
+Example: doubling time for 2020-03-10 is
+
+log(2) / ( (log(1.16) + log(1.1) + log(1.15) + log(1.22) + log(1.13) + log(1.23) + log(1.27))/7 ) = 4.2169
+++++++++++
+ Hunter schools enforce social distancing as teacher is exposed 
+
+&gt;A NEWCASTLE Grammar School teacher has self-isolated after their friend was found to have COVID-19.
+
+&gt;Head of School Erica Thomas wrote to parents on Sunday to tell them the year six teacher had come into contact with a confirmed case. The school is following NSW Health advice.
+
+&gt;Ms Thomas told the Newcastle Herald the teacher was in Sydney last week with friends, including one who was confirmed on Saturday to have COVID-19.
+
+&gt;"The teacher had contact with students and staff last week and had no idea he had come into contact with the virus the weekend before," Ms Thomas said.
+
+
+&gt;"The teacher continues to exhibit no symptoms.
+
+&gt;"We have cleaned all areas the teacher was in thoroughly, communicated directly with parents of the students he was most in contact with, phoned any parent where we knew the child or parent might because of other health complications be concerned, and informed staff."
+
+&gt;Schools across the Hunter - including Newcastle Grammar - started rolling out social distancing measures on Monday, such as staggering break times and cancelling a range of events, from assemblies to sports carnivals, excursions, parent teacher interviews, Harmony Day and Easter hat parades.
+
+&gt;"The school in the modern era has never dealt with a health crisis of this magnitude"," Ms Thomas said.
+
+&gt;"As a community we need to protect those that are most at risk - while younger people seem to be less impacted if they contract the virus - we don't want to be responsible for passing it on to their grandparents."
+
+The practicality of social distancing in a school setting and the question of school closures aside: community transmission in this context is a thing that we don't seem to be taking seriously enough at all.  Or in any context really.
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days)     date cases growth doubling
+    2020-03-01 29 1.0 1.0
+    2020-03-02 33 1.14 5.1
+    2020-03-03 41 1.24 5.4
+    2020-03-04 52 1.27 5.3
+    2020-03-05 57 1.1 4.8
+    2020-03-06 63 1.11 4.7
+    2020-03-07 73 1.16 4.8
+    2020-03-08 80 1.1 5.4
+    2020-03-09 92 1.15 4.8
+    2020-03-10 112 1.22 4.2
+    2020-03-11 127 1.13 4.0
+    2020-03-12 156 1.23 3.7
+    2020-03-13 198 1.27 3.4
+    2020-03-14 248 1.25 3.5
+    2020-03-15 298 1.2 3.2
+    2020-03-16 376 1.26 3.2
+    2020-03-17 453 1.2 3.3
+    2020-03-18 566 1.25 3.3
+    2020-03-19 708 1.25 3.2
+    2020-03-20 875 1.24 3.2
+    2020-03-21 1071 1.22 3.1
+    2020-03-22 1352 1.26 3.3 &lt;== 10 days ago, Tom Hanks
+    2020-03-23 1716 1.27 3.5
+    2020-03-24 2146 1.25 3.8
+    2020-03-25 2431 1.13 4.0 &lt;== 10 days ago, overseas self-isolate 14 days
+    2020-03-26 2805 1.15 4.5
+    2020-03-27 3179 1.13 5.3
+    2020-03-28 3639 1.14 6.4
+    2020-03-29 3985 1.1 7.0 &lt;== 10 days ago, TAS self-isolation 14 days
+    2020-03-30 4250 1.07 8.0 &lt;== 10 days ago, closing borders to all
+    2020-03-31 4560 1.07 9.3 &lt;== 10 days ago, rule of 4 square metres
+    2020-04-01 4864 1.07 11.5
+    2020-04-02 5136 1.06 13.6 &lt;== 10 days ago, no social gathering
+    2020-04-03 5358 1.04 14.2 &lt;== 10 days ago, WA,SA closing border
+    2020-04-04 5552 1.04 15.6
+    2020-04-05 5693 1.03 17.6
+
+Notes: doubling time in days have been smoothed with 7 days (geometric) moving average
+
+The number of cases in Australia was obtained from this wikipedia page
+
+[
+
+the growth and doubling time was calculated. Growth is easy to calculate, just dividing today's number with yesterday's number. Doubling time was calculated by taking the geometric seven day moving average of growth and then converting the result to doubling time.
+
+Example: doubling time for 2020-03-10 is
+
+log(2) / ( (log(1.16) + log(1.1) + log(1.15) + log(1.22) + log(1.13) + log(1.23) + log(1.27))/7 ) = 4.2169
+++++++++++
+ Sending children (the most vulnerable) back to school My mind is blown...so we send kids back to school and they infect each other, they then go home and infect the parents,,,and while at school infect teachers. But remember! stay locked in your house else you are fined and socially distance yourself...because the kids wont when they are at school. does any one else think this is the worst decision this guy has made? - Some thing doesn't add up
+++++++++++
+ Schools in Victoria to close for two days to allow teachers to prepare for remote learning during coronavirus outbreak. The days of closure will be the last day of term 1 and the first day of term 2  
+
+Public school students in Victoria will be asked to stay home for two days to allow teachers to prepare to run classes remotely in the event of schools being asked to shut down at the peak of the pandemic.
+
+Schools were told that the last day of term one, next Friday, and the first day of term two, would be pupil-free. 
+
+In a notice to public schools released yesterday, Education Department deputy secretary Dr David Howes said schools needed to "consolidate their preparations" for a total shut down.
+
+"Teachers and schools are working hard to prepare for the possibility that we will need to move at some stage to more flexible learning arrangements, including remote learning," he said.
+
+[Earlier on Friday, schools were advised that NAPLAN tests were cancelled due to the disruption of coronavirus, but schools were advised to remain open.](
+
+"The decision to not proceed with NAPLAN in 2020 has been taken to assist school leaders, teachers and support staff to focus on the wellbeing of students and continuity of education, including potential online and remote learning," the Education Council said.
+
+ [
+++++++++++
+ "Children are not giving this disease to their parents, the parents are giving to it the children." - QLD CMO Queensland's chief medical officer Jeanette Young has been quoted as saying: 
+
+&gt; Looking at the evidence, we have not seen outbreaks in schools, we haven’t seen them in Australia, we haven’t seen them overseas.
+
+&gt; Where children have got it, when we’ve worked back through how they got it, they got it from their parents.
+
+&gt; Children are not giving this disease to their parents, the parents are giving to it the children. 
+
+&gt; This is not flu.
+
+&gt; This is not a flu, it is a coronavirus. Totally different.
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days)     date cases growth doubling
+    2020-03-01 29 1.0 1.0
+    2020-03-02 33 1.14 5.1
+    2020-03-03 41 1.24 5.4
+    2020-03-04 52 1.27 5.3
+    2020-03-05 57 1.1 4.8
+    2020-03-06 63 1.11 4.7
+    2020-03-07 73 1.16 4.8
+    2020-03-08 80 1.1 5.4
+    2020-03-09 92 1.15 4.8
+    2020-03-10 112 1.22 4.2
+    2020-03-11 127 1.13 4.0
+    2020-03-12 156 1.23 3.7
+    2020-03-13 198 1.27 3.4
+    2020-03-14 248 1.25 3.5
+    2020-03-15 298 1.2 3.2
+    2020-03-16 376 1.26 3.2
+    2020-03-17 453 1.2 3.3
+    2020-03-18 566 1.25 3.3
+    2020-03-19 708 1.25 3.2
+    2020-03-20 875 1.24 3.2
+    2020-03-21 1071 1.22 3.1
+    2020-03-22 1352 1.26 3.3 &lt;== 10 days ago, Tom Hanks
+    2020-03-23 1716 1.27 3.5
+    2020-03-24 2146 1.25 3.8
+    2020-03-25 2431 1.13 4.0 &lt;== 10 days ago, overseas self-isolate 14 days
+    2020-03-26 2805 1.15 4.5 &lt;== 10 days ago, Vic declare State of Emergency
+    2020-03-27 3179 1.13 5.3
+    2020-03-28 3639 1.14 6.4
+    2020-03-29 3985 1.1 7.0 &lt;== 10 days ago, TAS self-isolation 14 days
+    2020-03-30 4250 1.07 8.0 &lt;== 10 days ago, closing borders to all
+    2020-03-31 4560 1.07 9.3 &lt;== 10 days ago, rule of 4 square metres
+    2020-04-01 4864 1.07 11.5
+    2020-04-02 5136 1.06 13.6 &lt;== 10 days ago, no social gathering
+    2020-04-03 5358 1.04 15.6 &lt;== 10 days ago, WA,SA closing border
+    2020-04-04 5552 1.04 18.7
+    2020-04-05 5687 1.02 22.9
+    2020-04-06 5795 1.02 28.1
+    2020-04-07 5908 1.02 33.1
+    2020-04-08 6013 1.02 38.8 &lt;== 10 days ago, mandatory hotel quarantine
+    2020-04-09 6103 1.01 46.5
+    2020-04-10 6203 1.02 52.2
+    2020-04-11 6292 1.01 60.7
+    2020-04-12 6313 1.003 69.6
+    2020-04-13 6359 1.007 83.5 &lt;== 10 days ago, QLD closing border
+    2020-04-14 6400 1.006 96.5
+    2020-04-15 6447 1.007 114.2
+    2020-04-16 6468 1.003 106.9
+    2020-04-17 6523 1.009 121.1
+    2020-04-18 6565 1.006 129.2
+    2020-04-19 6606 1.006 157.3
+    2020-04-20 6619 1.002 165.0 &lt;== 10 days ago, Good Friday
+    2020-04-21 6645 1.004 210.6
+    2020-04-22 6649 1.001 247.4
+    2020-04-23 6661 1.002 307.7
+    2020-04-24 6675 1.002 320.4
+    2020-04-25 6695 1.003 377.3
+    2020-04-26 6711 1.002 335.0
+    2020-04-27 6720 1.001 353.7
+    2020-04-28 6731 1.002 354.5
+    2020-04-29 6746 1.002 371.6
+    2020-04-30 6753 1.001 364.2
+    2020-05-01 6767 1.002 312.9
+    2020-05-02 6783 1.002 279.2
+    2020-05-03 6801 1.003 256.2
+    2020-05-04 6825 1.004 231.5
+    2020-05-05 6849 1.004 225.8
+    2020-05-06 6875 1.004 227.8
+    2020-05-07 6896 1.003 238.1
+    2020-05-08 6914 1.003 271.6
+    2020-05-09 6929 1.002 289.8
+    2020-05-10 6941 1.002 328.1
+    2020-05-11 6948 1.001 369.1
+
+Notes: doubling time in days have been smoothed with 7 days (geometric) moving average
+
+
+
+The number of cases in Australia was obtained from this wikipedia page
+
+[
+
+the growth and doubling time was calculated. Growth is easy to calculate, just dividing today's number with yesterday's number. Doubling time was calculated by taking the geometric seven day moving average of growth and then converting the result to doubling time.
+
+Example: doubling time for 2020-03-10 is
+
+log(2) / ( (log(1.16) + log(1.1) + log(1.15) + log(1.22) + log(1.13) + log(1.23) + log(1.27))/7 ) = 4.2169
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days)     date cases growth doubling
+    2020-03-01 29 1.0 1.0
+    2020-03-02 33 1.14 5.1
+    2020-03-03 41 1.24 5.4
+    2020-03-04 52 1.27 5.3
+    2020-03-05 57 1.1 4.8
+    2020-03-06 63 1.11 4.7
+    2020-03-07 73 1.16 4.8
+    2020-03-08 80 1.1 5.4
+    2020-03-09 92 1.15 4.8
+    2020-03-10 112 1.22 4.2
+    2020-03-11 127 1.13 4.0
+    2020-03-12 156 1.23 3.7
+    2020-03-13 198 1.27 3.4
+    2020-03-14 248 1.25 3.5
+    2020-03-15 298 1.2 3.2
+    2020-03-16 376 1.26 3.2
+    2020-03-17 453 1.2 3.3
+    2020-03-18 566 1.25 3.3
+    2020-03-19 708 1.25 3.2
+    2020-03-20 875 1.24 3.2
+    2020-03-21 1071 1.22 3.1
+    2020-03-22 1352 1.26 3.3 &lt;== 10 days ago, Tom Hanks
+    2020-03-23 1716 1.27 3.5
+    2020-03-24 2146 1.25 3.8
+    2020-03-25 2431 1.13 4.0 &lt;== 10 days ago, overseas self-isolate 14 days
+    2020-03-26 2805 1.15 4.5
+    2020-03-27 3179 1.13 5.3
+    2020-03-28 3639 1.14 6.4
+    2020-03-29 3985 1.1 7.0 &lt;== 10 days ago, TAS self-isolation 14 days
+    2020-03-30 4250 1.07 8.0 &lt;== 10 days ago, closing borders to all
+    2020-03-31 4560 1.07 9.3 &lt;== 10 days ago, rule of 4 square metres
+    2020-04-01 4864 1.07 11.5
+    2020-04-02 5136 1.06 13.6 &lt;== 10 days ago, no social gathering
+    2020-04-03 5358 1.04 15.6 &lt;== 10 days ago, WA,SA closing border
+    2020-04-04 5552 1.04 18.6
+    2020-04-05 5693 1.03 22.7
+    2020-04-06 5800 1.02 28.0
+    2020-04-07 5919 1.02 32.7
+    2020-04-08 6024 1.02 38.2 &lt;== 10 days ago, mandatory hotel quarantine
+    2020-04-09 6109 1.01 40.9
+    2020-04-10 6215 1.02 41.7
+    2020-04-11 6303 1.01 44.1
+
+Notes: doubling time in days have been smoothed with 7 days (geometric) moving average
+
+
+
+The number of cases in Australia was obtained from this wikipedia page
+
+[
+
+the growth and doubling time was calculated. Growth is easy to calculate, just dividing today's number with yesterday's number. Doubling time was calculated by taking the geometric seven day moving average of growth and then converting the result to doubling time.
+
+Example: doubling time for 2020-03-10 is
+
+log(2) / ( (log(1.16) + log(1.1) + log(1.15) + log(1.22) + log(1.13) + log(1.23) + log(1.27))/7 ) = 4.2169
+++++++++++
+ EBHS Principal Tim O'Brien - GET BACK TO SCHOOL GUYS ! EBHS Principal Tim O'Brien  - GET BACK TO SCHOOL GUYS !  
+
+"Dear Parents/Caregivers,
+
+Whilst we understand that many in our community hold significant concerns about COVID-19, it is important that in line with the advice from NSW Health and the Department of Education that except for those who are confirmed close contacts, **all other students should be at school."**
+
+  
+
+"Parents who are choosing to keep their child at home because they are concerned about the risk of COVID-19 need to be realistic about their expectations of teachers and, importantly, ensure they comply with the school expectations regarding absences, especially in terms of missed assessment tasks. **See attached for the Middle and Senior School Assessment Guidelines for your information.**
+
+TRANSLATION  - if you don't go to school we will still fail you.  So you choose whether you want to pass or risk getting the virus !  You can't do both at EBHS !
+
+While experts and government consider stricter social distancing and closures EBHS goes the other way.
+
+Source:  EBHS Email:    Principal's Message - COVID 19, 12th March
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days)     date cases growth doubling
+    2020-03-01 29 1.0 1.0
+    2020-03-02 33 1.14 5.1
+    2020-03-03 41 1.24 5.4
+    2020-03-04 52 1.27 5.3
+    2020-03-05 57 1.1 4.8
+    2020-03-06 63 1.11 4.7
+    2020-03-07 73 1.16 4.8
+    2020-03-08 80 1.1 5.4
+    2020-03-09 92 1.15 4.8
+    2020-03-10 112 1.22 4.2
+    2020-03-11 127 1.13 4.0
+    2020-03-12 156 1.23 3.7
+    2020-03-13 198 1.27 3.4
+    2020-03-14 248 1.25 3.5
+    2020-03-15 298 1.2 3.2
+    2020-03-16 376 1.26 3.2
+    2020-03-17 453 1.2 3.3
+    2020-03-18 566 1.25 3.3
+    2020-03-19 708 1.25 3.2
+    2020-03-20 875 1.24 3.2
+    2020-03-21 1071 1.22 3.1
+    2020-03-22 1352 1.26 3.3
+    2020-03-23 1716 1.27 3.5
+    2020-03-24 2146 1.25 3.8
+    2020-03-25 2431 1.13 4.0
+    2020-03-26 2805 1.15 4.5
+    2020-03-27 3179 1.13 4.9
+    2020-03-28 3639 1.14 5.6
+    2020-03-29 3985 1.1 5.6
+
+The latest doubling time is 5.6 days
+
+The number of cases in Australia was obtained from this wikipedia page
+
+[
+
+the growth and doubling time was calculated. Growth is easy to calculate, just dividing today's number with yesterday's number. Doubling time was calculated by taking the geometric seven day moving average of growth and then converting the result to doubling time.
+
+Example: doubling time for 2020-03-10 is
+
+log(2) / ( (log(1.16) + log(1.1) + log(1.15) + log(1.22) + log(1.13) + log(1.23) + log(1.27))/7 ) = 4.2169
+++++++++++
+ Deaths in Australia: growth rate and doubling time (in days)     date deaths growth doubling
+    2020-03-01 1 1.0 1.0
+    2020-03-02 1 1.0 5.0
+    2020-03-03 1 1.0 6.0
+    2020-03-04 2 2.0 7.0
+    2020-03-05 2 1.0 4.4
+    2020-03-06 2 1.0 4.4
+    2020-03-07 2 1.0 4.4
+    2020-03-08 3 1.5 12.0
+    2020-03-09 3 1.0 12.0
+    2020-03-10 3 1.0 12.0
+    2020-03-11 3 1.0 12.0
+    2020-03-12 3 1.0 9.5
+    2020-03-13 3 1.0 9.5
+    2020-03-14 3 1.0 9.5
+    2020-03-15 5 1.67 7.0
+    2020-03-16 5 1.0 7.0
+    2020-03-17 5 1.0 5.7
+    2020-03-18 6 1.2 5.7
+    2020-03-19 6 1.0 14.4
+    2020-03-20 7 1.17 14.4
+    2020-03-21 7 1.0 10.3
+    2020-03-22 7 1.0 12.0
+    2020-03-23 7 1.0 6.3
+    2020-03-24 8 1.14 7.8
+    2020-03-25 9 1.12 7.0
+    2020-03-26 13 1.44 5.9
+    2020-03-27 13 1.0 5.1
+    2020-03-28 14 1.08 5.6
+    2020-03-29 16 1.14 5.7
+    2020-03-30 18 1.12 7.9
+    2020-03-31 19 1.06 6.3
+    2020-04-01 21 1.11 6.4
+    2020-04-02 24 1.14 5.8
+    2020-04-03 28 1.17 5.9
+    2020-04-04 30 1.07 5.2
+    2020-04-05 37 1.23 5.6
+    2020-04-06 41 1.11 6.4
+    2020-04-07 48 1.17 7.4
+    2020-04-08 50 1.04 7.1
+    2020-04-09 51 1.02 9.2
+    2020-04-10 54 1.06 10.1
+
+Notes: DEATH doubling time in days have been smoothed with 7 days (geometric) moving average
+
+
+
+The number of deaths in Australia was obtained from this wikipedia page
+
+[
+
+the growth and doubling time was calculated. Growth is easy to calculate, just dividing today's number with yesterday's number. Doubling time was calculated by taking the geometric seven day moving average of growth and then converting the result to doubling time.
+++++++++++
+ can we reach the 3rd step by the 19th? Tomorrow is 14 days till the 19th. Our average currently sits at 11.9 and we need to get it to 5 (or close enough) within the next 2 weeks. 
+
+Personally I think this is achievable, I think we'll be consistently in thd 7-9 range for a few more days, then get to the 4-6 range for a bit then we could be seeing days of 0-3. So I think we can definitely get to the 5 case average.
+
+The problem is the mystery cases though. We need 5 TOTAL across the next 14 days. This seems like a really tough target.
+
+Thoughts? I really want to get to the 3rd step, I can go back to school and see my mates and maybe even begin training for the next basketball season.
+++++++++++
+ "The Health Advice" - Australian Health Protection Principal Committee advice on schools I just wanted to post this here because I keep hearing "the health advice" from Scomo, but no useful detail. This is the AHPPC statement from 22 March:
+
+[
+
+Specifically: 
+
+&gt;AHPPC does not support the closure of schools given the lack of  evidence of significant disease in children and the lack of reported  major disease spreading in schools. Furthermore, the closure of schools  poses a major risk to children's education, mental health and wellbeing,  particularly those from low socioeconomic regions, where schools  provide an important environment for nurturing and learning.  The impact  on the critical workforce and potential exposure of elderly relatives  caring for children is also of significance.  School closure would  achieve some degree of additional social distancing but the evidence of  its benefit at this stage is minimal.  AHPPC views schools as an  essential service and strongly supports keeping schools open.  
+&gt;  
+&gt;There are significant opportunities to improve social distancing  within schools, and we will continue to work to provide advice to the  sector.  AHPPC will continue to review developing evidence regarding the  effect of the disease in children and the role of children in the  transmission of the virus.  
+&gt;  
+&gt;School closures are likely to be more effective when approaching the  peak of the epidemic and enforced for a shorter period. If there is a  strong desire to close schools at this later stage, it is essential that  an option is provided for children of essential service providers, such  as health care workers, to attend school or be otherwise cared for.   
+&gt;  
+&gt;AHPPC notes one state has elected to bring forward their Easter school holidays.
+
+&amp;#x200B;
+
+This is not an argument for or against, just trying to fill in some communication that has been a little bit.. weak. It is a much clearer statement than I have heard from the PM directly.
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days)     date cases growth doubling
+    2020-03-01 29 1.0 1.0
+    2020-03-02 33 1.14 5.1
+    2020-03-03 41 1.24 5.4
+    2020-03-04 52 1.27 5.3
+    2020-03-05 57 1.1 4.8
+    2020-03-06 63 1.11 4.7
+    2020-03-07 73 1.16 4.8
+    2020-03-08 80 1.1 5.4
+    2020-03-09 92 1.15 4.8
+    2020-03-10 112 1.22 4.2
+    2020-03-11 127 1.13 4.0
+    2020-03-12 156 1.23 3.7
+    2020-03-13 198 1.27 3.4
+    2020-03-14 248 1.25 3.5
+    2020-03-15 298 1.2 3.2
+    2020-03-16 376 1.26 3.2
+    2020-03-17 453 1.2 3.3
+    2020-03-18 566 1.25 3.3
+    2020-03-19 708 1.25 3.2
+    2020-03-20 875 1.24 3.2
+    2020-03-21 1071 1.22 3.1
+    2020-03-22 1352 1.26 3.3 &lt;== 10 days ago, Tom Hanks
+    2020-03-23 1716 1.27 3.5
+    2020-03-24 2146 1.25 3.8
+    2020-03-25 2431 1.13 4.0 &lt;== 10 days ago, overseas self-isolate 14 days
+    2020-03-26 2805 1.15 4.5 &lt;== 10 days ago, Vic declare State of Emergency
+    2020-03-27 3179 1.13 5.3
+    2020-03-28 3639 1.14 6.4
+    2020-03-29 3985 1.1 7.0 &lt;== 10 days ago, TAS self-isolation 14 days
+    2020-03-30 4250 1.07 8.0 &lt;== 10 days ago, closing borders to all
+    2020-03-31 4560 1.07 9.3 &lt;== 10 days ago, rule of 4 square metres
+    2020-04-01 4864 1.07 11.5
+    2020-04-02 5136 1.06 13.6 &lt;== 10 days ago, no social gathering
+    2020-04-03 5358 1.04 15.6 &lt;== 10 days ago, WA,SA closing border
+    2020-04-04 5552 1.04 18.7
+    2020-04-05 5687 1.02 22.9
+    2020-04-06 5795 1.02 28.1
+    2020-04-07 5908 1.02 33.1
+    2020-04-08 6013 1.02 38.8 &lt;== 10 days ago, mandatory hotel quarantine
+    2020-04-09 6103 1.01 46.5
+    2020-04-10 6203 1.02 52.2
+    2020-04-11 6292 1.01 60.7
+    2020-04-12 6313 1.003 69.6
+    2020-04-13 6359 1.007 83.5 &lt;== 10 days ago, QLD closing border
+    2020-04-14 6400 1.006 96.5
+    2020-04-15 6447 1.007 114.2
+    2020-04-16 6468 1.003 106.9
+    2020-04-17 6523 1.009 121.1
+    2020-04-18 6565 1.006 129.2
+    2020-04-19 6606 1.006 157.3
+    2020-04-20 6619 1.002 165.0 &lt;== 10 days ago, Good Friday
+    2020-04-21 6645 1.004 210.6
+    2020-04-22 6649 1.001 247.4
+    2020-04-23 6661 1.002 307.7
+    2020-04-24 6675 1.002 320.4
+    2020-04-25 6695 1.003 377.3
+    2020-04-26 6711 1.002 335.0
+    2020-04-27 6720 1.001 353.7
+    2020-04-28 6731 1.002 354.5
+    2020-04-29 6746 1.002 371.6
+    2020-04-30 6753 1.001 364.2
+    2020-05-01 6767 1.002 312.9
+    2020-05-02 6783 1.002 279.2
+    2020-05-03 6801 1.003 256.2
+    2020-05-04 6825 1.004 231.5
+    2020-05-05 6849 1.004 225.8
+    2020-05-06 6875 1.004 227.8
+    2020-05-07 6896 1.003 238.1
+    2020-05-08 6914 1.003 271.6
+    2020-05-09 6929 1.002 291.4
+    2020-05-10 6941 1.002 336.0
+    2020-05-11 6948 1.001 362.2
+    2020-05-12 6964 1.002 313.0
+    2020-05-13 6975 1.002 316.6
+    2020-05-14 6989 1.002 326.2
+    2020-05-15 7022 1.005 303.4
+    2020-05-16 7036 1.002 327.3
+    2020-05-17 7045 1.001 327.8
+    2020-05-18 7060 1.002 371.0 Latest stable value for 7 days MA
+    2020-05-19 7068 1.001 497.1
+    2020-05-20 7079 1.002 543.6
+    2020-05-21 7081 1.0 544.0
+
+Notes: doubling time in days have been smoothed with 7 days (geometric) moving average
+
+
+
+The number of cases in Australia was obtained from this wikipedia page
+
+[
+
+the growth and doubling time was calculated. Growth is easy to calculate, just dividing today's number with yesterday's number. Doubling time was calculated by taking the geometric seven day moving average of growth and then converting the result to doubling time.
+
+Example: doubling time for 2020-03-10 is
+
+log(2) / ( (log(1.16) + log(1.1) + log(1.15) + log(1.22) + log(1.13) + log(1.23) + log(1.27))/7 ) = 4.2169
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days)     date cases growth doubling
+    2020-03-01 29 1.0 1.0
+    2020-03-02 33 1.14 5.1
+    2020-03-03 41 1.24 5.4
+    2020-03-04 52 1.27 5.3
+    2020-03-05 57 1.1 4.8
+    2020-03-06 63 1.11 4.7
+    2020-03-07 73 1.16 4.8
+    2020-03-08 80 1.1 5.4
+    2020-03-09 92 1.15 4.8
+    2020-03-10 112 1.22 4.2
+    2020-03-11 127 1.13 4.0
+    2020-03-12 156 1.23 3.7
+    2020-03-13 198 1.27 3.4
+    2020-03-14 248 1.25 3.5
+    2020-03-15 298 1.2 3.2
+    2020-03-16 376 1.26 3.2
+    2020-03-17 453 1.2 3.3
+    2020-03-18 566 1.25 3.3
+    2020-03-19 708 1.25 3.2
+    2020-03-20 875 1.24 3.2
+    2020-03-21 1071 1.22 3.1
+    2020-03-22 1352 1.26 3.3 &lt;== 10 days ago, Tom Hanks
+    2020-03-23 1716 1.27 3.5
+    2020-03-24 2146 1.25 3.8
+    2020-03-25 2431 1.13 4.0 &lt;== 10 days ago, overseas self-isolate 14 days
+    2020-03-26 2805 1.15 4.5 &lt;== 10 days ago, Vic declare State of Emergency
+    2020-03-27 3179 1.13 5.3
+    2020-03-28 3639 1.14 6.4
+    2020-03-29 3985 1.1 7.0 &lt;== 10 days ago, TAS self-isolation 14 days
+    2020-03-30 4250 1.07 8.0 &lt;== 10 days ago, closing borders to all
+    2020-03-31 4560 1.07 9.3 &lt;== 10 days ago, rule of 4 square metres
+    2020-04-01 4864 1.07 11.5
+    2020-04-02 5136 1.06 13.6 &lt;== 10 days ago, no social gathering
+    2020-04-03 5358 1.04 15.6 &lt;== 10 days ago, WA,SA closing border
+    2020-04-04 5552 1.04 18.7
+    2020-04-05 5687 1.02 22.9
+    2020-04-06 5795 1.02 28.1
+    2020-04-07 5908 1.02 33.1
+    2020-04-08 6013 1.02 38.8 &lt;== 10 days ago, mandatory hotel quarantine
+    2020-04-09 6103 1.01 46.5
+    2020-04-10 6203 1.02 52.2
+    2020-04-11 6292 1.01 60.7
+    2020-04-12 6313 1.003 69.6
+    2020-04-13 6359 1.007 83.5 &lt;== 10 days ago, QLD closing border
+    2020-04-14 6400 1.006 96.5
+    2020-04-15 6447 1.007 114.2
+    2020-04-16 6468 1.003 106.9
+    2020-04-17 6523 1.009 121.1
+    2020-04-18 6565 1.006 129.2
+    2020-04-19 6606 1.006 157.3
+    2020-04-20 6619 1.002 165.0 &lt;== 10 days ago, Good Friday
+    2020-04-21 6645 1.004 210.6
+    2020-04-22 6649 1.001 247.4
+    2020-04-23 6661 1.002 307.7
+    2020-04-24 6675 1.002 320.4
+    2020-04-25 6695 1.003 377.3
+    2020-04-26 6711 1.002 335.0
+    2020-04-27 6720 1.001 353.7
+    2020-04-28 6731 1.002 354.5
+    2020-04-29 6746 1.002 371.6
+    2020-04-30 6753 1.001 364.2
+    2020-05-01 6767 1.002 312.9
+    2020-05-02 6783 1.002 279.2
+    2020-05-03 6801 1.003 256.2
+    2020-05-04 6825 1.004 231.5
+    2020-05-05 6849 1.004 225.8
+    2020-05-06 6875 1.004 227.8
+    2020-05-07 6896 1.003 238.1
+    2020-05-08 6914 1.003 271.6
+    2020-05-09 6929 1.002 291.4
+    2020-05-10 6941 1.002 336.0
+    2020-05-11 6948 1.001 362.2
+    2020-05-12 6964 1.002 313.0
+    2020-05-13 6975 1.002 316.6
+    2020-05-14 6989 1.002 326.2 Latest stable value for 7 days MA
+    2020-05-15 7022 1.005 300.0
+    2020-05-16 7036 1.002 299.7
+    2020-05-17 7045 1.001 277.7
+
+Notes: doubling time in days have been smoothed with 7 days (geometric) moving average
+
+
+
+The number of cases in Australia was obtained from this wikipedia page
+
+[
+
+the growth and doubling time was calculated. Growth is easy to calculate, just dividing today's number with yesterday's number. Doubling time was calculated by taking the geometric seven day moving average of growth and then converting the result to doubling time.
+
+Example: doubling time for 2020-03-10 is
+
+log(2) / ( (log(1.16) + log(1.1) + log(1.15) + log(1.22) + log(1.13) + log(1.23) + log(1.27))/7 ) = 4.2169
+++++++++++
+ Explanations of how to calc peak54, peak56 and maxproj &amp;#x200B;
+
+
+
+First of all, **day 0** is **2020-06-06**.
+
+People have asked me how I got my models/projections, so I decided to post it here and later use an url to this post as explanations.
+
+The models that I am responsible for are
+
+* Peak54
+* Peak56
+* Max Projection
+
+I am **Not Responsible** for
+
+* Swift Model
+
+&amp;#x200B;
+
+Below is the explanation of how I got Max Projection. 
+
+[
+
+The theory for figuring out the day of peak
+
+[
+
+But we need to figure out the peak day and you **cannot** successfully do that by **fitting the Logistics Distribution Function graph**. Instead what you have to do is to extract the two following values
+
+1. The current daily growth value
+
+2. The gradient of the daily growth value
+
+To extract the daily growth value, you take the daily cases numbers. Next you do a n-day moving average. The number n is arbitrary but it should be (a positive number) large enough to filter out the noise. I chose 11 days backward looking moving average. Now the moving average looks more like smooth curve. Using this **smooth curve**, we can now easily calculate the daily growth values ( aka 1.2 for 20% growth). But even here, the calculated growth values are very noisy.
+
+Next you need to use the gradient to “project into the future” when the daily growth value will hit the value 1.0 and this is difficult because the growth value is very noisy. So I use a 7 days central moving average to smooth out the growth value.
+
+On the 23rd July (day 47), I predicted the peak at day 54
+
+[
+
+This is how I predict the peak day is day 54. Yes the graph shows day 53. I Chicken out and add one day to day 53 to arrived at day 54.
+
+[
+
+Once I figured out the peak day (54), figuring out the value of sigma and K is just a simple graph fitting with mu held constant at mu=54
+
+How did I get peak 56? On the 11th Aug, I fitted the latest data and calculated the peak day value which happened to be 55.7
+
+[
+
+    function peak54(x)
+        K = 18095.0
+        mu = 54.0
+        sigma = 9.25
+        return K * exp(-1.0*(x-mu)/sigma)  /  (  sigma * ( 1.0 + exp(-1.0*(x-mu)/sigma) )^2.0  )
+    end
+    
+    function peak56(x)
+        K = 19568.39
+        mu = 56.0
+        sigma = 9.606
+        return K * exp(-1.0*(x-mu)/sigma)  /  (  sigma * ( 1.0 + exp(-1.0*(x-mu)/sigma) )^2.0  )
+    end
+    
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+    2020-07-06,127
+    2020-07-07,191
+    2020-07-08,134
+    2020-07-09,165
+    2020-07-10,288
+    2020-07-11,216
+    2020-07-12,273
+    2020-07-13,176
+    2020-07-14,270
+    2020-07-15,238
+    2020-07-16,317
+    2020-07-17,428
+    2020-07-18,216
+    2020-07-19,363
+    2020-07-20,275
+    2020-07-21,374
+    2020-07-22,484
+    2020-07-23,403
+    2020-07-24,300
+    2020-07-25,357
+    2020-07-26,459
+    2020-07-27,532
+    2020-07-28,384
+    2020-07-29,295
+    2020-07-30,723
+    2020-07-31,627
+    2020-08-01,397
+    2020-08-02,671
+    2020-08-03,429
+    2020-08-04,439
+    2020-08-05,725
+    2020-08-06,471
+    2020-08-07,450
+    2020-08-08,466
+    2020-08-09,394
+    2020-08-10,322
+    2020-08-11,331
+    2020-08-12,410
+    2020-08-13,278
+    2020-08-14,372
+    2020-08-15,303
+    2020-08-16,279
+    2020-08-17,282
+    2020-08-18,222
+    2020-08-19,216
+    2020-08-20,240
+++++++++++
+ Cases in South Australia: growth rate and doubling time (in days)     SOUTH AUSTRALIA
+    date cases growth doubling
+    2020-03-01 3 1.0 1.0
+    2020-03-02 3 1.0 4.1
+    2020-03-03 3 1.0 4.9
+    2020-03-04 5 1.67 5.7
+    2020-03-05 7 1.4 5.7
+    2020-03-06 7 1.0 5.7
+    2020-03-07 7 1.0 5.7
+    2020-03-08 7 1.0 8.3
+    2020-03-09 7 1.0 9.0
+    2020-03-10 7 1.0 5.9
+    2020-03-11 9 1.29 4.9
+    2020-03-12 12 1.33 4.6
+    2020-03-13 16 1.33 3.3
+    2020-03-14 19 1.19 3.2
+    2020-03-15 20 1.05 3.4
+    2020-03-16 30 1.5 3.9
+    2020-03-17 32 1.07 4.3
+    2020-03-18 37 1.16 3.9
+    2020-03-19 42 1.14 3.0
+    2020-03-20 50 1.19 3.2
+    2020-03-21 67 1.34 2.9
+    2020-03-22 100 1.49 2.9 &lt;== 10 days ago, Tom Hanks
+    2020-03-23 134 1.34 2.8
+    2020-03-24 170 1.27 3.0
+    2020-03-25 197 1.16 3.3 &lt;== 10 days ago, overseas self-isolate 14 days
+    2020-03-26 235 1.19 4.4 &lt;== 10 days ago, Vic declare State of Emergency
+    2020-03-27 257 1.09 5.9
+    2020-03-28 287 1.12 7.1
+    2020-03-29 299 1.04 7.8 &lt;== 10 days ago, TAS self-isolation 14 days
+    2020-03-30 305 1.02 9.8 &lt;== 10 days ago, closing borders to all
+    2020-03-31 337 1.1 11.2 &lt;== 10 days ago, rule of 4 square metres
+    2020-04-01 367 1.09 13.9
+    2020-04-02 385 1.05 15.5 &lt;== 10 days ago, no social gathering
+    2020-04-03 396 1.03 16.3 &lt;== 10 days ago, WA,SA closing border
+    2020-04-04 407 1.03 23.3
+    2020-04-05 409 1.0 36.0
+    2020-04-06 411 1.0 54.3
+    2020-04-07 415 1.01 62.4
+    2020-04-08 420 1.01 92.2 &lt;== 10 days ago, mandatory hotel quarantine
+    2020-04-09 421 1.0 101.6
+    2020-04-10 428 1.02 102.1
+    2020-04-11 429 1.0 114.3
+    2020-04-12 429 1.0 159.2
+    2020-04-13 431 1.005 159.5 &lt;== 10 days ago, QLD closing border
+    2020-04-14 433 1.005 299.1
+    2020-04-15 433 1.0 349.3
+    2020-04-16 434 1.002 349.3
+    2020-04-17 435 1.002 525.2
+    2020-04-18 435 1.0 527.7
+    2020-04-19 435 1.0 422.6
+    2020-04-20 435 1.0 528.9 &lt;== 10 days ago, Good Friday
+    2020-04-21 437 1.005 706.0
+    2020-04-22 438 1.002 706.0
+    2020-04-23 438 1.0 706.0
+    2020-04-24 438 1.0 706.0
+    2020-04-25 438 1.0 2122.8
+    2020-04-26 438 1.0 Infinity
+    2020-04-27 438 1.0 Infinity
+    2020-04-28 438 1.0 Infinity
+    2020-04-29 438 1.0 Infinity
+
+Notes: doubling time in days have been smoothed with 7 days (geometric) moving average
+
+The number of cases in Australia was obtained from this wikipedia page
+
+[
+
+the growth and doubling time was calculated. Growth is easy to calculate, just dividing today's number with yesterday's number. Doubling time was calculated by taking the geometric seven day moving average of growth and then converting the result to doubling time.
+++++++++++
+ French publish article stating infection duration can be greatly reduced by combining Hydroxychloroquine with Azithromycin. Published study in pdf
+------------------------
+
+
+Source:  
+
+
+Treatment: 
+----------------------
+Hydroxychloroquine sulfate dosage:  200 mg, three times per day during ten days  (600mg per day)  (see pdf, bottom of page 7) 
+
+Azithromycin dosage: 500mg on day 1,  250mg for the next 4 days  (see pdf, bottom of page 10 )
+
+
+Infection duration:
+----------------------
+reduced, 6 to 9 days   
+
+*In China the average duration was 20 days (they were unaware of this remedy)
+
+
+Other
+----------------------
+**This study has been published in the International Journal of Antimicrobial Agents
+++++++++++
+ Covid legislation - Removal of children. Can anyone clarify when this would be used. Is it only referring to children in custody of the state? Example: foster home or any child in any dwelling? What right does this take away from the parent. 
+++++++++++
+ COVID-19, children, and schools: overlooked and at risk  "It is widely thought that children are much less susceptible to severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection than adults and do not play a substantial role in transmission. However, emerging research suggests this perception is unfounded. Seroprevalence and contact tracing studies show children are similarly vulnerable and transmit the virus to a meaningful degree. Research suggesting otherwise is hampered by substantial bias. Additionally, large clusters in school settings have been reported, with implications for the control of community transmission. Risk-reduction strategies must be implemented in schools as a matter of urgency. "
+
+ [
+++++++++++
+ Here is what you need to know about doubling rate. Australian cases are currently doubling every 3-4 days. We need to slow that to 6+ days, in order to stop our healthcare systems from being overwhelmed. If doubling rate is not at least at 5-6 days by early next we, it means measures are not working  
+
+As Australian governments[ undertake unprecedented peace time civil and economic interventions]( what is the key number to track to see how successful all the measures are?
+
+Health experts say it is the doubling rate — the time in days it takes for the number of people infected to double. In Australia our doubling rate is tracking at between three and four days.
+
+In simple terms, the initial aim is to get that doubling rate up to about six days. This is about the rate that starts to flatten curve and avoid the health catastrophe Europe is now embroiled in. The worst hit, Italy, has now reported more deaths than China.
+
+A doubling rate of better than six is what Asian countries such as Taiwan, Japan, Singapore and smaller Middle Eastern countries like Bahrain and Kuwait have achieved. This has stopped their medical system being swamped and significantly reduced death and serious illness.
+
+&amp;#x200B;
+
+
+
+ Why six? 
+
+ 
+
+A health professor explained it this way: "The R0 ( better known as R naught) is how many people are infected by one person. For Covid 19 it is 1.5 to 3.5 at present but it will come down as eventually more are infected."
+
+"It takes about 5.8 days for the next person to get symptoms so you have to get your doubling rate over that to push the curve down."
+
+"Australia is tracking at doubling every 3-4 days. We probably only got serious about \[social distancing remedies\] on the weekend but if by early next week we are not drifting out to 5-6 day doubling, it means there is so much virus out there the current measures are not working."
+
+As the graph displayed shows it is the three day gap between Australia's current doubling rate of three days and the six day doubling rate, which begins to flatten the curve. This is the key policy target of all the various governmental efforts.
+
+If by next week the red (Australia) line is not starting to track the black (six day doubling) line then governments are going to have to consider more restrictive measures, or risk the medical system being over run and possibly death rates [up to ten times higher]( than if the current reproduction is not curtailed.
+
+ [
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days) [removed]
+++++++++++
+ Any Word Whether Or Not Scott Morrison's Children Are Still Attending School? After Morrison's address yesterday where he stated he felt safe sending his kids to school, as a father I was naturally curious as to whether or not he was *actually* sending his kids school. Other than the fact that his kids attend a private Baptist school in Sidney, the details of his children's schooling isn't available online (nor should it be), but I was wondering if anyone has any info as to whether or not his children's school is a) still open, and b) if they're attending.
+
+I've found his completely illogical justification for putting our children at the frontline of his 'herd immunity' strategy to be absolutely reprehensible, and would very much like to know if he's putting his (children's) money where his mouth is.
+
+Not looking for specifics with regard to locations or school names, just whether or not he has his kids in school at this point in time.
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days)     date cases growth doubling
+    2020-03-01 29 1.0 1.0
+    2020-03-02 33 1.14 5.1
+    2020-03-03 41 1.24 5.4
+    2020-03-04 52 1.27 5.3
+    2020-03-05 57 1.1 4.8
+    2020-03-06 63 1.11 4.7
+    2020-03-07 73 1.16 4.8
+    2020-03-08 80 1.1 5.4
+    2020-03-09 92 1.15 4.8
+    2020-03-10 112 1.22 4.2
+    2020-03-11 127 1.13 4.0
+    2020-03-12 156 1.23 3.7
+    2020-03-13 198 1.27 3.4
+    2020-03-14 248 1.25 3.5
+    2020-03-15 298 1.2 3.2
+    2020-03-16 376 1.26 3.2
+    2020-03-17 453 1.2 3.3
+    2020-03-18 566 1.25 3.3
+    2020-03-19 708 1.25 3.2
+    2020-03-20 875 1.24 3.2
+    2020-03-21 1071 1.22 3.1
+    2020-03-22 1352 1.26 3.3 &lt;== 10 days ago, Tom Hanks
+    2020-03-23 1716 1.27 3.5
+    2020-03-24 2146 1.25 3.8
+    2020-03-25 2431 1.13 4.0 &lt;== 10 days ago, overseas self-isolate 14 days
+    2020-03-26 2805 1.15 4.5 &lt;== 10 days ago, Vic declare State of Emergency
+    2020-03-27 3179 1.13 5.3
+    2020-03-28 3639 1.14 6.4
+    2020-03-29 3985 1.1 7.0 &lt;== 10 days ago, TAS self-isolation 14 days
+    2020-03-30 4250 1.07 8.0 &lt;== 10 days ago, closing borders to all
+    2020-03-31 4560 1.07 9.3 &lt;== 10 days ago, rule of 4 square metres
+    2020-04-01 4864 1.07 11.5
+    2020-04-02 5136 1.06 13.6 &lt;== 10 days ago, no social gathering
+    2020-04-03 5358 1.04 15.6 &lt;== 10 days ago, WA,SA closing border
+    2020-04-04 5552 1.04 18.7
+    2020-04-05 5687 1.02 22.9
+    2020-04-06 5795 1.02 28.1
+    2020-04-07 5908 1.02 33.1
+    2020-04-08 6013 1.02 38.8 &lt;== 10 days ago, mandatory hotel quarantine
+    2020-04-09 6103 1.01 46.5
+    2020-04-10 6203 1.02 52.2
+    2020-04-11 6292 1.01 60.7
+    2020-04-12 6313 1.003 69.6
+    2020-04-13 6359 1.007 83.5 &lt;== 10 days ago, QLD closing border
+    2020-04-14 6400 1.006 96.5
+    2020-04-15 6447 1.007 114.2
+    2020-04-16 6468 1.003 106.9
+    2020-04-17 6523 1.009 121.1
+    2020-04-18 6565 1.006 129.2
+    2020-04-19 6606 1.006 157.3
+    2020-04-20 6619 1.002 165.0 &lt;== 10 days ago, Good Friday
+    2020-04-21 6645 1.004 210.6
+    2020-04-22 6649 1.001 247.4
+    2020-04-23 6661 1.002 307.7
+    2020-04-24 6675 1.002 320.4
+    2020-04-25 6695 1.003 377.3
+    2020-04-26 6711 1.002 335.0
+    2020-04-27 6720 1.001 353.7
+    2020-04-28 6731 1.002 354.5
+    2020-04-29 6746 1.002 371.6
+    2020-04-30 6753 1.001 364.2
+    2020-05-01 6767 1.002 312.9
+    2020-05-02 6783 1.002 279.2
+    2020-05-03 6801 1.003 256.2
+    2020-05-04 6825 1.004 231.5
+    2020-05-05 6849 1.004 225.8
+    2020-05-06 6875 1.004 227.8
+    2020-05-07 6896 1.003 238.1
+    2020-05-08 6914 1.003 271.6
+    2020-05-09 6929 1.002 291.4
+    2020-05-10 6941 1.002 336.0
+    2020-05-11 6948 1.001 362.2
+    2020-05-12 6964 1.002 313.0
+    2020-05-13 6975 1.002 316.6
+    2020-05-14 6989 1.002 326.2
+    2020-05-15 7022 1.005 303.4
+    2020-05-16 7036 1.002 327.3
+    2020-05-17 7045 1.001 327.8
+    2020-05-18 7060 1.002 371.0
+    2020-05-19 7068 1.001 469.1 Latest stable value for 7 days MA
+    2020-05-20 7079 1.002 498.0
+    2020-05-21 7081 1.0 490.1
+    2020-05-22 7095 1.002 560.7
+
+Notes: doubling time in days have been smoothed with 7 days (geometric) moving average
+
+
+
+The number of cases in Australia was obtained from this wikipedia page
+
+[
+
+the growth and doubling time was calculated. Growth is easy to calculate, just dividing today's number with yesterday's number. Doubling time was calculated by taking the geometric seven day moving average of growth and then converting the result to doubling time.
+
+Example: doubling time for 2020-03-10 is
+
+log(2) / ( (log(1.16) + log(1.1) + log(1.15) + log(1.22) + log(1.13) + log(1.23) + log(1.27))/7 ) = 4.2169
+++++++++++
+ Can a parent with children visits another parent with children? [removed]
+++++++++++
+ The 7 day average in VIC has dropped to 2.7 now. Congratulations everyone! I know most people don't care about the 7 day average. They're more concerned about the 14 day average.
+
+But nonetheless, I thought that this was pretty impressive. The entire State of Victoria (both Metro Melbourne + Regional VIC combined) is averaging just 2.7 new cases per day now, over the past 7 days.
+
+That's a huge achievement imo. I just want to say well done to everyone in our state for doing so well in bringing the numbers down!
+++++++++++
+ Raw numbers: Cases in Australia. growth rate and doubling time in days     date cases growth
+    2020-03-01 29 1.0
+    2020-03-02 33 1.14
+    2020-03-03 41 1.24
+    2020-03-04 52 1.27
+    2020-03-05 57 1.1
+    2020-03-06 63 1.11
+    2020-03-07 73 1.16
+    2020-03-08 80 1.1
+    2020-03-09 92 1.15
+    2020-03-10 112 1.22
+    2020-03-11 127 1.13
+    2020-03-12 156 1.23
+    2020-03-13 198 1.27
+    2020-03-14 248 1.25
+    2020-03-15 298 1.2
+    2020-03-16 376 1.26
+    2020-03-17 453 1.2
+    2020-03-18 563 1.24
+    
+    Doubling time (in days)
+    date cases rounded_doubling
+    2020-03-01 29 1.0
+    2020-03-02 33 5.1
+    2020-03-03 41 5.4
+    2020-03-04 52 5.3
+    2020-03-05 57 4.8
+    2020-03-06 63 4.7
+    2020-03-07 73 4.8
+    2020-03-08 80 5.4
+    2020-03-09 92 4.8
+    2020-03-10 112 4.2
+    2020-03-11 127 4.0
+    2020-03-12 156 3.7
+    2020-03-13 198 3.4
+    2020-03-14 248 3.5
+    2020-03-15 298 3.3
+    2020-03-16 376 3.2
+    2020-03-17 453 3.3
+    2020-03-18 563 3.4
+    Notes: doubling time in days have been smoothed with 7 days (geometric) moving average
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days) [removed]
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days)     date cases growth doubling
+    2020-03-01 29 1.0 1.0
+    2020-03-02 33 1.14 5.1
+    2020-03-03 41 1.24 5.4
+    2020-03-04 52 1.27 5.3
+    2020-03-05 57 1.1 4.8
+    2020-03-06 63 1.11 4.7
+    2020-03-07 73 1.16 4.8
+    2020-03-08 80 1.1 5.4
+    2020-03-09 92 1.15 4.8
+    2020-03-10 112 1.22 4.2
+    2020-03-11 127 1.13 4.0
+    2020-03-12 156 1.23 3.7
+    2020-03-13 198 1.27 3.4
+    2020-03-14 248 1.25 3.5
+    2020-03-15 298 1.2 3.2
+    2020-03-16 376 1.26 3.2
+    2020-03-17 453 1.2 3.3
+    2020-03-18 566 1.25 3.3
+    2020-03-19 708 1.25 3.2
+    2020-03-20 875 1.24 3.2
+    2020-03-21 1071 1.22 3.1
+    2020-03-22 1352 1.26 3.3 &lt;== 10 days ago, Tom Hanks
+    2020-03-23 1716 1.27 3.5
+    2020-03-24 2146 1.25 3.8
+    2020-03-25 2431 1.13 4.0 &lt;== 10 days ago, overseas self-isolate 14 days
+    2020-03-26 2805 1.15 4.5 &lt;== 10 days ago, Vic declare State of Emergency
+    2020-03-27 3179 1.13 5.3
+    2020-03-28 3639 1.14 6.4
+    2020-03-29 3985 1.1 7.0 &lt;== 10 days ago, TAS self-isolation 14 days
+    2020-03-30 4250 1.07 8.0 &lt;== 10 days ago, closing borders to all
+    2020-03-31 4560 1.07 9.3 &lt;== 10 days ago, rule of 4 square metres
+    2020-04-01 4864 1.07 11.5
+    2020-04-02 5136 1.06 13.6 &lt;== 10 days ago, no social gathering
+    2020-04-03 5358 1.04 15.6 &lt;== 10 days ago, WA,SA closing border
+    2020-04-04 5552 1.04 18.7
+    2020-04-05 5687 1.02 22.9
+    2020-04-06 5795 1.02 28.1
+    2020-04-07 5908 1.02 33.1
+    2020-04-08 6013 1.02 38.8 &lt;== 10 days ago, mandatory hotel quarantine
+    2020-04-09 6103 1.01 46.5
+    2020-04-10 6203 1.02 52.2
+    2020-04-11 6292 1.01 60.7
+    2020-04-12 6313 1.003 69.6
+    2020-04-13 6359 1.007 83.5 &lt;== 10 days ago, QLD closing border
+    2020-04-14 6400 1.006 99.4
+    2020-04-15 6447 1.007 125.6
+    2020-04-16 6468 1.003 114.3
+
+Notes: doubling time in days have been smoothed with 7 days (geometric) moving average
+
+
+
+The number of cases in Australia was obtained from this wikipedia page
+
+[
+
+the growth and doubling time was calculated. Growth is easy to calculate, just dividing today's number with yesterday's number. Doubling time was calculated by taking the geometric seven day moving average of growth and then converting the result to doubling time.
+
+Example: doubling time for 2020-03-10 is
+
+log(2) / ( (log(1.16) + log(1.1) + log(1.15) + log(1.22) + log(1.13) + log(1.23) + log(1.27))/7 ) = 4.2169
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days)     date cases growth doubling
+    2020-03-01 29 1.0 1.0
+    2020-03-02 33 1.14 5.1
+    2020-03-03 41 1.24 5.4
+    2020-03-04 52 1.27 5.3
+    2020-03-05 57 1.1 4.8
+    2020-03-06 63 1.11 4.7
+    2020-03-07 73 1.16 4.8
+    2020-03-08 80 1.1 5.4
+    2020-03-09 92 1.15 4.8
+    2020-03-10 112 1.22 4.2
+    2020-03-11 127 1.13 4.0
+    2020-03-12 156 1.23 3.7
+    2020-03-13 198 1.27 3.4
+    2020-03-14 248 1.25 3.5
+    2020-03-15 298 1.2 3.2
+    2020-03-16 376 1.26 3.2
+    2020-03-17 453 1.2 3.3
+    2020-03-18 566 1.25 3.3
+    2020-03-19 708 1.25 3.2
+    2020-03-20 875 1.24 3.2
+    2020-03-21 1071 1.22 3.1
+    2020-03-22 1352 1.26 3.3 &lt;== 10 days ago, Tom Hanks
+    2020-03-23 1716 1.27 3.5
+    2020-03-24 2146 1.25 3.8
+    2020-03-25 2431 1.13 4.0 &lt;== 10 days ago, overseas self-isolate 14 days
+    2020-03-26 2805 1.15 4.5 &lt;== 10 days ago, Vic declare State of Emergency
+    2020-03-27 3179 1.13 5.3
+    2020-03-28 3639 1.14 6.4
+    2020-03-29 3985 1.1 7.0 &lt;== 10 days ago, TAS self-isolation 14 days
+    2020-03-30 4250 1.07 8.0 &lt;== 10 days ago, closing borders to all
+    2020-03-31 4560 1.07 9.3 &lt;== 10 days ago, rule of 4 square metres
+    2020-04-01 4864 1.07 11.5
+    2020-04-02 5136 1.06 13.6 &lt;== 10 days ago, no social gathering
+    2020-04-03 5358 1.04 15.6 &lt;== 10 days ago, WA,SA closing border
+    2020-04-04 5552 1.04 18.7
+    2020-04-05 5687 1.02 22.9
+    2020-04-06 5795 1.02 28.1
+    2020-04-07 5908 1.02 33.1
+    2020-04-08 6013 1.02 38.8 &lt;== 10 days ago, mandatory hotel quarantine
+    2020-04-09 6103 1.01 46.5
+    2020-04-10 6203 1.02 52.2
+    2020-04-11 6292 1.01 60.7
+    2020-04-12 6313 1.003 69.6
+    2020-04-13 6359 1.007 83.5 &lt;== 10 days ago, QLD closing border
+    2020-04-14 6400 1.006 96.5
+    2020-04-15 6447 1.007 114.2
+    2020-04-16 6468 1.003 106.9
+    2020-04-17 6523 1.009 121.1
+    2020-04-18 6565 1.006 129.2
+    2020-04-19 6606 1.006 157.3
+    2020-04-20 6619 1.002 165.0 &lt;== 10 days ago, Good Friday
+    2020-04-21 6645 1.004 210.6
+    2020-04-22 6649 1.001 247.4
+    2020-04-23 6661 1.002 307.7
+    2020-04-24 6675 1.002 320.4
+    2020-04-25 6695 1.003 377.3
+    2020-04-26 6711 1.002 339.3
+    2020-04-27 6720 1.001 331.5
+    2020-04-28 6731 1.002 331.9
+
+Notes: doubling time in days have been smoothed with 7 days (geometric) moving average
+
+
+
+The number of cases in Australia was obtained from this wikipedia page
+
+[
+
+the growth and doubling time was calculated. Growth is easy to calculate, just dividing today's number with yesterday's number. Doubling time was calculated by taking the geometric seven day moving average of growth and then converting the result to doubling time.
+
+Example: doubling time for 2020-03-10 is
+
+log(2) / ( (log(1.16) + log(1.1) + log(1.15) + log(1.22) + log(1.13) + log(1.23) + log(1.27))/7 ) = 4.2169
+++++++++++
+ Schools must remain open because Singapore... no school kids to go to old folks homes because asymptomatic spreading.... can he even logic? 
+
+Does this guy even hear what he says? Do the logical connections not join up when he reads or says this crap?
+
+Australia is in no way comparable to Singapore in this crisis. They have had a centralised response for months now. They have enough masks for medical professionals and normal citizens to wear them in their day to day outings. They have been religiously testing and contact tracing since day 1. They have been prepared since SARS years ago.
+We are WAY behind that curve!
+AND SlowMo knows it because he literally said school kiddies shouldn’t be visiting old folks homes because we know they can be asymptomatic spreaders. So what... are these asymptomatic spreading school kiddies Not going to spread it to their peers at school to their teachers and are they in turn magically going to not take it home to their families and then are their parents not then going to take it on to their workplaces? 
+Unfuckingbelievable. 
+Close the schools: flatten the curve! 
+There will be blood on your hands Mr Morrison!
+++++++++++
+ Cases in Australia: growth rate and doubling time (in days)     date cases growth doubling
+    2020-03-01 29 1.0 1.0
+    2020-03-02 33 1.14 5.1
+    2020-03-03 41 1.24 5.4
+    2020-03-04 52 1.27 5.3
+    2020-03-05 57 1.1 4.8
+    2020-03-06 63 1.11 4.7
+    2020-03-07 73 1.16 4.8
+    2020-03-08 80 1.1 5.4
+    2020-03-09 92 1.15 4.8
+    2020-03-10 112 1.22 4.2
+    2020-03-11 127 1.13 4.0
+    2020-03-12 156 1.23 3.7
+    2020-03-13 198 1.27 3.4
+    2020-03-14 248 1.25 3.5
+    2020-03-15 298 1.2 3.2
+    2020-03-16 376 1.26 3.2
+    2020-03-17 453 1.2 3.3
+    2020-03-18 566 1.25 3.3
+    2020-03-19 708 1.25 3.2
+    2020-03-20 875 1.24 3.2
+    2020-03-21 1071 1.22 3.1
+    2020-03-22 1352 1.26 3.3 &lt;== 10 days ago, Tom Hanks
+    2020-03-23 1716 1.27 3.5
+    2020-03-24 2146 1.25 3.8
+    2020-03-25 2431 1.13 4.0 &lt;== 10 days ago, overseas self-isolate 14 days
+    2020-03-26 2805 1.15 4.5 &lt;== 10 days ago, Vic declare State of Emergency
+    2020-03-27 3179 1.13 5.3
+    2020-03-28 3639 1.14 6.4
+    2020-03-29 3985 1.1 7.0 &lt;== 10 days ago, TAS self-isolation 14 days
+    2020-03-30 4250 1.07 8.0 &lt;== 10 days ago, closing borders to all
+    2020-03-31 4560 1.07 9.3 &lt;== 10 days ago, rule of 4 square metres
+    2020-04-01 4864 1.07 11.5
+    2020-04-02 5136 1.06 13.6 &lt;== 10 days ago, no social gathering
+    2020-04-03 5358 1.04 15.6 &lt;== 10 days ago, WA,SA closing border
+    2020-04-04 5552 1.04 18.7
+    2020-04-05 5687 1.02 22.9
+    2020-04-06 5795 1.02 28.1
+    2020-04-07 5908 1.02 33.1
+    2020-04-08 6013 1.02 38.8 &lt;== 10 days ago, mandatory hotel quarantine
+    2020-04-09 6103 1.01 46.5
+    2020-04-10 6203 1.02 52.2
+    2020-04-11 6292 1.01 60.7
+    2020-04-12 6313 1.003 69.6
+    2020-04-13 6359 1.007 83.5 &lt;== 10 days ago, QLD closing border
+    2020-04-14 6400 1.006 96.5
+    2020-04-15 6447 1.007 114.2
+    2020-04-16 6468 1.003 106.9
+    2020-04-17 6523 1.009 121.1
+    2020-04-18 6565 1.006 129.2
+    2020-04-19 6606 1.006 157.3
+    2020-04-20 6619 1.002 165.0 &lt;== 10 days ago, Good Friday
+    2020-04-21 6645 1.004 210.6
+    2020-04-22 6649 1.001 247.4
+    2020-04-23 6661 1.002 307.7
+    2020-04-24 6675 1.002 320.4
+    2020-04-25 6695 1.003 377.3
+    2020-04-26 6711 1.002 335.0
+    2020-04-27 6720 1.001 353.7
+    2020-04-28 6731 1.002 354.5
+    2020-04-29 6746 1.002 371.6
+    2020-04-30 6753 1.001 364.2
+    2020-05-01 6767 1.002 312.9
+    2020-05-02 6783 1.002 279.2
+    2020-05-03 6801 1.003 256.2
+    2020-05-04 6825 1.004 231.5
+    2020-05-05 6849 1.004 225.8
+    2020-05-06 6875 1.004 227.8
+    2020-05-07 6896 1.003 238.1
+    2020-05-08 6914 1.003 271.6
+    2020-05-09 6929 1.002 291.4
+    2020-05-10 6941 1.002 336.0
+    2020-05-11 6948 1.001 362.2
+    2020-05-12 6964 1.002 313.0
+    2020-05-13 6975 1.002 316.6
+    2020-05-14 6989 1.002 326.2
+    2020-05-15 7022 1.005 303.4
+    2020-05-16 7036 1.002 327.3
+    2020-05-17 7045 1.001 327.8
+    2020-05-18 7060 1.002 371.0
+    2020-05-19 7068 1.001 469.1
+    2020-05-20 7079 1.002 490.1
+    2020-05-21 7081 1.0003 536.5
+    2020-05-22 7095 1.002 593.0
+    2020-05-23 7106 1.0016 530.0
+    2020-05-24 7109 1.0004 574.9
+    2020-05-25 7118 1.0013 500.4 Latest stable value for 7 days MA
+    2020-05-26 7133 1.0021 538.6
+    2020-05-27 7139 1.0008 561.4
+    2020-05-28 7150 1.0015 482.1
+
+Notes: doubling time in days have been smoothed with 7 days (geometric) moving average
+
+
+
+The number of cases in Australia was obtained from this wikipedia page
+
+[
+
+the growth and doubling time was calculated. Growth is easy to calculate, just dividing today's number with yesterday's number. Doubling time was calculated by taking the geometric seven day moving average of growth and then converting the result to doubling time.
+
+Example: doubling time for 2020-03-10 is
+
+log(2) / ( (log(1.16) + log(1.1) + log(1.15) + log(1.22) + log(1.13) + log(1.23) + log(1.27))/7 ) = 4.2169

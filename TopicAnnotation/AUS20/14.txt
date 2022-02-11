@@ -1,0 +1,993 @@
+
+++++++++++
+ NSW records 16 new cases and 2 new overseas cases # New cases reported in the last 24 hours:
+
+**Breakdown hasn't been provided yet, will update once it comes through**
+
+
+* **2** new cases detected in returned travellers in hotel quarantine.
+
+&amp;#x200B;
+
+---
+
+#[**New COVID-19 compliance rules for NSW gyms**](
+
+*NSW Government - 29th July 2020*
+
+Under the new rules, all gyms and fitness centres must: 
+
+ * register and have a COVID Safety Plan.
+ * have a dedicated COVID-19 Safe Hygiene Marshal on duty at all times.
+
+&amp;#x200B;
+
+# Cases to date:
+
+||Last 24 hours|TOTAL|
+|:-|:-|:-|
+|**Confirmed cases**|+18   |3,547 |
+|**Active**               |   |678|
+|[Active (NSW Gov)](         |188|
+|**Recovered**        |+0   |2,800|
+|**Deaths**             | +0  |51|
+|[Tests conducted](  |1,436,834|
+|**Hospital**            |  |10|
+|**ICU**| +0 |5|
+|**Ventilated**|      |1|
+|**ECMO**|  |0|
+
+
+&amp;#x200B;
+
+#Locally acquired cases in the last 14 days 
+
+Outbreak | Suburb | Last 24 hours | TOTAL | Reported
+--------|-----------|:---------:|:-----:|------
+Thai Rock restaurant | Wetherill Park |  | 85 |July: [29]( [28]( [27]( [26]( [25]( [24]( [23]( [22]( [21]( [20]( [19]( [18]( 
+Crossroads Hotel  | Casula |  | 57 | July: [29]( [23]( [22]( [21]( [20]( [19]( [18]( [17]( [16]( [15]( [14]( [13]( [12]( [11]( [08](
+St Brendan's Church Funerals| Bankstown |  | 18 | July: [29]( [28]( [27]( [26]( 
+Apollo Restaurant | Potts Point || 2 | July: [29]( [28](
+Batemans Bay Soldiers Club | Batemans Bay |  | 8 |  July: [20]( 
+
+&amp;#x200B;
+
+# Sources of confirmed cases
+
+||Last 24 hours|This week|TOTAL|
+|:-|:-|:-|:-|
+|Locally - Known|-|76|1,061|
+|Locally - Unknown|-|4|368|
+|Interstate|-|1|77 |
+|Overseas|+2|25|2,025|
+|Under investigation|-|0|0|
+
+&amp;#x200B;
+
+#Affected educational institutions 
+
+Outbreak | Suburb | Last 24 hours | TOTAL | Reported  
+--------|-----------|---------|-----|-----|----
+Mary Immaculate Catholic Primary School | Bossley Park | +1 | 2 | July: [30]( [24](
+Freeman Catholic College | Bonnyrigg Heights | +2 | 3 | July: [30]( [24](
+EverLearn Preschool|Prestons|+1|1|July: [30](
+Fort Street High School | Petersham | +1 (possible case) | 1 | July: [29](
+Bayanami Public School | Parramatta | - | 1 | July: [29](
+Georges River Grammar School|Georges Hall |-| 1|  July: [27](
+Cerdon College | Merrylands | - | 2 | July: [24](
+Tomaree Public School | Salamander Bay | - | 1|  July: [23]( 
+Goodstart Early Learning Anna Bay | Anna Bay | - | 1 | July: [23](  
+Tomaree High School | Salamander Bay | -| 1 | July: [23]( 
+
+
+----
+
+**Sources**:
+
+* [NSW Health Twitter](
+* [NSW Health media release - 30th July](*Not available yet*)
+* [NSW Government](
+* [NSW COVID-19 case statistics - up to 8pm 29 July 2020](
+* [COVID-19 cases by notification date, location](
+++++++++++
+ NSW records 12 new cases # New cases reported in the last 24 hours
+
+&amp;#x200B;
+
+**Will update post after NSW Health provides a breakdown**
+
+&amp;#x200B;
+
+# [COVID-19 weekly surveillance in NSW](
+
+**EPIDEMIOLOGICAL WEEK 31, ENDING 1 AUGUST 2020** *- Published 5 August 2020*
+
+* The number of new locally-acquired cases remains steady with 92 new cases reported in the week ending 1 August, most of which have been linked to known clusters.
+* While testing rates have increased in Sydney LGA following the recent cluster, a 15% decrease in testing statewide was observed when compared to the previous week.
+* No links to known cases or clusters have been identified for 16 cases who developed symptoms in the last four weeks. 
+* While the low number of unlinked cases reported each week continues, COVID-19 is circulating to a limited extent in the community, risking further outbreaks.
+
+&amp;#x200B;
+
+# Cases to date
+
+||Last 24 hours|TOTAL|
+|:-|:-|:-|
+|Confirmed cases|\+12|3,643|
+|Active||767|
+|[Active (NSW Gov)](
+|Recovered|N/A|2,803|
+|Deaths|\+0|52|
+|[Tests conducted](
+|Hospitalised||20|
+|ICU|\+1|10|
+|Ventilated||6|
+|ECMO||0|
+
+&amp;#x200B;
+
+# Sources of confirmed cases
+
+||Last 24 hours|This week|TOTAL|
+|:-|:-|:-|:-|
+|**Locally - Known**||70|1,136|
+|**Locally - Unknown**||9|376|
+|**Interstate**||6|83|
+|**Overseas**|\+0|15|2,036|
+|**Under investigation**||3|0|
+
+&amp;#x200B;
+
+# Current clusters
+
+|Date cluster first identified|Cluster|Last 24 hours|TOTAL|Source of cluster (as of 1 August)|Reported|
+|:-|:-|:-|:-|:-|:-|
+|10th July|Crossroads Hotel Casula and linked clusters||58|Victorian-acquired case|July: [29]( [23]( [22]( [21]( [20]( [19]( [18]( [17]( [16]( [15]( [14]( [13]( [12]( [11]( [08](
+|17th July|Thai Rock Restaurant Wetherill Park and linked clusters||105|Source not identified |August: [5]( [4]( [1]( July: [31]( [30]( [29]( [28]( [27]( [26]( [25]( [24]( [23]( [22]( [21]( [20]( [19]( [18](
+|24th July|Bankstown area funeral services and linked cluster||46|Source not identified|August:  [4]( [3]( [2]( [1]( July: [31]( [30]( [29]( [28]( [27]( [26](
+|27th July|Thai Rock Restaurant Potts Point and linked clusters||30|Thai Rock Wetherill Park case|August: [5]( [4]( [3]( [2]( [1]( July: [31]( [30]( [29]( [28](
+
+&amp;#x200B;
+
+# Affected educational institutions
+
+|School|Suburb|Last 24 hours|TOTAL|Reported|
+|:-|:-|:-|:-|:-|
+|St Margaret Mary’s Primary School|Merrylands|\+1|1|Aug: 6|
+|St Pius X High School|Adamstown|\+1|1|Aug: 6|
+|Kids Learning Academy Busby|Busby|\-|1|Aug: [5](
+|Greenway Park Public School|Carnes Hill|\-|2|Aug: [4](
+|Bonnyrigg High School|Bonnyrigg|\-|1|Aug: [4](
+|Advanced Early Learning|Merrylands|\-|2|Aug: [2](
+|EverLearn Preschool|Prestons|\-|0|July: [31]( [30](
+|Mary Immaculate Catholic Primary School|Bossley Park|\-|2|July: [30]( [24](
+|Freeman Catholic College|Bonnyrigg Heights|\-|3|July: [30]( [24](
+|Fort Street High School|Petersham|\-|0|July: [30]( [29](
+|Bayanami Public School|Parramatta|\-|1|July: [29](
+|Georges River Grammar School|Georges Hall|\-|1|July: [27](
+|Cerdon College|Merrylands|\-|2|July: [24](
+|Tomaree Public School|Salamander Bay|\-|1|July: [23](
+|Goodstart Early Learning Anna Bay|Anna Bay|\-|1|July: [23](
+|Tomaree High School|Salamander Bay|\-|1|July: [23](
+
+&amp;#x200B;
+
+**Sources**:
+
+* [NSW Health Twitter](
+* NSW Health media release - 6th August
+* [NSW Government](
+* [NSW COVID-19 case statistics - up to 8pm 5 August 2020](
+* [COVID-19 cases by notification date, location](
+* [An up-to-date list of locations, places and venues associated with confirmed COVID cases](
+++++++++++
+ NSW records 4 new local cases and 6 new overseas cases # New cases reported in the last 24 hours
+
+* **4** local cases linked to the Sydney CBD cluster: 2 household contacts, and 2 who are close contacts of previously linked cases.
+* **6** are returned travellers who are in hotel quarantine.
+
+**Will update as further information is provided.** 
+
+&amp;#x200B;
+
+# NSW Health public health alerts in the last 14 days
+
+|*Date published*|*Title*|
+|:-|:-|
+|30/08|[Public health alert](
+|29/08|[City Tattersalls Fitness Centre](
+|28/08|[NSW Health Alert: 14 day guidelines for Aged Care visitors](
+|27/08|[Public health alert](
+|26/08|[Royal Hospital for Women at Randwick, City Tattersalls, Virgin Gym Zetland, bus routes in Blacktown, Rouse Hill and Mt Druitt](
+|25/08|[City Tattersalls Fitness Centre](
+|22/08|[Second hotel security guard tests positive](
+|17/08|[Sydney Market Flemington](
+
+&amp;#x200B;
+
+# Cases to date
+
+||Last 24 hours|TOTAL|
+|:-|:-|:-|
+|Confirmed cases|\+10|3,861|
+|[***Active (NSW Gov)***](
+|Recovered|N/A|N/A|
+|Deaths|\+0|54|
+|[Tests conducted](
+|Treated by NSW Health|\+0|66|
+|Hospitalised||6|
+|ICU|\+|6|
+|Ventilated|\+1|4|
+|ECMO|\+0|0|
+
+&amp;#x200B;
+
+# Sources of confirmed cases
+
+||Last 24 hours|This week|TOTAL|
+|:-|:-|:-|:-|
+|Locally - Known|\+4|45|1,307 |
+|Locally - Unknown|\+0|8|391|
+|Interstate|\+0|0|89|
+|Overseas|\+6|13|2,074|
+|Under investigation|\+0|0|0|
+
+&amp;#x200B;
+
+# Clusters in the last 14 days
+
+|Cluster|Last 24 hours|TOTAL|Reported|
+|:-|:-|:-|:-|
+|Sydney CBD|\+4|32|Aug: 31, [30]( [29]( [28]( 27|
+|Our Lady of Mercy School, Parramatta|\-|7|Aug: [25]( [17]( [15]( [12]( [11]( [9](
+|Thai Rock Restaurant Potts Point and linked clusters|\-|38|Aug: [23]( [15]( [8]( [7]( [6]( [5]( [4]( [3]( [2]( [1]( July: [31]( [30]( [29]( [28](
+|July funeral events in the Bankstown area|\-|76|Aug: [22]( [20]( [18]( [17]( [15]( [14]( [12]( [8]( [6]( [4]( [3]( [2]( [1]( July: [31]( [30]( [29]( [28]( [27]( [26](
+|Tangara School, Cherrybrook|\-|26|Aug: [22]( [16]( [15]( [14]( 13, [12]( [11]( [10]( [9]( [8](
+|Chopstix Asian Cuisine, Smithfield RSL|\-|5|Aug: [17](
+
+&amp;#x200B;
+
+# Affected educational institutions in the last 14 days
+
+|School|Suburb|LGA|Last 24 hours|TOTAL|Reported|
+|:-|:-|:-|:-|:-|:-|
+|Reddam Early Learning Centre|Lindfield|Ku-ring-gai|\-|1|Aug: [30](
+|St Paul's Catholic College|Greystanes|Cumberland|\-|1|Aug: [30](
+|Double Bay Public School|Double Bay|Woollahra|\-|1|Aug: [28](
+|Homebush Public School|Homebush|Strathfield|\-|1|Aug: [28](
+|St Gertrude's Catholic Primary School|Smithfield|Fairfield|\-|1|Aug: [28](
+|Ryde Secondary College|Ryde|Ryde|\-|1|Aug: [28](
+|Riverstone High School|Riverstone|Blacktown|\-|1|Aug: [26](
+|Wyndham College|Quakers Hill|Blacktown|\-|1|Aug: [26](
+|Schofields Public School|Schofields|Blacktown|\-|0|Aug: [27](
+|Sydney Girls High School|Surry Hills|Sydney|\-|1|Aug: [17](
+
+&amp;#x200B;
+
+# Latest COVID-19 case locations in NSW - as of 30/08
+
+|[**Increased testing and surveillance**]( and get tested immediately**]( for symptoms**](
+|:-|:-|:-|
+|Campbelltown LGA|**Bus route X39**|**Auburn:** Ramadan Pharmacy|
+|Canterbury-Bankstown LGA|**Caringbah**: Highfield Caringbah|**Balgowlah**: Fitness First Balgowlah|
+|Eastern part of City of Sydney LGA |**Hunters Hill**: Hunters Hill Bowling Club (indoor dining room) |**Burwood:** Service NSW|
+|Fairfield LGA|**Marrickville:** Anytime Fitness|**Burwood:** Westfield Shopping Centre|
+|Hornsby Shire LGA|**Randwick**: Fitness First|**Cabramatta:** Cabramatta Family Practice|
+|The Hills LGA|**Sydney**: City Tattersalls Fitness Centre|**Caringbah**: Caringbah Hotel|
+|Liverpool LGA|**Zetland**: Virgin Gym|**Drummoyne**: Destro’s Pharmacy|
+|Parramatta LGA||**Fairfield West:** Aldi|
+|Woollahra LGA||**Glebe**: Broadway Shopping Centre|
+|||**Hornsby**: PRP Diagnostic Imaging|
+|||**Hurlstone Park**: Metro Petroleum|
+|||**Manly**: 4 Pines Manly Brew Pub |
+|||**Marrickville:** Eat Fuh|
+|||**Marrickville**: Liquorland (269 to 271 Marrickville Road)|
+|||**Mosman:** Archie Bear café, Mosman Rowers|
+|||**Randwick**: Randwick Golf Club|
+|||**Rosebery:** Rosebery Post Shop, 371 Gardeners Road|
+|||**St Ives:** St Ives Shopping Centre, 166 Mona Vale Road|
+|||**Sydney**: 300 George Street|
+|||**Sydney**: Fitness First Bond Street|
+|||**Sydney**: Virgin Active Margaret Street Gym|
+|||**Sydney**: Virgin Active Pitt Street Gym|
+|||**Turramurra:** The Matterhorn|
+|||**Wahroonga:** Parish of Holy Name|
+|||**Waitara**: Magpies Waitara|
+|||**Willoughby**: Harris Farm|
+|||**Wollstonecraft**: Mater Clinic|
+|||**Zetland**: Virgin Gym|
+
+&amp;#x200B;
+
+# Locally acquired, source not identified - as of 28/08
+
+NOTE: The data below is for confirmed COVID-19 cases only based on the location of the usual residence, not necessarily where the virus was contracted.
+
+|Reported|Postcode - LGA|
+|:-|:-|
+|27/08|2163 - Fairfield (C)|
+|27/08|2164 - Fairfield (C)|
+|27/08|2566 - Campbelltown (C) (NSW)|
+|27/08|2234 - Sutherland Shire (A)|
+|26/08|2076 - Ku-ring-gai (A)|
+|25/08|2762 - Blacktown (C)|
+|25/08|2762 - Blacktown (C)|
+|25/08|2031 - Randwick (C)|
+|25/08|2203 - Inner West (A)|
+|21/08|2194 - Canterbury-Bankstown (A)|
+|21/08|2168 - Liverpool (C)|
+|20/08|2166 - Fairfield (C)|
+|18/08|2177 - Fairfield (C)|
+|18/08|2177 - Fairfield (C)|
+
+&amp;#x200B;
+
+* NSW Health - media release: 31st August
+* [Case statistics - up to 8pm 30 August 2020](
+* [COVID-19 weekly surveillance in NSW](
+* [NSW data](
+++++++++++
+ NSW reports 5 new local cases and 1 new overseas case # New cases reported in the last 24 hours
+
+* **1 is a returned overseas traveller in hotel quarantine**
+* **5 are locally acquired and are linked to a known cluster or close contact:**
+   * **4** are close contacts of a previously reported case from Concord Hospital ED; **1** case is a household contact linked to the St Paul's Catholic College Greystaines cluster = 1 is a student from Blue Mountains Grammar School
+* **1** previously reported case attended Katoomba Aquatic centre on Friday 4/09 from 11:30 AM - 1:30 PM - *MONITOR FOR SYMPTOMS*
+* KFC (2A Bunting street, Emerton) on Monday 7/09 from 12:00 PM - 9:30 PM - *MONITOR FOR SYMPTOMS*
+
+&amp;#x200B;
+
+* **New Public Health Alerts** (for a list of all COVID related media releases and public health alerts in the one place, check out our [wiki page](
+   * [Public health alert - Concord Hospital’s emergency department]( \[10/09\]
+   * [Public health alert - Eastern Suburbs Legion Club]( \[09/09\]
+
+# Cases to date - last updated 11:30 AM [12/09]
+
+[Click on the image or this caption to view\/enlarge table.](
+
+# Sources of confirmed cases - last updated 6:15 PM [11/09]
+
+Data for the 09/09 has been updated, according to [Data.NSW]( **+3** additional cases, bringing the total to 10, from the previously reported 7. This includes **2** additional overseas cases and **1** additional *local with a known source*. There has also been 1 reclassification: 1 previously local unknown case is now classified as a local known case.
+
+[Click on the image or this caption to view/enlarge table.](
+
+# Recent clusters - last updated 11:16 AM [11/09]
+
+|Cluster|Last 24 hours|TOTAL|Reported|
+|:-|:-|:-|:-|
+|**Sydney CBD**|**+1**|**69**|Sept:11, [9]( [8]( [6]( [5]( [4]( [3]( [2]( Aug: [31]( [30]( [29]( [28]( [27](
+|St Paul’s Greystanes|\+0|14|Sept:[10]( [4]( [3]( [2](
+|**Concord/Liverpool Hospital**\*|**-1/+1**|**14**|Concord = Sept:11, [10]( [9]( [8]( [7]( Liverpool = Sept:11, [7]( [6]( [4]( [1]( Aug: [13](
+|Reddam Early Learning Centre, Lindfield|\+0|3|Sept: [1]( Aug: [30](
+
+^(\*The case reported on the 06/07 worked at both Concord Hospital ED) *^(and)* ^(Liverpool Hospital ED while potentially infectious. Therefore, it is probable that this case is the source of the first Concord Hospital ED case \[07/09\]. Today \[11/09\] there was one additional case linked to Liverpool Hospital ED, and one previously reported case from Concord Hospital ED excluded. Therefore the overall total number of cases for the Concord/Liverpool Hospital clusters is still 14.)
+
+# Recently affected educational institutions - last updated 11:17 AM [11/09]
+
+|School|Suburb|LGA|Last 24 hours|TOTAL|Reported|
+|:-|:-|:-|:-|:-|:-|
+|Kincoppal Rose Bay School|Rose Bay|Waverley|\-|3|Sept: [8]( [6](
+|Regents Park Christian School|Regents Park|Canterbury-Bankstown/Cumberland|\-|1|Sept: [3](
+|Girraween Public School|Girraween|Cumberland|\-|2|Sept: [2]( [1](
+|St Paul's Catholic College|Greystanes|Cumberland|\-|5|Sept:[10]( [1]( Aug: [30](
+|Homebush Public School|Homebush|Strathfield|\-|0|Sept: [1]( Aug: [28](
+
+# Latest COVID-19 case locations in NSW - as of 11/09 [5:44 PM]
+
+Please view the [NSW Gov]( website for the most up to date information, including information concerning additional [locations]( and [Sydney bus and train routes]( where you are required to monitor yourself for [COVID-19 symptoms](
+
+|[**Increased testing and surveillance**]( and get tested immediately**](
+|:-|:-|
+|Bankstown (suburb)|**Ashfield: New Shanghai Night restaurant \[09/09\]**|
+|Cumberland LGA|**Ashfield: The Crocodile Farm Hotel \[09/09\]**|
+|Fairfield LGA|**Moorebank**: New Brighton Golf Club|
+|Ku-ring-gai LGA|**Newtown**: It’s Time for Thai restaurant|
+|Liverpool LGA|**Newtown**: Kuleto's Cocktail Bar|
+|Mt Druitt (suburb)|**Oatlands: Oatlands Golf Club \[08/09\]**|
+|Parramatta LGA|**Paddington**: Four in Hand Pub|
+|Randwick LGA|**Parramatta: Albion Hotel \[09/09\]**|
+|Sutherland LGA|**Prestons**: Life in the Spirit Ministry|
+|Eastern part of City of Sydney LGA|**Randwick**: Fitness First|
+|Waverley LGA|**Sydney**: Hyde Park Medical Centre|
+|Willoughby LGA|**Waverley: Eastern Suburbs Legion Club \[10/09\]**|
+|Woollahra LGA||
+
+# Also see: [Recent NSW media releases and public health alerts](
+
+**Sources:**
+
+* [NSW Health - media release: 11th September](
+* [NSW COVID-19 statistics]( \[Updated Daily\]
+* [Data.NSW]( \[Updated daily, except on weekends\]
+* [COVID-19 weekly surveillance in NSW]( \[Published 10/09/20 - ***NEW!***\]
+++++++++++
+ NSW reports 0 new local cases and 2 new overseas cases # New cases reported in the last 24 hours
+
+* 2 are returned overseas travellers in hotel quarantine.
+
+**Note:**
+
+&gt;**1.** [New Public Health Alert:]( Moorebank Sports Club at Hammondville \[evening of 11/09\].  
+&gt;  
+&gt;**2.** A case reported Sunday drove a taxi for a number of days while potentially infectious. NSW Health is seeking to identify passengers who caught the Silver Service taxi on the following times and locations. *These passengers should call the NSW Health Call Centre on 9391 9000 for further advice.*
+
+[Click on image or this caption to view\/enlarge table.](
+
+# Case and Test Summary
+
+**Last updated 11:05 AM \[21/09\]**
+
+[Click on image or this caption to view\/enlarge table.](
+
+# Sources of confirmed cases
+
+**Last updated 9:15 AM \[21/09\] -** ***New Data*** ✅
+
+To track reclassification across time, [check out our wiki page](
+
+[Click on image or this caption to view\/enlarge table.](
+
+**September 2020 source totals - as of 20/09 -** ***New Data*** ✅  **:** [For a breakdown see here.](
+
+[Click on image or this caption to view\/enlarge table.](
+
+# Recent Clusters
+
+**Last updated 11:02 AM \[22/09\]**
+
+The name of each cluster links to a wiki page where the initial cases associated with the cluster are detailed, as well as information concerning the original source of each cluster.
+
+|*Cluster*|*Last 24 hours*|*Total*|*Reported*|
+|:-|:-|:-|:-|
+|[Sydney CBD]( [16]( [13]( [11]( [9]( [8]( [6]( [5]( [4]( [3]( [2]( Aug: [31]( [30]( [29]( [28]( [27](
+|[St Paul’s Greystanes]( [13]( [12]( [10]( [4]( [3]( [2]( [1]( Aug: [30](
+|[Concord/Liverpool Hospital]( = Sept: [21]( [18]( [17]( [16]( [15]( [12]( [11]( [10]( [9]( [8]( [7]( **Liverpool** = Sept: [18]( [11]( [7]( [6]( [4]( [1]( Aug: [13](
+|[Eastern Suburbs Legion Club]( [17]( [14]( [13]( [11]( [10](
+
+# Affected Educational Institutions
+
+**Last updated 11:02 AM \[22/09\]**
+
+|*School*|*Suburb, LGA*|*Last 24 hours*|*TOTAL (students)*|*Reported*|
+|:-|:-|:-|:-|:-|
+|[Kincoppal Rose Bay School]( Bay, Waverley|\-|3|Sept: [8]( [6](
+|[St Paul's Catholic College]( Cumberland|\-|7|Sept: [10]( [2]( [1]( Aug: [30](
+|[Blue Mountains Grammar School]( Falls, City of Blue Mountains|\-|2|Sept: [16]( [11](
+
+# Latest COVID-19 case locations in NSW
+
+**Last updated 9:56 AM \[22/09\]**
+
+Please view the [NSW Gov]( website for the most up to date information, including information concerning additional [locations]( and [Sydney bus and train routes]( where you are required to monitor yourself for [COVID-19 symptoms](
+
+|[**Increased testing and surveillance**]( and get tested immediately**](
+|:-|:-|
+|Bankstown (suburb)|**Campbelltown**: Mama Wok, Macarthur Square|
+|Blue Mountains LGA|**Glen Alpine:** Campbelltown Golf Club|
+|Cumberland LGA|**Mollymook:** Bannisters Pavilion Rooftop Bar &amp; Grill|
+|Fairfield LGA|**Ulladulla:** Carlo's Italian Ristorante Bar &amp; Seafood|
+|Hunters Hill LGA|**Ulladulla:** Milton Ulladulla Ex Servos Club|
+|Liverpool LGA|**Waverley:** Eastern Suburbs Legion Club|
+|Mt Druitt (suburb)||
+|Parramatta LGA||
+|Randwick LGA||
+|Waverley LGA||
+|Woollahra LGA||
+
+# [A collated list of NSW media releases and public health alerts are also available on our Wiki](
+
+**Sources:**
+
+* [NSW Health - media release: 21th September](
+* [NSW COVID-19 statistics]( \[Updated Daily\]
+* [Data.NSW]( \[Updated daily, except on weekends\]
+* [COVID-19 weekly surveillance in NSW]( \[Published 17/09/20\]
+++++++++++
+ NSW reports 1 new local case and 2 new overseas cases # New cases reported in the last 24 hours
+
+* **2** are returned overseas travellers in hotel quarantine
+* **1** is locally acquired and was acquired at Concord Hospital:
+   * *The locally acquired case worked at Concord Hospital while potentially infectious. The case cared for patients with COVID-19 and further investigation is underway to identify how the infection was acquired.*
+
+**Note:**
+
+&gt;NSW Health advises that further assessments and testing of the case reported in **Murrumbidgee LHD** on Thursday has determined it was a **false positive and therefore not a case**.  
+&gt;  
+&gt;Testing has decreased this week (down 16%) though overall testing rates remain high. The largest decrease in testing rates this week was evident in school-aged children.  The number of people reporting flu-like symptoms has decreased; this may lead to a reduction in testing rates for COVID-19.  
+&gt;  
+&gt;Proportion of locally-acquired cases interviewed by public health staff within 1 day of notification to NSW Health = 100%  
+&gt;  
+&gt;Proportion of close contacts (identified by the case) contacted by public health within 48 hours of case notification = 100%
+
+# Cases to date - last updated 11:00 AM [19/09]
+
+[Click on image or this caption to view\/enlarge table.](
+
+# Sources of confirmed cases - last updated 9:55 AM [19/09]
+
+Over the last week, I have reported some differences in the number of reported cases when comparing the NSW press releases and the Data.NSW daily data sets. [To save space in the daily post, if you are interested in seeing the differences across days, check out this link.](
+
+**FYI:** No data has been released for the 16th, 17th or 18th of Sep yet.
+
+[Click on image or this caption to view\/enlarge table.](
+
+**September 2020 source totals - as of 15/09:** [For a breakdown see here.](
+
+[tl;dr: There are 11 fewer cases than reported during the daily NSW press releases, and currently 6 unknown cases.](
+
+# Recent Clusters - last updated 11:00 AM [19/09]
+
+|Cluster|Last 24 hours|Total|Reported|
+|:-|:-|:-|:-|
+|Sydney CBD|\-|72|Sept: [16]( [13]( [11]( [9]( [8]( [6]( [5]( [4]( [3]( [2]( Aug: [31]( [30]( [29]( [28]( [27](
+|St Paul’s Greystanes|\-|17|Sept: [13]( [12]( [10]( [4]( [3]( [2](
+|**Concord/Liverpool Hospital**|**+1**|**22**|Concord = Sept:18, [17]( [16]( [15]( [12]( [11]( [10]( [9]( [8]( [7]( Liverpool = Sept: [18]( [11]( [7]( [6]( [4]( [1]( Aug: [13](
+|Eastern Suburbs Legion Club|\-|9|Sept: [17](
+|Reddam Early Learning Centre, Lindfield|\-|3|Sept: [1]( Aug: [30](
+
+# Recently affected educational institutions* - last updated 11:03 AM [18/09]
+
+|School|Suburb, LGA|Last 24 hours|TOTAL|Reported|
+|:-|:-|:-|:-|:-|
+|Kincoppal Rose Bay School|Rose Bay, Waverley|\-|3|Sept: [8]( [6](
+|St Paul's Catholic College|Greystanes, Cumberland|\-|6|Sept: [12]( [10]( [1]( Aug: [30](
+|Blue Mountains Grammar School|Wentworth Falls, City of Blue Mountains|\-|2|Sept: [16]( [11](
+
+^(\* The case at Lidcombe Public School was a false positive. Sept:) [^(7)]( [^(6)](
+
+# Latest COVID-19 case locations in NSW - as of 19/09 [10:48 AM]
+
+Please view the [NSW Gov]( website for the most up to date information, including information concerning additional [locations]( and [Sydney bus and train routes]( where you are required to monitor yourself for [COVID-19 symptoms](
+
+|[**Increased testing and surveillance**]( and get tested immediately**](
+|:-|:-|
+|Bankstown (suburb)|**Ashfield:** New Shanghai Night restaurant|
+|Blue Mountains LGA|**Ashfield:** The Crocodile Farm Hotel|
+|Cumberland LGA|**Concord:** Concord Repatriation General Hospital\*|
+|Fairfield LGA|**Oatlands:** Oatlands Golf Club|
+|Hunters Hill LGA|**Parramatta:** Albion Hotel (Beer Garden and Pavilion)|
+|Liverpool LGA|**Sydney**: Hyde Park Medical Centre|
+|Mt Druitt (suburb)|**Waverley:** Eastern Suburbs Legion Club|
+|Parramatta LGA||
+|Randwick LGA||
+|Waverley LGA||
+|Woollahra LGA||
+
+^(\*This location is not listed on the) [^(NSW gov website)]( however, there was a press release on the) [^(10/09)]( ^(instructing anyone who attended Concord Hospital’s ED waiting room on Sunday 6/09 - 2:20 PM - 5:00 PM for an hour or more to self-isolate for 14 days, even with a negative test result) ^(until Sunday, September 20 inclusive. NSW Health is contacting all close contacts, but anyone else who visited the waiting area for less than one hour should be alert for symptoms.)
+
+# [A collated list of NSW media releases and public health alerts are also available on our Wiki](
+
+**Sources:**
+
+* [NSW Health - media release: 18th September](
+* [NSW COVID-19 statistics]( \[Updated Daily\]
+* [Data.NSW]( \[Updated daily, except on weekends\]
+* [COVID-19 weekly surveillance in NSW]( \[Published 17/09/20\]
+++++++++++
+ NSW records 7 new local cases and 1 new overseas case # New cases reported in the last 24 hours
+
+* **1** is a returned traveller in hotel quarantine
+* **7** are linked to a known case or cluster, including 3 contacts of cases linked to the Sydney CBD cluster, 2 are contacts of cases linked to St Paul's Catholic College Greystanes, and, 2 are household contacts of previously reported cases linked to Liverpool Hospital. 
+* Two previously announced cases have also been linked to the CBD cluster. 
+
+**Will update this post as further information is provided.**
+
+# Cases to date
+
+||Last 24 hours|TOTAL|
+|:-|:-|:-|
+|Confirmed cases|\+8|3,910|
+|[***Active (NSW Gov)***](
+|Recovered|N/A|N/A|
+|Deaths|\+0|54|
+|[Tests conducted](
+|Treated by NSW Health|\+1|87|
+|Hospitalised||10|
+|ICU|\+1|7|
+|Ventilated|\+1|4|
+|ECMO||0|
+
+&amp;#x200B;
+
+# NSW media releases in the last 14 days
+
+|*Date published*|*Title*|
+|:-|:-|
+|03/09|**NSW Health**: [Public Health Alert](
+|02/09|**NSW Education**: [COVID-19 update – BWSC Umina campus remains operational](
+|01/09|**NSW Government:** [Increased mobility on NSW VIC border](
+|31/08|**NSW Government:**[NSW border closure no longer acceptable for agriculture](
+|30/08|**NSW Government:**[More mental health support for regional students](
+|30/08|**NSW Health:** [Public health alert](
+|29/08|**NSW Health:** [City Tattersalls Fitness Centre](
+|28/08|**NSW Health:** [NSW Health Alert: 14 day guidelines for Aged Care visitors](
+|27/08|**NSW Health:** [Public health alert](
+|26/08|**NSW Health:** [Royal Hospital for Women at Randwick, City Tattersalls, Virgin Gym Zetland, bus routes in Blacktown, Rouse Hill and Mt Druitt](
+|25/08|**NSW Health:** [City Tattersalls Fitness Centre](
+|24/08|**NSW Government:** [Western and South West Sydney testing blitz](
+|22/08|**NSW Health:** [Second hotel security guard tests positive](
+
+&amp;#x200B;
+
+# Sources of confirmed cases
+
+||Last 24 hours|This week|TOTAL|
+|:-|:-|:-|:-|
+|Locally - Known||60|1,336|
+|Locally - Unknown||7|390|
+|Interstate||0|89|
+|Overseas|\+1|14|2,080|
+|Under investigation||0|0|
+
+&amp;#x200B;
+
+# Clusters in the last 14 days
+
+|Cluster|Last 24 hours|TOTAL|Reported|
+|:-|:-|:-|:-|
+|Sydney CBD|\+3|57 (+2)|Sept: 4,  [3]( [2]( Aug: [31]( [30]( [29]( [28]( 27|
+|St Paul’s Greystanes|\+2|13|Sept: 4, [3]( [2](
+|Liverpool Hospital|\+2|6|Sept: 4, [1]( Aug: [13,](
+|Reddam Early Learning Centre, Lindfield|\-|3|Sept: [1]( Aug: [30](
+|Liverpool Hospital|\+2|6|Sept: 4, [1]( Aug: [13,](
+|Our Lady of Mercy School, Parramatta|\-|7|Aug: [25]( [17]( [15]( [12]( [11]( [9](
+|Thai Rock Restaurant Potts Point and linked clusters|\-|38|Aug: [23]( [15]( [8]( [7]( [6]( [5]( [4]( [3]( [2]( [1]( July: [31]( [30]( [29]( [28](
+|July funeral events in the Bankstown area|\-|76|Aug: [22]( [20]( [18]( [17]( [15]( [14]( [12]( [8]( [6]( [4]( [3]( [2]( [1]( July: [31]( [30]( [29]( [28]( [27]( [26](
+|Tangara School, Cherrybrook|\-|26|Aug: [22]( [16]( [15]( [14]( 13, [12]( [11]( [10]( [9]( [8](
+
+&amp;#x200B;
+
+&amp;#x200B;
+
+&amp;#x200B;
+
+# Affected educational institutions in the last 14 days
+
+|School|Suburb|LGA|Last 24 hours|TOTAL|Reported|
+|:-|:-|:-|:-|:-|:-|
+|Regents Park Christian School |Regents Park|Canterbury-Bankstown/Cumberland|\-|1|Sept: [3](
+|Girraween Public School|Girraween|Cumberland|\-|2|Sept: [2]( [1](
+|St Paul's Catholic College|Greystanes|Cumberland|\-|4|Sept: [1]( Aug: [30](
+|Homebush Public School|Homebush|Strathfield|\-|0|Sept: [1]( Aug: [28](
+|Double Bay Public School|Double Bay|Woollahra|\-|1|Aug: [28](
+|St Gertrude's Catholic Primary School|Smithfield|Fairfield|\-|1|Aug: [28](
+|Ryde Secondary College|Ryde|Ryde|\-|1|Aug: [28](
+|Riverstone High School|Riverstone|Blacktown|\-|1|Aug: [26](
+|Wyndham College|Quakers Hill|Blacktown|\-|1|Aug: [26](
+|Schofields Public School|Schofields|Blacktown|\-|0|Aug: [27](
+
+&amp;#x200B;
+
+# Latest COVID-19 case locations in NSW - as of 03/09
+
+The table below was last updated at 09:58:41 AM on Friday, 4 September. Please view the [NSW Gov]( website for the most up to date information. 
+
+|[**Increased testing and surveillance**]( and get tested immediately**](
+|:-|:-|
+|Campbelltown LGA|**Bus route X39**|
+|Canterbury-Bankstown LGA|**Caringbah**: Highfield Caringbah|
+|Eastern part of City of Sydney LGA |**Hunters Hill**: Hunters Hill Bowling Club (indoor dining room) |
+|Fairfield LGA|**Marrickville:** Anytime Fitness|
+|Hornsby Shire LGA|**Newtown**: It’s Time for Thai restaurant|
+||**Paddington**: Four in Hand Pub|
+||**Prestons**: Life in the Spirit Ministry|
+|The Hills LGA|**Randwick**: Fitness First|
+|Liverpool LGA|**Sydney**: City Tattersalls Fitness Centre|
+|Parramatta LGA|**Zetland**: Virgin Gym|
+|Woollahra LGA||
+
+&amp;#x200B;
+
+# Monitor for symptoms 
+
+If you have been to any of [these locations]( or travelled on nominated [Sydney bus and train routes]( during the time and date indicated you should:
+
+* watch for [COVID-19 symptoms](
+* if symptoms occur, immediately [get tested]( and [self-isolate](
+
+&amp;#x200B;
+
+**---**
+
+* NSW Health - media release: 4th September
+* [Case statistics - up to 8pm 3 September 2020](
+* [COVID-19 weekly surveillance in NSW](
+* [NSW data](
+++++++++++
+ NSW reports 8 local cases and 1 overseas # New cases reported in the last 24 hours
+
+* **1 is a returned traveller in hotel quarantine**
+* **9 are locally acquired:**
+   * **7** are linked to a known case or cluster (**1** linked to City Tattersalls Club Fitness Centre gym; **1** household linked to CBD cluster \[68 total\]; **5** linked to Concord Hospital = visitor, patient and HCWs. 
+   * **1** case is under investigation from South Eastern Sydney
+
+&amp;#x200B;
+
+# Cases to date
+
+# TBA
+
+\---------------------------------------------------------------------------------------------------------------------------------------------------
+
+**The information below will be updated throughout the day as the information is available &gt;&gt;&gt;&gt;**
+
+# Sources of confirmed cases - last updated 3:18 PM [08/09]
+
+[If you are viewing this post on a computer, click on the table or this caption to enlarge.](
+
+# Recent clusters - last updated 3:18 PM [08/09]
+
+|Cluster|Last 24 hours|TOTAL|Reported|
+|:-|:-|:-|:-|
+|**Sydney CBD**|**+1**|**66**|Sept: [8]( [6]( [5]( [4]( [3]( [2]( Aug: [31]( [30]( [29]( [28]( [27](
+|St Paul’s Greystanes|\+0|13|Sept: [4]( [3]( [2](
+|**Concord/Liverpool Hospital**\*|**+3**|**7**|Concord = Sept: [8]( [7]( Liverpool = Sept: [7]( [6]( [4]( [1]( Aug: [13](
+|Reddam Early Learning Centre, Lindfield|\+0|3|Sept: [1]( Aug: [30](
+
+^(\*The case reported on the 06/07 worked at both Concord Hospital ED) *^(and)* ^(Liverpool Hospital ED while potentially infectious. Therefore, it is probable that this case is the source of the first Concord Hospital ED case \[07/09\]. In total, NSW Health reports that there are 7 people associated with this cluster, 6 of whom are HCWs and 1 hospital visitor \[08/09\].)
+
+# Recently affected educational institutions - last updated 3:30 PM [08/09]
+
+|School|Suburb|LGA|Last 24 hours|TOTAL|Reported|
+|:-|:-|:-|:-|:-|:-|
+|**Kincoppal Rose Bay School**|**Rose Bay**|**Waverley**|**+1**|**3**|Sept: [8]( [6](
+|Regents Park Christian School|Regents Park|Canterbury-Bankstown/Cumberland|\-|1|Sept: [3](
+|Girraween Public School|Girraween|Cumberland|\-|2|Sept: [2]( [1](
+|St Paul's Catholic College|Greystanes|Cumberland|\-|4|Sept: [1]( Aug: [30](
+|Homebush Public School|Homebush|Strathfield|\-|0|Sept: [1]( Aug: [28](
+|Double Bay Public School|Double Bay|Woollahra|\-|1|Aug: [28](
+|St Gertrude's Catholic Primary School|Smithfield|Fairfield|\-|1|Aug: [28](
+|Ryde Secondary College|Ryde|Ryde|\-|1|Aug: [28](
+|Riverstone High School|Riverstone|Blacktown|\-|1|Aug: [26](
+|Wyndham College|Quakers Hill|Blacktown|\-|1|Aug: [26](
+|Schofields Public School|Schofields|Blacktown|\-|0|Aug: [27](
+
+&amp;#x200B;
+
+# Latest COVID-19 case locations in NSW - as of 08/09 [8:30 PM]
+
+Please view the [NSW Gov]( website for the most up to date information, including information concerning additional [locations]( and [Sydney bus and train routes]( where you are required to monitor yourself for [COVID-19 symptoms](
+
+|[**Increased testing and surveillance**]( and get tested immediately**](
+|:-|:-|
+|Bankstown (suburb)|**Epping: Fitness Plus (new addition: 08/09)**|
+|Cumberland LGA|**Moorebank**: New Brighton Golf Club|
+|Fairfield LGA|**Newtown**: It’s Time for Thai restaurant|
+|Ku-ring-gai LGA|**Newtown**: Kuleto's Cocktail Bar|
+|Liverpool LGA|**Paddington**: Four in Hand Pub|
+|Mt Druitt (suburb)|**Prestons**: Life in the Spirit Ministry|
+|Parramatta LGA|**Randwick**: Fitness First|
+|Randwick LGA|**Sydney**: City Tattersalls Fitness Centre|
+|Sutherland LGA|**Sydney**: Hyde Park Medical Centre|
+|Eastern part of City of Sydney LGA ||
+|Waverley LGA||
+|Willoughby LGA||
+|Woollahra LGA||
+
+# Also see: [Recent NSW media releases and public health alerts](
+
+**Sources:**
+
+* [NSW Health - media release: 8th September](
+* [NSW COVID-19 statistics]( \[Updated Daily\]
+* [Data.NSW]( \[Updated daily, except on weekends\]
+* [COVID-19 weekly surveillance in NSW]( \[Published 2/09/20\]
+++++++++++
+ NSW reports 0 new local cases and 1 new overseas case # New cases reported in the last 24 hours
+
+* **1** is a returned overseas traveller in hotel quarantine.
+* Community transmission = 🍩 ✅✅✅
+
+**Note:**
+
+&gt;**1.** [COVID-19 weekly surveillance in NSW]( \[**NEW!** ✅ Published 24/09/20\]  
+&gt;  
+&gt;**2.** [A COVID safe summer]( Dr Kerry Chant  
+&gt;  
+&gt;**3.** NSW Health is still seeking to identify passengers who caught a Silver Service taxi at the following times and locations:
+
+[These passengers should call the NSW Health Call Centre on 9391 9000 for further advice.](
+
+# Case and Test Summary
+
+**Last updated 11:05 AM \[26/09\]**
+
+[Click on the image or this caption to view\/enlarge table.](
+
+# Sources of confirmed cases
+
+**Last updated 10:30 AM \[25/09\]**
+
+To track reclassification across time, [check out our wiki page](
+
+[Click on the image or this caption to view\/enlarge table.](
+
+**September 2020 source totals - as of 24/09 :** [For a breakdown see here.](
+
+[Click on the image or this caption to view\/enlarge table.](
+
+# Recent Clusters
+
+**Last updated 11:05 AM \[26/09\]**
+
+The name of each cluster links to a wiki page where the initial cases associated with the cluster are detailed, as well as information concerning the original source of each cluster.
+
+|*Cluster*|*Last 24 hours*|*Total*|*Reported*|
+|:-|:-|:-|:-|
+|[Sydney CBD]( [16]( [13]( [11]( [9]( [8]( [6]( [5]( [4]( [3]( [2]( Aug: [31]( [30]( [29]( [28]( [27](
+|[St Paul’s Greystanes]( [13]( [12]( [10]( [4]( [3]( [2]( [1]( Aug: [30](
+|[Concord/Liverpool Hospital]( = Sept: [21]( [18]( [17]( [16]( [15]( [12]( [11]( [10]( [9]( [8]( [7]( **Liverpool** = Sept: [18]( [11]( [7]( [6]( [4]( [1]( Aug: [13](
+|[Eastern Suburbs Legion Club]( [17]( [14]( [13]( [11]( [10](
+
+# Recently affected Educational Institutions
+
+**Last updated 11:05 AM \[26/09\]**
+
+|*School*|*Suburb, LGA*|*Last 24 hours*|*TOTAL (students)*|*Reported*|
+|:-|:-|:-|:-|:-|
+|[Blue Mountains Grammar School]( Falls, City of Blue Mountains|\-|2|Sept: [16]( [11](
+
+# Latest COVID-19 case locations in NSW
+
+**Last updated 10:53 AM \[26/09\]**
+
+Please view the [NSW Gov]( website for the most up to date information, including information concerning additional [locations]( and [Sydney bus and train routes]( where you are required to monitor yourself for [COVID-19 symptoms](
+
+|[**Increased testing and surveillance**]( and get tested immediately**](
+|:-|:-|
+|Bankstown (suburb)|**Glen Alpine:** Campbelltown Golf Club|
+|Blue Mountains LGA|**Mollymook:** Bannisters Pavilion Rooftop Bar &amp; Grill|
+|Cumberland LGA|**Ulladulla:** Carlo's Italian Ristorante Bar &amp; Seafood|
+|Fairfield LGA|**Ulladulla:** Milton Ulladulla Ex Servos Club|
+|Hunters Hill LGA||
+|Liverpool LGA||
+|Parramatta LGA||
+
+# [A collated list of NSW media releases and public health alerts are also available on our Wiki](
+
+**Sources:**
+
+* [NSW Health - media release: 25th September](
+* [NSW COVID-19 statistics]( \[Updated Daily\]
+* [Data.NSW]( \[Updated daily, except on weekends\]
+* [Press conferences and video updates]( \[Updated Daily\]
+* [COVID-19 weekly surveillance in NSW]( \[**NEW!** ✅ Published 24/09/20\]
+++++++++++
+ NSW records 9 new local cases and 3 new overseas cases # New cases reported in the last 24 hours
+
+* **5** are linked to a known case or cluster including 3 linked to the August CBD cluster.
+* 3 locally acquired, including 2 in a SE family, with no identified source and is currently under investigation. 
+* 1 linked to a previously reported case in South Eastern Sydney whose source is under investigation 
+* 3 are returned travellers in hotel quarantine
+
+&amp;#x200B;
+
+# Cases to date
+
+||Last 24 hours|TOTAL|
+|:-|:-|:-|
+|Confirmed cases|\+12|3,902|
+|[***Active (NSW Gov)***](
+|Recovered|N/A|N/A|
+|Deaths|\+0|54|
+|[Tests conducted](
+|Treated by NSW Health|\+11|86|
+|Hospitalised||10|
+|ICU|\+1|6|
+|Ventilated||3|
+|ECMO||0|
+
+&amp;#x200B;
+
+# NSW media releases in the last 14 days
+
+|*Date published*|*Title*|
+|:-|:-|
+|02/09|**NSW Education**: [COVID-19 update – BWSC Umina campus remains operational](
+|01/09|**NSW Government:** [Increased mobility on NSW VIC border](
+|31/08|**NSW Government:**[NSW border closure no longer acceptable for agriculture](
+|30/08|**NSW Government:**[More mental health support for regional students](
+|30/08|**NSW Health:** [Public health alert](
+|29/08|**NSW Health:** [City Tattersalls Fitness Centre](
+|28/08|**NSW Health:** [NSW Health Alert: 14 day guidelines for Aged Care visitors](
+|27/08|**NSW Health:** [Public health alert](
+|26/08|**NSW Health:** [Royal Hospital for Women at Randwick, City Tattersalls, Virgin Gym Zetland, bus routes in Blacktown, Rouse Hill and Mt Druitt](
+|25/08|**NSW Health:** [City Tattersalls Fitness Centre](
+|24/08|**NSW Government:** [Western and South West Sydney testing blitz](
+|22/08|**NSW Health:** [Second hotel security guard tests positive](
+
+&amp;#x200B;
+
+# Sources of confirmed cases
+
+||Last 24 hours|This week|TOTAL|
+|:-|:-|:-|:-|
+|Locally - Known||64|1,336|
+|Locally - Unknown||5|388|
+|Interstate||0|89|
+|Overseas||12|2,077|
+|Under investigation||0|0|
+
+&amp;#x200B;
+
+# Clusters in the last 14 days
+
+|Cluster|Last 24 hours|TOTAL|Reported|
+|:-|:-|:-|:-|
+|Sydney CBD|\-|52|Sept: [2]( Aug: [31]( [30]( [29]( [28]( 27|
+|Reddam Early Learning Centre, Lindfield|\-|3|Sept: [1]( Aug: [30](
+|St Paul’s Greystanes|\-|10|Sept: [2](
+|Liverpool Hospital|\-|4|Sept: [1]( Aug: [13,](
+|Our Lady of Mercy School, Parramatta|\-|7|Aug: [25]( [17]( [15]( [12]( [11]( [9](
+|Thai Rock Restaurant Potts Point and linked clusters|\-|38|Aug: [23]( [15]( [8]( [7]( [6]( [5]( [4]( [3]( [2]( [1]( July: [31]( [30]( [29]( [28](
+|July funeral events in the Bankstown area|\-|76|Aug: [22]( [20]( [18]( [17]( [15]( [14]( [12]( [8]( [6]( [4]( [3]( [2]( [1]( July: [31]( [30]( [29]( [28]( [27]( [26](
+|Tangara School, Cherrybrook|\-|26|Aug: [22]( [16]( [15]( [14]( 13, [12]( [11]( [10]( [9]( [8](
+
+&amp;#x200B;
+
+# Affected educational institutions in the last 14 days
+
+|School|Suburb|LGA|Last 24 hours|TOTAL|Reported|
+|:-|:-|:-|:-|:-|:-|
+|Girraween Public School|Girraween|Cumberland|\-|1|Sept: [1](
+|St Paul's Catholic College|Greystanes|Cumberland|\-|4|Sept: [1]( Aug: [30](
+|Homebush Public School|Homebush|Strathfield|\-|0|Sept: [1]( Aug: [28](
+|Double Bay Public School|Double Bay|Woollahra|\-|1|Aug: [28](
+|St Gertrude's Catholic Primary School|Smithfield|Fairfield|\-|1|Aug: [28](
+|Ryde Secondary College|Ryde|Ryde|\-|1|Aug: [28](
+|Riverstone High School|Riverstone|Blacktown|\-|1|Aug: [26](
+|Wyndham College|Quakers Hill|Blacktown|\-|1|Aug: [26](
+|Schofields Public School|Schofields|Blacktown|\-|0|Aug: [27](
+
+&amp;#x200B;
+
+# Latest COVID-19 case locations in NSW - as of 01/09
+
+The table below was last updated at 14:38:29 PM on Tuesday, 1 September. Please view the [NSW Gov]( website for the most up to date information.
+
+|[**Increased testing and surveillance**]( and get tested immediately**](
+|:-|:-|
+|Campbelltown LGA|**Bus route X39**|
+|Canterbury-Bankstown LGA|**Caringbah**: Highfield Caringbah|
+|Eastern part of City of Sydney LGA |**Hunters Hill**: Hunters Hill Bowling Club (indoor dining room) |
+|Fairfield LGA|**Marrickville:** Anytime Fitness|
+|Hornsby Shire LGA|**Newtown**: It’s Time for Thai restaurant|
+|The Hills LGA|**Randwick**: Fitness First|
+|Liverpool LGA|**Sydney**: City Tattersalls Fitness Centre|
+|Parramatta LGA|**Zetland**: Virgin Gym|
+|Woollahra LGA||
+
+&amp;#x200B;
+
+**OTHER INFORMATION**:
+
+* [**Monitor for symptoms if you've been to these locations**](
+* [**Public transport routes**](
+
+&amp;#x200B;
+
+# Locally acquired, source not identified - as of 01/09
+
+NOTE: The data below is for confirmed COVID-19 cases only based on the location of the usual residence, not necessarily where the virus was contracted.
+
+|Reported|Postcode - LGA|
+|:-|:-|
+|29/08|2770 - Blacktown (C)|
+|28/08|2145 - Cumberland (A)|
+|27/08|2762 - Blacktown (C)|
+|27/08|2163 - Fairfield (C)|
+|27/08|2164 - Fairfield (C)|
+|27/08|2566 - Campbelltown (C) (NSW)|
+|26/08|2762 - Blacktown (C)|
+|26/08|2762 - Blacktown (C)|
+|25/08|2762 - Blacktown (C)|
+|25/08|2762 - Blacktown (C)|
+|21/08|2194 - Canterbury-Bankstown (A)|
+|21/08|2168 - Liverpool (C)|
+
+&amp;#x200B;
+
+* NSW Health - media release: 3rd September
+* [Case statistics - up to 8pm 2 September 2020](
+* [COVID-19 weekly surveillance in NSW](
+* [NSW data](

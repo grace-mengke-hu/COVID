@@ -1,0 +1,114 @@
+
+++++++++++
+ 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [Wales] Betsi Cadwaladr failed to report dozens of Covid-19 deaths. [removed]
+++++++++++
+ Re: not counting deaths after 28 days. SAGE scientist specifically cites heart attacks as a type of unrelated death [removed]
+++++++++++
+ New UK deaths announced May 11h 2020  **Breakdown of deaths by nation**
+
+* [NHS England]( Daily Deaths: **209,** Total: **23,359**
+* [NHS England]( Cases where COVID-19 is mentioned on the death certificate and no positive test result was received. Daily Deaths: **()**, Total: **()**
+* [Public Health Wales]( Daily Deaths: **(5)** Total: **(1,116)**
+* [HSC N Ireland]( Daily Deaths: **5,** Total: **435**
+* [Scotland (HPS)]( Daily Deaths: **10,** Total: **1,857.**
+
+Aggregated Daily Deaths: **(229)**, Total: **(26,767)** \- Figures correct as of 10-05-20 - Excludes England Care Home &amp; Community Deaths.
+
+**Important update:** DHSC are currently re-writing history. Check out the ([**backdated**]( graph below. DHSC has just released information on the number of combined deaths in the UK. It confirms the death toll well above 1000+ per day for at least 7 days during the April period.
+
+**Still updating a information comes in, please bare with me.**
+
+**Announced deaths and cases for the UK**
+
+* [DHSC]( Daily Deaths: **()**, Total: **()** (old method)
+* PHE &amp; DHSC Combined Daily Deaths: **()** Total: **()**. (new method)
+* England Care Home &amp; Community Deaths: **()**, Total: **().**
+* Daily Lab-Confirmed UK Cases: **()**, Total: **().**
+
+**Announced number of people tested in the UK**
+
+* People tested **:** **()**
+* Cumulative Total: **()**
+
+**Additional information:**
+
+* 10-05-20: HSC N Ireland announces - () new deaths, Total: ()
+* 10-05-20: HPS Scotland announces - () new deaths, Total: ()
+* The R number *(effective reproduction number)* in Scotland is between 0.7 and closer to 1.
+* The R number in the UK is estimated to be between 0.5 and 0.9.
+* Trends in daily [COVID-19 data]( for Scotland
+* Compare with [yesterday's figures.](
+++++++++++
+ The Latest UK deaths announced July 6th 2020 **Post Summary:**
+
+* [NHS England]( Announced Daily Deaths **15,** Total. **28,903** (see backlog breakdown)
+* [NHS England]( Overnight Hospital Deaths **3**
+* [England]( Daily Deaths **15,** Total. **39,663**
+* **+** England Community Daily Deaths **1**, Total.**10,760**
+* [Wales:]( Daily Deaths **0,** Total. **1,530**
+* [Scotland]( Daily Deaths **0**, Total **2,488**
+* [N Ireland]( Daily Deaths **0**, Total. **554**
+
+**UK Combined:**
+
+* Daily Deaths **16**, Total. **44,236**
+
+Compare with [yesterday's figures](
+
+**Post Notes**: NHS England not counted: cases where COVID-19 is mentioned on the death certificate and no positive test result was received therefore, not included in the daily count. Asterisk\* waiting for new data, will update when it becomes available.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+++++++++++
+ ONS update: -560 excess deaths in week 28 (w/e 10th July) [
+
+&gt;The number of deaths registered in England and Wales in the week ending 10 July 2020 (Week 28) was 8,690, this was 450 deaths fewer than Week 27.  
+&gt;  
+&gt;In Week 28, the number of deaths registered was 6.1% below the five-year average (560 deaths fewer), this is the fourth consecutive week that deaths have been below the five-year average; the number of deaths in care homes, hospitals and other communal establishments were also fewer than the five-year average, while the number of deaths in private homes was 706 deaths higher than the five-year average.  
+&gt;  
+&gt;Of the deaths registered in Week 28, 366 mentioned “novel coronavirus (COVID-19)”, the lowest number of deaths involving COVID-19 in the last 16 weeks and a 31.2% decrease compared with Week 27 (532 deaths), accounting for 4.2% of all deaths in England and Wales.
+++++++++++
+ Latest Weekly Deaths report from the Office For National Statistics, Released May 26th 
+++++++++++
+ Face mask official advice still wrong  [ 
+
+## Facemasks
+
+We do not recommend the use of facemasks as an effective means of preventing the spread of infection. Facemasks play an important role in clinical settings, such as hospitals, but there’s very little evidence of benefit from their use outside of these settings.
+++++++++++
+ 30th March - Updated comparison of UK's and Italy's death numbers 
+++++++++++
+ 149 deaths in 24hrs latest figures from Italy. Rep of Ireland 1st death reported 
+++++++++++
+ [NHS England Data] PSA: The daily reported deaths do not all occur on one particular day. A significant number of deaths are backdated, as far back as early March. 

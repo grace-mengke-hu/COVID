@@ -1,0 +1,1113 @@
+
+++++++++++
+ Redditors are criticizing the admins en masse for creating an award dedicated to donating to the WHO 
+++++++++++
+ COVID-19 Portal for 19 Canadian Cities I work for [Macadamian]( a healthcare software company based in Gatineau, QC. My company has built a web portal for Canadians to find trustworthy information about COVID-19 in their community. 
+
+It includes:
+
+* Searchable news from reputable sources 
+
+* Useful links from all levels of government
+
+* A moderated community feed where anyone can post about canceled events, closed businesses, or what's open
+
+* Live statistics at the provincial, national, and global level
+
+
+[COVID-19 Watch Community ](
+
+Feedback is welcome!
+++++++++++
+ ICU Bed/Ventilator Capacity - Ontario I see a lot of great US-based data on how many, or percentage used ICU/Ventilators. [here]( for example, Florida is at capacity.
+
+What I don't  see a lot of is information on how many/% used ICU beds and ventilators that we have here in Canada or specifically Ontario.  There were a lot of press releases about it [last April]( with numbers that may or may not end up to be correct nor which hospitals.
+
+Does anyone have a good source of information on installed base of ICUs/Ventilators in Ontario and % used?
+++++++++++
+ Canadian Armed Forces deployed to Saskatchewan in emergency response to COVID-19 to provide humanitarian aid - but don't worry ITS NOT A FUCKEN NATIONAL EMERGENCY 
+++++++++++
+ Ontario Telehealth line down for technical difficulties... contact your local public health for support 
+
+
+
+"We are currently experiencing technical issues with the Telehealth Ontario Line. During this service interruption, we ask that you contact your local public health unit for immediate support.
+We are working to resolve this situation, and apologize for any inconvenience."
+
+
+++++++++++
+ What are the ongoing effects of COVID-19 on Canadian businesses? / Quels sont les effets que la COVID-19 continue d’exercer sur les entreprises canadiennes? *\[We are Canada’s national statistical agency. We are here to engage with Canadians and provide them with high-quality statistical information that matters!\]*
+
+To what extent have Canadian businesses’ revenue and expenses changed from April 2019 to April 2020? As Canada’s economy starts to recover, our Canadian Survey on Business Conditions provides a [closer look]( at some of the ongoing effects of COVID-19 on Canadian businesses. This survey was conducted with the support of the Canadian Chamber of Commerce.
+
+\*\*\*
+
+*\[Nous sommes l’organisme national de statistique du Canada. Nous sommes ici pour discuter avec les Canadiens et leur fournir des renseignements statistiques de grande qualité qui comptent!\]*
+
+Dans quelle mesure les revenus et les dépenses des entreprises canadiennes ont-ils changé dans la période allant d’avril 2019 à avril 2020? Au moment où l'économie canadienne amorce une reprise, notre Enquête canadienne sur la situation des entreprises permet [d’examiner de plus]( près certains effets continus de la COVID-19 sur les entreprises canadiennes. Cette enquête a été menée avec l’appui de la Chambre de commerce du Canada.
+++++++++++
+ PhD Student Research on COVID-19 and Sleep quality- not affiliated with the subreddit.  
+
+Hello Everyone,
+
+I am running a study at the University of Calgary to investigate more on the current situation. Could I ask you for 20 minutes of your time to fill out some questionnaires? Thanks!
+
+Dear all,
+
+We would like to invite you to participate in an online study investigating the effects of COVID-19 pandemic on the quality of sleep and emotions.
+
+You will be asked to complete a series of questionnaires assessing quality of sleep, mood, physical activity and emotional processes during the COVID 19 pandemic. The total time required to complete the survey is approximately 20 minutes. To begin participation in the study and complete the questionnaires please click here [**
+
+**If you require information about the COVID-19 pandemic and are looking for resources please visit the following links:**
+
+[** **or**
+
+[**
+
+Thank you for participating in our research study.
+++++++++++
+ Clinical data that supported Health Canada’s conditional authorization of remdesivir for COVID-19 is now available on the clinical data portal 
+++++++++++
+ Comparing predictions from 1 week ago. On April 9, Health Canada models suggested [by April 16 there would be 27,215 cases (22,580 to 31,850) and 500 - 700 deaths.](  
+
+In reality, [there are 28,884 and 1048 deaths.]( as of 7 pm eastern on April 16.
+++++++++++
+ Canada pledges $170M to develop online mental health services amid coronavirus outbreak 
+++++++++++
+ Quebec City - SPVQ puts an end to 10 prohibited gatherings on Saturday night Le Service de police de la ville de Québec (SPVQ) est intervenu pour mettre fin à une dizaine de rassemblements dans la nuit de samedi à dimanche, tout de suite après l’annonce du gouvernement Legault décrétant leur interdiction. Il l’a fait « à la suite de dénonciations citoyennes ».
+
+The Quebec City Police Service (SPVQ) intervened to end ten gatherings on the night of Saturday to Sunday, immediately after the announcement by the Legault government decreeing their ban. He did so "following citizen denunciations".
+
+[La Presse - Le SPVQ a mis fin à une dizaine de rassemblements interdits](
+
+[English Version - Translated](
+++++++++++
+ Manitoba Nov. 30 update: 343 new cases, 11 deaths [
+
+343 new cases have been announced, 1 was removed due to a data correction bringing the total to 16 825
+
+207 in the Winnipeg Health Region
+
+53 in the Southern Health Region
+
+46 in the Northern Health Region
+
+23 in the Interlake-Eastern Health Region
+
+14 in the Prairie Mountain Health Region
+
+11 deaths have been announced bringing the total to 312
+
+7 in Winnipeg
+
+A male in his 30s
+
+A female in her 40s
+
+A female in her 70s linked to the outbreak at Health Science Centre unit GA3
+
+A male in his 80s linked to the outbreak at Charleswood Care Centre
+
+A male in his 80s linked to the outbreak at Golden Links Lodge
+
+A female in her 90s linked to the outbreak at St. Norbert Personal Care Home
+
+A female in her 90s
+
+2 in the Downtown Health District, 2 in the Fort Garry Health District, 1 in the Inkster Health District, 1 in the Point Douglas Health District, 1 in the Transcona Health District
+
+2 in the Southern Health Region
+
+A male in his 80s linked to the outbreak at Villa Youville Personal Care Home
+
+A male in his 90s linked to the outbreak at Bridgepark Manor Assisted Living Facility
+
+1 in the City of Steinbach and 1 in the Ste Anne/La Broquerie Health District
+
+A male and female in their 80s from the City of Brandon in the Prairie Mountain Health Region, Linked to the outbreak at Fairview Personal Care Home
+
+342 currently hospitalized with 43 in ICU
+
+The current 5 day test positivity rate is 13.4%, 13.7% in Winnipeg
+
+7 253 people have recovered with 9 260 active cases
+
+2 611 tests were completed Sunday bringing the total to 355 081
+
+Outbreaks have been declared at Lakeshore General Hospital in Ashern and West Park Manor Personal Care Home in Winnipeg. Both sites move to critical (red) on the pandemic response system.
+
+The outbreaks at Women's Correctional Centre in Headingly and Keeyask Generating Station near Thompson have been declared over
+++++++++++
+ Anyone have success organizing a community/municipal preparedness plan? Has any had any success starting a community or municipal preparedness plan? I tried thirteen years ago and it was like herding cats.
+++++++++++
+ Get ready for a virtual Canada Day party this year. With gatherings banned, federal government planning online celebration for July 1 
+++++++++++
+ Canada must improve COVID-19 data collection for Indigenous communities, minister says -CBC 
+++++++++++
+ Get ready for a virtual Canada Day party this year. With gatherings banned, federal government planning online celebration for July 1 
+++++++++++
+ Community spread of COVID-19 in Ottawa likely, says Public Health: "there could now be hundreds to even a thousand cases in the community" 
+++++++++++
+ Toronto ditches province's health information system, develops 'more modern' tool to track COVID-19 data 
+++++++++++
+ COVID-19 is causing long-term mental health problems in some patients - MENTAL HEALTH 
+++++++++++
+ What are the ongoing effects of COVID-19 on Canadian businesses? / Quels sont les effets que la COVID-19 continue d’exercer sur les entreprises canadiennes? *\[We are Canada’s national statistical agency. We are here to engage with Canadians and provide them with high-quality statistical information that matters!\]*
+
+To what extent have Canadian businesses’ revenue and expenses changed from April 2019 to April 2020? As Canada’s economy starts to recover, our Canadian Survey on Business Conditions provides a [closer look]( at some of the ongoing effects of COVID-19 on Canadian businesses. This survey was conducted with the support of the Canadian Chamber of Commerce.
+
+\*\*\*
+
+*\[Nous sommes l’organisme national de statistique du Canada. Nous sommes ici pour discuter avec les Canadiens et leur fournir des renseignements statistiques de grande qualité qui comptent!\]*
+
+Dans quelle mesure les revenus et les dépenses des entreprises canadiennes ont-ils changé dans la période allant d’avril 2019 à avril 2020? Au moment où l'économie canadienne amorce une reprise, notre Enquête canadienne sur la situation des entreprises permet [d’examiner de plus]( près certains effets continus de la COVID-19 sur les entreprises canadiennes. Cette enquête a été menée avec l’appui de la Chambre de commerce du Canada.
+++++++++++
+ Coronavirus: White House stimulus plan includes US$1,000 cash payments to Americans. — Wonder if any similar plans for Canada? 
+++++++++++
+ Ontario November 18 update: 1417 New Cases, 1495 Recoveries, 32 Deaths, 33,440 tests (4.24% positive), Current ICUs: 127 (+0 vs. yesterday) (+39 vs. last week) Link to report: 
+
+Detailed tables: [Google Sheets mode]( and [HTML of Sheets, loads faster but looks ugly](
+
+* 109 new school cases. 670 (13.9% of all) schools have active cases
+* Backlog: 36,671 (+11,236), 33,440 tests completed (250.0 per 100k) --&gt; 44,676 swabbed
+* Positive rate (Day/Week/Prev Week): 4.24% /  3.82% /  3.43% - [Chart](
+* Current hospitalizations: 535(+6), ICUs: 127(+0), Ventilated: 78(+3), [vs. last week: +111 / +39 / +21] - [Chart](
+* 72 new hospitalizations, 12 new ICU admissions
+* *52.7% of today's cases are in people under the age of 40.* /s
+* 8.3% or 117 of today's cases are in people aged 70+
+* 490 of today's cases relate to episode dates more than 5 days ago
+
+**Global Comparison (Last 14 days/100k / % positive (week))**
+
+* Belgium: 657.9 (16.96%), France: 796.8 (27.93%), Spain: 534.0 (12.47%)
+* UK: 505.4 (8.06%), Italy: 792.3 (28.73%), Sweden: 556.5 (12.65%)
+* Germany: 308.0 (8.02%), Switzerland: 1074.7 (27.26%), Luxembourg: 1241.6 (6.18%)
+* Korea: 4.7 (1.80%), NZ: 0.8 (0.04%), Australia: 0.58 (0.03%)
+* USA: 600.4 (10.11%), Canada: 164.5 (8.00%)
+
+|Reporting_PHU|Today|Averages-&amp;gt;&amp;gt;|Last 7|Prev 7|Per 100k-&amp;gt;&amp;gt;|Last 7/100k|Prev 7/100k|Source (week %)-&amp;gt;&amp;gt;|Close contact|Community|Outbreak|Travel|Ages (week %)-&amp;gt;&amp;gt;|&amp;lt;40|40-69|70+|More Averages-&amp;gt;&amp;gt;|Oct|Sep|Aug|Jul|Jun|May|
+:--|--:|:--|--:|--:|:--|--:|--:|:--|--:|--:|--:|--:|:--|--:|--:|--:|:--|--:|--:|--:|--:|--:|--:|
+|Total|1417||1422.1|1216.7||74.4|63.7||48.7|56.1|-5.8|1||51.6|38|10.3||774.8|313.4|100.1|133.8|240.3|376.7|
+|||||||||||||||||||||||||
+|Peel|463||400.6|333.4||202.9|168.9||53.1|40.6|5.5|0.7||56.2|37|6.7||151.9|65.7|19.7|23.9|45.2|69.4|
+|Toronto PHU|410||459.9|401||117.8|102.8||28.7|85.4|-14.7|0.6||49.6|39.1|11.3||286.2|110.4|21.1|33.9|97.7|168.9|
+|York|178||143.9|114.6||90.7|72.3||56.9|39.5|3.1|0.5||45|44.4|10.6||80.3|26.1|6.2|9.7|18.8|28.8|
+|Halton|63||54.9|47.7||70|60.9||47.1|41.1|11.2|0.5||51.9|38.8|9.2||27.9|9.7|1.9|2.3|3.7|6.2|
+|Waterloo Region|54||54.1|32||70.8|41.9||38|45.4|16.1|0.5||49.4|34.9|16.6||13.6|9|2.8|2.7|7.2|13.2|
+|Hamilton|46||34|49.4||44.3|64.4||39.1|24.4|36.1|0.4||44.2|35.7|20.1||20.9|6.1|2.7|1.7|5.4|8.4|
+|Durham|40||54.6|36.6||59.1|39.6||52.4|37.7|9.7|0.3||55.3|40.1|5||26.7|8.8|3|3.4|8.2|16.6|
+|Simcoe-Muskoka|25||26.6|16.3||34.4|21.1||61.3|29.6|7.5|1.6||57.5|36.1|6.5||15.6|6.3|1.5|2.1|4.3|6.4|
+|Wellington-Guelph|23||17.3|12.9||30.3|22.6||33.9|50.4|14|1.7||47.1|45.5|7.5||7|2.8|1.1|1.7|3.2|3.6|
+|Ottawa|22||50.7|51.7||38|38.7||177.7|113.8|-197.7|6.2||56.3|29.3|14.3||86.5|44.9|14.4|14.1|4.7|20.5|
+|Thunder Bay|20||6.4|3.3||29.6|15.1||22.2|8.9|68.9|0||26.7|68.9|4.4||0.4|0.1|0.3|0.1|0.3|0.3|
+|Windsor|17||24.3|12.7||42.6|22.3||50.6|45.9|-0.6|4.1||51.2|38.2|10.6||5.6|4.6|7|22.8|20.9|12.3|
+|Southwestern|14||9.9|5.4||77.5|42.7||52.2|31.9|11.6|4.3||44.9|31.8|23.1||1.7|0.5|3.6|1.9|0.3|0.5|
+|Niagara|9||19.4|30||30.4|46.9||68.4|11|20.6|0||39|40.4|20.6||11.4|4.6|2.4|3.5|3.8|5.1|
+|Haldimand-Norfolk|5||3.4|2.9||21.9|18.2||58.3|29.2|12.5|0||58.4|37.5|4.2||1.6|0.4|0.7|0.5|7.5|1|
+|Kingston|3||5|1.7||18.1|6.2||60|14.3|20|5.7||85.8|11.5|2.9||1.5|0.6|0.1|0.6|0.9|0|
+|Brant|3||7|8.1||36.3|42.2||53.1|55.1|-10.2|2||49|38.7|14.3||4.5|0.9|0.6|0.7|0.5|0.5|
+|Northwestern|3||1.3|0.9||11.8|7.8||44.4|55.6|0|0||33.3|44.4|22.2||0.7|0.2|0.1|0.3|0.5|0.2|
+|Chatham-Kent|3||5.3|1.7||36.3|11.8||35.1|21.6|43.2|0||62.1|35.1|2.7||1.3|0.2|3.9|2.8|0.5|2|
+|Lambton|3||1.3|1.3||7.1|7.1||55.6|77.8|-33.3|0||22.2|66.6|11.1||0.8|0.3|1.3|0.5|0.7|2.7|
+|Rest|13||42.2|53.1||13.5|17.1||49.2|24.1|22.7|4.1||56.5|24.3|19||28.7|11.2|5.7|4.6|6|10.1|
+
+
+
+
+
+
+**Canada comparison:** 
+
+|Province|Yesterday|Averages-&amp;gt;&amp;gt;|Last 7|Prev 7|Per 100k-&amp;gt;&amp;gt;|Last 7/100k|Prev 7/100k|Positive % - last 7|
+:--|--:|:--|--:|--:|:--|--:|--:|--:|
+|Canada|4276||4775.9|4014.6||88.9|74.8|7.99|
+||||||||||
+|Ontario|1249||1423.1|1154||68.4|55.5|3.91|
+|Quebec|982||1271.9|1180.3||104.9|97.4|12.12|
+|Alberta|773||869.9|705.9||139.3|113|inf|
+|British Columbia|717||631.7|491.3||87.2|67.8|10.6|
+|Manitoba|269||390|357.3||199.4|182.6|11.17|
+|Saskatchewan|240||172.6|120.1||102.9|71.6|10.69|
+|Moreovit|34||8.3|0.3||149.6|5.2|15.72|
+|New Brunswick|4||3.4|1.6||3.1|1.4|0.99|
+|Nova Scotia|5||2.7|2.6||2|1.8|0.37|
+|Newfoundland|2||1.1|0.9||1.5|1.2|0.41|
+|Northwest Territories|0||0.7|0||11.2|0|2.51|
+|Yukon|1||0.3|0||4.9|0|1.21|
+|Prince Edward Island|0||0.1|0.4||0.6|1.9|0.05|
+
+**Today's deaths:** 
+
+|Reporting_PHU|Age_Group|Client_Gender|Case_AcquisitionInfo|Case_Reported_Date|Episode_Date|
+:--|:--|:--|:--|:--|:--|
+|Hamilton|80s|FEMALE|Outbreak|2020-11-16|2020-11-14|
+|Toronto PHU|80s|MALE|Outbreak|2020-11-12|2020-11-10|
+|Toronto PHU|80s|MALE|Outbreak|2020-11-10|2020-11-09|
+|York|70s|FEMALE|Close contact|2020-11-09|2020-11-08|
+|Peel|40s|MALE|Community|2020-11-10|2020-11-08|
+|Toronto PHU|70s|MALE|Outbreak|2020-11-09|2020-11-08|
+|Toronto PHU|80s|FEMALE|Outbreak|2020-11-11|2020-11-07|
+|Ottawa|90s|FEMALE|Outbreak|2020-11-07|2020-11-06|
+|Toronto PHU|80s|FEMALE|Outbreak|2020-11-06|2020-11-05|
+|Toronto PHU|90s|FEMALE|Community|2020-11-06|2020-11-04|
+|Toronto PHU|90s|FEMALE|Outbreak|2020-11-07|2020-11-04|
+|Halton|80s|MALE|Outbreak|2020-11-05|2020-11-03|
+|Toronto PHU|90s|FEMALE|Outbreak|2020-11-04|2020-11-02|
+|Toronto PHU|90s|FEMALE|Outbreak|2020-11-06|2020-11-02|
+|Hamilton|90s|FEMALE|Outbreak|2020-11-02|2020-11-01|
+|Toronto PHU|80s|MALE|Community|2020-11-03|2020-11-01|
+|Ottawa|90s|FEMALE|Outbreak|2020-11-02|2020-11-01|
+|Peel|90s|MALE|Outbreak|2020-11-05|2020-10-31|
+|Toronto PHU|60s|FEMALE|Outbreak|2020-11-15|2020-10-30|
+|Niagara|80s|FEMALE|Outbreak|2020-10-31|2020-10-28|
+|Toronto PHU|90s|FEMALE|Outbreak|2020-10-29|2020-10-27|
+|Hamilton|80s|FEMALE|Outbreak|2020-11-02|2020-10-27|
+|Toronto PHU|90s|FEMALE|Outbreak|2020-10-24|2020-10-23|
+|Toronto PHU|80s|FEMALE|Outbreak|2020-10-24|2020-10-22|
+|Toronto PHU|90s|FEMALE|Outbreak|2020-10-20|2020-10-18|
+|Toronto PHU|50s|MALE|Close contact|2020-10-22|2020-10-17|
+|Toronto PHU|90s|FEMALE|Outbreak|2020-11-10|2020-10-16|
+|Toronto PHU|90s|FEMALE|Outbreak|2020-10-29|2020-10-16|
+|Toronto PHU|80s|MALE|Outbreak|2020-10-25|2020-10-15|
+|Toronto PHU|90s|FEMALE|Outbreak|2020-10-08|2020-10-08|
+++++++++++
+ Is there any information regarding cases out of the 80+ group and health care workers? I think we are all interested to know a bit more about the source of the infection of those outside the LTC homes and health workers. Defining it as community acquired is definitely not helping much. Many are also direct contact because of positive family members or co-workers. Is there any way to find out more about the source of the transmission? Wouldn’t it help knowing more about the source - if they do contact tracing - to improve the way we all behave?
+++++++++++
+ Gearing up to restart: Businesses’ need for personal protective equipment / Préparatifs pour la reprise : les besoins des entreprises en matière d’équipement de protection individuelle *\[We are Canada’s national statistical agency. We are here to engage with Canadians and provide them with high-quality statistical information that matters!\]*
+
+Using data collected from the Personal Protective Equipment Survey in July 2020, our new [study]( and [infographic](//www150.statcan.gc.ca/n1/pub/11-627-m/11-627-m2020061-eng.htm?utm_source=reddit2&amp;utm_medium=social&amp;utm_campaign=statcan_ppd_2020) examine businesses’ demand for personal protective equipment (PPE) and concerns about lack of supply. 
+
+Here are some highlights:
+
+· As of July, a little over two-thirds (69.1%) of businesses operating in the provinces need, or expect to need, PPE to operate in accordance with COVID-19-related public health guidance.
+
+· At least four out of five businesses in accommodation and food services, health care and social assistance, retail trade, and construction require PPE. 
+
+· Of the businesses that need PPE, two-thirds (67.3%) need at least 4 of the 12 types of PPE covered by the Personal Protective Equipment Survey.
+
+.
+
+*\[Nous sommes l’organisme national de statistique du Canada. Nous sommes ici pour discuter avec les Canadiens et leur fournir des renseignements statistiques de grande qualité qui comptent!\]*
+
+À l’aide de données recueillies dans le cadre de l’Enquête sur l’équipement de protection individuelle de juillet 2020, notre nouvel [article]( et notre nouvelle [infographie]( examinent la demande d’équipement de protection individuelle (EPI) des entreprises et leurs préoccupations quant à leur disponibilité.
+
+Voici quelques faits saillants :
+
+· En juillet, un peu plus des deux tiers (69,1 %) des entreprises en exploitation dans les provinces canadiennes avaient besoin ou prévoyaient avoir besoin d’EPI pour exercer leurs activités en respectant les directives des autorités sanitaires liées à la COVID-19.
+
+· Au moins 4 entreprises sur 5 dans les secteurs des services d’hébergement et de restauration, des soins de santé et de l’assistance sociale, du commerce de détail et de la construction ont indiqué avoir besoin d’EPI.
+
+· Parmi les entreprises ayant besoin d’EPI, les deux tiers (67,3 %) ont déclaré avoir besoin d’au moins 4 des 12 types d’EPI mentionnés dans l’enquête.
+++++++++++
+ People under 40 account for 12 per cent of hospitalized cases of COVID-19: Public health agency corrects data (erroneously stated 30 per cent yesterday) 
+++++++++++
+ Regina declares state of emergency, groups over 5 people are banned 
+++++++++++
+ Alberta declares state of public health emergency, bans indoor gatherings 
+++++++++++
+ Youth create film asking their generation to stay home. "This is one of those big events that our generation will be remembered for: how we dealt with it and how we moved past it and came together as a society.” 
+++++++++++
+ Revelations show mismanagement of pandemic response by Provincial Premiers and Provincial Health Ministers, who overruled expert scientific advice — and a tough Chief Provincial Medical Officers 
+++++++++++
+ Toronto ditches province's health information system, develops 'more modern' tool to track COVID-19 data 
+++++++++++
+ Is Ontario.ca COVID-19 usually a little late to their 10:30AM ET update? Are they usually a little late to their 10:30AM ET and 5:30PM ET updates? Call me a pessimist but this doesn't seem like a good sign.
+
+Source: 
+++++++++++
+ Ontario extends all emergency orders, including limits on social gatherings 
+++++++++++
+ City of Calgary declares a state of local emergency: Closing public libraries and public fitness centres and pools. 
+++++++++++
+ Pages 10 - 12 of the "COVID-19 in Canada: Using data and modelling to inform public health action Technical Briefing for Canadians April 9, 2020" 
+++++++++++
+ Statistics Canada supports Public Health Ontario with contact tracing / Statistique Canada soutient Santé publique Ontario dans ses opérations de recherche de contacts. *\[We are Canada’s national statistical agency. We are here to engage with Canadians and provide them with high-quality statistical information that matters!\]*
+
+We’re putting our people and expertise to work to safeguard Canadians’ health and safety! 
+
+We have started supporting Public Health Ontario [with contact tracing operations to help inform individuals who may have been exposed to COVID-19.]( 
+
+Our multilingual interviewers have experience collecting sensitive information and protecting confidential data, and they have strong infrastructure and training. They can help us reduce the transmission of COVID-19 in Canada.
+
+**\*\*\***
+
+*\[Nous sommes l’organisme national de statistique du Canada. Nous sommes ici pour discuter avec les Canadiens et leur fournir des renseignements statistiques de grande qualité qui comptent!\]*
+
+Nous mettons notre personnel et notre expertise au service de la protection de la santé et de la sécurité des Canadiens! 
+
+Nous avons commencé à soutenir Santé publique Ontario [dans ses opérations de recherche de contacts, pour aider à informer les gens qui auraient pu être exposés à la COVID-19.](
+
+Nos intervieweurs multilingues ont de l’expérience dans la collecte de renseignements de nature délicate et la protection des données confidentielles. Ils sont formés et sont soutenus par une infrastructure solide afin de nous aider à réduire la transmission de la #COVID19 au Canada.
+++++++++++
+ Manitoba Nov. 27 update: 344 new cases, 14 deaths [
+
+344 new cases have been announced bringing the total to 15 632
+
+178 in the Winnipeg Health Region
+
+73 in the Northern Health Region
+
+65 in the Southern Health Region
+
+15 in the Interlake-Eastern Health Region
+
+13 in the Prairie Mountain Health Region
+
+14 more deaths have been announced bringing the total to 280
+
+9 in Winnipeg
+
+A male in his 50s
+
+A male in his 70s
+
+A female in her 70s linked to the outbreak at Parkview Place 
+
+A female in her 80s linked to the outbreak at Saul &amp; Claribel Simkin Centre
+
+A female in her 80s linked to the outbreak at Saul &amp; Claribel Simkin Centre
+
+A male in his 90s linked to the outbreak at St. Norbert Personal Care Home
+
+A male in his 90s linked to the outbreak at Golden Links Lodge
+
+A male in his 90s linked to the outbreak at Golden Links Lodge
+
+A female in her 100s linked to the outbreak at Saul &amp; Claribel Simkin Centre
+
+2 in the Downtown Health District, 4 in the Fort Garry Health District, 1 in the River East Health District, 1 in the St. Boniface Health District, 1 in the St. Vital Health District
+
+2 in the Southern Health Region
+
+A male in his 70s
+
+A male in his 90s linked to the outbreak at Rest Haven Nursing Home
+
+Both in the City of Steinbach
+
+2 in the Interlake-Eastern Health Region
+
+A male in his 50s
+
+A male in his 70s
+
+1 in the Eriksdale/Ashern Health District, 1 in the Springfield Health District
+
+A female in her 90s from the City of Brandon in the Prairie Mountain Health Region. Linked to the outbreak at Fairview Home
+
+322 currently hospitalized with 45 in ICU
+
+The current 5 day test positivity rate is 14.5%, 14.2% in Winnipeg
+
+6 487 people have recovered with 8 865 active cases
+
+3 110 tests were completed Thursday bringing the total to 345 708
+
+Outbreaks have been declared at Misericordia Health Centre on their Transitional Care Unit C6 in Winnipeg, Grace Hospital unit 4 south in Winnipeg and Kin Place Personal Care Home in Oakbank. All sites move to critical (red) on the pandemic response system
+
+The outbreaks at Collège Louis-Riel, Collège Leo Remillard and the Convalescent Home all in Winnipeg have been declared over.
+++++++++++
+ Santé mentale et les stratégies d'adaptation au Québec pendant COVID-19 : Participants recherchés! / Mental Health and Coping in Quebec during COVID-19: Seeking participants! Bonjours à tous,
+
+Comment vous sentez-vous pendant la COVID-19? Comment vous débrouillez-vous? Intéressé à fair avancer la recherche en santé mentale et sur l'adaptation?
+
+Olivia Romano, sous la supervision de Dr. Adrianna Mendrek du Département de Psychologie de l'Uniersité Bishop's, est à la recherche d'adultes qui habitent au Québec pour participer à un sondage anonyme en ligne à propos du genre et su sexe en lien avec la santé mentale et l'adaptation. Ce sondage prendra environ 20-30 minutes de votre temps. Deux cartes-cadeaux de 50,00 $CA seront tirées parmi les participants éligibles. Les deux gagnants choisiront la provenance de leur carte-cadeaux. Cette étude est approuvée par le comité de revue d'éthique de la recherche étudiante à l'Université Bishop's.
+
+Seulement les individus qui répondent aux critères suivants sont éligibles pour participer :  
+**A)** Habitent au Québec consécutivement depuis janvier 2020  
+**B)** Étaient en quarantaine ET/OU habitaient au Québec pendant le confinement mise en place par le gouvernement du Québec  
+**C)** Âgés d'au moins 18 ans
+
+Pous y participer, voici le lien: [
+
+Si vous avez des questions, n'hésitez-pas à envoyer un courriel à Olivia au [oromano18@ubishops.ca](mailto:oromano18@ubishops.ca)
+
+Merci pour votre temps!
+
+\---------------------------------------------
+
+Hello everyone,
+
+How have you been feeling during COVID-19? How have you been coping? Interested in advancing mental health research?
+
+Olivia Romano, under the supervision of Dr. Adrianna Mendrek of the Department of Psychology, is currently looking for adults living in Quebec to participate in an anonymous online survey about gender and sex within the context of mental health and coping. Completion should require no more than 20-30 minutes of your time. Eligible participants, who enter into the draw, will have a chance to win one of two Can$50.00 gift cards of their choice! This study has been approved by the Ethics Review Committee for Student Research at Bishop's University.
+
+Only individuals who meet the following criteria are eligible to participate:  
+A) Have been living in Quebec consecutively since January 2020  
+B) Have been quarantined AND/OR were living in Quebec during the government-imposed lockdown  
+C) Aged 18 years and older
+
+Please use the following link to complete the survey: [
+
+If you have any questions, you can email Olivia at [oromano18@ubishops.ca](mailto:oromano18@ubishops.ca)
+
+Thank you for your time!
+++++++++++
+ Remember, "essential shopping" doesn't mean only giving your money to Wal-Mart or Costco, support your local businesses that struggle far more in this difficult time! (not this particular one, just any local grocer is better than a megacorporation!) 
+++++++++++
+ Personal responsibility, provincial government inaction and Canada's National COVID crisis 
+++++++++++
+ One Grain of Rice, a picture book/youtube video that shows exponential growth Are you having trouble explaining the importance of exponential growth to people in your life. Many people can't picture it. They don't see the big deal at the start of the growth. When my kids were younger I read them the picture book, "One Grain of Rice" by Demi. 
+
+It's the story of Rani, a clever girl who outsmarts a very selfish raja and saves her village. When offered a reward for a good deed, she asks only for one grain of rice, doubled each day for 30 days. Remember your math? That's lots of rice: enough to feed a village for a good long time--and to teach a greedy raja a lesson. 
+
+ [ 
+
+ [ 
+
+Here is a video retelling of the tale. 
+
+ [
+++++++++++
+ Labour market in Canada, April 2020 / Le marché du travail au Canada, avril 2020 In April 2020, 5.5 million Canadians experienced either job loss or reduced hours because of COVID-19. The [April Labour Force Survey results]( released today, reflect labour market conditions during the week of April 12 to April 18, 2020 (when the COVID-19-related economic shutdown had been fully implemented in all provinces and territories).
+
+In April 2020, the unemployment rate rose 5.2 percentage points to 13%, following an increase of 2.2 percentage points in March. Since comparable data became available in 1976, the April 2020 unemployment rate is second only to the 13.1% observed in December 1982.
+
+Check out our new [infographic]( for an overview of Canada’s labour market in April 2020.
+
+\*
+
+En avril 2020, 5,5 millions de Canadiens ont perdu leur emploi ou ont travaillé moins d’heures en raison de la #COVID19. Les [résultats de l'Enquête sur la population active]( d'avril, diffusés aujourd'hui, rendent compte de la situation sur le marché du travail pendant la semaine allant du 12 au 18 avril 2020 (période pendant laquelle l'arrêt de l'activité économique dû à la COVID-19 avait été entièrement mis en place dans toutes les provinces et dans tous les territoires).
+
+En avril 2020, le taux de chômage a augmenté de 5,2 points de pourcentage pour atteindre 13 %. Cela fait suite à la hausse de 2,2 points de pourcentage enregistrée en mars. Depuis que des données comparables sont devenues disponibles en 1976, seul le taux de chômage de 13,1 % observé en décembre 1982 a été plus élevé que le taux enregistré en avril 2020.
+
+Jetez un coup d’œil à notre nouvelle [infographie]( pour un aperçu du marché du travail en avril 2020.
+
+
+++++++++++
+ Alberta bans all indoor social gatherings as province declares 2nd state of public health emergency 
+++++++++++
+ COVID-19 cognition, beliefs and mental health survey **PARTICIPANTS NEEDED FOR STUDY**
+
+  
+How do this global pandemic and consequent social isolation affect our mental health? Professor Ian Gold and other researchers at the Neurophilosophy lab at McGill University are conducting a study on mental health and beliefs during the COVID-19 pandemic. We are interested in how different beliefs and attitudes towards COVID19 (including degree of trust in the government and believing so-called conspiracy theories) impact mental health and cognition. The study will take approximately 25 minutes, and will be conducted online and will be offered in English. You will be asked to answer a series of questions about your experiences, feelings, and beliefs, especially with regard to the COVID-19 pandemic and the related social isolation. By participating, you help researchers better understand the scope of people's beliefs, attitudes and opinions throughout this crisis, and how they may relate to mental health....
+
+  
+If you are interested in participating, click on this link: [ which will take you to the survey. If you have any questions, please send us a Direct Message or contact us at [neurophilosophylabmcgill@gmail.com](mailto:neurophilosophylabmcgill@gmail.com). DO NOT REPLY directly to this add.
+++++++++++
+ Does anyone know if we could be getting a similar measure? [
+++++++++++
+ Health authorities ask for pause on cottage season to prevent strain on rural health-care systems 
+++++++++++
+ Labour market in Canada, April 2020 / Le marché du travail au Canada, avril 2020 In April 2020, 5.5 million Canadians experienced either job loss or reduced hours because of COVID-19. The [April Labour Force Survey results]( released today, reflect labour market conditions during the week of April 12 to April 18, 2020 (when the COVID-19-related economic shutdown had been fully implemented in all provinces and territories).
+
+In April 2020, the unemployment rate rose 5.2 percentage points to 13%, following an increase of 2.2 percentage points in March. Since comparable data became available in 1976, the April 2020 unemployment rate is second only to the 13.1% observed in December 1982.
+
+Check out our new [infographic]( for an overview of Canada’s labour market in April 2020.
+
+\*
+
+En avril 2020, 5,5 millions de Canadiens ont perdu leur emploi ou ont travaillé moins d’heures en raison de la #COVID19. Les [résultats de l'Enquête sur la population active]( d'avril, diffusés aujourd'hui, rendent compte de la situation sur le marché du travail pendant la semaine allant du 12 au 18 avril 2020 (période pendant laquelle l'arrêt de l'activité économique dû à la COVID-19 avait été entièrement mis en place dans toutes les provinces et dans tous les territoires).
+
+En avril 2020, le taux de chômage a augmenté de 5,2 points de pourcentage pour atteindre 13 %. Cela fait suite à la hausse de 2,2 points de pourcentage enregistrée en mars. Depuis que des données comparables sont devenues disponibles en 1976, seul le taux de chômage de 13,1 % observé en décembre 1982 a été plus élevé que le taux enregistré en avril 2020.
+
+Jetez un coup d’œil à notre nouvelle [infographie]( pour un aperçu du marché du travail en avril 2020.
+
+
+++++++++++
+ COVID-19 Test Counts by Province &amp; Territory I followed the links in the pinned post and attempted to find the total number of tests performed in every province and territory, along with the results. Unfortunately I couldn't find any test counts for Newfoundland, PEI, Quebec, Nunavut, or the Yukon, although NL, PEI, and Nunavut do say they have no confirmed cases. Also my French is very rusty and I couldn't find the English-language COVID page for Quebec, so the confirmed cases for Quebec are from Public Health Canada. If you find an official source that fills in any of the blanks please comment with a link and I'll update this post. Otherwise my current plan is to check and update once a day.
+
+A challenge with compiling and comparing these numbers is that every website has a slightly different system for reporting. The biggest variation is whether they count individual tests or persons tested or both; I've used persons when possible. Another is that BC includes recovered cases in the confirmed case counts (as does Public Health Canada), while Ontario excludes them. I've changed Ontario to match BC. If you find any other ambiguities or mismatches or have any suggestions, please comment.
+
+Initial post: 12:20 EDT March 13
+
+||Updated|Total|Negative|Pending|Probable|Confirmed|Resolved|
+|:-|:-|:-|:-|:-|:-|:-|:-|
+|[NL](
+|[NS](
+|[PE](
+|[NB](
+|[QC](
+|[ON](
+|[MB](
+|[SK](
+|[AB](
+|[BC](
+|[NU](
+|[NWT](
+|[YT](
+|[Other](
+|Total||||12269|10317|558|4|
+|||||||||
+|[CA](
+++++++++++
+ Remember, "essential shopping" doesn't mean only giving your money to Wal-Mart, support your local businesses that struggle far more in this difficult time! (not this particular one, just any local grocer is better than a megacorporation!) 
+++++++++++
+ MIT is going to post free plans to make ventilator that costs $100. [link to News - scitechdaily](
+++++++++++
+ Nearly half of Canada’s COVID-19 cases now acquired through community spread, Public Health Agency of Canada says 
+++++++++++
+ How do this global pandemic and consequent social isolation affect our beliefs, cognitive processes and mental health? Help McGill researchers find out by responding to this survey! (18+)  
+
+PARTICIPANTS NEEDED FOR STUDY
+
+How do this global pandemic and consequent social isolation affect our mental health?
+
+Professor Ian Gold is conducting a study on mental health and beliefs during the COVID-19 pandemic. The study will take approximately 45 minutes, and will be conducted online and will be offered in English. You will be asked to answer a series of questions about your experiences, feelings, and beliefs, especially with regard to the COVID-19 pandemic and the related social isolation. By participating, you help researchers better understand some of the mental health consequences of this global crisis!
+
+If you are interested in participating, click on [ which will take you to the survey. If you have any questions, please send us a Direct Message. DO NOT REPLY directly to this add.
+++++++++++
+ Mesures sanitaires : une coalition veut forcer Québec à annuler l’état d’urgence sanitaire - A coalition of 1,200 business owners in Quebec will be taking legal action against the Legault government with the aim of ending its state of public health emergency. 
+++++++++++
+ Study conducted by Public Health Ontario! [ 
+
+"We estimate that 0.6% (N=89,839) of the Ontario population has been infected with COVID-19, in contrast to 0.2% (N=22,942) of the population who have been reported as confirmed cases as of May 17, 2020." - under Highlights in page 1.
+
+Statistics start from page 5.
+++++++++++
+ I made a tracking tool that breaks down COVID-19 cases by province, city, travel history and more - all directly sourced from provincial health authorities and updated nearly every hour 
+++++++++++
+ Ontario Mental Health Support Resources / Added Support During COVID # General
+
+#### ConnexOntario Helpline
+
+* Toll-free: 1-866-531-2600
+* [Live web chat](
+* [Email](
+
+#### 211 Ontario
+
+* Information and referral for community, government, social and health services, including mental health resources across Ontario.
+* Call 2-1-1
+* Toll-free: 1-877-330-3213
+* [Live web chat](
+* [Email](
+
+#### [BounceBack®](
+
+* A free cognitive behavioural therapy (CBT) program that offers guided mental health self-help supports for **adults and youth 15 and older**.
+* Toll-free: 1-866-345-0224
+
+# Young people
+
+Good2Talk
+
+* For people ages 17 to 25.
+* Toll-free: 1-866-925-5454
+* [Email](
+
+#### Kids Help Phone
+
+* For children and youth ages 5 to 20.
+* Toll-free: 1-800-668-6868
+* [Live web chat](
+* [Text](
+
+# Indigenous peoples
+
+#### Hope for Wellness Helpline
+
+* Immediate mental health counselling and crisis intervention for all Indigenous peoples across Canada (available in some Indigenous languages).
+* Toll-free: 1-855-242-3310
+* [Live web chat](
+
+#### Talk 4 Healing
+
+Indigenous women can get help, support and resources seven days a week, 24 hours a day, with services in 14 languages.
+
+* Toll-free: 1-855-554-4325
+* Text: 1-855-554-4325
+* [Live web chat](
+
+[
+
+## Online Talk Therapy(offering affordable therapy or promo) 
+
+* [COVID19 Therapists]( \- Facilitating free mental health services for **Ontario COVID-19 healthcare providers**
+* [Big White Wall]( \- is a free, online mental health and wellbeing service that helps people who are dealing with everyday stressors or major life events. Available 24/7/365
+* [Good2Talk]( \- Good2Talk provides confidential support services for **post-secondary students** in Ontario and Nova Scotia. This hotline is also free.
+* [Greenspace Mental Health ]( finds you a therapist matched to your needs, available for GTA. Sessions in person or online video (therapy fees apply) 
+* [7 Cups]( connects you to caring listeners for free emotional support 24/7; or be a listener for others
+* [Talkspace]( is offering $65 off with code APPLY65
+* [BetterHelp]( offers $40 to $70 weekly plans (can also be via text or chat - not just video call) - US-based, but clients can be from anywhere
+* [Inkblot]( virtual therapy sessions ($37.50/30 min sessions, first session is free)
+* [Shift Collab]( in-person and online options. Sliding scale options. Free initial consult call. 
+* [Real Campus Student Assistance Program]( (run by Shift Collab). If you are a **University or College student** at eligible campuses you have access to free therapy sessions. Visit the website for eligibility [here](
+* [Affordable Therapy Network]( \- offering reduced rates, low-cost, sliding scale online therapy options 
+* [Pathway-Therapy]( in-person and online options. Currently offering sliding-scales to support a wider range of people during the COVID-19 pandemic. 
+* [Open Path Collective]( \- offering sliding scale individual ($30-$60) and couples and families ($30-$80) therapy options 
+* [New Creations Counseling]( \- offers online therapy for individuals and couples with sliding scale
+* [Warm Line ]( support - Chat online, text or call a peer support worker. 8PM - midnight, every night; or text 647-557-5882 or call 416-960-WARM (9276) 
+* [Text4Hope]( – a free service providing three months of daily Cognitive Behavioural Therapy (CBT)–based text messages written by mental health therapists -- **Text COVID19HOPE to 393939** (Canada only)
+* [Mind Relief]( if offering 40% discount until end of May 2020
+++++++++++
+ QUESTIONNAIRE: Impacts of COVID-19 on Canadians - Perceptions of safety / Répercussions de la COVID-19 sur les Canadiens – les perceptions à l'égard de la sécurité Has your perception of safety in your neighbourhood changed since the start of the COVID-19 pandemic? We are currently collecting data on Canadians’ perceptions of crime and safety in their neighbourhoods.
+
+Your opinion matters to us! [Click here]( to complete our short online questionnaire.
+
+*\[We are Canada’s national statistical agency. We are here to engage with Canadians and provide them with high-quality statistical information that matters!\]*																		
+
+\-
+
+Votre perception à l’égard de la sécurité dans votre voisinage a-t-elle changé depuis le début de la pandémie de COVID-19? Nous recueillons présentement des données sur les perceptions des Canadiens à l’égard de la criminalité et de la sécurité dans leur voisinage.
+
+Votre opinion compte pour nous! [Cliquez ici]( pour répondre à notre court questionnaire en ligne.
+
+*\[Nous sommes l’organisme national de statistique du Canada. Nous sommes ici pour discuter avec les Canadiens et leur fournir des renseignements statistiques de grande qualité qui comptent!\]*
+++++++++++
+ Canada's Failed Policies We are doing well compared to say the USA, plateau of new cases and hopefully soon some reduction. 
+
+ [ 
+
+Our measures are not enough though. 
+
+ [ 
+
+Provinces have varying recommendations, preventative measures are buried in text and we do not have a strategic and public plan for how to manage spread and restart our economy.
+
+Is our government winging it? The message is always the same. "Practice social distancing and we are in this together." 
+
+Great. What does that even mean? If my work is deemed essential and I am unable to practice social distancing what do I do? If I need to ride the bus what precautions do I take? Clear direction and response is needed. 
+
+How about:
+
+Hey Canada, we are going to make it federal law that everyone practice good hygiene until we get through this. Mandatory mask wearing in public and at work, mandatory changes to workplaces so that employees can work safely meeting all public health recommendations, mandatory hand hygiene requirements, mandatory changes on how we shop. A full stop Federal response, working with the Provinces and erring on the side of caution. Why are we not minimizing our risk and implementing measures Taiwan and South Korea have, using technology, streamlining our education to the public, and most importantly educating out of an abundance of caution. 
+
+This is not hard and much of this can be implemented into daily life.  
+
+[ 
+
+The Federal response right now is all measures and supports. Where is the plan? What are we proposing for our future. What are we going to do so that we can actually restart business by the summer. 
+
+I simply don't understand what Government is doing.
+++++++++++
+ Petition calls for coronavirus support in remote Indigenous communities in Canada 
+++++++++++
+ Impacts of COVID-19 on Health Care Workers: Infection Prevention and Control / Répercussions de la COVID-19 sur les travailleurs de la santé : prévention et contrôle des infections Are you a health care worker or do you know someone who works in a health care setting? This includes those providing health care services directly to individuals (e.g., physicians, nurses, massage therapists, dentists, dietitians), but also those providing technical support (e.g., receptionists, technicians) and other services in a health care setting (e.g., cleaning and food services staff, security). We encourage you to take a few minutes to complete this short crowdsourcing questionnaire: [Impacts of COVID-19 on Health Care Workers: Infection Prevention and Control.](
+
+This questionnaire is a collaboration between Statistics Canada, Health Canada, the Public Health Agency of Canada and the Canadian Institute for Health Information. Its goal is to help decision makers better understand the impacts of the pandemic on Canadian health care workers, with a particular focus on access to personal protective equipment, and infection prevention and control measures in the workplace. The information collected will help inform the delivery of health care services and help decision makers better understand what health care workers need in terms of equipment, training and support. 
+
+The questionnaire will be available from November 24 to December 13, 2020.
+
+ *\[We are Canada’s national statistical agency. We are here to engage with Canadians and provide them with high-quality statistical information that matters!\]* 
+
+\--------
+
+Êtes-vous un travailleur de la santé ou connaissez-vous quelqu’un qui travaille dans le milieu de la santé? Cela comprend les personnes qui offrent des services de soins de santé directement aux particuliers (p. ex. médecins, infirmières, massothérapeutes, dentistes, diététistes), et aussi le personnel qui fournit du soutien technique (p. ex. réceptionnistes, techniciens) et d’autres services dans le milieu de la santé (p. ex. personnel de nettoyage ou des services alimentaires, sécurité). Nous vous encourageons à remplir ce court questionnaire d’approche participative :[Répercussions de la COVID-19 sur les travailleurs de la santé : prévention et contrôle des infections.](
+
+Ce questionnaire est une collaboration entre Statistique Canada, Santé Canada, l’Agence de la santé publique du Canada et l’Institut canadien d’information sur la santé. Son objectif consiste à aider les décideurs à mieux comprendre les répercussions de la pandémie sur les travailleurs de la santé canadiens, notamment en ce qui concerne l’accès à l’équipement de protection individuelle, et les mesures de prévention et de contrôle des infections en milieu de travail. Les renseignements recueillis permettront d’orienter les services de soins de santé et d’aider les décideurs à mieux comprendre les besoins des travailleurs de la santé en matière d’équipement, de formation et de soutien.
+
+Le questionnaire sera accessible du 24 novembre au 13 décembre 2020.
+
+*\[Nous sommes l’organisme national de statistique du Canada. Nous sommes ici pour discuter avec les Canadiens et leur fournir des renseignements statistiques de grande qualité qui comptent!\]*
+++++++++++
+ What is the current state of the labour market in Canada? Quel est l’état actuel du marché du travail au Canada? We just released our new Labour Force Survey data, which are based on data collected from July 12 to 18, 2020. A new question was also added to this survey to report on the labour market conditions of population groups designated as visible minorities.
+
+Here are a few highlights from this release:
+
+* The national unemployment rate for individuals aged 15 to 69 was 11.3% (unadjusted for seasonality). Several population groups designated as visible minorities had joblessness rates significantly above this average, including South Asian (17.8%), Arab (17.3%), and Black (16.8%) Canadians.
+* Employment rose by 419,000 (+2.4%) in July, compared with 953,000 (+5.8%) in June. Combined with gains of 290,000 in May, this brought employment to within 1.3 million (-7.0%) of its pre-COVID February level.
+* Despite gains in July, employment continues to lag among youth, students, and low-wage workers.
+
+For more on these results, check out our [new article.](
+
+*\[We are Canada’s national statistical agency. We are here to engage with Canadians and provide them with high-quality statistical information that matters!\]*
+
+\*
+
+Nous venons de publier nos nouvelles données de l’Enquête sur la population active, qui sont fondées sur des données recueillies du 12 au 18 juillet 2020. Une nouvelle question a également été ajoutée à cette enquête pour rendre compte de la situation sur le marché du travail des groupes de population désignés comme minorités visibles.
+
+Voici quelques points saillants de ce communiqué :
+
+* Le taux de chômage national chez les personnes âgées de 15 à 69 ans était de 11,3 % (données non désaisonnalisées). Plusieurs groupes de population désignés comme minorités visibles avaient un taux de chômage significativement au-dessus cette moyenne, y compris les Canadiens sud-asiatiques (17,8 %), arabes (17,3 %), et noirs (16,8 %).
+* L’emploi a augmenté de 419 000 (+2,4 %) en juillet par rapport à 953 000 (+5,8 %) en juin. Cette hausse, combinée à l’augmentation de 290 000 enregistrée en mai, a ramené l’emploi à 1,3 million (-7,0 %) de son niveau observé en février, avant la COVID-19.
+* Malgré les augmentations enregistrées en juillet, l’emploi continue d’accuser des retards chez les jeunes, les étudiants et les travailleurs faiblement rémunérés.
+
+Pour en savoir plus sur ces résultats, consultez notre [nouvel article.](
+
+*\[Nous sommes l’organisme national de statistique du Canada. Nous sommes ici pour discuter avec les Canadiens et leur fournir des renseignements statistiques de grande qualité qui comptent!\]*
+++++++++++
+ Canadian Pandemic Influenza Preparedness: Planning Guidance for the Health Sector There has been significant discussion surrounding Canada's Pandemic planning, preparedness and standards.  For reference, this is Canada's current [Pandemic Influenza Preparedness: Planning Guidance for the Health Sector.](
+
+It was developed in 2006 after the SARS inquiry and updated after MERS and H1N1.
+
+These are detailed steps, measures and contingencies for Federal, Provincial and Municipal governments and public health authorities. 
+
+For the most part, Canada is not following this Pandemic Plan because the Federal Government has not declared an emergency.   [Step 1 of this plan was never taken.](
+
+*Planning for a prolonged and widespread health emergency of  unpredictable impact is challenging but essential. It requires a “whole  of society” response and the coordinated efforts of all levels of  government in collaboration with their stakeholders.*  
+
+Many of us are struggling to understand why Canada finds itself facing new restrictions and wanting to know there is light at the end of the tunnel.  If you want to know why a measures is mandatory or optional, or what options exist for reopening, this is the gold standard.
+++++++++++
+ Restarting tourism? Travel bubble would allow countries that rely on tourism to initiate some form of economic activity to support local businesses amid COVID-19. Do you think it's fair? 
+++++++++++
+ Quebec has banned all indoor and outdoor public gatherings The Legault government now prohibits "any indoor or outdoor gathering", with a few exceptions.
+
+According to the decree adopted by the Council of Ministers, this prohibition does not apply to gatherings "bringing together the occupants of a private residence, or of what takes its place, and any other person offering them a service or whose support is required ”. "People offering a service or providing support must maintain, as far as possible, a minimum distance of two meters from the occupants," it says.
+
+Another exception: a gathering is not prohibited "if it is required in a workplace that is not subject to a suspension from the Government of Quebec, provided that the employees maintain, as far as possible, a distance minimum of two meters between them ". The prohibition does not apply either "in a public place seeking a service or a good and which is not the subject of a suspension from the government of Quebec", such as a grocery store. Nor "in a means of transport, provided that users maintain, as far as possible, a minimum distance of two meters between them".
+
+
+[La Presse - Québec interdit « tout rassemblement intérieur ou extérieur »](
+
+[English Version (translated)](
+++++++++++
+ Historical COVID-19 Stats by Date Looking for a reputable source that can provide historical data on COVID-19...and searchable by date. Anyone know where to find something like this? 
+PHAC website has great information for today....but it’s updated daily and I can’t seem to find the historical data. Specifically, I’m looking for Canadian and global stats as of August 10, 2020.
+
+Thanks hive!
+++++++++++
+ 85% of the Canadian population lives within 100 miles of the border , 2,363,936 vehicles per month entering from USA  [   
+
+
+This data is alarming
+++++++++++
+ Quebec (and Canada) - Case Definition and Exposure Criteria for Testing Patient must meet both criteria for testing in Quebec. 
+
+*"Indication clinique (La personne doit satisfaire aux critères d’exposition ET à ceux de la maladie)."*
+
+English Translation: Clinical indication (The person must meet the exposure criteria AND those of the disease). 
+
+[
+
+Quebec directs you to Government of Canada links below for the case definition and exposure criteria ([
+
+**COV-19 Case Definition - Government of Canada:**
+
+[
+
+**Exposure Criteria (COVID-19 - Affected Areas List) - Government of Canada:**
+
+[
+++++++++++
+ CIBC to lower credit-card interest rates for some clients seeking relief 
+++++++++++
+ Étude visant à comprendre votre perception et votre comportement à l’égard du COVID-19 Bonjour à tous et à toutes, je fais appel à vous pour aider les chercheurs de l’Université de Sherbrooke dans le cadre du 1er sondage de l'étude longitudinale portant sur la perception et le comportement des Québécois à l’égard du COVID-19.
+
+Aidez les chercheurs et faites entendre votre voix en participant au sondage en ligne ici ➡. [
+
+Merci de partager le sondage autour de vous !
+
+Courez la chance de gagner l’une des 10 cartes cadeaux d’Amazon d'une valeur de 50 $ lorsque vous aurez participé aux trois sondages de cette étude.
+++++++++++
+ ‘Act of modern piracy’: U.S. slammed amid global scramble over face masks 
+++++++++++
+ Youth create film asking their generation to stay home. "This is one of those big events that our generation will be remembered for: how we dealt with it and how we moved past it and came together as a society.” 
+++++++++++
+ MIT shares the plans for emergency ventilators online. Please help if you can.
+
+[link ](
+++++++++++
+ Young, skeptical and in the West: Meet the ‘cynical spreaders’ giving public health officials the biggest headaches 
+++++++++++
+ March 9 - Ontario increases update frequency Saw this release this morning:
+
+*" To enhance these efforts, the* [*web page*]( *will now be updated twice a day (10:30 a.m. and 5:30 p.m. EST), seven days a week. The web page will also now include general information on each new confirmed case of COVID-19, including gender, age, public health unit, hospital (if applicable), where acquired and status. The information provided will reflect what has been confirmed by local public health authorities at that time. This information will be provided in lieu of the news releases the province has been issuing and will be supplemented by additional details provided by individual public health units. "*
+
+&amp;#x200B;
+
+ [
+++++++++++
+ The COVID Science Wars Shutting down scientific debate is hurting public health 
+++++++++++
+ Participate in a Study on the Mental Health of Students and the Impact of COVID-19 Researchers from the University of Victoria are looking for participants for a study examining the mental health of undergraduate students in Canada. This survey will ask about your self-care habits, hobbies, and the impact of COVID-19 in order to better understand the mental health of students. The survey is open to anyone who is registered in any 4-year undergraduate university or college program.
+
+Those who participate in this study can opt in to be entered into a draw for one of two $50.00 gift cards to a major Canadian retailer (winner’s choice of [Amazon.ca]( [Bestbuy.ca]( Starbucks Canada, Tim Hortons, Roots Canada, or Chapters/Indigo).
+
+This study will take approximately 15 minutes to complete. For more information and to complete the survey, please click on this link: [Here](
+++++++++++
+ Étude visant à comprendre votre perception et votre comportement à l’égard du COVID-19 Bonjour à tous et à toutes, je fais appel à vous pour aider les chercheurs de l’Université de Sherbrooke dans le cadre du 1er sondage de l'étude longitudinale portant sur la perception et le comportement des Québécois à l’égard du COVID-19.
+
+Aidez les chercheurs et faites entendre votre voix en participant au sondage en ligne ici ➡. [
+
+Merci de partager le sondage autour de vous !
+
+Courez la chance de gagner l’une des 10 cartes cadeaux d’Amazon d'une valeur de 50 $ lorsque vous aurez participé aux trois sondages de cette étude.
+++++++++++
+ After reports that lions and tigers at the Bronx Zoo are now ill with COVID19, USDA now issuing guidance that anyone sick with COVID19 should restrict their exposure to animals “ out of an abundance of caution including pets, during their illness, just as they would with other people. " [
+++++++++++
+ Mesures sanitaires : une coalition veut forcer Québec à annuler l’état d’urgence sanitaire - A coalition of 1,200 business owners in Quebec will be taking legal action against the Legault government with the aim of ending its state of public health emergency. 
+++++++++++
+ Newly diagnosed coronavirus patient used Toronto transit while symptomatic: public health authority 
+++++++++++
+ Impacts of COVID-19 on Canadians: Experiences of Discrimination / Répercussions de la COVID-19 sur les Canadiens – Expérience de la discrimination *\[We are Canada’s national statistical agency. We are here to engage with Canadians and provide them with high-quality statistical information that matters!\]*
+
+Discrimination—it happens in Canada too. To make significant changes, we need up-to-date facts! 
+
+Have you experienced discrimination based on race, sex, gender identity or expression, ethnicity, religion, sexual orientation, age, disability or language? Has this changed during the COVID-19 pandemic? 
+
+Complete our questionnaire—[Impacts of COVID-19 on Canadians: Experiences of Discrimination]( The results will benefit people and communities across Canada. 
+
+\*\*\*
+
+*\[Nous sommes l’organisme national de statistique du Canada. Nous sommes ici pour discuter avec les Canadiens et leur fournir des renseignements statistiques de grande qualité qui comptent!\]*
+
+La discrimination est présente au Canada aussi. Pour effectuer des changements importants, il nous faut des faits à jour! 
+
+Avez-vous été victime de discrimination fondée sur la race, le sexe, l’identité ou l’expression de genre, l’origine ethnique, la religion, l’orientation sexuelle, l’âge, l’incapacité ou la langue? Cela a-t-il changé au cours de la pandémie de COVID-19?
+
+Remplissez notre questionnaire :[Répercussions de la COVID-19 sur les Canadiens – Expérience de la discrimination]( Les résultats bénéficieront aux gens et aux communautés de partout au Canada.
+++++++++++
+ How is the COVID-19 pandemic affecting Canadians with long-term conditions and disabilities? / Quelles sont les répercussions de la COVID-19 sur les Canadiens ayant un problème de santé de longue durée ou une incapacité?  *\[We are Canada’s national statistical agency. We are here to engage with Canadians and provide them with high-quality statistical information that matters!\]* 
+
+A recent crowdsourcing survey found that participants with long-term conditions and disabilities reported that the pandemic is taking a toll on their mental and physical health. 
+
+Here are some highlights:
+
+&amp;#x200B;
+
+* Almost half (48%) of participants reported that their general health was worse than before the pandemic.
+* Over half (57%) of participants reported that their mental health was worse than before the pandemic.
+* Over three-quarters (77%) of participants needed but did not receive one or more therapies or services for their condition.
+
+Consult our [new article]( and [infographic]( to learn about how the COVID-19 pandemic is affecting Canadians with long-term conditions and disabilities. 
+
+\_
+
+*\[Nous sommes l’organisme national de statistique du Canada. Nous sommes ici pour discuter avec les Canadiens et leur fournir des renseignements statistiques de grande qualité qui comptent!\]* 
+
+Selon les données d’une récente initiative par approche participative, les participants ayant un problème de santé de longue durée ou une incapacité ont déclaré que la pandémie a des conséquences néfastes sur leur santé mentale et physique. 
+
+&amp;#x200B;
+
+Voici quelques faits saillants : 
+
+&amp;#x200B;
+
+* Près de la moitié (48 %) des participants ont déclaré que leur santé générale est moins bonne qu’elle ne l’était avant la pandémie.
+* Plus de la moitié (57 %) des participants ont déclaré que leur santé mentale est moins bonne qu’elle ne l’était avant la pandémie.
+* Plus des trois quarts des participants (77 %) ont eu besoin d’au moins une thérapie ou un service pour leur problème de santé, mais ne l’ont pas reçu.
+
+Consultez notre [nouvel article]( et notre [nouvelle infographie]( pour en savoir plus sur les répercussions de la COVID-19 sur les Canadiens ayant un problème de santé de longue durée ou une incapacité.
+++++++++++
+ [Academic study] Agreement with government policies towards coronavirus and personality (Canada 18+) Hi Everyone,
+
+I am a postdoctoral researcher in social psychology doing a short 5-10-minute study about peoples’ attitudes towards their governments’ action in the fight against the coronavirus (COVID-19). 
+
+If you are at least 18 years old, I would highly appreciate your help in participation!
+
+Study link:
+
+[
+
+Participation is voluntary (Thanks!).
+
+A summary of the results will be posted on this sub after data collection is over (may take some time to analyze the data).
+
+For questions please contact me at this reddit account.
+
+Thank you very much in advance for your participation!!!
+++++++++++
+ Tedros, Taiwan, and Trump: China Growing Clout in Global Health (Published 2017) 
+++++++++++
+ Quebec Hasidic Jewish community quarantined after COVID-19 outbreak, group's leader asks police to help enforce lock down 
+++++++++++
+ Ontario Mental Health Support Resources / Added Support During COVID As we head into the colder months this is a helpful set of info to have saved. Please feel free to add additional resources in the comments
+
+\----
+
+If you or someone you know is ever feeling like things are too much - please reach out to a local helpline.
+
+**CRISIS SERVICES CANADA**
+
+The fastest way to connect with us right now is to call 24/7 toll free line 1-833 456-4566.
+
+[
+
+**CRISIS TEXT LINE**
+
+Text CHAT to 741741 to reach [Crisis Text Line]( You’ll be connected to a trained Crisis Counselor from Crisis Text Line.
+
+General
+
+[BounceBack®](
+
+* A free cognitive behavioural therapy (CBT) program that offers guided mental health self-help supports for **adults and youth 15 and older**.
+* Toll-free: 1-866-345-0224
+
+**ConnexOntario Helpline**
+
+Toll-free: 1-866-531-2600
+
+* [Live web chat](
+* [Email](
+
+**211 Ontario**
+
+* Information and referral for community, government, social and health services, including mental health resources across Ontario.
+* Call 2-1-1
+* Toll-free: 1-877-330-3213
+* [Live web chat](
+* [Email](
+
+Young people
+
+**Good2Talk**
+
+* For people ages 17 to 25.
+* Toll-free: 1-866-925-5454
+* [Email](
+
+**Kids Help Phone**
+
+For children and youth ages 5 to 20.
+
+* Toll-free: 1-800-668-6868
+* [Live web chat](
+* [Text](
+
+Indigenous peoples
+
+**Hope for Wellness Helpline**
+
+* Immediate mental health counselling and crisis intervention for all Indigenous peoples across Canada (available in some Indigenous languages).
+* Toll-free: 1-855-242-3310
+* [Live web chat](
+
+**Talk 4 Healing**
+
+Indigenous women can get help, support and resources seven days a week, 24 hours a day, with services in 14 languages.
+
+* Toll-free: 1-855-554-4325
+* Text: 1-855-554-4325
+* [Live web chat](
+
+[
+
+# Reddit Based
+
+If you want to talk a bit more about what is coming up for you might find some relatable content on
+
+* [
+* Visit [r/SuicideWatch]( The moderators there keep a comprehensive [list of resources and hotlines]( in and outside the U.S., organized by location.
+
+# Online Talk Therapy (offering affordable therapy or promo)
+
+&amp;#x200B;
+
+* [COVID19 Therapists]( \- Facilitating free mental health services for Ontario COVID-19 healthcare providers
+* [Big White Wall]( \- is a free, online mental health and wellbeing service that helps people who are dealing with everyday stressors or major life events. Available 24/7/365
+* [Good2Talk]( \- Good2Talk provides confidential support services for **post-secondary students** in Ontario and Nova Scotia. This hotline is also free.
+* [Greenspace Mental Health ]( finds you a therapist matched to your needs, available for GTA. Sessions in person or online video (therapy fees apply) 
+* [7 Cups]( connects you to caring listeners for free emotional support 24/7; or be a listener for others
+* [Talkspace]( is offering $65 off with code APPLY65
+* [BetterHelp]( offers $40 to $70 weekly plans (can also be via text or chat - not just video call) - US-based, but clients can be from anywhere
+* [Inkblot]( virtual therapy sessions ($37.50/30 min sessions, first session is free)
+* [Shift Collab]( in-person and online options. Sliding scale options. Free initial consult call. 
+* [Real Campus Student Assistance Program]( (run by Shift Collab). If you are a **University or College student** at eligible campuses you have access to free therapy sessions. Visit the website for eligibility [here](
+* [Affordable Therapy Network]( \- offering reduced rates, low-cost, sliding scale online therapy options 
+* [Pathway-Therapy]( in-person and online options. Currently offering sliding-scales to support a wider range of people during the COVID-19 pandemic. 
+* [Open Path Collective]( \- offering sliding scale individual ($30-$60) and couples and families ($30-$80) therapy options 
+* [New Creations Counseling]( \- offers online therapy for individuals and couples with sliding scale
+* [Warm Line ]( support - Chat online, text or call a peer support worker. 8PM - midnight, every night; or text 647-557-5882 or call 416-960-WARM (9276) 
+* [Text4Hope]( – a free service providing three months of daily Cognitive Behavioural Therapy (CBT)–based text messages written by mental health therapists -- **Text COVID19HOPE to 393939** (Canada only)
+* [Mind Relief](
+++++++++++
+ Tory says he would support governments taking further action to limit spread of COVID-19 
+++++++++++
+ New site for tracking the Rt rate of COVID-19 in different provinces - RtLive.ca Created a site for tracking the Rt (effective reproductive transmission) of COVID-19 in Canada:
+[RtLive.ca](
+++++++++++
+ Pages 10-12 of the "COVID-19 in Canada: Using data and modelling to inform public health action Technical Briefing for Canadians April 9, 2020" 
+++++++++++
+ Where can one buy an accurate oximeter? Many studies show many inexpensive ones are not accurate. "Many low-cost pulse oximeters sold to consumers demonstrate highly inaccurate readings. Unexpectedly, the accuracy of some low-cost pulse oximeters tested here performed similarly to more expensive, ISO-cleared units when measuring hypoxia in healthy subjects. None of those tested here met World Federation of Societies of Anaesthesiologists standards, and the ideal testing conditions do not necessarily translate these findings to the clinical setting. Nonetheless, further development of accurate, low-cost oximeters for use in clinical practice is feasible and, if pursued, could improve access to safe care, especially in low-income countries."
+
+
+++++++++++
+ A crowdsourcing application to uncover and predict the spread of COVID-19 in Canada Without enough testing, it's a real challenge to quantify the number of people affected by COVID-19 and understand how the virus spreads in Canada. [Coronastatus.ca]( is a community effort to help with this issue. It's a crowdsourcing application that collects data anonymously from volunteers using a self-assessment tool to help us uncover and predict the spread of COVID-19 in Canada. The goal here is to help authorities and emergency responders get a better idea of what's happening in your community and make informed decisions in their crisis response efforts.
+
+The website is open-source and built by volunteers. The data is also open and anonymized, and everybody has access to all the contributions.
+++++++++++
+ Does declaring a “State of Emergency” accomplish anything, or is it similar to Michael Scott declaring bankruptcy? Genuinely curious what declaring a “State of Emergency” accomplishes at each level of government - federal, provincial, and municipal/regional.
+++++++++++
+ Canada is lacking resources for testing.  
+
+ [ 
+
+&amp;#x200B;
+
+The health and safety of all Canadians is our top priority.
+
+PHAC is working with provinces, territories and international partners, including the World Health Organization, to actively monitor the situation. Global efforts are focused on containment of the outbreak in China and the prevention of further spread.
+
+Canada's Chief Public Health Officer of Canada is in close contact with provincial and territorial Chief Medical Officers of Health to ensure that any cases of COVID-19 occurring in Canada continue to be rapidly identified and managed in order to protect the health of Canadians.
+
+Canada's National Microbiology Laboratory has implemented testing to diagnose COVID-19 from clinical specimens. The laboratory is working collaboratively with Canadian provincial public health laboratories to ensure there is additional testing capacity in multiple jurisdictions.
+
+**As of February 25, 2020, British Columbia and Ontario are able to confirm laboratory diagnostics for the virus that causes COVID-19. For all other provinces, their results undergo additional testing at the National Microbiology Laboratory to provide further confirmation of initial laboratory findings. Please refer to information from provinces and territories for further test result summaries.**
+
+As of March 2, 2020, the National Microbiology Laboratory has confirmed 506 negative cases and 14 positive cases of COVID-19.
+++++++++++
+ [Academic study] Agreement with government policies towards coronavirus and personality (Canada 18+) - Final Repost - thanks! Hi Everyone,
+
+I am a postdoctoral researcher in social psychology doing a short 5-10-minute study about peoples’ attitudes towards their governments’ action in the fight against the coronavirus (COVID-19). 
+
+If you are at least 18 years old, I would highly appreciate your help in participation!
+
+Study link:
+
+[
+
+Participation is voluntary (Thanks!).
+
+A summary of the results will be posted on this sub after data collection is over (may take some time to analyze the data).
+
+For questions please contact me at this reddit account.
+
+Thank you very much in advance for your participation!!!
+++++++++++
+ Has anyone done any volunteering as a result of COVID19? If so, I'd love to interview you briefly! Hi folks. I'm volunteering for an initiative (an app, to be specific) that helps match and coordinate volunteers to run tasks around town with those who are in need during the COVID19 pandemic. 
+
+I am doing user research on those who has started or have been volunteering as a result of COVID, in order to make better decisions on our product. 
+
+The ask: a very brief questionnaire, then, if you opt in for the "willing to be interviewed" option in the questionnaire, a 20-30 semi-formal interview with me.
+
+DM if you're willing to help out!
+++++++++++
+ Canada supports China’s ongoing response to novel coronavirus outbreak  [ 
+
+&amp;#x200B;
+
+ News release
+
+February 9, 2020 - Ottawa, Ontario - Global Affairs Canada
+
+Canada is working with its partners and international organizations to control the spread of the novel coronavirus. This is vital to helping those affected and protecting the health and safety of people around the world.
+
+To support China’s ongoing response to the outbreak, Canada has deployed approximately 16 tonnes of personal protective equipment, such as clothing, face shields, masks, goggles and gloves to the country since February 4, 2020. 
+
+This equipment has been provided in collaboration with the Canadian Red Cross and the Red Cross Society of China.
+++++++++++
+ Traveling to Canada? I just noticed they updated their page on visiting to Canada, using the ArriveCAN app to enter now, did they change something? I thought it was on lock down?
+
+&amp;#x200B;
+
+[ (Travel and tourism) Plus the new November 21 update that's pinned in BLUE to the second link
+
+&amp;#x200B;
+
+[
+++++++++++
+ PhD student research on the effects of corona virus  
+
+Hello Everyone,
+
+I am running a study at the University of Calgary to investigate more on the current situation. Could I ask you for 20 minutes of your time to fill out some questionnaires? Thanks!-I have no affiliation with the moderators of this reddit page. 
+
+Dear all,
+
+We would like to invite you to participate in an online study investigating the effects of COVID-19 pandemic on the quality of sleep and emotions.
+
+You will be asked to complete a series of questionnaires assessing quality of sleep, mood, physical activity and emotional processes during the COVID 19 pandemic. The total time required to complete the survey is approximately 20 minutes. To begin participation in the study and complete the questionnaires please click here [**
+
+**If you require information about the COVID-19 pandemic and are looking for resources please visit the following links:**
+
+[** **or**
+
+[**
+
+Thank you for participating in our research study.
+++++++++++
+ Positive news: Lowest % growth in cases across Canada today (3.1%) Three days ago I posted that Canada reported the lowest %growth till then (3.3%).
+
+Today, with 1526 new cases, it's the new lowest % increase (3.1%) we've seen since the outbreak began (since 100 cases). For the last four days, the % growth has been 3.3%, 3.4%, 3.4% and 3.1% (today); overall lowest numbers yet. Hopefully this declines further.
+
+Note that case numbers are sensitive to number of tests performed.
+++++++++++
+ Is enough happening in Canada to stop virus? check petitions   [ 
+
+&amp;#x200B;
+
+[
+++++++++++
+ Newfoundland and Labrador public health officials still haven't determined infection source for province's latest COVID-19 case | The Telegram 

@@ -1,0 +1,94 @@
+
+++++++++++
+ Treatment news! 5 critically ill COVID patients (on ventilators) received antibody-rich plasma from 5 other patients who had recovered from COVID. Results: 3 discharged; 2 in stable condition! Now 1 of recovering patients wants to donate his plasma! 
+++++++++++
+ COVID-19 in long-term care homes in Ontario and British Columbia Key Points:
+• Many more residents living in Ontario long-term care homes have died from coronavirus disease 2019 (COVID-19) than in British Columbia.
+• During the first wave of the pandemic, British Columbia was faster than Ontario in responding to COVID-19, with actions to address public health support, staffing, and infection prevention and control.
+• Leaders in British Columbia were more decisive, coordinated and consistent in their overall communication and response.
+• Before the pandemic, the long-term care system in British Columbia exhibited a number of potential strengths relevant to pandemic preparedness compared with Ontario: there was better coordination between long-term care, public health and hospitals; greater funding of long-term care; more care hours for residents; fewer shared rooms; more nonprofit facility ownership; and more comprehensive inspections.
+
+
+++++++++++
+ [Data Inside] Critical Care Services Ontario reports 478 spots left in ICU Beds across Ontario. 342 suspected COVID patients represent ~22% of all ICU admissions in Ontario. Here is the information from a doctor in Ontario with table provided.
+
+
+
+2012 total critical care beds
+
+1534 total critical care patients
+
+*Of those 1534 patients:*
+
+342 suspected COVID patients in ICUs:
+
+*Broken down:*
+
+164 are critically ill and under ventilation.
+
+Only 92 of 342 are confirmed COVID positive.
+
+64 are confirmed COVID positive and under ventilation.
+++++++++++
+ Prescription refills available in BC without visiting doctor: 
+
+“We have worked with the College of Pharmacists to advise pharmacies to provide patients with a prescription refill or an emergency supply of their medications if needed. This will give physicians more time to care for patients with acute care needs. British Columbians are asked to respect this temporary arrangement and are reminded that there is no need to stockpile medication.
+++++++++++
+ 'Stay at home': Premier warns people from outside Ontario they aren't welcome in province 
+++++++++++
+ Ontario Cases (as of Mar 3/20) **Scroll right for more details.** **Additional details on newer cases will be added as they become available.**
+
+|Patient|Age/Gender|Date of Announced Diagnosis|Location|*Presumptive* Source|Hospitalized?|Recovered / Dead|Date of Announced Recovery / Death|
+|:-|:-|:-|:-|:-|:-|:-|:-|
+|1|Male, mid-50s|Jan 25|Toronto Sunnybrook|Imported (China)|Yes (\~7 days)|Recovered|Feb 21|
+|2|Female, mid-50s|Jan 26|Toronto Sunnybrook|Community (Spouse of Patient 1)|No|Recovered|Feb 20|
+|3|Female, 20s|Jan 31|London UH|Imported (China)|No|Recovered|Feb 12|
+|4|Female, 20s|Feb 23|North York|Imported (China)|No|||
+|5|Female, 60s|Feb 26|Toronto Sunnybrook|Imported (Iran)|No|||
+|6|Male, 60s|Feb 27|Toronto Sunnybrook|Imported (Iran), Spouse of Patient 5|No|||
+|7|Male, 50s|Feb 28|Toronto Sunnybrook|Imported (Iran)|No|||
+|8|Male, 80s|Feb 28|Toronto Scarborough|Imported (Egypt)|No|||
+|9|Female, 34|Feb 29|Richmond Hill Mackenzie|Imported (Iran)|No|||
+|10|Female, 51|Feb 29|Ajax (clinic)|Imported (Iran)|No|||
+|11|Male, 69|Feb 29|Ajax (clinic)|Community (Spouse of Patient 10)|No|||
+|12|Male, 50s|Mar 1|Richmond Hill Mackenzie|Imported (Iran),  Brother of Patient 6 or 7?|No|||
+|13|Male, 40s|Mar 1|Richmond Hill Mackenzie|Imported (Iran), Spouse of Patient 9|No|||
+|14|Male, 60s|Mar 1|North York|Imported (Iran)|No|||
+|15|Female, 70s|Mar 1|Newmarket|Imported (Egypt), Travelled with Patient 8|No|||
+|*16*||*Mar 2*||*Imported (Iran or Egypt)*||||
+|*17*||*Mar 2*||*Imported (Iran or Egypt)*||||
+|*18*||*Mar 2*||*Imported (Iran or Egypt)*||||
+|*19*||*Mar 3*||*Imported (Iran or Egypt)*||||
+|*20*||*Mar 3*||*Imported (Iran or Egypt)*||||
+
+Source: [
+++++++++++
+ WHO still says it can be stopped, not just slowed [
+
+&gt;We have never before seen a pandemic sparked by a #coronavirus.   And we have never before seen a pandemic that can be controlled at the same time.
+
+[
+
+&gt;Of the 118,000 #COVID19 cases reported globally in 114 countries, more than 90 percent of cases are in just four countries, and two of those – 🇨🇳 and 🇰🇷 - have significantly declining epidemics.
+
+[
+
+&gt;We cannot say this loudly enough, or clearly enough, or often enough: all countries can still change the course of this pandemic.
+
+[
+
+&gt;Even those countries with community transmission or large clusters can turn the tide on this #coronavirus.  
+&gt;  
+&gt;Several countries have demonstrated that this virus can be suppressed and controlled.
+
+[
+
+&gt;The challenge for many countries who are now dealing with large #COVID19 clusters or community transmission is not whether they can do the same – it’s whether they will.
+
+Please stop with this claim that the virus can no longer be stopped. It can. South Korea's outbreak got far worse than ours, and they stopped it. If we believe we can't, that may become a self-fulfilling prophecy.
+++++++++++
+ South Korea was doing a fantastic job of controlling #COVIDー19 for the first 30 patients. Then #Patient31 came along, did not adhere to social distancing and caused 2 clusters that were responsible for 80% of South Korea's infections. Don't be #Patient31. 
+++++++++++
+ Government-employed speech therapist with no experience in medical patient care sent into Quebec care home to care for residents 
+++++++++++
+ 'Stay at home': Premier warns people from outside Ontario they aren't welcome in province 

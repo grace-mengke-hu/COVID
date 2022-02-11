@@ -1,0 +1,187 @@
+
+++++++++++
+ Day to Day Update: 24 March As of 9 pm ET 23 March 2020, Canada reported 2,792 coronavirus cases (🔺701 vs yesterday 🔺621) .Recoveries at 182(🔺73 vs yesterday 🔺94). Deaths 27(🔺3 vs yesterday 🔺4).
+
+Daily summary: Quebec added 385 cases(yes, not a typo) today, total now over 1,000. Quebec has taken the lead in cases. BC added 145 new cases and 73 new recoveries. Alberta adds 57 new cases and 1 new death. Ontario reported 85 new cases and 2 new deaths. Saskatchewan adds 6 new cases to 72 cases. Nova Scotia reported 10 new cases. NFLD reports 11 new cases. Manitoba and New Brunswick both reported 1 new case. Yukon added its first 2 cases. Only province/territory left without a case right now is Nunavut.
+
+By province:
+
+|Province(Daily change in brackets)|Confirmed Cases|Recoveries|Deaths|Tested|
+|-|-|-|-|-|
+|Quebec|1013(🔺385)|0|4|No confirmed source|
+|BC|617(🔺145)|173|13|21296|
+|Ontario|503(🔺78)|8|8|32457|
+|Alberta|358(🔺57)|1|2|32776|
+|Saskatchewan|72|🔺6)|0|0|5757|
+|Nova Scotia|51(🔺10)|0|0|2525|
+|Newfoundland and Labrador|35(🔺11)|0|0|1131|
+|Manitoba|21(🔺1)|0|0|4520|
+|New Brunswick|18(🔺1)|0|0|1255|
+|PEI|3(No change)|0|0|416|
+|Yukon|2(🔺2)|0|0|418|
+|Northwest Territories|1(No change)|0|0|492|
+|Other(No daily updates here, will just keep tally)|13|0|0|N/A|
+
+*Sources are on the sidebar, which are the official government sites for the provinces. Data also taken from [this site](
+
+This is done in tribute to u/DominusDK
+
+Previous days:
+
+[7 March](
+
+[8 March](
+
+[9 March](
+
+[10 March](
+
+[11 March]
+(
+
+[12 March](
+
+[13 March]
+(
+
+[14 March]
+(
+
+[15 March]
+(
+
+[16 March]
+(
+
+[17 March]
+(
+
+[18 March](
+
+[19 March](
+
+[20 March]
+(
+
+[21 March]
+(
+
+[22 March](
+
+[23 March]
+(
+++++++++++
+ NUNAVUT - 11/25/2020 - 11 new cases. TOTAL - 153 active cases 
+++++++++++
+ NUNAVUT - 11/25/2020 - 11 new cases. TOTAL - 153 active cases 
+++++++++++
+ Looking for that site that gave all the cases and their location and history I can't find it but there was a site that gave every single case and it's location. Anybody know what it was?
+++++++++++
+ Canada added 502 cases over the past week [10 March update](
+
+[17 March(today) update]
+()
+
+96 confirmed-&gt;598 confirmed
+++++++++++
+ Canada had a 35% increase in cases from mar 15 (253 cases) to mar 16 (341 cases). 
+++++++++++
+ Nova Scotia's current number of cases drops for the first time [
+
+To date, **19,032 test results have been reported** in Nova Scotia, or 1.95% of the entire population, or about 1 out of every 50 people. Today marks the first day our current cases went down. 
+
+Out of those tests:
+
+* **18,453** results were **negative** (97% of all tests) and **579** results were positive (3% of all results)
+* There are **400** **current cases** (2.1% of all tests), **389** of which are being treated at home
+* **11** are currently **hospitalized** across the province (2.75% of all current positive cases)
+   * The number of hospitalizations has been stable for the last 12 days despite the number of tests and cases dramatically increasing, ranging from 9-11 admissions,  with no more than 5 cases admitted to ICU units on a given date.
+* **176** have **recovered** (30.4% of all positive tests)
+* **3** people have **died**: a woman in her 70s and a woman in her 90s, both from Cape Breton and both with underlying medical conditions, and a man in his 80s from HRM.
+* Since our state of emergency was declared, an average of **2.8% of all daily tests** performed have come back **positive**
+
+It is *incredible* to see the change in numbers from my update from the start of the month: [
+++++++++++
+ Canada's "Have Provinces" and "Have not Provinces" of COVID-19 **The "Have Provinces":**
+
+[Nova Scotia]( Active Cases, Hospitalization, ICU admissions slightly off peak. New cases trending up, but flattening. 1.02 in 100,000 hospitalized. Mortality per 100,000 population: 1.23 
+
+[Alberta]( Active Cases, Hospitalization, ICU admissions at peak. New cases trending up steeper than they did in March. 1.59 in 100,000 hospitalized. Mortality per 100,000 population: 1.5
+
+[Ontario]( Active Cases, Hospitalization at peak. New cases trending up after slowing, but shallower than they did in March. 5.97 in 100,000 hospitalized. Mortality per 100,000 population: 4.48 
+
+[Quebec]( Active Cases, Hospitalization at peak. New cases trending up after flattening, but shallower than they did in March. 14.97 in 100,000 hospitalized. Mortality per 100,000 population: 13.28. The situation is by far the worst in Canada.
+
+**The "Have not Provinces":**
+
+[Saskatchewan](  Active Cases, Hospitalization, ICU admissions are all 14 days or more from peak. New cases are flat at just above 3 cases a day. 0.42 in 100,000 hospitalized. Mortality per 100,000 population: 0.34
+
+[Manitoba]( Active Cases, Hospitalization, ICU admissions are all 14 days or more from peak. New cases are flat at just above 1 case a day. 0.51 in 100,000 hospitalized. Mortality per 100,000 population: 0.44
+
+[Newfoundland &amp; Labrador]( Active Cases, Hospitalization, ICU admissions are all 14 days or more from peak. New cases are flat at just above 1 case a day. Had 5 straight days of zero cases. 1.15 in 100,000 hospitalized. Mortality per 100,000 population: 0.58
+
+[New Brunswick]( Active Cases, Hospitalization, ICU admissions are all 14 days or more from peak. New cases are flat and at zero. Had only 1 new case in the last 7 days. 0.64 in 100,000 hospitalized. No deaths. The situation is clearly the best in Canada.
+
+**The odd one out:**
+
+[British Columbia](  Active Cases are back at peak recently after going 14 days off peak. Hospitalization, ICU admissions are all 14 days or more from peak. The 7 days moving average for new cases is flat and off the peak. It is levelled at roughly 33 new cases a day,  comparably higher than the "Have not Provinces" but is not trending up as the "Have Provinces". 2.2 in 100,000 hospitalized. Mortality per 100,000 population: 1.76. Both statistics are higher than some of the "Have Provinces".
+++++++++++
+ Day to Day Update: 17 March As of 10 pm ET 17 March 2020, Canada reported 598  coronavirus cases (🔺157 vs yesterday 🔺100).Recoveries at 10(🔺1 vs yesterday no change). Deaths 8(🔺4 vs yesterday no change.)
+
+Daily summary: BC added 83 cases and 3 deaths today. Alberta adds 23 cases and is now at 97. Ontario reported 13 new cases, and its 1st death. Quebec adds 24 cases. NFLD adds 2 cases. New Brunswick and Saskatchewan both add 1 new case.
+
+By province: 
+
+Province(Daily change in brackets)|Confirmed Cases|Recoveries|Deaths|Tested
+
+Ontario|190(🔺13)|5|1|11171
+
+BC|186(🔺83)|5|7|6326
+
+Alberta|97(🔺23)|0|0|12355
+
+Quebec|74(🔺24)|0|0|N/A
+
+Manitoba|15(🔺8)|0|0|2280
+
+Saskatchewan|8(🔺1)|0|0|1107
+
+New Brunswick|8(🔺1)|0|0|204
+
+Nova Scotia|7(🔺2)|0|0|941
+
+Newfoundland and Labrador|3(🔺2)|0|0|N/A
+
+PEI|1(No change)|0|0|N/A
+
+Other(No daily updates here, will just keep tally)|9|0|0|N/A
+
+*Ontario total includes Sophie Trudeau.
+
+This is done in tribute to u/DominusDK
+
+Previous days:
+
+[7 March](
+
+[8 March](
+
+[9 March](
+
+[10 March](
+
+[11 March]
+(
+
+[12 March](
+
+[13 March]
+(
+
+[14 March]
+(
+
+[15 March]
+(
+++++++++++
+ Thermomiters used by China found to suppress cases of Covid19 - Stay safe, Stay strong, Good Luck to Hong Kong [

@@ -1,0 +1,98 @@
+
+++++++++++
+ USA Cases for top growing states and their counties (Data Source: CSSEGI Github) This is from a python script that I wrote which looks for the states with the biggest total increase in cases as of the previous two days, normalizes it per million population in that state. The state's counties with the highest case differences are also plotted in the same fashion with the state's curve as a dashed line. 
+
+\[Data Summary 6-26-2020\]([
+
+\[Data Source: COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University\]([
+++++++++++
+ Two more cases of COVID-19 identified in Mississippi, say health officials 
+++++++++++
+ By the economy, for the economy By the people, for the people.  The fundamental tenet of our constitution.  Elected officials hold office to serve the people.  Citizens United included corporations as people.  And since, we have migrated to the standard of 'by the economy and for the economy'.
+
+&amp;#x200B;
+
+We are living in a dangerous unprecedented situation where the choice between the economy and the people is being entertained by the leader of the United States. 
+
+&amp;#x200B;
+
+I swore an oath.  First, do no harm.  My patient is not a number.  My patient is not part of a reimbursement portfolio.  My patient has a spouse and children, or grandchildren.  My patient is suffering.  My patient is contributing to society or and the social services we provide.  My patient is incarcerated.  My patient is a child.  My patient has severe dementia.  My patient is healthy and about to run a marathon.  My patient is transgender, or black, or wealthy or a smoker or an alcoholic or just scared.  My patient is human.  My patient is a person.  The person I am treating is just that, a person.  Living beating heart, conscious mind, participatory, interactive, smiling, crying, frowning, happy, sad.
+
+&amp;#x200B;
+
+And my president, the man who believes Women don't have the right to choose the outcome of an unborn fetus, the man who has an ivory tower and silver spoon so large it can pass through his entire GI tract with both ends visible, he wants to consider sacrificing ***my patient*** for the economy.  
+
+&amp;#x200B;
+
+No, Mr. President.  You will not have the support of the health care workers.  You are not the measure of health excellence.  And I promise you Mr. President, when the day comes that you fall ill, and you sit across from me, pained, sickened, scared, breathing heavy, I will treat you equal to every other patient. Even for you sir, I will do not harm and treat you devoid of titles, like a human life that deserves medical care.
+++++++++++
+ Nearly 60,000 Californians have enrolled in coverage amid COVID-19 pandemic - Starting March 20, Covered California opened up the exchange to any eligible uninsured individuals who want health coverage amid the public health emergency 
+++++++++++
+ Calculating the mortality rate? I'm trying to understand the mortality rate of this virus. Please tell me where my logic is wrong.
+
+There are 2 ways a given case of Coronavirus can end: The patient can recover or the patient can die.
+
+Of the known cases that have ended, 76,000 have recovered, and 6400 have died.  That's 82,400 cases. (source = [
+
+6400 of 82,400 have died.  That's a mortality rate of almost 8%.  But we're hearing that the mortality rate is more like 1%. Some say as high as 3%.  Obviously I'm not an expert in this, and I generally trust experts, but how are they calculating the mortality rate to get 1-3%?
+++++++++++
+ As Covid Cases Surge, More Public-Health Experts Say Lockdowns Aren’t The Answer 
+++++++++++
+ Interactive Coronavirus Map shows US being overtaken by virus. Case severities are represented by larger circles on the map. These circles can be click on for number of cases in the region. &amp;#x200B;
+
+[Coronavirus Map](
+
+While you're bored in quarantine, I suggest checking out this [Coronavirus Map Real Time]( This Coronavirus map allows users to view Coronavirus Case #'s and deaths within the region. Clicking on markers and circles allows you to view statistics in the area. Furthermore, the size of the circles on the map are dependent on the number of cases in the area &amp; how severe those cases are. You can also view the number of worldwide cases, worldwide recoveries, deaths, and ongoing cases.
+
+It's so crazy to see how North America is being engulfed by this disease. Stay safe everyone! Make sure to take the necessary precautions to protect yourself!
+
+&amp;#x200B;
+
+[Zoomed In Pic of US](
+++++++++++
+ Why a sudden apparent drop in death rate? Looking at the COVID data, it seems like the rate of death is dropping fairly dramatically. Graph is weekly cases and deaths. 
+
+Why the drop off in deaths / week as a % of previous week's new cases? 
+
+It's not due to catching cases earlier (increasing the time between new case and death) because we see a lack of correlation over &gt;30 days.
+
+It's also not explainable due to "poor initial testing"-- at current death rates, that would imply we were having \~1.8M new cases a week in April, which is absurd imo.
+
+It's not likely due to data issues, counting new cases &amp; counting death methodology is consistent across this timeline.
+
+Does the infected population suddenly skew far younger / healthier, implying we're doing a significantly better job protecting at risk populations? Are we better at treating this? 
+
+Then the really interesting question... do revised death rates bolster the case for curtailing social distancing or is social distancing responsible for new death rates?
+++++++++++
+ More than 55,000 people in the US have been infected and more than 800 have died from COVID-19.How many coronavirus cases does each US state have? Coronavirus in the U.S.:Latest Map and Case Count  
+
+[
+
+So far, Washington and New York states have been hit the hardest by the virus. At least 123 have died in Washington and 270 in New York.
+
+The new coronavirus is an enemy against humanity. Experts think the new coronavirs will probably become a permanent part of the human respiratory-virus repertoire.
+
+Lets Fight Together Against CoronaVirus.
+++++++++++
+ I think that there's evidence that there were at least several hundred cases of COVID-19 in NY before the first official positive result, on Mar 1. New York has a tracker that logs influenza cases recorded by physicians across the state, organized by type:
+
+
+
+Type A and B are based on positive test results. I think (though I'm still trying to verify) that "Type Unspecified" refers to a patient with flu-like symptoms, but with a negative influenza test. This is one way that suspected COVID-19 cases are being identified before testing.
+
+Here, we have **total** influenza cases for each of the last few seasons:
+
+[Table](
+
+[Plot](
+
+Here are the same results for **Type Unspecified**, showing a major spike of hundreds of cases over the previous year baseline on "CDC Day" 8-9:
+
+[Table](
+
+[Plot](
+
+This shows the definition of the "CDC week" dates, showing the spike happened around Feb. 29-Mar 1.:
+
+
+It looks like the next scheduled weekly update is tomorrow, at 5pm.

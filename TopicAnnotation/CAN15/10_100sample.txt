@@ -1,0 +1,1012 @@
+
+++++++++++
+ 54 positive cases, 5 cases resolved, 536 cases under investigation, and 3590 negative cases in Ontario, Canada. An increase of 17 positive cases from yesterday. [Source] (
+
+___
+
+[Graph of positive cases] (
+
+Date | Positive Cases | Cases Resolved | Cases Under Investigation (+/-) | Negative Cases  | Daily Tested | Total Tested/Testing 
+---|---|---|---|---|---|---
+March 12th |  54 | 5 | 536 (+71) |3,590| 702| 4,185 (+790)
+[March 11th] ( |  37 | 5 | 465 (+353) |2,888| 289| 3,395 (+648)
+[March 10th] ( |  31 | 5 | 112 (+90) |2,599| 252| 2,747 (+344)
+[March 9th] ( |  31 | 4 | 22 (-33) |2,347| 250| 2,403 (+225)
+[March 7th-8th] ( | 25 | 4 | 55 (-17) |2,094| 429| 2,178 (+415)
+[March 6th] ( | 22 | 4 | 72 (-6) |1,665| 199| 1,763 (+197)
+[March 5th] ( | 18 | 4 | 78 (-24) |1,466| 250| 1,566 (+228)
+[March 4th] ( |  17 | 3 | 102 (+57) |1,216| 155| 1,338 (+212)
+[March 3rd] ( |  17 | 3 | 45 (+33) |1,061| 86| 1,126 (+121)
+[February 29th-March 2nd] ( |  15 | 3 | 12 (-10) |975| 207| 1,005 (+237)
+[February 28th] ( |  4 | 3 | 22 (+1) | 739| 67 | 768 (+69)
+[February 27th] ( |  3 | 3 | 21 (+7) | 672| 62 | 699 (+70)
+[February 26th] ( |  2 | 3 | 14 (-7) | 610| 42 | 629 (+36)
+[February 25th] ( |  1 | 3 | 21 (+12) | 568 | 28 | 593 (+40)
+[February 22nd-24th] ( | 1 | 3 | 9 (-3) | 540 | 57 | 553 (+55)
+[February 21st] ( 0 | 3 | 12 (-2)  | 483 |21 | 498 (+19)
+[February 20th] ( 1 | 2 | 14 (-3)  | 462  | 26| 479 (+23)
+[February 19th] ( 2 | 1 | 17 (+17)  | 436 (436+0)  | 18| 456 (+35)
+[February 18th] ( 2 | 1 | 0  | 418 (418+0)  | 19| 421 (+19)
+[February 15th-17th] ( 2 | 1 | 0 (-8) | 399 (399+0)  | 46| 402 (+38)
+[February 14th] ( | 2 | 1 | 8 (-7) | 353 (353+0)  |31 | 364 (+24)
+[February 13th] ( 2 | 1 | 15 (+6) | 322 (306+16)  | 21| 340 (+27)
+[February 12th] ( 2 | 1 | 9 (-10) | 301 (257+44)  |38 | 313 (+28)
+[February 11th] ( 3 | 0 | 19 (+11) | 263 (184+79)   | 15| 285 (+26) 
+[February 8th-10th] ( 3 | 0 | 8 (-31) | 248 (167+81)   | 93| 259 (+62)
+[February 7th] ( 3 | 0 | 39 (-23) | 155 (130+25)   |51 | 197 (+28)
+[February 6th] ( 3 | 0 | 62 (+19) | 104 (104+0)   |0 | 169 (+19)
+[February 5th] ( 3 | 0 | 43 (+9) | 104 (96+8)  |2 | 150 (+11)
+[February 4th] ( 3 | 0| 34 (+5) | 102 (90+12)  | | 139 
+
+___
+
+Looks like things are starting to quicken as Ontario has confirmed 17 new positive cases today. As I've talked about yesterday, the high increase of cases under investigation is uncovering the real grasp of how many people are actually infected by COVID-19. As a result of this increase Ontario has suspended public schools for 2 weeks (excluding march break). With the drastic increase of new cases and the potential for more each day, I will be switching to a table format for the information on each cases instead of just writing it out previously. Its essentially just copying the table on the Ontario website right now, but the problem with that one is that they don't show the previous cases, only the new ones. I'll be going back through my previous posts to compile all the info I've previously typed so that the table will have all the cases. 
+
+Some silver lining with the current situation so we're not all doom and gloom, all the current cases we've had are all in self-isolation. This means that none of their conditions are severe enough for hospitalization. Furthermore there has been no additional cases of community transmission, today's cases all had a travel history or were in close contact with a previous positive case. Finally we're now past 4000 cases testing/tested, with the large increases happening during the past few days, showing the expansion of testing capabilities for Ontario. 
+
+___
+
+Case Details
+
+Case Number | Patient Age and Gender | Public Health Unit | Hospital | Transmission | Status 
+---|---|---|---|---|---
+43	|50s Male	|Hamilton Public Health	|pending	|travel (pending)	|self-isolating
+44	|&lt;18 |Female	Peel Public Health	|N/A	|close contact|	self-isolating
+45	|20s Male	|Toronto Public Health	|Sunnybrook	|close contact	|self-isolating
+46	|70s Male	|Toronto Public Health	|Mississauga Hospital|	travel (USA)	|self-isolating
+47	|40s Male	|Toronto Public Health	|St Michael’s Hospital	|travel (USA)|	self-isolating
+48	|60s Female	|Region of Waterloo Public Health	|Grand River Hospital|	travel (Puerto Rico)	|self-isolating
+49	|40s Female	|Ottawa Public Health|Queensway Carlton Hospital	|travel (Italy)|	self-isolating
+50	|20s Female	|Toronto Public Health	|Trillium Health Partners	|travel (Europe)	|self-isolating
+51	|40s Female	|Halton Public Health	|Joseph Brant Hospital	|travel (USA, Costa Rica)	|self-isolating
+52	|&lt;18 Male	|Toronto Public Health	|North York General	|close contact	|self-isolating
+53	|30s Male	|Toronto Public Health	|North York General|	close contact	|self-isolating
+54	|20s Male	|Toronto Public Health	|Sunnybrook	|travel (USA)	|self-isolating
+55	|60s Male	|Toronto Public Health	|Sunnybrook	|travel (USA)	|self-isolating
+56	|60s Female	|Toronto Public Health	|Sunnybrook	|travel (USA)	|self-isolating
+57	|20s Female	|Peel Public Health	|pending	|travel (pending)	|self-isolating
+58	|40s Male	|Region of Waterloo Public Health	|Grand River Hospital	|travel (USA)	|self-isolating
+59	|40s Male	|Simcoe Muskoka District Health Unit	|Royal Victoria Hospital	|travel (Spain)	|self-isolating
+
+
+
+
+___
+
+Old Table
+
+Date | Confirmed Cases | Presumptive Confirmed | Cases Recovered (Unoffical) | Cases Under Investigation | +/- From Previous Day
+---|---|---|---|---|---
+[February 1st-3rd] ( 3 | 0  |2| 29 | +12
+[January 31st] ( 3 | 0 |2 | 17 | -10
+[January 30th] ( 2 | 0  |0| 27 | +4
+[January 29th] ( 2 | 0 |0 | 23 | +12
+[January 28th] ( 1 | 1 |0 | 11 | -8
+[January 27th] ( 0 | 2 |0 | 19 | 0
+
+___
+++++++++++
+ Ontario August 13th update: 78+ New Cases, 99 Recoveries, 0 Deaths, 5 New Hospitalizations, -1 New ICU 
+++++++++++
+ Ontario June 1st update: 404 new cases, 343 recoveries, 10 deaths, 34 new hospitalizations, 6 new ICU 
+++++++++++
+ 😷Coronavirus Total Cases. Visual Timeline until 18th May 2020 😷 
+++++++++++
+ Ontario April 30th update: 459 new cases, 593 recoveries, 86 deaths, 83 new hospitalizations, 9 new ICU 
+++++++++++
+ Ontario April 28th update: 525 new cases, 439 recoveries, 59 deaths, 35 new hospitalizations, 8 new ICU 
+++++++++++
+ 49 New COVID-19 Cases in Alberta, bringing total to 195 -11 total community transmission - 10 in hospital (5 in ICU) - 3 recovered - 17,000 tested in Alberta to date 
+++++++++++
+ Quebec July 24th update: 163 New Cases, 110 Recoveries, 1 Death, 220 Hospitalized (-1), 12 ICU (-2) article:     
+
+
+data sources:     
+
+
+
+
+
+++++++++++
+ 37 positive cases, 5 cases resolved, 465 cases under investigation and 2888 negative cases in Ontario, Canada [Source] (
+
+___
+
+[Graph of positive cases] (
+
+Date | Positive Cases | Cases Resolved | Cases Under Investigation (+/-) | Negative Cases  | Daily Tested | Total Tested/Testing 
+---|---|---|---|---|---|---
+March 11th |  37 | 5 | 465 (+353) |2,888| 289| 3,395 (+648)
+[March 10th] ( |  31 | 5 | 112 (+90) |2,599| 252| 2,747 (+344)
+[March 9th] ( |  31 | 4 | 22 (-33) |2,347| 250| 2,403 (+225)
+[March 7th-8th] ( | 25 | 4 | 55 (-17) |2,094| 429| 2,178 (+415)
+[March 6th] ( | 22 | 4 | 72 (-6) |1,665| 199| 1,763 (+197)
+[March 5th] ( | 18 | 4 | 78 (-24) |1,466| 250| 1,566 (+228)
+[March 4th] ( |  17 | 3 | 102 (+57) |1,216| 155| 1,338 (+212)
+[March 3rd] ( |  17 | 3 | 45 (+33) |1,061| 86| 1,126 (+121)
+[February 29th-March 2nd] ( |  15 | 3 | 12 (-10) |975| 207| 1,005 (+237)
+[February 28th] ( |  4 | 3 | 22 (+1) | 739| 67 | 768 (+69)
+[February 27th] ( |  3 | 3 | 21 (+7) | 672| 62 | 699 (+70)
+[February 26th] ( |  2 | 3 | 14 (-7) | 610| 42 | 629 (+36)
+[February 25th] ( |  1 | 3 | 21 (+12) | 568 | 28 | 593 (+40)
+[February 22nd-24th] ( | 1 | 3 | 9 (-3) | 540 | 57 | 553 (+55)
+[February 21st] ( 0 | 3 | 12 (-2)  | 483 |21 | 498 (+19)
+[February 20th] ( 1 | 2 | 14 (-3)  | 462  | 26| 479 (+23)
+[February 19th] ( 2 | 1 | 17 (+17)  | 436 (436+0)  | 18| 456 (+35)
+[February 18th] ( 2 | 1 | 0  | 418 (418+0)  | 19| 421 (+19)
+[February 15th-17th] ( 2 | 1 | 0 (-8) | 399 (399+0)  | 46| 402 (+38)
+[February 14th] ( | 2 | 1 | 8 (-7) | 353 (353+0)  |31 | 364 (+24)
+[February 13th] ( 2 | 1 | 15 (+6) | 322 (306+16)  | 21| 340 (+27)
+[February 12th] ( 2 | 1 | 9 (-10) | 301 (257+44)  |38 | 313 (+28)
+[February 11th] ( 3 | 0 | 19 (+11) | 263 (184+79)   | 15| 285 (+26) 
+[February 8th-10th] ( 3 | 0 | 8 (-31) | 248 (167+81)   | 93| 259 (+62)
+[February 7th] ( 3 | 0 | 39 (-23) | 155 (130+25)   |51 | 197 (+28)
+[February 6th] ( 3 | 0 | 62 (+19) | 104 (104+0)   |0 | 169 (+19)
+[February 5th] ( 3 | 0 | 43 (+9) | 104 (96+8)  |2 | 150 (+11)
+[February 4th] ( 3 | 0| 34 (+5) | 102 (90+12)  | | 139 
+
+___
+
+The most drastic thing to happen today is the incredible increase in testing from yesterday and from since the beginning. I've already noted the tripling of cases under investigation in yesterday's post but today's increase dwarfs that. It seems that the criteria for testing is being loosened as Ontario ramps up testing for a larger number of people. 
+
+This ties in to the 6 new positive cases we've had today, with the first one being very key here. Unlike other cases that we've had, this one's cause is unknown. The man in his 50s presented himself to Health Sciences North but he had no travel history nor did he have any close contact with previous confirmed cases. This could be the result of a community transmission, in which the man was infected by another unconfirmed but positive case. However, there is a silver lining in this situation. The fact that they tested this man without his prior contact to confirmed cases or his lack of travel history means that Ontario is no longer strictly testing anymore. With a more widespread testing method, Ontario will be able to better inform themselves of how many actual infected there are. As a result, we could see a large increase of positive cases during the next few days. 
+
+The rest of the cases today all had prior travel history, with the majority of them coming in from the US. 
+
+* The second case today is woman in her 30s with a travel history to Egypt. She presented herself to Mackenzie Health hospital and is now in self-isolation
+* The third case today is man in his 30s with a travel history to the US. He presented himself to Toronto Western hospital and is now in self-isolation
+* The fourth case today is man in his 40s with a travel history to Austria. He presented himself to Ottawa Hospital and is now in self-isolation
+* The fifth case today is woman in her 30s with a travel history to the US. She presented herself to Hamilton Health Sciences and is now in self-isolation
+* The sixth case today is woman in her 40s with a travel history to the US. She presented herself to St Joseph’s Health Centre and is now in self-isolation
+
+___
+
+Old Table
+
+Date | Confirmed Cases | Presumptive Confirmed | Cases Recovered (Unoffical) | Cases Under Investigation | +/- From Previous Day
+---|---|---|---|---|---
+[February 1st-3rd] ( 3 | 0  |2| 29 | +12
+[January 31st] ( 3 | 0 |2 | 17 | -10
+[January 30th] ( 2 | 0  |0| 27 | +4
+[January 29th] ( 2 | 0 |0 | 23 | +12
+[January 28th] ( 1 | 1 |0 | 11 | -8
+[January 27th] ( 0 | 2 |0 | 19 | 0
+
+___
+++++++++++
+ Ontario November 9 update: 1242 New Cases, 821 Recoveries, 12 Deaths, 38 New Hospitalizations, 4 New ICU 
+++++++++++
+ Day to Day Update: 11 March As of 10 pm ET 11 March 2020, Canada reported 117 coronavirus cases (🔺20 vs yesterday 🔺17). Recoveries at 8 (No change vs. Yesterday no change). Critical 1. Serious 0. Deaths 1 (No change vs yesterday no change.)
+
+NEW: Daily summary: BC confirmed 7 more cases. Alberta adds 5 cases to 19 cases. Ontario reported 5 new cases. Quebec confirmed 2 more cases. New Brunswick confirms first case.
+
+By province: 
+
+Province(Daily change in brackets)|Confirmed Cases|Critical|Serious|Recoveries|Deaths|Tested
+
+:—| :—| :—| :—| :—| :—| :—
+
+BC|46(🔺7)|1|0|4|1|2008 people, 2803 samples
+
+Ontario|41(🔺5)|0|0|4|0|2178
+
+Alberta|19(🔺5)|0|0|0|0|2018
+
+Quebec|9(🔺2)|0|0|0|0|406
+
+New Brunswick|1(🔺1)|0|0|0|0|13
+
+This is done in tribute to u/DominusDK
+
+Previous days:
+
+[7 March](
+
+[8 March](
+
+[9 March](
+++++++++++
+ Ontario June 1st update: 404 new cases, 343 recoveries, 10 deaths, 34 new hospitalizations, 6 new ICU 
+++++++++++
+ Ontario June 1st update: 404 new cases, 343 recoveries, 10 deaths, 34 new hospitalizations, 6 new ICU 
+++++++++++
+ Nova Scotia's current number of cases drops for the first time [
+
+To date, **19,032 test results have been reported** in Nova Scotia, or 1.95% of the entire population, or about 1 out of every 50 people. Today marks the first day our current cases went down. 
+
+Out of those tests:
+
+* **18,453** results were **negative** (97% of all tests) and **579** results were positive (3% of all results)
+* There are **400** **current cases** (2.1% of all tests), **389** of which are being treated at home
+* **11** are currently **hospitalized** across the province (2.75% of all current positive cases)
+   * The number of hospitalizations has been stable for the last 12 days despite the number of tests and cases dramatically increasing, ranging from 9-11 admissions,  with no more than 5 cases admitted to ICU units on a given date.
+* **176** have **recovered** (30.4% of all positive tests)
+* **3** people have **died**: a woman in her 70s and a woman in her 90s, both from Cape Breton and both with underlying medical conditions, and a man in his 80s from HRM.
+* Since our state of emergency was declared, an average of **2.8% of all daily tests** performed have come back **positive**
+
+It is *incredible* to see the change in numbers from my update from the start of the month: [
+++++++++++
+ How can I track down cases by region? Ontario’s website updates twice daily, but the previous day’s new cases are gone with each update. How can I either find the archived data or find a different source with the number of cases per region?
+
+Thanks!
+++++++++++
+ Cancer doctor in Hamilton tests positive after vacation patient and staff contact.  [ 
+
+&amp;#x200B;
+
+Lovely. Reading between the lines it sounds like she showed up to work sick after a trip to Hawaii, and someone said 'get tested, dumbass'. Sure enough, positive. Quick return on the test, at least- tested afternoon of the 9th, positive result confirmed the next day.
+++++++++++
+ Ontario April 28th update: 525 new cases, 439 recoveries, 59 deaths, 35 new hospitalizations, 8 new ICU 
+++++++++++
+ Saskatchewan Update COVID-19 Laboratory Testing Summary for Saskatchewan   
+
+*Cumulative counts as of March 10, 2020*   
+
+Total Persons Tested 204   (52 last week)
+
+Persons with Pending Results 2   (5 last week)
+
+Persons with Confirmed Negative Results 202   (47 last week)
+
+Persons with Presumptive Positive Results 0   
+
+Persons with Confirmed Positive Results 0   
+
+Total Tests Performed\*\*  216  (wasn't reported last week)
+
+\*\*A person may have multiple tests performed
+
+[
+++++++++++
+ 59 New Cases Of COVID-19, (Total 408) Three New Deaths (Total 16) in Windsor. 
+++++++++++
+ CTV News: Ontario confirms three new case of COVID-19 in GTA, bringing total confirmed cases to 11 
+++++++++++
+ Twenty-six new cases in Nova Scotia, &gt;1000 tests completed in a day [
+
+To date, 6764 tests have been performed in Nova Scotia, or 0.7% of the entire population. Our certified lab has *tripled* its output and they are doing an amazing job!
+
+Out of those tests:
+
+* **6591** tested **negative** (97.4% of all tests)
+* **162** are **current positive** cases being treated (2.4% of all tests) 
+* **5** are currently **hospitalized** (3.09% of all current positive cases)
+* **11** have **recovered** (6.36% of all positive tests)
+++++++++++
+ 9 new cases of Covid-19 in Windsor (Total 550); 3 new deaths (Total 38); 923 tests pending 
+++++++++++
+ Ontario April 30th update: 459 new cases, 593 recoveries, 86 deaths, 83 new hospitalizations, 9 new ICU 
+++++++++++
+ Yukon CoronaVirus Update - 27th March 2020, 1 New Cases, 4 Total in Yukon 
+++++++++++
+ Alberta CoronaVirus Update - 27th March 2020, 56 New Cases, 542 Total in AB 
+++++++++++
+ Ontario changed #COVID19 “case” definition Aug6 to falsely incl immune ppl w/ IgG antibodies as “cases” in conjunction w/deeply flawed PCR tests of asymptomatic ppl w/elevated PCR cycle threshold creating up to 90% false+ “cases” 
+++++++++++
+ Ontario April 28th update: 525 new cases, 439 recoveries, 59 deaths, 35 new hospitalizations, 8 new ICU 
+++++++++++
+ Ontario April 19th update: 568 new cases, 324 recoveries, 39 deaths, 69 new hospitalizations, 17 new ICU 
+++++++++++
+ Northern seniors display positive messages in light of COVID-19 (CTV news) Elders pleading in a clever way to **^(StayHome)**
+
+ [
+++++++++++
+ Day to Day Update: 20 March As of 9 pm ET 20 March 2020, Canada reported 1,087 coronavirus cases (🔺214 vs yesterday 🔺146) .Recoveries at 12(🔺2 vs yesterday no change). Deaths 12(🔺2 vs yesterday 🔺1).
+
+*Deaths were at 12 yesterday as well. Correction, because apparently I can’t count
+
+Daily summary: BC added 77 cases today. Alberta adds 49 cases.   Ontario reported 60 new cases. Quebec adds 18 cases.  Saskatchewan adds 6 new cases. Nova Scotia reports 1 new case. NFLD reports 4th case.
+
+By province: 
+
+Province(Daily change in brackets)|Confirmed Cases|Recoveries|Deaths|Tested
+
+BC|348(🔺77)|6|8|17921
+
+Ontario|318(🔺60)|5|2|19511
+
+Alberta|195(🔺49)|1|1|20360
+
+Quebec|139(🔺18)|0|1|7839
+
+Saskatchewan|26(🔺6)|0|0|3093
+
+Manitoba|17(No change)|0|0|3534
+
+Nova Scotia|15(🔺1)|0|0|1561
+
+New Brunswick|11(No change)|0|0|520
+
+Newfoundland and Labrador|4(🔺1)|0|0|N/A
+
+PEI|2(No change)|0|0|N/A
+
+Other(No daily updates here, will just keep tally)|12|0|0|N/A
+
+*PEI and NFLD have no info on the number of tested on their websites. 
+
+This is done in tribute to u/DominusDK
+
+Previous days:
+
+[7 March](
+
+[8 March](
+
+[9 March](
+
+[10 March](
+
+[11 March]
+(
+
+[12 March](
+
+[13 March]
+(
+
+[14 March]
+(
+
+[15 March]
+(
+
+[16 March]
+(
+
+[17 March]
+(
+
+[18 March](
+++++++++++
+ Manitoba Nov. 18 update: 400 new cases, 11 deaths 400 new cases have been announced, 1 was removed due to being a duplicate, bringing the total to 12 007
+
+239 in the Winnipeg Health Region
+
+93 in the Southern Health Region
+
+40 in the Northern Health Region
+
+20 in the Interlake-Eastern Health Region
+
+8 in the Prairie Mountain Health Region
+
+11 more deaths have been announced bringing the total to 190
+
+5 in Winnipeg
+
+A male in his 60s
+
+2 males in their 80s linked to the outbreak at Golden Links Lodge
+
+A male in his 90s
+
+A female in her 90s linked to the outbreak at Golden Links Lodge
+
+1 in the Fort Garry Health District, 1 in the River East Health District, 2 in the St. Boniface Health District, 1 in the St. James - Assiniboia Health District
+
+3 in Southern Health Region
+
+A female in her 50s
+
+2 males in their 80s
+
+1 in the City of Steinbach, 1 in the Hanover Health District, 1 in the Rural Portage Health District
+
+2 males in their 70s from the Interlake-Eastern Health Region
+
+1 in the City of Selkirk and 1 in the Fisher/Peguis Health District
+
+A male in his 90s from the City of Dauphin in the Prairie Mountain Health Region
+
+249 currently hospitalized with 40 in ICU
+
+The current 5 day test positivity rate is 14.2%, 13.8% in Winnipeg
+
+4 432 people have recovered with 7 385 active cases
+
+3 050 tests were completed Tuesday bringing the total to 318 479
+
+An outbreak has been declared at Health Science Centre units GH3 and GA4. The sites move to critical (red) on the pandemic response system.
+
+A specific fine of $298 is being put in place for not wearing a mask in public places
+++++++++++
+ Ontario April 30th update: 459 new cases, 593 recoveries, 86 deaths, 83 new hospitalizations, 9 new ICU 
+++++++++++
+ Canada posts 2nd-highest total of new coronavirus cases as U.S., world smash records 
+++++++++++
+ Some more positive news: Active cases in Ontario goes down for the first time today Active cases (defined as total cases minus recoveries and deaths) went down today for the first time (from 5,675 to 5,597). I hope this downward trend continues and that 25th April will remain our peak date (for reported cases).
+
+Keep in mind: all these numbers come with some imperfections / uncertainty starting from lag in infection to getting tested to getting results, definitions of 'recoveries', undetected cases and uncertainty around cases in LTCs.
+
+Ontario also reported the lowest number of deaths since April 13th, so the decline in active cases is also not due to a large daily death toll.
+++++++++++
+ Ontario's first case: December 25th 									
+
+
+Accurate_Episode_Date |Case_Reported_Date |Test_Reported_Date  | Age_Group | Client_Gender | Case_AcquisitionInfo | Outcome1 |Outbreak_Related |Reporting_PHU_City
+---|---|----|----|----|----|----|----|----|----
+2019-12-25 |2020-03-29 |2020-05-23 |70s	| MALE |No Epi-link |Resolved | No |  Newmarket
+++++++++++
+ Alberta CoronaVirus Update - 27th March 2020, 56 New Cases, 542 Total in AB 
+++++++++++
+ B.C. records 294 new COVID-19 cases and 4 deaths over three days, as active cases top 1,100 
+++++++++++
+ Ontario April 3 update: 462 new cases, 192 resolved, 14 deaths, 4,020 tests 
+++++++++++
+ Ontario April 19th update: 568 new cases, 324 recoveries, 39 deaths, 69 new hospitalizations, 17 new ICU 
+++++++++++
+ Ontario April 25th update: 476 new cases, 422 recoveries, 48 deaths, 58 new hospitalizations, 17 new ICU 
+++++++++++
+ Ontario April 28th update: 525 new cases, 439 recoveries, 59 deaths, 35 new hospitalizations, 8 new ICU 
+++++++++++
+ New Brunswick CoronaVirus Update - 1st April 2020, 11 New cases, 81 Total in NB  [
+++++++++++
+ Still no active cases of COVID-19 in Newfoundland and Labrador, despite one positive test result recorded last night | The Telegram 
+++++++++++
+ Ontario August 13th update: 78+ New Cases, 99 Recoveries, 0 Deaths, 5 New Hospitalizations, -1 New ICU 
+++++++++++
+ Daily confirmed Coronavirus cases - The 15 Nations with more Daily Cases - From 1 March to 20 May 
+++++++++++
+ Ontario April 30th update: 459 new cases, 593 recoveries, 86 deaths, 83 new hospitalizations, 9 new ICU 
+++++++++++
+ Exclusive: Drugmakers offer Canada C$1 billion to scrap some pending pricing rules 
+++++++++++
+ Ontario November 17 update: 1249 New Cases, 1135 Recoveries, 12 Deaths, 26,468 tests (4.72% positive), Current ICUs: 127 (+2 vs. yesterday) (+45 vs. last week) Link to report: 
+
+Detailed tables: [Google Sheets mode]( and [HTML of Sheets, loads faster but looks ugly](
+
+* 106 new school cases. 683 (14.1% of all) schools have active cases
+* Backlog: 16,254 (-9,893), 33,351 tests completed (249.3 per 100k) --&gt; 23,458 swabbed
+* Positive rate (Day/Week/Prev Week): 4.46% /  3.79% /  3.28% - [Chart](
+* Current hospitalizations: 500(+21), ICUs: 125(+7), Ventilated: 70(+3), [vs. last week: +133 / +41 / +16] - [Chart](
+* *49.6% of today's cases are in people under the age of 40.* /s
+* 7.9% or 99 of today's cases are in people aged 70+
+* 530 of today's cases relate to episode dates more than 5 days ago
+
+**Global Comparison (Last 14 days/100k / % positive (week))**
+
+* Belgium: 755.0 (17.34%), France: 783.1 (28.66%), Spain: 545.8 (12.47%)
+* UK: 505.4 (7.33%), Italy: 785.8 (27.85%), Sweden: 511.9 (10.53%)
+* Germany: 307.6 (8.02%), Switzerland: 1093.0 (28.20%), Luxembourg: 1301.7 (4.73%)
+* Korea: 4.3 (1.60%), NZ: 0.8 (0.03%), Australia: 0.59 (0.02%)
+* USA: 581.7 (10.00%), Canada: 165.5 (7.72%)
+
+|Reporting_PHU|Today|Averages-&amp;gt;&amp;gt;|Last 7|Prev 7|Per 100k-&amp;gt;&amp;gt;|Last 7/100k|Prev 7/100k|Source (week %)-&amp;gt;&amp;gt;|Close contact|Community|Outbreak|Travel|Ages (week %)-&amp;gt;&amp;gt;|&amp;lt;40|40-69|70+|More Averages-&amp;gt;&amp;gt;|Oct|Sep|Aug|Jul|Jun|May|
+:--|--:|:--|--:|--:|:--|--:|--:|:--|--:|--:|--:|--:|:--|--:|--:|--:|:--|--:|--:|--:|--:|--:|--:|
+|Total|1249||1423.1|1153.7||74.5|60.4||40|41.7|17.4|0.9||51.7|37.7|10.5||774.8|313.4|100.1|133.8|240.3|376.7|
+|||||||||||||||||||||||||
+|Toronto PHU|569||456.1|391.7||116.9|100.4||15.2|64.3|20.1|0.5||49.6|39.4|10.9||286.2|110.4|21.1|33.9|97.7|168.9|
+|Peel|256||401.3|309.3||203.3|156.7||55.1|35.4|8.8|0.7||54.7|37.1|8.4||151.9|65.7|19.7|23.9|45.2|69.4|
+|York|94||144.1|101||90.9|63.7||57.1|28.8|13.5|0.6||45.9|43.9|10.3||80.3|26.1|6.2|9.7|18.8|28.8|
+|Durham|69||57.9|36.4||62.7|39.5||51.6|36.8|11.4|0.2||57.5|38.2|3.9||26.7|8.8|3|3.4|8.2|16.6|
+|Halton|58||50.1|50.1||64|64||47.3|33.6|18.5|0.6||52.4|38.2|9.4||27.9|9.7|1.9|2.3|3.7|6.2|
+|Waterloo Region|42||52.1|29.3||68.2|38.3||33.7|47.4|18.4|0.5||51.8|32.9|15.4||13.6|9|2.8|2.7|7.2|13.2|
+|Niagara|27||24.1|26.3||37.7|41.1||55|-2.4|46.2|1.2||42.6|39.1|18.4||11.4|4.6|2.4|3.5|3.8|5.1|
+|Wellington-Guelph|22||15|12.4||26.3|21.8||42.9|38.1|17.1|1.9||46.6|45.7|7.7||7|2.8|1.1|1.7|3.2|3.6|
+|Hamilton|19||36.3|45.1||47.3|58.9||40.2|28|31.5|0.4||43.4|37.8|18.9||20.9|6.1|2.7|1.7|5.4|8.4|
+|Simcoe-Muskoka|19||26.9|16||34.8|20.7||50.5|39.4|9|1.1||58.4|35|6.4||15.6|6.3|1.5|2.1|4.3|6.4|
+|Windsor|16||23.4|11.6||41.1|20.3||24.4|24.4|47|4.3||53.1|36|11||5.6|4.6|7|22.8|20.9|12.3|
+|Ottawa|11||51.6|54.6||38.6|40.9||64.3|8.6|24.4|2.8||57.9|28.3|13.9||86.5|44.9|14.4|14.1|4.7|20.5|
+|Brant|9||7.4|7.4||38.5|38.5||40.4|34.6|23.1|1.9||48.1|40.4|11.5||4.5|0.9|0.6|0.7|0.5|0.5|
+|Thunder Bay|9||4.7|2.1||21.7|9.9||24.2|3|72.7|0||39.4|57.6|3||0.4|0.1|0.3|0.1|0.3|0.3|
+|Southwestern|6||9.6|4.1||75.3|32.6||41.8|23.9|29.9|4.5||49.2|32.9|17.9||1.7|0.5|3.6|1.9|0.3|0.5|
+|Chatham-Kent|6||5.3|1.3||36.3|8.8||37.8|32.4|29.7|0||59.4|37.8|2.7||1.3|0.2|3.9|2.8|0.5|2|
+|Eastern Ontario|5||6.7|9.4||23.2|32.6||66|4.3|27.7|2.1||51|27.6|21.3||10.9|2.4|0.5|0.5|0.5|1.8|
+|Kingston|5||4.9|1.4||17.6|5.2||52.9|23.5|20.6|2.9||82.3|14.7|2.9||1.5|0.6|0.1|0.6|0.9|0|
+|London|3||14.4|16.7||22.2|25.7||61.4|13.9|16.8|7.9||77.2|14.9|7.9||8.4|4.8|1.8|1.5|3.1|4.3|
+|Haliburton, Kawartha|3||1.7|0.9||6.7|3.4||75|8.3|16.7|0||33.3|25|25||0.4|0.5|0.4|0.6|0.7|0.5|
+|Rest|1||29.5|26.6||12.4|11.3||40.3|23.8|34.5|1.5||49|30.1|20.9||12.1|4.4|5.1|3.3|10.4|7.4|
+
+
+
+
+
+**Canada comparison:** 
+
+|Province|Yesterday|Averages-&amp;gt;&amp;gt;|Last 7|Prev 7|Per 100k-&amp;gt;&amp;gt;|Last 7/100k|Prev 7/100k|Positive % - last 7|
+:--|--:|:--|--:|--:|:--|--:|--:|--:|
+|Canada|4802||4779.6|3824.9||89|71.2|8.03|
+||||||||||
+|Ontario|1487||1443|1105.7||69.3|53.1|3.92|
+|Quebec|1218||1297.6|1138.7||107|93.9|12.24|
+|Alberta|860||861.3|685.4||137.9|109.8|inf|
+|British Columbia|646||604.3|459||83.4|63.4|10.88|
+|Manitoba|392||406.3|317.1||207.7|162.1|12.23|
+|Saskatchewan|181||156.4|113.6||93.2|67.7|10.24|
+|Lotmoreovit|8||3.4|0.3||61.9|5.2|7.87|
+|New Brunswick|8||2.9|1.6||2.6|1.4|0.82|
+|Nova Scotia|2||2.4|2.3||1.8|1.6|0.33|
+|Newfoundland|0||0.9|0.9||1.2|1.2|0.31|
+|Northwest Territories|0||0.7|0||11.2|0|3.68|
+|Prince Edward Island|0||0.3|0.3||1.3|1.3|0.1|
+|Yukon|0||0.1|0||2.4|0|0.68|
+
+
+
+
+
+
+**Today's deaths:**
+
+|Reporting_PHU|Age_Group|Client_Gender|Case_AcquisitionInfo|Case_Reported_Date|Episode_Date|2020-11-17|
+:--|:--|:--|:--|:--|:--|--:|
+|Ottawa|90s|MALE|Outbreak|2020-11-11|2020-11-11|1|
+|Toronto PHU|90s|MALE|Outbreak|2020-11-11|2020-11-10|1|
+|Huron Perth|90s|MALE|Outbreak|2020-11-09|2020-11-07|1|
+|Huron Perth|90s|FEMALE|Outbreak|2020-11-09|2020-11-07|1|
+|Toronto PHU|80s|FEMALE|Community|2020-11-10|2020-11-06|1|
+|Toronto PHU|90s|MALE|Outbreak|2020-11-11|2020-11-06|-1|
+|Huron Perth|90s|FEMALE|Outbreak|2020-11-07|2020-11-06|1|
+|Windsor|90s|MALE|Outbreak|2020-11-11|2020-11-06|1|
+|Toronto PHU|80s|FEMALE|Outbreak|2020-11-04|2020-11-03|1|
+|Huron Perth|90s|MALE|Outbreak|2020-11-04|2020-11-03|1|
+|Waterloo Region|90s|FEMALE|Community|2020-11-08|2020-10-28|1|
+|Toronto PHU|90s|FEMALE|Outbreak|2020-10-30|2020-10-28|1|
+|Ottawa|80s|FEMALE|Outbreak|2020-10-22|2020-10-18|1|
+|Toronto PHU|70s|MALE|Outbreak|2020-10-11|2020-10-11|1|
+++++++++++
+ New Brunswick CoronaVirus Update - 30th March 2020, 2 New cases, 68 Total in NB 
+++++++++++
+ Ontario April 28th update: 525 new cases, 439 recoveries, 59 deaths, 35 new hospitalizations, 8 new ICU 
+++++++++++
+ Ontario April 19th update: 568 new cases, 324 recoveries, 39 deaths, 69 new hospitalizations, 17 new ICU 
+++++++++++
+ Is our curve flattening?? I noticed from worldometer that our cases in the past two days are down a few hundred from the peak of 1600. Does it seem like we’re flattening the curve?
+++++++++++
+ Day to Day Update: 3 April As of 9 pm ET 3 April 2020, Canada reported 12,549 coronavirus cases (🔺1266 vs yesterday 🔺1552). Recoveries at 2297(🔺561 vs yesterday 🔺493). ~~Deaths 219(?)(🔺26, 55, or 62 vs yesterday 🔺7).~~ I don’t know how we got into this mess. All the death reports are conflicting. Deaths are around 200. I’m stopping the death reports because I can’t know which ones are real.
+
+Daily summary: **Deaths won’t be updated until further notice.* Quebec added 583 cases today. BC added 53 new cases. Alberta adds 107 new cases. Ontario reported 462 new cases. Saskatchewan adds 14 new cases. Nova Scotia reported 14 new cases, and NFLD reports 12 new cases. Manitoba reported 15 new cases. New Brunswick reported 4 new cases. NWT added 2 cases. Canadian total exceeds 12,500. There’s still Nunavut in Nunavut.
+Hospitalisations will now be added to the chart as well. Deaths are taken off.
+
+Note: I am syncing my testing numbers to Ici Radio Canada’s webpage, because it saves me a lot of time and effort by not having to search on *every individual province’s site.* Exception is when the numbers don’t change on their website, then I’ll go to that province’s page.
+
+By province:
+
+|Prov.(Daily change in brackets)|Confirmed|Recoveries|Deaths|Hosp.|Tested|
+|-|-|-|-|-|-|
+|Quebec|6101(🔺583)|206|~~36~~|429|87809|
+|Ontario|3255(🔺462)|1023|~~57 or 81(?)~~|462|67998|
+|BC|1174(🔺53)|641|~~31~~|149|45966|
+|Alberta|1075(🔺107)|196|~~13~~|67|61960|
+|Saskatchewan|220(🔺14)|48|~~3~~|4|12112|
+|Nova Scotia|207(🔺14)|21|~~0~~|5|8441|
+|Newfoundland and Labrador|195(🔺12)|11|~~1~~|11|3201|
+|Manitoba|182(🔺15)|11|~~1~~|9|11952|
+|New Brunswick|95(🔺4)|25|~~0~~|4|4520|
+|PEI|22(No change)|4|~~0~~|N/A|1099|
+|Yukon|6(No change)|4|~~0~~|N/A|753|
+|Northwest Territories|4(🔺2)|1|0|N/A|1141|
+|Other(No daily updates here, will just keep tally)|13|0|0|N/A|
+
+*Sources are on the sidebar, which are the official government sites for the provinces. Data also taken from [this site]( and [this site](
+
+**No change
+
+***Death toll is confusing
+
+This is done in tribute to u/DominusDK
+
+[Previous days](
+
++[1 April](
+
+[2 April]
+(
+++++++++++
+ Ontario April 28th update: 525 new cases, 439 recoveries, 59 deaths, 35 new hospitalizations, 8 new ICU 
+++++++++++
+ Alberta CoronaVirus Update - 27th March 2020, 56 New Cases, 542 Total in AB 
+++++++++++
+ Day to Day Update: 22 March As of 9 pm ET 22 March 2020, Canada reported 1,470 coronavirus cases (🔺140 vs yesterday 🔺243) .Recoveries at 15(🔺3 vs yesterday no change) Deaths 20(🔺1 vs yesterday 🔺6).
+
+Daily summary: BC added no cases today because they didn’t make an announcement. Alberta adds 33 new cases. Ontario reported 48 new cases and 2 new deaths, overtakes BC again by 1 case. Quebec adds 38 cases and minus 1 death, because that patient ~~was resurrected from the dead~~ tested negative post-mortem. Saskatchewan adds 8 new cases to 52 cases. Nova Scotia reported 7 new cases. NFLD reports 3 new cases. Manitoba reports 1 new case. PEI reports 3rd case.
+
+*Quebec changes their death toll by -1 to 4
+
+By province: 
+
+Province(Daily change in brackets)|Confirmed Cases|Recoveries|Deaths|Tested
+
+Ontario|425(🔺48)|8|5|26420
+
+BC|424(No change)|6|10|17921
+
+Alberta|259(🔺33)|1|1|26999
+
+Quebec|219(🔺38)|0|4|7839
+
+Saskatchewan|52(🔺8)|0|0|4536
+
+Nova Scotia|28(🔺7)|0|0|2116
+
+Manitoba|20(🔺1)|0|0|3801*
+
+New Brunswick|17(No change)|0|0|858
+
+Newfoundland and Labrador|9(🔺3)|0|0|N/A
+
+PEI|3(🔺1)|0|0|N/A
+
+Northwest Territories|1(No change)|0|0|370
+
+Other(No daily updates here, will just keep tally)|13|0|0|N/A
+
+*PEI and NFLD have no info on the number of tested on their websites. 
+
+**Sources are on the sidebar, which are the official government sites for the provinces. Data also taken from [this site](
+
+This is done in tribute to u/DominusDK
+
+Previous days:
+
+[7 March](
+
+[8 March](
+
+[9 March](
+
+[10 March](
+
+[11 March]
+(
+
+[12 March](
+
+[13 March]
+(
+
+[14 March]
+(
+
+[15 March]
+(
+
+[16 March]
+(
+
+[17 March]
+(
+
+[18 March](
+
+[19 March](
+
+[20 March]
+(
+++++++++++
+ Confused: How much cases of coronavirus are in Ottawa? Confirmed cases is 2002
+Deaths 256
+Resolved cases 1669
+
+Is resolved cases recovered or recovered and deaths?
+++++++++++
+ Ontario August 28th update: 122 New Cases, 83 Recoveries, 6 Deaths, 10 New Hospitalizations, 1 New ICU [Report link](
+
+[Summary dashboard]( 
+
+Not a good report. Hopefully this is a blip and not the start of a trend
+
+* GTA: 78 (highest since July 21st)
+* Ottawa: 17, Windsor: 4, Simcoe-Muskoka: 6
+* Rest: 17
+* Current hospitalizations up from 48 to 61, last seen August 7th but doesn't really make sense with only 5 new hospitalizations. Seems to be related to the 20 new hospitalizations in the previous 2 days.
+* Current ventilated up to 12 (last seen August 11th)
+* Active cases above 1100, last seen August 6th
+++++++++++
+ New Brunswick confirms first presumptive coronavirus case, discourages mass gatherings. Also first confirmed case of COVID-19 in Atlantic Canada. 
+++++++++++
+ Alberta has 23 new cases bringing total to 97 - 5 in hospital (2 in ICU) 
+++++++++++
+ COVID-19: Health Canada approves remdesivir for treatment, with conditions; Ottawa records 25 new cases 
+++++++++++
+ Ontario November 27 update: 1855 New Cases, 1451 Recoveries, 20 Deaths, 58,037 tests (3.20% positive), Current ICUs: 151 (+0 vs. yesterday) (+9 vs. last week) Black Friday indeed...
+
+* Backlog: 54,241 (+1,389), 58,037 tests completed (437.7 per 100k) --&gt; 59,426 swabbed
+* Positive rate (Day/Week/Prev Week): 3.20% /  3.48% /  3.56% - [Chart](
+* Current hospitalizations: 541(-15), ICUs: 151(+0), Ventilated: 101(-4), [vs. last week: +23 / +9 / +9] - [Chart](
+++++++++++
+ Active coronavirus cases in Canada plummet as Quebec changes recovery criteria 
+++++++++++
+ Day to Day Update: 31 March As of 9 pm ET 31 March 2020, Canada reported 8,591 coronavirus cases (🔺1143 vs yesterday 🔺1112). Recoveries at 1242(🔺303 vs yesterday 🔺487). Deaths 104***(🔺9 vs yesterday 🔺26).
+
+Daily summary: Quebec added 732 cases today and 6 new deaths. BC added 43 new cases and 5 new deaths, surpassing 1,000 cases. Alberta adds 64 new cases, 119 recoveries, and 1 new death. Ontario reported 260 new cases, 102 new recoveries(they changed their recovery definition to symptom-free for 14 days), and no new deaths. Saskatchewan adds 8 new cases. Nova Scotia reported 20 new cases, and NFLD reports 4 new cases. Manitoba reported 7 new cases. New Brunswick reported 2 new cases(again). PEI reported 3 new cases. Canadian total exceeds 8,500, with a record-breaking increase of 1,100+ cases today. Only province/territory left without a case right now is Nunavut.
+
+By province:
+
+|Province(Daily change in brackets)|Confirmed Cases|Recoveries|Deaths|Tested|
+|-|-|-|-|-|
+|Quebec|4162(🔺732)|0|31|73141|
+|Ontario|1966(🔺260)|534|36***|55909|
+|BC|1013(🔺43)|507|24|43229|
+|Alberta|754(🔺64)|120|9|48692|
+|Saskatchewan|184(🔺8)|0|2|10126|
+|Newfoundland and Labrador|152(🔺4)|0|1|2575|
+|Nova Scotia|147(🔺20)|0|0|5910|
+|Manitoba|103(🔺7)|0|1|8914|
+|New Brunswick|70(🔺2)|0|0|3536|
+|PEI|22(🔺3)|1|0|833|
+|Yukon|5(No change)|0|0|688**|
+|Northwest Territories|1(No change)|0|0|910|
+|Other(No daily updates here, will just keep tally)|13|0|0|N/A|
+
+*Sources are on the sidebar, which are the official government sites for the provinces. Data also taken from [this site](
+
+**No change
+
+***Ontario’s death toll was listed as 36 yesterday, but is now 33. This is quite confusing. The death toll is currently counted as 36 in Ontario until further news.
+
+This is done in tribute to u/DominusDK
+
+[Previous days](
+
++[30 March](
+++++++++++
+ 489 positive cases, 8 cases resolved, 6 cases deceased, 8417 cases under investigation, and 19586 negative cases in Ontario, Canada. An increase of 78 positive cases from yesterday. 
+++++++++++
+ Little Red Line, come on DOWN! (Jun 25 edition) - Active (known) cases in Canada (and est'd Quebec recoveries) 
+++++++++++
+ Ontario reports new daily COVID-19 case numbers not seen since late July [
+
+Ontario reported 185 new cases of COVID-19 on Tuesday, as well as 190 on Monday — the most on any single day since July 24.
+++++++++++
+ Ontario April 25th update: 476 new cases, 422 recoveries, 48 deaths, 58 new hospitalizations, 17 new ICU 
+++++++++++
+ Ontario June 1st update: 404 new cases, 343 recoveries, 10 deaths, 34 new hospitalizations, 6 new ICU 
+++++++++++
+ Ontario April 19th update: 568 new cases, 324 recoveries, 39 deaths, 69 new hospitalizations, 17 new ICU 
+++++++++++
+ Little Red Line, come on DOWN! (Jun 25 edition) - Active (known) cases in Canada (and est'd Quebec recoveries) 
+++++++++++
+ Negative Number of Cases in Epidemiology Reports? I noticed in Ontario's Daily Epidemiologic Summary there are often a negative number of cases reported for certain regions, for example, -5 in Haliburton-Kawartha PHU today. What does this mean? Is it false positives from earlier? Recoveries? Are these cases removed retroactively from previous case counts?
+++++++++++
+ New Brunswick CoronaVirus Update - 1st April 2020 - 11 New cases - 81 Total in NB 
+++++++++++
+ A second presumptive positive case in NB. He is a close contact of the first. 
+++++++++++
+ Ontario April 28th update: 525 new cases, 439 recoveries, 59 deaths, 35 new hospitalizations, 8 new ICU 
+++++++++++
+ Ontario April 28th update: 525 new cases, 439 recoveries, 59 deaths, 35 new hospitalizations, 8 new ICU 
+++++++++++
+ 19 New Cases Of COVID-19,(427 total) One New Death (17 Total) in Windsor 
+++++++++++
+ Ontario November 20 update: 1418 New Cases, 1415 Recoveries, 8 Deaths, 48,173 tests (2.94% positive), Current ICUs: 142 (-4 vs. yesterday) (+36 vs. last week) * Backlog: 46,609 (+2,116), 48,173 tests completed (360.2 per 100k) --&gt; 50,289 swabbed
+* Positive rate (Day/Week/Prev Week): 2.94% /  3.56% /  3.78% - [Chart](
+* Current hospitalizations: 518(-8), ICUs: 142(-4), Ventilated: 92(+4), [vs. last week: +66 / +36 / +25] - [Chart](
+++++++++++
+ Alberta CoronaVirus Update - 27th March 2020, 56 New Cases, 542 Total in AB 
+++++++++++
+ Covid-19 Infected per capita Ranking | TOP 10 Country (updated on 12 Jun 2020) 
+++++++++++
+ 5 new cases of Covid-19 in Windsor (Total 586); 6 new deaths (Total 49); 821 tests pending 
+++++++++++
+ Manitoba Nov. 26 update: 383 new cases, 10 deaths [
+
+383 new cases have been announced, 2 were removed due to a data correction and 1 being out of province, bringing the total to 15 288
+
+202 in the Winnipeg Health Region
+
+111 in the Southern Health Region
+
+29 in the Northern Health Region
+
+26 in the Interlake-Eastern Health Region
+
+15 in the Prairie Mountain Health Region
+
+10 deaths have been announced bringing the total to 266
+
+6 in Winnipeg
+
+A male in his 70s
+
+A male in his 80s linked to the outbreak at Maples Personal Care Home
+
+A female in her 90s linked to the outbreak at Maples Personal Care Home
+
+A male in his 90s linked to the outbreak at Brightwater Senior Living of Tuxedo
+
+A male in his 90s
+
+A male in his 90s
+
+1 in the Assiniboine South Health District, 1 in the Fort Garry Health District, 2 in the Pont Douglas Health District, 2 in the Seven Oaks Health District
+
+3 in the Southern Health Region
+
+A male in his 50s linked to the outbreak at Bethesda Regional Health Centre
+
+A female in her 80s linked to the outbreak at Menno Home
+
+A male in his 90s linked to the outbreak at Menno Home
+
+All in the Hanover Health District
+
+A female in her 70s from the Stonewall/Teulon Health District in the Interlake-Eastern Health Region
+
+307 currently hospitalized with 46 in ICU
+
+The current 5 day test positivity rate is 14.8%, both provincially and in Winnipeg
+
+6 177 people have recovered with 8 845 active cases
+
+1 509 tests were completed Wednesday bringing the total to 341 973
+
+An outbreak has been declared at Concordia Hospital unit N3 West in Winnipeg. The site moves to critical (red) on the pandemic response system
+++++++++++
+ Ontario August 13th update: 78+ New Cases, 99 Recoveries, 0 Deaths, 5 New Hospitalizations, -1 New ICU 
+++++++++++
+ Ontario June 1st update: 404 new cases, 343 recoveries, 10 deaths, 34 new hospitalizations, 6 new ICU 
+++++++++++
+ New Brunswick CoronaVirus Update - 1st April 2020, 11 New cases, 81 Total in NB  [
+++++++++++
+ Day to Day Update: 12 March As of 10 pm ET 11 March 2020, Canada reported 155 coronavirus cases (🔺37 vs yesterday 🔺20). Recoveries at 11(🔺2 vs yesterday 🔺1). Critical 1. Serious 0. Deaths 1 (No change vs yesterday no change.)
+
+Daily summary: **Sophie Trudeau tests positive.** BC confirmed 7 more cases. Alberta adds 4 cases to 23 cases. Ontario reported 18 new cases. Quebec confirmed 4 more cases. Manitoba and Saskatchewan confirms first case. Ontario overtakes BC.
+
+By province: 
+
+Province(Daily change in brackets)|Confirmed Cases|Critical|Serious|Recoveries|Deaths|Tested
+
+Ontario|60(🔺18)|0|0|5|0|4185
+
+BC|53(🔺7)|0|0|6|0|2008 people, 2803 samples
+
+Alberta|23(🔺4)|0|0|0|0|2018
+
+Quebec|13(🔺4)|0|0|0|0|570
+
+Manitoba|3(🔺3)|0|0|0|0|403
+
+Saskatchewan|1(🔺1)|0|0|0|0|301
+
+New Brunswick|1(No change)|0|0|0|0|13
+
+This is done in tribute to u/DominusDK
+
+Previous days:
+
+[7 March](
+
+[8 March](
+
+[9 March](
+
+[10 March](
+++++++++++
+ Little Red Line, come on DOWN! (Jun 25 edition) - Active (known) cases in Canada (and est'd Quebec recoveries) 
+++++++++++
+ Ontario April 5 update: 408 new cases, 230 resolved, 25 deaths, 3,708 tests 
+++++++++++
+ Ontario November 16 update: 1487 New Cases, 992 Recoveries, 10 Deaths, 33,351 tests (4.46% positive), Current ICUs: 125 (+7 vs. yesterday) (+41 vs. last week) Link to report: 
+
+Detailed tables: [Google Sheets mode]( and [HTML of Sheets, loads faster but looks ugly](
+
+* Waterloo averaging 52 cases a day in the last week -&gt; gunning for the 'Best outside the GTA trophy'. From 2-3 cases a day in Jul/Aug to this...
+* Hospitalization counts likely understated:
+
+&gt; As we often observe on weekends, a number of hospitals (approximately 41) did not submit data to the Daily Bed Census for November 14. We anticipate the number of hospitalized patients may increase when reporting compliance increases.
+
+* Backlog: 16,254 (-9,893), 33,351 tests completed (249.3 per 100k) --&gt; 23,458 swabbed
+* Positive rate (Day/Week/Prev Week): 4.46% /  3.79% /  3.28% - [Chart](
+* Current hospitalizations: 500(+21), ICUs: 125(+7), Ventilated: 70(+3), [vs. last week: +133 / +41 / +16] - [Chart](
+* *52.1% of today's cases are in people under the age of 40.* /s
+* 12.3% or 183 of today's cases are in people aged 70+
+* 532 of today's cases relate to episode dates more than 5 days ago
+
+**Global Comparison (Last 14 days/100k / % positive (week))**
+
+* Belgium: 761.4 (17.34%), France: 847.5 (28.66%), Spain: 581.4 (12.47%)
+* UK: 501.8 (7.33%), Italy: 777.3 (27.85%), Sweden: 511.9 (10.53%)
+* Germany: 308.7 (8.02%), Switzerland: 1199.1 (28.20%), Luxembourg: 1264.4 (4.73%)
+* Korea: 4.0 (1.60%), NZ: 0.8 (0.03%), Australia: 0.52 (0.02%)
+* USA: 556.0 (10.00%), Canada: 158.3 (7.72%)
+
+|Reporting_PHU|Today|Averages-&amp;gt;&amp;gt;|Last 7|Prev 7|Per 100k-&amp;gt;&amp;gt;|Last 7/100k|Prev 7/100k|Source (week %)-&amp;gt;&amp;gt;|Close contact|Community|Outbreak|Travel|Ages (week %)-&amp;gt;&amp;gt;|&amp;lt;40|40-69|70+|More Averages-&amp;gt;&amp;gt;|Oct|Sep|Aug|Jul|Jun|May|
+:--|--:|:--|--:|--:|:--|--:|--:|:--|--:|--:|--:|--:|:--|--:|--:|--:|:--|--:|--:|--:|--:|--:|--:|
+|Total|1487||1442.9|1105.5||75.5|57.9||39.4|42|17.6|0.9||51.9|37.3|10.8||774.8|313.4|100.1|133.8|240.3|376.7|
+|||||||||||||||||||||||||
+|Toronto PHU|508||449.1|375.7||115.1|96.3||15.6|63.2|20.8|0.4||49.4|38.4|12.1||286.2|110.4|21.1|33.9|97.7|168.9|
+|Peel|392||421.1|283.1||213.4|143.4||52.1|38.6|8.5|0.7||55|36.9|8.3||151.9|65.7|19.7|23.9|45.2|69.4|
+|York|170||145|97.6||91.4|61.5||55.7|30.2|13.3|0.8||46.4|43.5|10.2||80.3|26.1|6.2|9.7|18.8|28.8|
+|Waterloo Region|67||52.1|26.1||68.2|34.2||31|47.9|20.5|0.5||53.7|33.4|12.5||13.6|9|2.8|2.7|7.2|13.2|
+|Ottawa|51||53.3|56.1||39.9|42.1||65.7|6.2|24.7|3.5||57.4|29.3|13.7||86.5|44.9|14.4|14.1|4.7|20.5|
+|Halton|46||52.1|52.1||66.6|66.6||45.5|33.2|20.8|0.5||49.3|41.1|9.6||27.9|9.7|1.9|2.3|3.7|6.2|
+|Durham|45||53.1|39.4||57.6|42.7||51.6|34.9|13.2|0.3||57.2|38.4|4.3||26.7|8.8|3|3.4|8.2|16.6|
+|Hamilton|35||38.6|45||50.3|58.7||38.5|25.2|35.9|0.4||43.7|36.7|19.6||20.9|6.1|2.7|1.7|5.4|8.4|
+|Simcoe-Muskoka|35||27|16.1||35|20.9||52.4|36.5|9.5|1.6||55.5|37|7.4||15.6|6.3|1.5|2.1|4.3|6.4|
+|Niagara|19||27.4|23.6||42.9|36.8||50.5|10.4|38|1||49|34.9|16.1||11.4|4.6|2.4|3.5|3.8|5.1|
+|Windsor|14||22.1|11.1||38.9|19.6||29.7|19.4|45.8|5.2||54.9|35.5|9.7||5.6|4.6|7|22.8|20.9|12.3|
+|Wellington-Guelph|14||13.7|12.1||24.1|21.3||38.5|42.7|17.7|1||55.2|37.4|7.2||7|2.8|1.1|1.7|3.2|3.6|
+|Southwestern|10||9.7|6||76.4|47.2||42.6|23.5|29.4|4.4||50|32.3|17.6||1.7|0.5|3.6|1.9|0.3|0.5|
+|Grey Bruce|10||4.4|1.6||19.1|6.8||19.4|77.4|0|3.2||51.7|35.5|12.9||1.2|0.4|0.2|0.2|0.6|0.4|
+|Eastern Ontario|9||7.1|9.9||24.7|34||56|16|26|2||54|28|18||10.9|2.4|0.5|0.5|0.5|1.8|
+|Brant|9||6.6|8.4||34.1|43.7||41.3|34.8|23.9|0||52.1|41.3|6.5||4.5|0.9|0.6|0.7|0.5|0.5|
+|Chatham-Kent|7||4.6|1.9||31.4|12.7||21.9|43.8|34.4|0||62.6|34.4|3.1||1.3|0.2|3.9|2.8|0.5|2|
+|Haldimand-Norfolk|7||3.6|2.9||22.8|18.2||40|24|36|0||52|44|4||1.6|0.4|0.7|0.5|7.5|1|
+|Peterborough|6||3|1||15.2|5.1||9.5|14.3|76.2|0||4.7|19.1|76.1||0.9|0.5|0.3|0|0.3|0|
+|Renfrew|6||0.7|1.4||4.8|9.7||20|60|20|0||80|0|20||1.7|0.6|0|0.2|0|0.4|
+|London|5||16.9|14.4||25.9|22.2||68.6|11|13.6|6.8||74.6|17.8|7.6||8.4|4.8|1.8|1.5|3.1|4.3|
+|Huron Perth|4||9.6|3.3||113|38.8||25.4|10.4|64.2|0||31.3|24|44.8||0.8|0.2|1.7|0.4|0.2|0.2|
+|Thunder Bay|4||3.7|1.9||17.1|8.6||19.2|7.7|65.4|7.7||50|46.1|3.8||0.4|0.1|0.3|0.1|0.3|0.3|
+|Kingston|3||4.3|1.4||15.5|5.2||53.3|20|23.3|3.3||80|16.6|3.3||1.5|0.6|0.1|0.6|0.9|0|
+|Hastings|3||1.7|0.6||7.4|2.5||25|50|8.3|16.7||75|25|0||0.6|0.2|0.2|0|0|0.1|
+|Rest|8||12.4|12.8||7.8|8.2||72.1|15.1|11.6|1.2||61.6|26.7|12.8||5.7|2.6|2.4|2.6|2.5|5.8|
+
+
+
+
+**Canada comparison:** 
+
+|Province|Yesterday|Averages-&amp;gt;&amp;gt;|Last 7|Prev 7|Per 100k-&amp;gt;&amp;gt;|Last 7/100k|Prev 7/100k|Positive % - last 7|
+:--|--:|:--|--:|--:|:--|--:|--:|--:|
+|Canada|4146||4489.7|3708.7||83.6|69.1|7.61|
+||||||||||
+|Ontario|1248||1408|1063.7||67.7|51.1|3.9|
+|Quebec|1211||1290.6|1119.9||106.5|92.4|12.39|
+|Alberta|991||832.1|676.3||133.3|108.3|inf|
+|Manitoba|494||402.4|299.4||205.7|153|10.86|
+|British Columbia|0||390.4|447.1||53.9|61.7|7.03|
+|Saskatchewan|181||157.7|97||94|57.8|10.65|
+|Nova Scotia|2||2.3|2.4||1.6|1.8|0.31|
+|Toomuchovit|14||2.3|0.3||41.3|5.2|7.84|
+|New Brunswick|3||1.9|1.4||1.7|1.3|0.54|
+|Newfoundland|2||0.9|0.9||1.2|1.2|0.3|
+|Northwest Territories|0||0.7|0||11.2|0|3.68|
+|Prince Edward Island|0||0.3|0.3||1.3|1.3|0.1|
+|Yukon|0||0.1|0||2.4|0|0.97|
+
+
+
+
+
+**Today's deaths:** Brutal. 
+
+|Reporting_PHU|Age_Group|Client_Gender|Case_AcquisitionInfo|Case_Reported_Date|Episode_Date|
+:--|:--|:--|:--|:--|:--|
+|Toronto PHU|90s|MALE|Outbreak|2020-11-14|2020-11-12|
+|Ottawa|70s|MALE|Outbreak|2020-11-13|2020-11-12|
+|Hamilton|60s|FEMALE|Outbreak|2020-11-11|2020-11-09|
+|Hamilton|80s|MALE|Outbreak|2020-11-14|2020-11-08|
+|Peel|50s|UNSPECIFIED|Community|2020-11-13|2020-11-07|
+|Toronto PHU|80s|MALE|Outbreak|2020-11-03|2020-11-02|
+|York|90s|MALE|Outbreak|2020-11-03|2020-11-01|
+|Toronto PHU|80s|MALE|Community|2020-11-02|2020-10-31|
+|Eastern Ontario|70s|MALE|Outbreak|2020-10-22|2020-10-20|
+|Toronto PHU|80s|FEMALE|Outbreak|2020-11-13|2020-10-12|
+++++++++++
+ Ontario October 3rd update: 653 New Cases, 435 Recoveries, 4(+37 old) Deaths, 40 New Hospitalizations, 4 New ICU 
+++++++++++
+ One new case of COVID-19 identified in Nova Scotia bringing total to 15 cases 
+++++++++++
+ Ontario April 28th update: 525 new cases, 439 recoveries, 59 deaths, 35 new hospitalizations, 8 new ICU 
+++++++++++
+ 10 new cases in Alberta, two are hospitalized. Live update. 
+++++++++++
+ Ontario April 28th update: 525 new cases, 439 recoveries, 59 deaths, 35 new hospitalizations, 8 new ICU 
+++++++++++
+ 15 new positive COVID-19 cases in NL bringing total to 82 
+++++++++++
+ Cases and deaths by province and city We have updated our website with ability to view current cases as well as historical data by province and city (or region) if such data is available. 
+
+[
+
+We are interested in your feedback.
+
+The US page has also been updated to include per state details but we are not tracking at the city level for US.
+
+[
+
+This is not an intraday site - The data is generally updated towards end of each day with the days totals.
+++++++++++
+ By request, here's the active case count per 100 000. Quebec was reporting data a little differently in May-July, so those numbers might be slightly off. &amp;#x200B;
+
+
+++++++++++
+ Ontario June 1st update: 404 new cases, 343 recoveries, 10 deaths, 34 new hospitalizations, 6 new ICU 
+++++++++++
+ It's 11:10am and ontario.ca hasn't been updated again Yesterday, the delay saw 17 new cases. We know at least one new case from Ottawa (Gregoire-Trudeau).
+
+I have a feeling more bad news is coming.
+++++++++++
+ Ontario July 14th Update: 111 New Cases, 1 Death, 122 Resolved Cases 

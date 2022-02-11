@@ -1,0 +1,86 @@
+
+++++++++++
+ Anyone find it funny how perfect Victoria’s test number appears comparing to other states? First noted this weeks ago when it went from 22000 to 22500, thought what a coincidence. Then in the last few days it’s 42000 to 45000 to 47000(today). All other states test numbers look like rocky road where for VIC it’s polished concrete. 
+
+
+Is there a daily quota in Vic and once exceeded they just stop testing?
+++++++++++
+ Pistons’ Christian Wood becomes third NBA player to have positive COVID-19 test, per report He is now the third [NBA]( player to have tested positive and first who is not a member of the [Utah Jazz]( [Rudy Gobert]( and [Donovan Mitchell](  both tested positive earlier in the week. Wood's Pistons played against  Gobert's Jazz on Saturday, March 7, and the two were matched up against  each other.  
+
+Wonder if he did indeed catch it from him.
+
+[
+++++++++++
+ Daily Tests/Positive Ratio 17th Sept Daily 0.2% positivity ratio, 28 cases on 14247 Test results  
+14 Day Avg: 0.36%, 51 Cases, 14562 Tests
+
+&amp;#x200B;
+
+
+
+Note: I do this on the actual new cases / the number of reported tests. Some other places do it on the 'net new' cases. I prefer this way, as this is the daily snapshot - The *actual* number of positives from the previous 24 hours vs the *actual* number of tests processed. Reclassified numbers could have been from any time. This way will give slightly higher ratios, and is pessimistic about the 14d average. These are the state wide gross numbers - DHHS seem to be a bit of a black box in how they get their averages. It's important you, the reader, understand what the difference is. A positivity ratio of 1% does not imply that 1% of the wider population is infected - the tests are not of a random sample of the population.
+++++++++++
+ Daily Tests/Positive Ratio, 28 Aug . 0.57% on 19863 tests Daily 0.57% positivity ratio, 113 cases on 19863 test results.  
+3Day Avg: 0.71% 125 Cases, 19604 Tests  
+7Day Ave: 0.84%, 147 Cases, 18397 Tests
+
+&amp;#x200B;
+
+
+
+Note: I do this on the actual new cases / the number of reported tests. Some other places do it on the 'net new' cases. I prefer this way, as this is the daily snapshot. This way will give slightly higher ratios. It's important you, the reader, understand what the difference is. A positivity ratio of 1% does not imply that 1% of the wider population is infected - the tests are not of a random sample of the population.
+++++++++++
+ Daily Tests/Positive Ratio 2nd Oct Daily 0.06% positivity ratio, 7 cases on 12530 Test results   
+14 Day Avg: 0.12%, 14 Cases, 12225 Tests 
+
+&amp;#x200B;
+
+
+
+ Graph format updated slightly - constructive feedback is welcome and will always be considered.
+
+A testing target of [1 in 40]( per fortnight has been raised by DHHS coronavirus testing head Jeroen Weimar. This translates to a daily testing target of \~11,700, which has been added to the graph as the dashed line.
+
+Note: I do this on the actual new cases / the number of reported tests. Some other places do it on the 'net new' cases. I prefer this way, as this is the daily snapshot - The *actual* number of positives from the previous 24 hours vs the *actual* number of tests processed. Reclassified numbers could have been from any time. This way will give slightly higher ratios, and is pessimistic about the 14d average. These are the state wide gross numbers - DHHS seem to be a bit of a black box in how they get their averages. It's important you, the reader, understand these points for yourself. A positivity ratio of 1% does not imply that 1% of the wider population is infected - the tests are not of a random sample of the population.
+++++++++++
+ Daily Tests/Positive Ratio 21st Sept Daily 0.15% positivity ratio, 11 cases on 7164 Test results  
+14 Day Avg: 0.31%, 39 Cases, 12802 Tests
+
+
+
+ Note: I do this on the actual new cases / the number of reported tests. Some other places do it on the 'net new' cases. I prefer this way, as this is the daily snapshot - The *actual* number of positives from the previous 24 hours vs the *actual* number of tests processed. Reclassified numbers could have been from any time. This way will give slightly higher ratios, and is pessimistic about the 14d average. These are the state wide gross numbers - DHHS seem to be a bit of a black box in how they get their averages. It's important you, the reader, understand these points for yourself. A positivity ratio of 1% does not imply that 1% of the wider population is infected - the tests are not of a random sample of the population.
+++++++++++
+ Daily Tests/Positive Ratio 5th Oct Daily 0.1% positivity ratio, 9 cases on 9023 Test results (ok for a weekend)  
+14 Day Avg: 0.1%, 13 Cases, 12277 Tests 
+
+&amp;#x200B;
+
+
+
+ A testing target of [1 in 40]( per fortnight has been raised by DHHS coronavirus testing head Jeroen Weimar. This translates to a daily testing target of \~11,700, which has been added to the graph as the dashed line.
+
+Note: I do this on the actual new cases / the number of reported tests. Some other places do it on the 'net new' cases. I prefer this way, as this is the daily snapshot - The *actual* number of positives from the previous 24 hours vs the *actual* number of tests processed. Reclassified numbers could have been from any time. This way will give slightly higher ratios, and is pessimistic about the 14d average. These are the state wide gross numbers - DHHS seem to be a bit of a black box in how they get their averages. It's important you, the reader, understand these points for yourself. A positivity ratio of 1% does not imply that 1% of the wider population is infected - the tests are not of a random sample of the population.
+
+I had planned to do a tracker for these 14 days to see how we are going for the 5 day average, but with the uncertainty of the reclassifieds I couldn't get it to be as accurate as I wanted, so I will not be publishing it.
+++++++++++
+ Sydney man from Melbourne tests positive for coronavirus and worked at Woolworths Balmain TLDR: 50 workers self-isolating now, man had tested positive in Victorian hotel quarantine, cleared after ten days, travelled to Sydney and worked before testing postive again.
+
+Could be false positive but who knows?
+
+"Coronavirus crisis at Sydney Woolworths store after employee who travelled from Victoria tests positive"
+
+
+++++++++++
+ Negative test result - number and form of message Got a negative result this morning after being tested on Friday by a drive through site in SE Victoria.
+
+However I received a text from this number last year for something totally unrelated.
+
+The phone number is +61 439 603 XXX (don’t know if I’m allowed to post the whole number) and the form of the message is as follows:
+
+Dear THEODRIC, Your COVID-19 test has been completed.
+RESULT: COVID-19 virus was NOT DETECTED on your swab.
+Please do not reply to this text message.
+
+Can anyone confirm that this message and number are legit? Google says this number has been used in multiple scam calls and texts but I don’t see how some scam number would have managed to figure out I got tested and then send me a fake result, but I just want to be sure before heading it out for some groceries.
+++++++++++
+ Can someone explain to me why COVID test numbers are dropping in VIC and NSW is doing more tests than we are?? It seems absurd to me that after doing almost 43k tests on the 26th in VIC the testing numbers have dropped to less than half of that, despite the crazy surge in positives??

@@ -1,0 +1,58 @@
+
+++++++++++
+ I built a site, CrisisCommunity.com, to help compile resources for ways people can seek help (or provide help) in light of the Covid-19 epidemic. Is this kind of site helpful? Hi r/CoronavirusUS!
+
+[CrisisCommunity.com]( is the result of various Coronavirus discussions where my colleagues and friends asked “I wonder how can I help?” and “How do I get help?”
+
+People started researching and sending lists of various resources, and I realized that a central housing of that information might be helpful for a broader audience.
+
+I built [CrisisCommunity.com]( with that in mind. It's designed to be a resource center that aggregates information. While not a complete replacement to one's own research, it’s a decent starting point. 
+
+It is not a news source, nor is it a commercial website (no ads). Just ways to seek and provide help.
+
+Currently, it has several sections:
+
+* **I need help (for Individuals)**
+   * 🍞 [Food Assistance](
+   * 📄 [Filing for Unemployment](
+   * 🧑‍💼 [Find A Job](
+   * 🩺 [Healthcare]( 
+   * 📚 [Education (Kids &amp; Young Adults)](
+   * 😌 [Managing Stress](
+   * 📺 [At-Home Entertainment](
+* **I need help (for Organizations)**
+   * 🚧 *Still under development*
+* **I want to help**
+   * 🚑 [Medical Supplies (PPE, Blood)](
+   * 🧑‍💻 [Volunteer Digitally](
+   * 💵 [Financial Support](
+
+If you think this useful, I'd greatly appreciate it if you could help me by:
+
+* **Sharing** this with friends
+* **Providing feedback** here or via the feedback form at the bottom of each page
+* **Contributing content** by nominating sources or volunteering as an editor or curator — just DM me or find my email on the website's homepage
+
+Today, it’s mostly just a team of 1 (me) working nights and weekends, but I check the site daily and work fast to keep up to speed. 
+
+I hope this helps some people, and wish everyone health and safety during this challenging time.
+++++++++++
+ Help us understand if physical activity and fitness levels influence COVID symptoms (academic research study) Hello everyone,
+
+We (researchers from the University of the Fraser Valley, BC, Canada) are looking for individuals (19+ years of age) who have had COVID-19 and are of ***any*** fitness level to complete an online survey (in english). The online survey consist of 3 parts: demographic variables, COVID-19 symptoms, and physical activity/fitness levels prior to being infected. The survey takes about 5-10 minutes to complete (average time = 6 min).
+
+The aim of our study is to learn if physical activity levels have any influence on the number of symptoms, durations and severity of symptoms, as well as any complications associated with having COVID-19.
+
+Survey link: [
+
+Thank-you for time and consideration.
+++++++++++
+ Help us understand if physical activity and fitness levels influence COVID symptoms (academic research) Hello everyone,
+
+We (researchers from the University of the Fraser Valley, BC, Canada) are looking for individuals (19+ years of age) who have had COVID-19 (as indicated by a +ive test) and are of ***any*** fitness level to complete an online survey. The online survey consist of 3 parts: demographic variables, COVID-19 symptoms, and physical activity/fitness levels prior to being infected. The survey takes about 6-8 minutes to complete.
+
+The aim of our study is to learn if physical activity levels have any influence on the number of symptoms, durations and severity of symptoms, as well as any complications associated with having COVID-19.
+
+Survey link: [
+
+Thank-you for time and consideration. We appreciate it.

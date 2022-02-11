@@ -1,0 +1,160 @@
+
+++++++++++
+ In light of Canada &amp; US starting to ease restrictions, I put together some graphs of recent trends showing how each country is doing compared to the other - May 14, 2020 **US VS Canada - May 14, 2020**
+
+I put together some graphs to see how we are doing in recent trends compared to our neighbors down south, who are also opening around the same time as us. 
+
+--- 
+
+[DAILY CASES per million ](
+
+- Canada = 30/million
+
+- US = 60/million
+
+The US was hovering between 80-100 daily cases per million, whereas Canada has been between 30-40 daily cases per million.
+
+---
+
+[DAILY DEATHS per million](
+
+- Canada = 4.06 /million
+
+- US = 4.62 /million
+
+The daily death numbers per capita for the US are down from a pretty recent peak of 7-8 deaths per million, which is nearly double vs Canada who's been hovering around 4 more consistently. 
+
+---
+
+[TOTAL TESTS per thousand](
+
+- Canada = 30.94 /thousand
+
+- US = 30.14 /thousand
+
+[DAILY DEATHS per thousand over the last week](
+
+Looking at *total* tests per capita highlights that both countries are similar. 
+
+Looking at *daily* tests suggests Canada is actually testing less per capita. 
+
+*This will become relevant very soon*
+
+---
+
+[POSITIVE TEST RATE over the last week](
+
+- Canada = 1.3%-6.7% range (average about 5%)
+
+- US = 6.2%-18-9% (average about 14%)
+
+This is probably the most telling graphs of them all. 
+
+When testing for a suspected disease, you generally have criteria or a certain pretest probability (clinical suspicion based on symptoms and presumed prevalence/incidence and risk factors, etc) that you consider when administering diagnostic tests.
+
+If your POSITIVE TEST RATE is HIGH compared to a country with overall similar population characteristics, location etc (and if both countries are isolated in that there is currently limited spread between the countries), then you know that the disease incidence and prevalence is much worse than the country with the lower positive rate. 
+
+Since the Americans are testing more than Canadians over the last week, and their POSITIVE TEST RATE is way HIGHER than Canada's, it means that the US are still vastly under testing and therefore have a much higher true prevalence and incidence than us. 
+
+Ideally the US should have a MUCH HIGHER test per capita rate than Canada to lower their positive test rate to be closer to ours in order to know they are on the right (or similar) track.
+
+---
+**In Summary**
+
+Recently, the US has roughly double the cases per capita than Canada, and while the recent death rate of the US is now similar to ours, it was almost double not too long ago. This is in context of the US having similar testing rates overall (or slightly more this week), with a vastly higher positive test rate. 
+
+**Commentary** 
+
+This sugges that their actual true prevalence and incidence is MUCH higher than the confirmed case rate above (and therefore much more than just double Canada's new case rate). 
+
+Why would the US reopen with still worse numbers than Canada and no consistent flattening, yet Canada is taking it much slower? 
+
+Maybe we should keep that border shut for the time being...? Looking forward to your comments.
+--- 
+*All data was gathered from here:*
+
+++++++++++
+ Summary of coronavirus cases in Canada for Wednesday, March 3, 2020 As of March 3, 11AM EST there are **29** confirmed cases in Canada
+
+* **20** in **Ontario** (3 are resolved)
+   * **8** in Toronto
+   * **1** in London
+   * **11** in unspecified cities
+* **8** in **British** **Columbia**
+   * **2** in Vancouver
+   * **1** in BC Interior Region
+   * 5 in unspecified city
+* **1** in **Quebec**
+   * **1** in Montreal
+
+Details of each case can be found here:
+
+[
+
+As of today more than 1,100 people have been tested for the virus in Ontario so far, with 1,061 samples coming back negative.
+++++++++++
+ 9 new cases of Covid-19 in Windsor (Total 550); 3 new deaths (Total 38); 923 tests pending 
+++++++++++
+ Ontario April 25th update: 476 new cases, 422 recoveries, 48 deaths, 58 new hospitalizations, 17 new ICU 
+++++++++++
+ A second presumptive positive case in NB. He is a close contact of the first. 
+++++++++++
+ Ontario April 30th update: 459 new cases, 593 recoveries, 86 deaths, 83 new hospitalizations, 9 new ICU 
+++++++++++
+ A COVID-19 patient recorded a video from ICU asking others to“take a look at me” and learn from her case 
+++++++++++
+ Ontario willing to take 'swift action' after record spike in COVID-19 cases 
+++++++++++
+ Alberta CoronaVirus Update - 27th March 2020, 56 New Cases, 542 Total in AB 
+++++++++++
+ Manitoba Nov. 22 update: 243 new cases, 12 deaths [
+
+243 new cases have been announced bringing the total to 13 544
+
+135 in the Winnipeg Health Region
+
+49 in the Southern Health Region
+
+29 in the Northern Health Region
+
+16 in the Prairie Mountain Health Region
+
+14 in the Interlake-Eastern Health Region
+
+12 deaths have been announced bringing the total to 229
+
+All in Winnipeg
+
+A male in his 40s
+
+A male in his 60s linked to the outbreak at Victoria Hospital
+
+A female in her 70s
+
+A male in his 70s
+
+A male in his 80s
+
+A female in her 80s
+
+A female in her 80s linked to the outbreak at Parkview Place
+
+A female in her 80s linked to the outbreak at Maples Personal Care Home
+
+A male in his 90s
+
+A male in his 90s linked to the outbreak at Beacon Hill Lodge
+
+A female in her 90s
+
+A female in her 90s linked to the outbreak at St. Norbert Personal Care Home
+
+4 in the Downtown Health District, 3 in the Fort Garry Health District, 1 in the Inkster Health District, 2 in the River East Health District, 1 in the Seven Oaks Health District, 1 in the St. Vital Health District.
+
+288 currently hospitalized with 52 in ICU
+
+The current 5 day positivity rate is 13.7%, 13.4% in Winnipeg
+
+5 193 people have recovered with 8 122 active cases
+
+2 112 tests were completed Saturday bringing the total to 330 265

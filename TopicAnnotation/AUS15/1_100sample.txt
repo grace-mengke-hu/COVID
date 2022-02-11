@@ -1,0 +1,353 @@
+
+++++++++++
+ Daily Tests/Positive Ratio, 3 Sept. 0.66%, 113 cases on 17098 tests. [removed]
+++++++++++
+ Daily Tests/Positive Ratio 14th Sept Daily 0.39% positivity ratio, 35 cases on 8937 Test results  
+14 Day Avg: 0.44%, 62 Cases, 14829 Tests
+
+&amp;#x200B;
+
+
+
+Note: I do this on the actual new cases / the number of reported tests. Some other places do it on the 'net new' cases. I prefer this way, as this is the daily snapshot. This way will give slightly higher ratios. It's important you, the reader, understand what the difference is. A positivity ratio of 1% does not imply that 1% of the wider population is infected - the tests are not of a random sample of the population.
+++++++++++
+ Sydney man from Melbourne tests positive for coronavirus and worked at Woolworths Balmain TLDR: 50 workers self-isolating now, man had tested positive in Victorian hotel quarantine, cleared after ten days, travelled to Sydney and worked before testing postive again.
+
+Could be false positive but who knows?
+
+"Coronavirus crisis at Sydney Woolworths store after employee who travelled from Victoria tests positive"
+
+
+++++++++++
+ The recent coronavirus stats delay due to time taken to get test results? Sorry for the stupidly worded titled, I am wondering - these latest coronavirus stats we are getting from Melbourne, because of the delay in getting results (I was told there is up to a week delay), it's possible that we are 3-7 days behind and in fact a hellava lot more people who have been tested are waiting results and are in fact infected? Surely this means something?
+++++++++++
+ Getting tested for Covid-19 and informing workplace? Hi,
+
+As a hypothetical question, if you were to get tested for COVID-19 (and you had mild symptoms) are you required to inform your workplace that you have been tested while you are still waiting for your results?
+
+Should you use sick days until the result comes back and then inform them if it is positive?
+++++++++++
+ Daily Tests/Positive Ratio 17th Sept Daily 0.2% positivity ratio, 28 cases on 14247 Test results  
+14 Day Avg: 0.36%, 51 Cases, 14562 Tests
+
+&amp;#x200B;
+
+
+
+Note: I do this on the actual new cases / the number of reported tests. Some other places do it on the 'net new' cases. I prefer this way, as this is the daily snapshot - The *actual* number of positives from the previous 24 hours vs the *actual* number of tests processed. Reclassified numbers could have been from any time. This way will give slightly higher ratios, and is pessimistic about the 14d average. These are the state wide gross numbers - DHHS seem to be a bit of a black box in how they get their averages. It's important you, the reader, understand what the difference is. A positivity ratio of 1% does not imply that 1% of the wider population is infected - the tests are not of a random sample of the population.
+++++++++++
+ Daily Tests/Positive Ratio, 31 Aug. 0.51%, 73 cases on 14435 tests Daily 0.53% positivity ratio, 73 cases on 14435 test results.   
+3Day Avg: 0.61%, 94 Cases, 15623 Tests  
+7Day Ave: 0.72%, 115 Cases, 16963 Tests
+
+&amp;#x200B;
+
+
+
+Note: I do this on the actual new cases / the number of reported tests. Some other places do it on the 'net new' cases. I prefer this way, as this is the daily snapshot. This way will give slightly higher ratios. It's important you, the reader, understand what the difference is. A positivity ratio of 1% does not imply that 1% of the wider population is infected - the tests are not of a random sample of the population.
+++++++++++
+ Daily Tests/Positive Ratio, 5 Sept. 0.48%, 76 cases on 15820 Test results Daily 0.48% positivity ratio, 76 cases on 15820 Test results  
+3 Day Avg: 0.49%, 90 Cases, 19316 Tests  
+7 Day Avg: 0.59%, 88 Cases, 15824 Tests
+
+&amp;#x200B;
+
+
+
+Note: I do this on the actual new cases / the number of reported tests. Some other places do it on the 'net new' cases. I prefer this way, as this is the daily snapshot. This way will give slightly higher ratios. It's important you, the reader, understand what the difference is. A positivity ratio of 1% does not imply that 1% of the wider population is infected - the tests are not of a random sample of the population.
+++++++++++
+ Where’s my results?!! :( After NSW said anyone with a sore throat and fever should now be tested, I was tested on Thursday and was told I’d have results within 24 hrs. Not withstanding that everyone is busy etc etc, where do I go online to ask why I haven’t received my result?
+++++++++++
+ Why does Victoria have such a high number of recoveries Hey Everyone, 
+
+Does anyone else know why Victoria has such a high number of COVID - 19 recoveries. It seems quite high even though the other states haven't been releasing  their numbers. It seems quite high when you compare it with total number of cases in the state.
+++++++++++
+ Can someone explain to me why COVID test numbers are dropping in VIC and NSW is doing more tests than we are?? It seems absurd to me that after doing almost 43k tests on the 26th in VIC the testing numbers have dropped to less than half of that, despite the crazy surge in positives??
+++++++++++
+ Daily Tests/Positive Ratio 3rd Oct Daily 0.07% positivity ratio, 8 cases on 11281 Test results   
+14 Day Avg: 0.11%, 13 Cases, 12177 Tests 
+
+ 
+
+
+
+A testing target of [1 in 40]( per fortnight has been raised by DHHS coronavirus testing head Jeroen Weimar. This translates to a daily testing target of \~11,700, which has been added to the graph as the dashed line.
+
+Note: I do this on the actual new cases / the number of reported tests. Some other places do it on the 'net new' cases. I prefer this way, as this is the daily snapshot - The *actual* number of positives from the previous 24 hours vs the *actual* number of tests processed. Reclassified numbers could have been from any time. This way will give slightly higher ratios, and is pessimistic about the 14d average. These are the state wide gross numbers - DHHS seem to be a bit of a black box in how they get their averages. It's important you, the reader, understand these points for yourself. A positivity ratio of 1% does not imply that 1% of the wider population is infected - the tests are not of a random sample of the population.
+++++++++++
+ Do you receive results of Covid-19 testing over the weekend? We're in Melbourne and got tested on Tuesday and are awaiting results. Does anybody know if you get the results over the weekend at all? Thanks for the help
+++++++++++
+ Japanese man tests positive for coronavirus second time after hospital recovery [
+++++++++++
+ Daily Tests/Positive Ratio, 1 Sept. 0.69%, 70 cases on 10153 tests. Daily 0.69% positivity ratio, 70 cases on 10153 test results. Lowest daily test number since mid June, and I suspect this is an important KPI for the gov.  
+3Day Avg: 0.66%, 86 Cases, 12970 Tests  
+7Day Ave: 0.66%, 104 Cases, 16548 Tests
+
+&amp;#x200B;
+
+
+
+Note: I do this on the actual new cases / the number of reported tests. Some other places do it on the 'net new' cases. I prefer this way, as this is the daily snapshot. This way will give slightly higher ratios. It's important you, the reader, understand what the difference is. A positivity ratio of 1% does not imply that 1% of the wider population is infected - the tests are not of a random sample of the population.
+++++++++++
+ Vic, Analysis of testing number and positive rate People has asked me to perform an analysis of the Victorian number of daily tests and the daily positive rate.
+
+This thing is so nuance that I can spent hours doing it and writing up the source code and reports. Unfortunately I don't have hours to throw at it. So I would just give a brief analysis.
+
+**First question** is What the hell are we analyzing anyway?
+
+What do people really want to know?
+
+I think people are arguing among themselves that different days have different number of test done. So, if we did twice the number of tests yesterday, what about the number of cases be? Would it be double?
+
+**Answer**: This is hard.
+
+The reason is simple. Ask yourself, what kinda people would take a test?
+
+There are two kinds of people
+
+1. People with symptoms
+2. People with No Symptoms (known as close contacts)
+
+The problem is that we are **NOT** given those two numbers, instead we are just given the number of tests done and the number of positive cases.
+
+People can easily calculate the **Positive Rate**, but positive rate of what? Positive rate of people who took a test. Sure but the number of tests are different for different days.
+
+**The solution:**
+
+This is the solution, we need to separate the number of tests into two separate groups
+
+1. Group 1, the number of tests for close contacts
+2. Group 2, the number of tests for people with Symptoms 
+
+Why do we need Group 2? Because the positive rate is the same whether we test 10000 subjects, 20000 subjects, 30000 subjects or 40000 subjects in a day. Why? Because now, we are calculating a ratio. In other words, we are performing random sampling of the population at large using only Symptoms as a selection criteria.
+
+Enough talk, lets see some graphs
+
+This is the "positive rate" of the number of tests (group1 + group2). The blue line is that 7 days moving average. The green line is the moving average of moving average.
+
+&amp;#x200B;
+
+
+
+Now we do our magic. We will attempt to separate group2 from "group 1 + group 2".
+
+num of (daily) tests = group 1 + group 2
+
+Next we assume that each infected person generates 12 close contacts
+
+group 1 = num of daily cases \* 12
+
+So we have
+
+group 2 = num of (daily) tests - ( num of daily cases \* 12 )
+
+In my graph, I call group 2 as "adjusted number of tests" (adjtests)
+
+Once we have the group 2, we can calculate the positive rate for group 2
+
+positive rate = num of daily cases / adjtests
+
+So the graph looks like
+
+&amp;#x200B;
+
+
+
+Our last trick is to calculate the adjcases if everyday we perform a constant amount of tests, say we perform 25000 tests every day.
+
+adjcases = MAofMA \* 25000
+
+Then we plot the adjcases and official cases together on the same graph
+
+&amp;#x200B;
+
+
+++++++++++
+ Daily Tests/Positive Ratio, 28 Aug . 0.57% on 19863 tests Daily 0.57% positivity ratio, 113 cases on 19863 test results.  
+3Day Avg: 0.71% 125 Cases, 19604 Tests  
+7Day Ave: 0.84%, 147 Cases, 18397 Tests
+
+&amp;#x200B;
+
+
+
+Note: I do this on the actual new cases / the number of reported tests. Some other places do it on the 'net new' cases. I prefer this way, as this is the daily snapshot. This way will give slightly higher ratios. It's important you, the reader, understand what the difference is. A positivity ratio of 1% does not imply that 1% of the wider population is infected - the tests are not of a random sample of the population.
+++++++++++
+ Daily Tests/Positive Ratio, 4 Sept. 0.32%, 81 cases on 25031 tests. 
+++++++++++
+ Daily Tests/Positive Ratio 16th Sept Daily 0.29% positivity ratio, 42 cases on 14374 Test results  
+14 Day Avg: 0.4%, 57 Cases, 14766 Tests
+
+&amp;#x200B;
+
+
+
+Note: I do this on the actual new cases / the number of reported tests. Some other places do it on the 'net new' cases. I prefer this way, as this is the daily snapshot. This way will give slightly higher ratios, and is probably pessimistic about the 14d average. It's important you, the reader, understand what the difference is. A positivity ratio of 1% does not imply that 1% of the wider population is infected - the tests are not of a random sample of the population.
+++++++++++
+ false negatives in 32% of Covid-19 tests [
+
+This article was published on ABC news confirming the testing method for Covid-19.
+
+"Testing methods worldwide include a blood test, a swab test inside  your nose or in the back of your throat, or a sputum (mix of saliva and  mucus) test.
+
+The blood test format or serology method (the  examination of blood serum) is currently not available in Australia,  where it is more likely the test will be a nasal swab, as per the  guidelines set out by the [Department of Health for pathologists](
+
+Swab tests are officially called RT-PCR tests, they compare the sample taken from your throat to a sample of the virus.
+
+[
+
+The other method of testing, the gold standard, is the CT scan. As this is a lower respiratory virus throat swaps are not as sensitive as CT scans when determining if you are inflicted with the virus. 
+
+The below article outlines the comparison between the CT scan and the RT-PCR tests. For 888 positive CT result there were only 601 positive swab tests. 
+
+[
+++++++++++
+ Daily Tests/Positive Ratio 2nd Oct Daily 0.06% positivity ratio, 7 cases on 12530 Test results   
+14 Day Avg: 0.12%, 14 Cases, 12225 Tests 
+
+&amp;#x200B;
+
+
+
+ Graph format updated slightly - constructive feedback is welcome and will always be considered.
+
+A testing target of [1 in 40]( per fortnight has been raised by DHHS coronavirus testing head Jeroen Weimar. This translates to a daily testing target of \~11,700, which has been added to the graph as the dashed line.
+
+Note: I do this on the actual new cases / the number of reported tests. Some other places do it on the 'net new' cases. I prefer this way, as this is the daily snapshot - The *actual* number of positives from the previous 24 hours vs the *actual* number of tests processed. Reclassified numbers could have been from any time. This way will give slightly higher ratios, and is pessimistic about the 14d average. These are the state wide gross numbers - DHHS seem to be a bit of a black box in how they get their averages. It's important you, the reader, understand these points for yourself. A positivity ratio of 1% does not imply that 1% of the wider population is infected - the tests are not of a random sample of the population.
+++++++++++
+ Anyone find it funny how perfect Victoria’s test number appears comparing to other states? First noted this weeks ago when it went from 22000 to 22500, thought what a coincidence. Then in the last few days it’s 42000 to 45000 to 47000(today). All other states test numbers look like rocky road where for VIC it’s polished concrete. 
+
+
+Is there a daily quota in Vic and once exceeded they just stop testing?
+++++++++++
+ The situation in VIC is as bad or maybe even worst than NSW. On the paper number of cases in NSM is way more than VIC but when you consider the number of tests performed in each state the picture changes.
+NSW has performed 39,089 of which 307 were positive (1 positive per 127 tests)
+In Victoria, the number of tests performed is just 17180 with a total of 149 positive results (1 positive per 115)
+
+As you can see the situation in victoria is way worst. There are more positive cases per tests. Victoria simply doesn't simply test as much as NSW to show the whole picture.
+++++++++++
+ Negative test result - number and form of message Got a negative result this morning after being tested on Friday by a drive through site in SE Victoria.
+
+However I received a text from this number last year for something totally unrelated.
+
+The phone number is +61 439 603 XXX (don’t know if I’m allowed to post the whole number) and the form of the message is as follows:
+
+Dear THEODRIC, Your COVID-19 test has been completed.
+RESULT: COVID-19 virus was NOT DETECTED on your swab.
+Please do not reply to this text message.
+
+Can anyone confirm that this message and number are legit? Google says this number has been used in multiple scam calls and texts but I don’t see how some scam number would have managed to figure out I got tested and then send me a fake result, but I just want to be sure before heading it out for some groceries.
+++++++++++
+ Wouldn't ICU admissions be a better curve to watch? ICU numbers aren't affected by our wildly fluctuating rate of testing, and are also a very sensitive trailing indicator of the actual infection rate, because unlike total positive tests or total deaths, there are both patients in and patients out of ICU.   
+
+
+When the real underlying infection curve from roughly 10 days ago was climbing, then ICU admissions will be faster than discharges and the ICU number will climb. When the actual infection rate from 10 days ago was falling, then after another lag equal to the average duration of ICU stay, the ICU numbers will start to drop.   
+
+
+Testing is mainly being done for symptomatic cases at the moment, most of whom have probably been symptomatic for a few days, and given that the tests take a couple of days for results as well, the testing numbers are probably lagging just about as much as the ICU numbers (around 5 day incubation + around 3 day testing delay + around 2 day results delay).   
+
+
+So if ICU numbers are no more delayed but are less subject to policy-induced variance, wouldn't they be a much more accurate measure of whether we are flattening the curve or not?
+++++++++++
+ Daily Tests/Positive Ratio, 2 Sept. 0.65%, 90 cases on 13912 tests.  Daily 0.65% positivity ratio, 90 cases on 13912 test results.   
+3Day Avg: 0.61%, 78 Cases, 12833 Tests  
+7Day Ave: 0.60%, 95 Cases, 16610 Tests - First time below 100 since the 2nd wave?
+
+&amp;#x200B;
+
+
+
+Note: I do this on the actual new cases / the number of reported tests. Some other places do it on the 'net new' cases. I prefer this way, as this is the daily snapshot. This way will give slightly higher ratios. It's important you, the reader, understand what the difference is. A positivity ratio of 1% does not imply that 1% of the wider population is infected - the tests are not of a random sample of the population.
+++++++++++
+ Daily Tests/Positive Ratio 21st Sept Daily 0.15% positivity ratio, 11 cases on 7164 Test results  
+14 Day Avg: 0.31%, 39 Cases, 12802 Tests
+
+
+
+ Note: I do this on the actual new cases / the number of reported tests. Some other places do it on the 'net new' cases. I prefer this way, as this is the daily snapshot - The *actual* number of positives from the previous 24 hours vs the *actual* number of tests processed. Reclassified numbers could have been from any time. This way will give slightly higher ratios, and is pessimistic about the 14d average. These are the state wide gross numbers - DHHS seem to be a bit of a black box in how they get their averages. It's important you, the reader, understand these points for yourself. A positivity ratio of 1% does not imply that 1% of the wider population is infected - the tests are not of a random sample of the population.
+++++++++++
+ Daily Tests/Positive Ratio, 27 Aug Daily 0.44% positivity ratio, 113 cases on 25,470 test results. (I think this is an outlier due to the high reported testing rate today)  
+3Day Avg: 0.89%, 137 Cases, 17337 Tests  
+7Day Ave: 0.89%, 156 Cases, 18463 Tests
+
+
+
+Note: I do this on the actual new cases / the number of reported tests. Some other places do it on the 'net new' cases. I prefer this way, as this is the daily snapshot. This way will give slightly higher ratios. It's important you, the reader, understand what the difference is. A positivity ratio of 1% does not imply that 1% of the wider population is infected - the tests are not of a random sample of the population. 
+
+I have done this as a post rather than a comment in the daily thread as the test numbers were published so late. I don't intend to do this as a post every day unless the test numbers are published late again. Feedback welcome on this.
+++++++++++
+ Pistons’ Christian Wood becomes third NBA player to have positive COVID-19 test, per report He is now the third [NBA]( player to have tested positive and first who is not a member of the [Utah Jazz]( [Rudy Gobert]( and [Donovan Mitchell](  both tested positive earlier in the week. Wood's Pistons played against  Gobert's Jazz on Saturday, March 7, and the two were matched up against  each other.  
+
+Wonder if he did indeed catch it from him.
+
+[
+++++++++++
+ Canadian Prime Minister Justin Trudeau’s wife tests positive for coronavirus [
+++++++++++
+ Daily Tests/Positive Ratio 15th Sept Daily 0.48% positivity ratio, 42 cases on 8803 Test results  
+14 Day Avg: 0.42%, 60 Cases, 14733 Tests
+
+&amp;#x200B;
+
+
+
+Note: I do this on the actual new cases / the number of reported tests. Some other places do it on the 'net new' cases. I prefer this way, as this is the daily snapshot. This way will give slightly higher ratios, and is probably pessimistic about the 14d average. It's important you, the reader, understand what the difference is. A positivity ratio of 1% does not imply that 1% of the wider population is infected - the tests are not of a random sample of the population.
+++++++++++
+ Daily Tests/Positive Ratio, 30 Aug. 0.80% on 14321 tests Daily 0.80% positivity ratio, 114 cases on 14321 test results.   
+3Day Avg: 0.63%, 107 Cases, 17433 Tests  
+7Day Ave: 0.76%, 121 Cases, 17017 Tests
+
+&amp;#x200B;
+
+
+
+Note: I do this on the actual new cases / the number of reported tests. Some other places do it on the 'net new' cases. I prefer this way, as this is the daily snapshot. This way will give slightly higher ratios. It's important you, the reader, understand what the difference is. A positivity ratio of 1% does not imply that 1% of the wider population is infected - the tests are not of a random sample of the population. 
+
+&amp;#x200B;
+
+
+
+Bonus content time because I was lazy yesterday and didn't do a graph. Someone asked on r/melbourne for how the UK was going on positivity, so I went over to the [UK gov's covid data]( (wow is it better presented than DHHS) and plotted it for May to 26th Aug (last test numbers for UK). April was up to 38% in the UK, which nuked the graph scale. The UK are doing ca 186k tests a day (and increasing) and recorded \~1k of new cases (also sadly increasing slowly)
+++++++++++
+ Daily Tests/Positive Ratio 22nd Sept Daily 0.25% positivity ratio, 28 cases on 11123 Test results   
+14 Day Avg: 0.28%, 37 Cases, 12975 Tests
+
+&amp;#x200B;
+
+
+
+Note: I do this on the actual new cases / the number of reported tests. Some other places do it on the 'net new' cases. I prefer this way, as this is the daily snapshot - The *actual* number of positives from the previous 24 hours vs the *actual* number of tests processed. Reclassified numbers could have been from any time. This way will give slightly higher ratios, and is pessimistic about the 14d average. These are the state wide gross numbers - DHHS seem to be a bit of a black box in how they get their averages. It's important you, the reader, understand these points for yourself. A positivity ratio of 1% does not imply that 1% of the wider population is infected - the tests are not of a random sample of the population. 
+
+The format of the graph has changed in response to feedback. Mostly clipping late july/early aug to give more fidelity to the current happenings. Let me know if there's other improvements and I'll see what I can do.
+++++++++++
+ Daily Tests/Positive Ratio 24th Sept Daily 0.09% positivity ratio, 12 cases on 13337 Test results  
+14 Day Avg: 0.24%, 30 Cases, 12803 Tests
+
+&amp;#x200B;
+
+
+
+Note: I do this on the actual new cases / the number of reported tests. Some other places do it on the 'net new' cases. I prefer this way, as this is the daily snapshot - The *actual* number of positives from the previous 24 hours vs the *actual* number of tests processed. Reclassified numbers could have been from any time. This way will give slightly higher ratios, and is pessimistic about the 14d average. These are the state wide gross numbers - DHHS seem to be a bit of a black box in how they get their averages. It's important you, the reader, understand these points for yourself. A positivity ratio of 1% does not imply that 1% of the wider population is infected - the tests are not of a random sample of the population.
+++++++++++
+ Daily Tests/Positive Ratio 5th Oct Daily 0.1% positivity ratio, 9 cases on 9023 Test results (ok for a weekend)  
+14 Day Avg: 0.1%, 13 Cases, 12277 Tests 
+
+&amp;#x200B;
+
+
+
+ A testing target of [1 in 40]( per fortnight has been raised by DHHS coronavirus testing head Jeroen Weimar. This translates to a daily testing target of \~11,700, which has been added to the graph as the dashed line.
+
+Note: I do this on the actual new cases / the number of reported tests. Some other places do it on the 'net new' cases. I prefer this way, as this is the daily snapshot - The *actual* number of positives from the previous 24 hours vs the *actual* number of tests processed. Reclassified numbers could have been from any time. This way will give slightly higher ratios, and is pessimistic about the 14d average. These are the state wide gross numbers - DHHS seem to be a bit of a black box in how they get their averages. It's important you, the reader, understand these points for yourself. A positivity ratio of 1% does not imply that 1% of the wider population is infected - the tests are not of a random sample of the population.
+
+I had planned to do a tracker for these 14 days to see how we are going for the 5 day average, but with the uncertainty of the reclassifieds I couldn't get it to be as accurate as I wanted, so I will not be publishing it.
+++++++++++
+ Daily Tests/Positive Ratio, 4 Sept. 0.32%, 81 cases on 25031 tests. Daily 0.32% positivity ratio, 81 cases on 25031 test results.  
+3Day Avg: 0.54%, 95 Cases, 18680 Tests  
+7Day Ave: 0.59%, 91 Cases, 16152 Tests
+
+&amp;#x200B;
+
+
+
+Note: I do this on the actual new cases / the number of reported tests. Some other places do it on the 'net new' cases. I prefer this way, as this is the daily snapshot. This way will give slightly higher ratios. It's important you, the reader, understand what the difference is. A positivity ratio of 1% does not imply that 1% of the wider population is infected - the tests are not of a random sample of the population.

@@ -1,0 +1,106 @@
+
+++++++++++
+ Why a sudden apparent drop in death rate? Looking at the COVID data, it seems like the rate of death is dropping fairly dramatically. Graph is weekly cases and deaths. 
+
+Why the drop off in deaths / week as a % of previous week's new cases? 
+
+It's not due to catching cases earlier (increasing the time between new case and death) because we see a lack of correlation over &gt;30 days.
+
+It's also not explainable due to "poor initial testing"-- at current death rates, that would imply we were having \~1.8M new cases a week in April, which is absurd imo.
+
+It's not likely due to data issues, counting new cases &amp; counting death methodology is consistent across this timeline.
+
+Does the infected population suddenly skew far younger / healthier, implying we're doing a significantly better job protecting at risk populations? Are we better at treating this? 
+
+Then the really interesting question... do revised death rates bolster the case for curtailing social distancing or is social distancing responsible for new death rates?
+++++++++++
+ Prediction of cases and deaths. Future cases and deaths. We have less around a month to until we reach heard immunity. (Confirmed cases today: 1,750,000 and 100,000 deaths.  Real cases today: 136,470,697 Real deaths today: 351,000 deaths. 5/30/20.) (Based off uptick in flu deaths 6 states + covid deaths) (Cases 27,000,000. 5/13/20.) (Two weeks cases= 300,000,000 deaths= 1,774,119 6/14/20) (Four weeks cases=max deaths=3,900,000 6/30/20 max deaths 5% death rate= 15,000,000)
+
+I know 5 people with it already personally.
+++++++++++
+ Anyone want to check my math?  
+
+Current Death Rate:
+
+Per a number of sources the current death rate of people infected world wide with the Corona Virus stands at 3.73%
+
+[
+
+Here's a summery of some of the data
+
+World Wide = 145,673 infected,  5,435 dead - Death Rate = 3.73%
+
+USA =             2,329 infected,        50 dead -  Death Rate =    2.15%  
+
+
+China's =        80,824 infected,   3,189 dead -  Death Rate =    3.95%
+
+Italy =            17,660 infected,   1,266 dead -  Death Rate =    7.17%  
+
+
+Iran =              11,364 infected,       514 dead -  Death Rate =    4.52%  
+
+
+UK =                 798 infected,        11 dead -  Death Rate =    1.38%
+
+Philippine =          64 infected,         6 dead -  Death Rate =    9.38%
+
+New Cases reported today stands at 200, with 20 new deaths.
+
+China -        11 new cases, 13 deaths
+
+S. Korea -  107 new cases,  5 deaths
+
+USA -          82 new cases,  1 death
+
+Philippines-    0 new cases,  1 death
+
+Assuming  an infection rate of 60%, and using our current rate of 2.15% as the  low, and 3.73% as the high, I expect these numbers:
+
+USA = 350,000,000 citizens with 210,000,000 infected - 4,515,000 to  7,833,000 dead
+++++++++++
+ US confirmed cases increase by the largest amount since May, deaths trend down - UPDATE Coronavirus % growth for JUNE 18 Below is a summary of trends from yesterday (as of late EST). Starting with the **Global** stats for a broad overview. Then stats for the **USA**.
+
+The data is available [in more detail here](
+
+# Global
+
+Confirmed Cases growth is 📉:
+
+* Decreasing to **1.93%**
+* Increasing by **160,438**
+* Total confirmed cases is **8,488,976**
+* Total active cases is **3,525,733**
+
+Deaths growth is 📉:
+
+* Decreasing to **1.23%**
+* Increasing by **5,526**
+* Total deaths is **453,981**
+
+Death Rate growth is mixed:
+
+* **9.1%** recovery rate (📉)
+* **5.1%** WHO CFR (flat)
+* **6.4%** incubation rate (📉)
+
+# USA
+
+Confirmed Cases growth is 📈:
+
+* Increasing to **1.28%**
+* Increasing by **27,763**
+* Total confirmed cases is **2,191,053**
+* Total active cases is **1,473,498**
+
+Deaths growth is 📉:
+
+* Decreasing to **0.61%**
+* Increasing by **723**
+* Total deaths is **118,440**
+
+Death Rate growth is 📉:
+
+* **16.5%** recovery rate (📉)
+* **5.1%** WHO CFR (📉)
+* **5.9%** incubation rate (📉)

@@ -1,0 +1,129 @@
+
+++++++++++
+ I think my Dr. lied about testing be for COVID-19 Does anyone know if the same sample from a flu test can also be used for the COVID-19 test? For the flu test, I was swabbed just inside my nose but I heard that the COVID test is much more painful. Anyone have any insight? When I called up to my city’s health department, they told me they had no record of any test  of mine being sent to them but to continue to wait. About 2 weeks later I get a call from the hospital that tested me that my test was negative when u was told the health department would call me.
+
+I feel as though I have been lied to and everyone is calling me paranoid.
+++++++++++
+ It helps to be "someone" if you want a COVID19 test So the number of tests are limited and we are now being told that even if you develop symptoms you should not immediately get tested but rather isolate. We are supposed to be conserving tests and therefore the PPE thats being used when testing. The way I'm seeing things, people of higher "status" are being tested despite this. Ie: actors, althetes, politicians. Just saw Rand Paul has just now tested positive. Ok thats fine, but they also said he was just at the senate gym this morning. If he was well enough to go to the gym I'm assuming he had no symptoms, so why was he tested? Mike Pence and his wife were tested, despite no symptoms, because a whitehouse staffer tested positive. The thing is they admittedly had no contact with that staffer at all. I could go on with examples, but it just seems another example of how this whole situation is being botched.  Thoughts?
+++++++++++
+ Just got tested and they didn’t ask me to verify my name Hello, my dad and I just got tested for covid (we both live in the same house) and the nurses who did our swab didn’t ask us to verify our names, just our addresses. We live in TX. I don’t know why I didn’t ask them to verify our names because I just thought that if we live in the same household, then if my dad tested positive, I will also test positive. I’m thinking about it and what if only one of us is positive, how do we know who tested positive if they confirm our names? 
+
+Also the nasal swab didn’t hurt. They only did one nostril. It just felt uncomfortable, tickled and made me sneeze. Anyone else had this experience as well? I heard that it was supposed to make you tear up and make your nostril burn.
+++++++++++
+ Trump and Fauci- and Abbott and Costello moment Donald Trump talking to Dr. Anthony Fauci trying to grasp who developed the COVID-19 tests as Abbott and Costello:
+
+Trump - “Who developed these tests?”
+
+Dr. Fauci - “WHO”
+
+Trump - “That’s what I want to find out”
+
+Dr. Fauci - “I say WHO developed the tests.”
+
+Trump - “Listen, are you a doctor?”
+
+Dr. Fauci - “Yes.”
+
+Trump - “I suppose you’re an expert too?”
+
+Dr. Fauci - “Yes.”
+
+Trump - “And you don’t know who       
+developed the tests?”
+
+Dr. Fauci - “Well I should.”
+
+Trump - “Well then who developed the tests?”
+
+Dr. Fauci - “Yes.”
+
+Trump - “I mean the organizations name.”
+
+Dr. Fauci - “WHO”
+
+Trump - “The ones that developed the test.”
+
+Dr. Fauci - “WHO”
+
+Trump - “The test developer”
+
+Dr. Fauci - “WHO”
+
+Trump - “The creators of th...”
+
+Dr Fauci - “WHO developed the tests!”
+
+Trump - “I’m asking YOU who developed the tests!”
+
+Dr. Fauci - “That’s the organizations name.”
+
+Trump - “That’s who’s name?”
+
+Dr. Fauci - “Yes.”
+
+Trump - “Well go ahead and tell me.”
+
+Dr. Fauci - “That’s it.”
+
+Trump - “That’s who?”
+
+Dr. Fauci - “Yes.”
+
+Trump - “Okay, I’ll just say I developed them. They’re the best tests. I have tens of millions of... really the most tests of anyone. Everyone is using my tests. Every Country is asking for my tests. China is reporting zero new deaths because of my tests. I gave them millions, really billions of tests for their country. Everything is fine. I have the tests.”
+
+Dr. Fauci - *facepalm
+++++++++++
+ Texas woman tests positive for coronavirus after release from quarantine, may have exposed a dozen others 
+++++++++++
+ Pregnant girlfriend getting tested? My girlfriend who is approx 7 months along has an appointment at her OB and they told her to come alone and that she would be getting tested for Coronavirus. She has shown no symptoms and I sort of understand why shes being tested, nor am I upset about her being tested. However, if there arn't enough tests around to people who are sick and have to wait days if not weeks to maybe get tested or declined for testing, why are they testing her?
+++++++++++
+ 3 coworkers called out sick. Just wanted to vent because I don't know what to do.
+I work at a small vet clinic. We have had one coworker text us saying they had all the classic symptoms. Got tested yesterday but we wont know the results 3-5 days from now. They were told by the people who tested her to self iosolate for 7 days. Two others called out sick with fever. We are going to be short staffed for awhile. And im just waiting to get sick myself. Im just wondering what my boss will do once a good chunk of us is out. Or if my coworker does test positive. I wish I had proper sick time off or I would've quarantined myself.
+++++++++++
+ Some COVID-19 Testing Facilities Might Be Operating Inefficiently Hopefully this is an appropriate sub, as r/Coronavirus doesn't seem to allow self posts.
+&amp;nbsp;
+
+tl;dr: Covid-19 testing might be able to be optimized in some laboratories to allow for higher throughput and lower turnaround time.
+
+&amp;nbsp;
+
+A few days ago I saw some articles about how some Covid-19 testing laboratories were starting to pool samples to save time/reagents/tests. One laboratory supposedly was pooling 64 samples together, and if the composite sample tested positive, they would test all 64 samples individually. To me, this seems better than testing all samples individually to begin with, but not quite optimized.
+
+&amp;nbsp;
+
+You can adjust two variables. First, you can adjust how large of a composite sample you initially take. Secondly, if a composite sample tests positive, you don't need to test all samples in the batch individually. You can split the samples into sublots.
+
+&amp;nbsp;
+
+I wrote a script in Python to simulate the testing using pooling. I found a method that is simple and seems very efficient (But could potentially be further optimized). The proposed pooling method is as follows:
+&amp;nbsp;
+
+-Determine the initial pooling size. You want to pool a number of samples such that there is a 50% chance of a positive sample being in the pooled batch. This can be determined using the formula N = -0.693/ln(1-p), where "N" is the number of samples to initially pool and "p" is the probability of a sample being positive. [Chart/Graph]( for clarity.
+&amp;nbsp;
+
+-If a pooled sample returns as positive, divide the pool into three equal sublots (If the number of samples is not divisible by 3, simply add one more or one fewer sample to one of the sublots). Test each sublot individually.
+&amp;nbsp;
+
+-If a sublot returns as positive, divide the sublot into three smaller sublots. Continue this pattern until all positive samples have been identified.
+
+&amp;nbsp;
+
+The efficiency of this pooling method is dependent on the probability that any given sample tests positive for Covid-19. Here is a [chart]( showing this data. As you can see, when less than 10% of samples are positive, the method is very efficient (You need 38.6% as many tests as individual sampling when 5.0% of samples are positive and 59.1% as many tests as individual sampling when 10.0% of samples are positive). When 29.3% of samples are assumed to be positive, there is no difference in the number of tests required whether you use pooling or individual sampling. So in a place like the Philippines or New Jersey (Where 60% and 37% of recent tests have been positive for Covid-19 respectively), individual testing is necessary.
+
+&amp;nbsp;
+
+I am unfamiliar with the biological assays used for Covid-19 testing. I imagine that pooling samples is a logistical challenge to an extent. I am also unsure about the largest pooling size allowed before sensitivity of the assay becomes a problem. Perhaps somebody in this field could shed some light on the feasibility of implementing such a pooling strategy in testing facilities. Are labs that have &lt;15-20% positive rates typically pooling samples or are just a few facilities? If labs are pooling samples, have they optimized their strategies, or could this information be useful?
+
+&amp;nbsp;
+
+Additionally, perhaps somebody with more statistics/programming knowledge could further optimize a pooling strategy/verify data. If anybody would like to see the Python script, please DM me and I will gladly share (Note that I am a beginner with Python and probably don't have the cleanest or most elegant code).
+++++++++++
+ Coworker had flulike symptoms since last Wednesday and can’t get tested for Coronavirus My coworker has had Flulike symptoms since last Wednesday. Last Wednesday he went to the doc was told he had the flu and was given meds to treat the flu. As of Sunday he finished his meds and has gone downhill since with flu symptoms again. He went to the doc again today and was told they believe it was nothing more than the flu. Maybe they are right, but he asked about getting tested for Coronavirus and they told him you have to be admitted into the hospital to be given the test. The tests aren’t available to anyone who wants them who is exhibiting symptoms. Not only is the media hyping the whole outbreak up, but the government is also lying about tests being available.
+++++++++++
+ If only the sickest people are being tested, that too after they test negative for Flu and a myriad of other stuff. If we are actually doing that, why is the positive % around 10%? What do the other people have? Aren't the remaining susceptible to getting the virus in the future? Please excuse my very limited knowledge of epidemics or infectious diseases in general. I am looking for some scientific answers to my questions below - 
+
+1) If we have so many hoops for testing and most of these people who get tested for covid have already been tested negative for the Flu and other stuff, why is the positive % so less? What exactly do these people have?
+
+2) Let's assume they have just the common cold, doesn't this mean that they can get coronavirus in the future? So even if we test 100% of the population once (and have a 10% positive rate) the remaining 90% have the chances of getting it if the 10% are not strictly quarantined?
+
+These might seem like noob questions, but I just need to understand what exactly is happening?

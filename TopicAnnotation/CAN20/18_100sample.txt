@@ -1,0 +1,685 @@
+
+++++++++++
+ Are you able to get tested in Ontario if you have symptoms? I was tested in late March and it was extremely difficult. Since tests have been ramping up, what's what you heard about getting tested if you would like to? I just want to know whether is easily accessible these days or not. I know this sub is for quality discussions but I would like to know your experience. I'm in a small community and we were told that everybody with symptoms can get tested. I was tested in late March because I had symptoms and my test ended up being negative. Back then, it was extremely difficult to get tested but I had close contact with someone who tested positive, so I was allowed to get tested. What's the situation now? The news don't seem to cover stories of people being rejected so I tend to think we are doing well.
+++++++++++
+ Low number of "tests" completed in Quebec Is anyone else concerned about the low number of "tests" completed in Quebec, as well as the language used in their description of a negative case below? 303 negative "analysis" in Quebec as of today, compared to BC with 2008 individuals tested (as of March 6th) and Ontario with 1918 patients approved for testing (as of March 7th). 
+
+I am particularly concerned about the language used to describe what is considered a negative case/analysis in their stats. My understanding/interpretation is that this does not mean Quebec has completed 303 tests that came out negative, but that it has 303 negative ‘cases’. Some of which include cases that were decided not fit the clinical definition of COVID-19. To me this means Quebec has completed less than 303 tests and some cases were assessed and deemed not COVID-19 without even completing a test. 
+
+Please share your thoughts. This is just my interpretation. 
+
+Source: Santé Quebec [
+
+English - Google Translate (the translation is not perfect):
+
+"*Situation in Quebec*
+
+*In Quebec, on March 7, 2020, at 12:00 p.m., the situation is as follows:*
+
+*2 confirmed cases*  
+*1 probable case*  
+*41 people under investigation*  
+*303 negative analyzes (cases reversed)*
+
+*For probable cases, another analysis must be carried out by the National Microbiology Laboratory in order to obtain official confirmation.* ***The number of negative reviews now includes the number of reports that were rejected as they did not meet the definition of COVID-19.*** *The number of people under investigation is explained by the increase in the number of countries for which an analysis for COVID-19 is recommended."*
+
+French:
+
+*“Situation au Québec*
+
+*Au Québec, en date du 7 mars 2020, à 12 h, la situation est la suivante :*
+
+*2 cas confirmés*  
+*1 cas probable*  
+*41 personnes sous investigation*  
+*303 analyses négatives (cas infirmés)*
+
+*Pour les cas probables, une autre analyse doit être réalisée par le Laboratoire national de microbiologie afin d'obtenir une confirmation officielle.* ***Le nombre d’analyses négatives comprend maintenant le nombre de signalements qui avaient été rejetés, car ils ne répondaient pas à la définition du COVID-19.*** *Le nombre de personnes en investigation s’explique par l’augmentation du nombre de pays pour lesquels une analyse pour le COVID-19 est recommandée.”* 
+++++++++++
+ TORONTO: 3 Staff at one of 7 emergency child care centres tests positive. (2 other staff, 2 kids being tested) 
+++++++++++
+ Ontario November 22 update: 1534 New Cases, 1429 Recoveries, 14 Deaths, 46,389 tests (3.31% positive), Current ICUs: 147 (+1 vs. yesterday) (+29 vs. last week) * Backlog: 30,427 (-12,620), 46,389 tests completed (349.8 per 100k) --&gt; 33,769 swabbed
+* Positive rate (Day/Week/Prev Week): 3.31% /  3.58% /  3.77% - [Chart](
+* Current hospitalizations: 484(-29), ICUs: 147(+1), Ventilated: 89(+2), [vs. last week: +5 / +29 / +22] - [Chart](
+++++++++++
+ Ontario November 23 update: 1589 New Cases, 1484 Recoveries, 19 Deaths, 37,471 tests (4.24% positive), Current ICUs: 156 (+9 vs. yesterday) (+31 vs. last week) * Backlog: 18,394 (-12,033), 37,471 tests completed (282.6 per 100k) --&gt; 25,438 swabbed
+* Positive rate (Day/Week/Prev Week): 4.24% /  3.57% /  3.79% - [Chart](
+* Current hospitalizations: 507(+23), ICUs: 156(+9), Ventilated: 92(+3), [vs. last week: +7 / +31 / +22] - [Chart](
+++++++++++
+ COVID-19 test results Anyone else having issues with getting test results back. I was tested March 17th at Brewer Arena in Ottawa and I haven’t gotten anything back electronically or by phone. VERY frustrating!
+++++++++++
+ We have not peaked; less positive cases today but less tests completed. Positive cases-to-tests ratio is up. If we had performed the same number of tests today as yesterday, there would have been ~512 new cases. Why does Ontario keep under-testing? We had 6,245 tests completed yesterday, with 426 new cases yesterday, which means 426 / 6245 = 0.068 is the positive rate. Since we tested less today, naturally, we are seeing a smaller number of new case, but this does not mean we have peaked! For today, we have 401 / 4859 = 0.082 being the positive rate, which has increased. 
+
+Another way of putting it, if we had performed 6245 tests today, then should have seen close to 512 new cases. 
+
+I am concerned. We have not peaked. Why does Ontario keep under-testing? Is this simply variance?
+
+The problem is this is going to get people to think our # of cases is decreasing or that we have been "flattening the curve", which might get people to become less relaxed with social distancing measures when we need them the most. The under-testing (and frankly, under-reporting) in Ontario needs to be rectified.
+++++++++++
+ Around 600 people possibly exposed after 3 employees at Toronto bar test positive 
+++++++++++
+ McDonald's closes location in Hamilton after employee tests positive for coronavirus- Canada 
+++++++++++
+ Ontario November 26 update: 1478 New Cases, 1365 Recoveries, 21 Deaths, 47,576 tests (3.11% positive), Current ICUs: 151 (-8 vs. yesterday) (+5 vs. last week) * Backlog: 52,852 (+7,902), 47,576 tests completed (358.8 per 100k) --&gt; 55,478 swabbed
+* Positive rate (Day/Week/Prev Week): 3.11% /  3.45% /  3.65% - [Chart](
+* Current hospitalizations: 556(+33), ICUs: 151(-8), Ventilated: 105(-1), [vs. last week: +30 / +5 / +17] - [Chart](
+++++++++++
+ Where can I get COVID19 serological test (antibody test) in Toronto? Hi,
+
+I am looking for Covid-19 serological test (antibody test) in Toronto.
+
+Some countries like my home countries require us to get tested to enter. 
+
+I know 'Medcan' will provide the test from August. 
+
+I wonder there are other options.  
+
+
+Best,
+
+Jack
+++++++++++
+ Homeless tested positive Felt a bit warm, dry cough. Was tested. I'm positive for covid-19 but  now I feel fine. No more cough, don't feel warm any more. Told that I am  lucky. Told that I am a carrier. Now homeless as a result of the  economic bullshit. No work, no home. Is everything I touch now infected?
+++++++++++
+ Coronavirus: LCBO store in London, Ont., shuts down after employee tested positive 
+++++++++++
+ No transportation to get tested Like the title says I don’t have transportation to go and get tested. For the past 4 days I’ve been having some symptoms and I want to go and get tested just to know. Is there anything that would help me with this or should I just self quarantine and see how it goes?
+++++++++++
+ Proof of positive test results I was tested on Friday October 16th and I found out I tested positive Oct 19th.
+
+My boyfriend had to stay home to isolate starting October 16th. He is in a union. His employer is asking for a letter from BC CDC? Apparently they are sending them out to people who came in contact with a positive case? 
+
+Does anyone know anything about this letter or what we could give his employer instead?
+++++++++++
+ BDO Canada confirmed to CTV News Toronto that its office at 20 Wellington Street East, Suite 500 is currently shut down and undergoing a thorough disinfection, after one of its employees tested positive for COVID-19 
+++++++++++
+ Quebec started to report deaths by health region Our Quebec page now has full details.
+
+[
+++++++++++
+ If you get tested, do the results tell you if you have the antibodies and/or are contagious or don’t have it? For example, if I had the virus a month ago and I go get tested today, would the results be able to distinguish if I’m currently contagious or not? Does everyone who tests “positive” have to then quarantine for two weeks no matter what?
+++++++++++
+ Two inmates, nine employees at Quebec prison test positive for COVID-19 
+++++++++++
+ Looking at NBA test results so far, asymptomatic spread is possible There has been many conflicting and confusing phrasing to the question on whether asymptomatic spread is possible. 
+
+On CBC, Dr. Aylward said patients start to shed the virus right before showing symptom, which can be the day of or the day before, but not much before that.
+
+It just so happens we have publicized tests going on in the NBA with teams that played against the Utah Jazz, after Rudy Gobert was diagnosed with COVID-19. 
+
+Here is the timeline of the games played by Jazz, Gobert played in the March 6, 7 and 9 games.
+
+Mar 6, against Boston - news confirming that an elementary school student who got an autograph from Gobert has been confirmed positive. [source](
+
+Mar 7, against Detroit - Detroit player, Christian Wood has just been tested positive. He is said to be asymptomatic still, even after testing positive [source](
+
+Mar 9, against Toronto - all members have tested negative so far
+
+Mar 11, against Oklahoma - first time news came out that Gobert is sick and will not play (he didn't even go to the arena). He was tested some time in the morning and just before the game was set to start, the team doctor stopped the game, telling the referees that he tested positive, around 7pm. His teammate, Donovan Mitchell was tested the same evening and have been confirmed to be positive 
+
+It may be possible that all these are coincidences but it is also likely that Gobert may have been asymptomatic but contagious as early as March 6.
+
+Has anyone else been paying attention to this space?
+++++++++++
+ What are the chances of getting COVID at a Covid Testing Center? Hello everyone,
+
+I booked some time at a COVID testing center (the Centenary one) as I had a stuffy nose, felt hot on Friday and had a stuffy nose on Saturday until now. The doctor told me to take a COVID test as precaution, and my dad went to the hospital yesterday for an MRI so I am taking one in case I test positive. I am worried about catching COVID from the Covid testing center, I am planning to wear an N100 mask and a surgical mask over it - along with goggles, is that good enough for safety precautions?
+
+I feel better now but my mom says I am worrying too much. Should I take the test regardless?
+++++++++++
+ Please help us 
+
+We as the Mcgill community would highly appreciate anybody who can sing the petition to cancel in person classes. Thank you
+++++++++++
+ What is the current science suggesting regarding reinfection? My aunt/uncles family has all tested positive for covid, and have all tested positive since.
+
+Would it then be safe for them to spend time with my elderly grandparents who have not yet had covid?
+++++++++++
+ A coworker has tested positive, but the store is staying open, and we're being told to lie about it. What do I do? Hi all, this is being kept on an anonymous throwaway for reasons.
+
+So, I work at a large chain store in the GTA and last monday a coworker found out he was in contact with someone who had just been confirmed positive. He was told to stay home, get tested etc. Wednesday, we were all told to stay home and get tested. Our department is closed for wed, thurs, fri, but reopens Saturday.
+
+So the few of us deemed "low risk" are back to work after 3 days, even if we were still waiting on results, while those deemed "high risk" are isolating for 14 days (2 of them are symptomatic on top of the guy who tested positive) and we are also being told not to tell customers about the outbreak. Instead our department was closed "due to system updates". An email went out to staff saying the area had been thoroughly disinfected (it wasn't), but that this was also the second employee in the store who had tested positive.
+
+I'm concerned about the general practice here because I was under the impression that the entire store would need to close until staff had isolated/tested negative, but also that we should have to have disclosed any cases for general public safety.
+
+What do I do? How do I report this? Is it worth reporting?
+++++++++++
+ 6 RCMP employees test positive for coronavirus, police force says 
+++++++++++
+ Thanks, Saskatchewan Government BC - 186 cases (Mar 17) - 6326 tested (Mar 13)
+
+Alberta - 97 cases - 12355 tested
+
+**Sask - 8 cases - 1107 tested (46 pending)**
+
+Manitoba - 15 cases - 2246 tested
+
+Ontario - 190 cases - 11171 tested (1567 pending)
+
+Quebec - 74 cases - 7678 tested (2900 pending)
+
+ &amp;nbsp;
+
+Manitoba and Sask announced their first cases on the same day and have almost the same population. Can't find cases of community transmission if you're not testing for it. 
+
+*taps head*
+++++++++++
+ VIA Rail employee that worked Ottawa-Toronto corridor tests positive for COVID-19 
+++++++++++
+ Italian Health Service has just confirmed that 95% of positive Covid test-results in Italy are false positives, and a legal case has been launched "under charges of fraud to procure public funding, false alarm, ideological false (sic), and manslaughter". (original is in Italian) Apparently the Italian Health Service has just confirmed that 95% of positive Covid test-results in Italy are false positives, and a legal case has been launched "under charges of fraud to procure public funding, false alarm, ideological false (sic), and manslaughter". An Italian Nobel Prize Candidate from 2018 has weighed in to confirm that the Covid19 tests are fraudulent, and that "there is more to this than false positives." "Stefano Scoglio says: swabs look for 3 genes characterizing SARS-CoV-2. "If the virus were present, all 3 would have to be found, because if the virus is intact, the only case in which it can have a pathogenic role &amp; infect, the test must find all 3 genes"". But the results of PCR tests in Italy now clearly state  that since April, "in agreement with the regional coordinating center, the detection of even a single SARS-CoV-2 target gene is interpreted as a POSITIVE test" (see image below). Even though such a test actually proves the person is in fact negative for covid.  
+
+I wonder if Canada and the US area are also following this fraudulent protocol. It would explain why there seem to be so many "asyptomatic" cases. 
+
+Here's the thread on Twitter:
+
+[
+
+&amp;#x200B;
+
+
+++++++++++
+ About 5% of international flights into Toronto arrive with a passenger that has COVID-19 Using this [article about international flights]( there were 18 flights to/from Canada that had passenger test positive between Aug 1 - 4.  
+
+Dug a bit deeper - the article listed 8 flights that arrived in Toronto that had someone test positive.  There are [38 international flights arriving today into Toronto.]( Assuming the same # of flights as a week ago, that would be 8 / 152 flights or about 5%.  And these are only those confirmed positive.
+++++++++++
+ North York campus shuts down after spouse of student tests positive for COVID-19 
+++++++++++
+ Man who attended conference in Vegas tests positive for coronavirus in Toronto  toronto star&amp;utm_medium=SocialMedia&amp;utm_campaign=&amp;utm_campaign_id=&amp;utm_content=
+++++++++++
+ Government refusing testing My girlfriend has begun to show symptoms of Covid-19. She called the hotline at 811 and after 2 hours on hold was told to self-isolate but refused a test. They said they will not test anyone unless they have been in close contact with someone who tested positive. when asked what "close contact" means she was told that someone in your household or your physician is what they consider close contact. Just to be clear, unless you live with someone who has tested positive they will not test you, so people in your household can only be tested if people in your household have been tested. It's a definition catch 22. Furthermore, when asked if \*I\* should continue going to work she was told that yes I should go to work until I show symptoms. If she is positive, I am positive and could be contagious without symptoms for some time. I am incredibly saddened by the incompetence of our government. They should have shut everything down yesterday, how many more people will be infected before we close down all non-esential services and mandate isolation?  
+
+&amp;#x200B;
+
+TL;DR covid test criteria is impossible and the government is not advising proper isolation practice
+++++++++++
+ Quebec says 41 students and staff have tested positive for COVID-19 since reopening 
+++++++++++
+ Student started petition: Close All Schools in Canada Immediately to Stop COVID-19 A petition started by a University of Waterloo student to move classes online for all schools across Canada during the coronavirus pandemic has over 108,000 signatures. ‘To be transparent, I work at[ ]( and I thought this group might be interested. This isn't something we see often so I wanted to share with you in case you agree.
+
+
+++++++++++
+ Two employees at National Microbiology Lab in Winnipeg test positive for COVID-19 
+++++++++++
+ Canada's response is MUCH better than almost every country in the West. Based on the media, it sounds like COVID is out of control. While that is true in most countries in the west (US, UK) in particular, Canada has done really well so far. 
+
+Headlines such as *"Ontario announces 211 new cases of COVID-19, bringing provincial total to 1,355"* and *"It's the largest single-day increase in cases so far."* are pretty misleading and irresponsible. For example, today's Ontario numbers were based on 2x the testing volume of each of the last few days. 
+
+Why do I think Canada is doing well?
+
+* We have tested a pretty high number of people. The gold standard, South Korea has tested 394,141 people for a population of 51 million (7700 per million). Canada has tested 195,284 for a population of 37 million (5300 per million). US and UK are at 2700 and 1800 per million. 
+
+* Our positive test numbers are low. [Cumulatively, our positive test numbers are at 3% (all but 1 of the last 7 days has been been &lt;5%)]( This means that we are not undertesting. [For comparison purposes, NY/NJ/MI are all at 30%+. Even outside of those states, their numbers are ~10% positive tests. Italy is around 20% overall, but that number is coming down recently. South Korea is &lt;3% overall but &lt;1% in recent days.]( The argument that we aren't testing enough people is pretty invalid.
+
+* Coming back to today's Ontario headlines, we had 211 positive results from 7,601 test results (2.78%)! That is VERY positive news. Our backlog is 7,203 cases which is around 2 days of results so we should start seeing our positive cases drop this week (assuming that social distancing works). [Ontario table](
+
+* Yesterday, BC had 92 new cases out of 6,953 tests (1.3%). That is basically South Korean numbers. They started social distancing earlier than the rest of the country I believe, so it does work.
+
+Now this doesn't mean that we go to business as usual (at a minimum, stop travel from the US) but it shows that we're on the right track and as we haven't been terribly hit in the first place, we will rebound a lot quicker than the rest of the world.
+++++++++++
+ Coronavirus: 2 Global News employees in Toronto test positive for COVID-19 
+++++++++++
+ Is Ontario wasting 5 million hours every day in unnecessary self-quarantine? So I've been waiting 4 days for my [Covid test results](covid19results.ehealthontario.ca). During this time I must remain in self-quarantine. In the summer my partner got her negative test results in 12 hours. When you contact the testing centre at [St. Joseph's Hospital]( the phone message says they will phone patients with positive results but negative test results can take up to 5 days. The web site also says: "our turnaround times typically meet expected timelines." If this is true then [Ontario Public Health]( reports:
+* 57,000 tests performed on November 26th - 2000 positive tests =
+* 55,000 negative tests x
+* 120 hours (5 days) - 12 hours (previous turnaround time) so 108=
+**5,940,000 hours of unnecessary self-quarantine.**
+Of course some people need to isolate even if they have a negative test - if symptoms aren't going away, or if they've had close contact with a case. So let's round down to 5 million hours. Yesterday another 50,000 delayed negative results, today another 50,000. If Ontario had ramped up it's testing in the summer this could have been avoided.
+
+Is everyone waiting 5 days for negative Covid test results?
+Is this a conservative strategy to promote private heath care?
+++++++++++
+ Do I bother getting tested for covid-19? My workplace got hit with 2 cases of covid-19 and I am unsure if it worth it to get tested. I want to get tested, but I am given no clear timeline when my results will come in. I could miss 2 days of work or a week waiting for my results. If I do get tested, I am not getting paid despite it coming from work.
+
+So far all my coworkers that volunteered to get tested have tested negative.   I don't have any symptoms and I haven't worked directly with the two that tested positive.
+++++++++++
+ Toronto Public Health says 23 homeless people have tested positive for COVID-19 [
+
+Toronto Public Health said Monday that 23 homeless people across seven different facilities in the city have tested positive for the new coronavirus, after word surfaced that at least four residents or staff from a single shelter that houses refugees had contracted the disease.
+
+For weeks, advocates for the homeless have warned that maintaining the recommended two metres of physical distance to curb the virus’s spread was next-to-impossible in the city’s crowded shelter system, and that an outbreak could be catastrophic.
+
+Toronto has leased 1,200 hotel rooms and started moving some homeless people out of shelters to allow for more space, as well as setting up special isolation centres for homeless people who are awaiting test results.
+
+In a statement e-mailed on Monday, Allison Chris, the city’s associate medical officer of health, said that as of Sunday at 1:30 p.m., 23 homeless people at seven different “service settings,” such as shelters or drop-in centres, had tested positive for the virus.
+
+“Given that COVID-19 is spreading in our community, this is not unexpected, and we were prepared for the unfortunate situation of having cases in the shelter system,” Dr. Chris said.
+
+The statement did not name the shelters involved, nor did it mention any positive tests among shelter staff.
+
+Until Monday, Toronto Public Health had publicly confirmed eight cases of COVID-19 in the city’s shelters, including a case at Seaton House, one of its largest downtown shelters. It had also previously confirmed that one staffer at a different shelter, who has since recovered, had tested positive.
+
+The total appears to have risen sharply in just the past few days: according to a memo from the city’s shelter department, obtained by The Globe and Mail and dated Saturday, the city told its shelter operators that it had counted 17 cases among the homeless.
+
+Word spread Friday among shelter workers and activists about several more positive tests in the shelter system. But Toronto Public Health officials said then they could not confirm the information.
+
+On Sunday, shelter operator Homes First Society confirmed it had at least four positive tests – while warning it was awaiting more results – among both residents and staff at a facility in Toronto’s North York area that houses 230 homeless refugee claimants, the Willowdale Welcome Centre.
+
+E-mails from shelter management to staff were sent Saturday, warning of “several” positive tests.
+
+In an interview, Homes First CEO Patricia Mueller said the shelter has about two dozen full-time staff but that half of the agency’s overall 300 employees work at more than one of its 13 shelters cross the city.
+
+She said Homes First has been screening residents for symptoms and stepping up its cleaning, as recommended by Toronto Public Health since early March. (It was also a Homes First shelter worker, at another facility, who tested positive in late March but has since recovered.)
+
+Newly arrived refugees are already subject to a 14-day quarantine period, and then housed at a separate facility. Residents are screened for symptoms when they enter. And while residents at Willowdale sleep in the open, separated by dividers, adjustments have been made to ensure physical distancing in the 70,000-square-foot facility, a former North York Hydro building, Ms. Mueller said.
+
+Toronto Public Health has recommended that staff take a number of precautions including wearing masks and self-isolating while at home but should continue coming into work, a protocol for health care workers known as “home/work isolation.”
+
+Public Health also reviewed all of the shelter’s intake screening, cleaning and physical distancing protocols, the e-mail says.
+
+Ms. Mueller said she feared that shelter workers and residents were being forgotten, even as they face similar risks to those in hospitals and long-term care homes.
+
+“Everyone is very concerned about all of our health care workers, long-term health care workers and residents … You ask what I’d like people to know? I’d ask them to be more deeply concerned about people that live in shelters and the people that work in them.”
+++++++++++
+ Ontario November 24 update: 1009 New Cases, 1082 Recoveries, 14 Deaths, 27,053 tests (3.73% positive), Current ICUs: 159 (+3 vs. yesterday) (+32 vs. last week) * Positive rate (Day/Week/Prev Week): 3.73% /  3.47% /  3.78% - [Chart](
+* Current hospitalizations: 534(+27), ICUs: 159(+3), Ventilated: 91(-1), [vs. last week: +5 / +32 / +16] - [Chart](
+++++++++++
+ Looking for clarification on "pending test results" Does pending mean the results aren't in, or that they are in a gray area between a positive and a negative test that need to be further investigated? Sorry if this is a dumb question. :)
+++++++++++
+ In light of Canada &amp; US starting to ease restrictions, I put together some graphs of recent trends showing how each country is doing compared to the other - May 14, 2020 **US VS Canada - May 14, 2020**
+
+I put together some graphs to see how we are doing in recent trends compared to our neighbors down south, who are also opening around the same time as us. 
+
+--- 
+
+[DAILY CASES per million ](
+
+- Canada = 30/million
+
+- US = 60/million
+
+The US was hovering between 80-100 daily cases per million, whereas Canada has been between 30-40 daily cases per million.
+
+---
+
+[DAILY DEATHS per million](
+
+- Canada = 4.06 /million
+
+- US = 4.62 /million
+
+The daily death numbers per capita for the US are down from a pretty recent peak of 7-8 deaths per million, which is nearly double vs Canada who's been hovering around 4 more consistently. 
+
+---
+
+[TOTAL TESTS per thousand](
+
+- Canada = 30.94 /thousand
+
+- US = 30.14 /thousand
+
+[DAILY DEATHS per thousand over the last week](
+
+Looking at *total* tests per capita highlights that both countries are similar. 
+
+Looking at *daily* tests suggests Canada is actually testing less per capita. 
+
+*This will become relevant very soon*
+
+---
+
+[POSITIVE TEST RATE over the last week](
+
+- Canada = 1.3%-6.7% range (average about 5%)
+
+- US = 6.2%-18-9% (average about 14%)
+
+This is probably the most telling graphs of them all. 
+
+When testing for a suspected disease, you generally have criteria or a certain pretest probability (clinical suspicion based on symptoms and presumed prevalence/incidence and risk factors, etc) that you consider when administering diagnostic tests.
+
+If your POSITIVE TEST RATE is HIGH compared to a country with overall similar population characteristics, location etc (and if both countries are isolated in that there is currently limited spread between the countries), then you know that the disease incidence and prevalence is much worse than the country with the lower positive rate. 
+
+Since the Americans are testing more than Canadians over the last week, and their POSITIVE TEST RATE is way HIGHER than Canada's, it means that the US are still vastly under testing and therefore have a much higher true prevalence and incidence than us. 
+
+Ideally the US should have a MUCH HIGHER test per capita rate than Canada to lower their positive test rate to be closer to ours in order to know they are on the right (or similar) track.
+
+---
+**In Summary**
+
+Recently, the US has roughly double the cases per capita than Canada, and while the recent death rate of the US is now similar to ours, it was almost double not too long ago. This is in context of the US having similar testing rates overall (or slightly more this week), with a vastly higher positive test rate. 
+
+**Commentary** 
+
+This sugges that their actual true prevalence and incidence is MUCH higher than the confirmed case rate above (and therefore much more than just double Canada's new case rate). 
+
+Why would the US reopen with still worse numbers than Canada and no consistent flattening, yet Canada is taking it much slower? 
+
+Maybe we should keep that border shut for the time being...? Looking forward to your comments.
+--- 
+*All data was gathered from here:*
+
+++++++++++
+ Ontario November 28 update: 1822 New Cases, 1510 Recoveries, 29 Deaths, 55,086 tests (3.31% positive), Current ICUs: 155 (+4 vs. yesterday) (+9 vs. last week) * Backlog: 56,219 (+1,978), 55,086 tests completed (415.4 per 100k) --&gt; 57,064 swabbed
+* Positive rate (Day/Week/Prev Week): 3.31% /  3.46% /  3.53% - [Chart](
+* Current hospitalizations: 595(+54), ICUs: 155(+4), Ventilated: 99(-2), [vs. last week: +82 / +9 / +12] - [Chart](
+++++++++++
+ At what time of day do your results get posted online? Hi there,
+
+I am at the mercy of waiting for my test results before I can return to work, as my co-worker was sick for one day, tested positive but will be back to work Monday as his contagious period was two Fridays beforehand. Just sick of constantly checking as today is the third day after my test.
+
+Cheers!
+
+Ps. I feel great!
+++++++++++
+ When do you know if you should get tested?  I don't want a diagnosis, i just wanna know when you should get tested for the covid19??
+
+I'm in a low risk province (Quebec). But i work with the homeless in an area with a lot of tourists and while i try to keep my hygiene in check to make sure i don't get anything, it's hard when you work with such vulnerable people.
+
+Anyways, i got a flu. Dry cough, headaches, fever &amp; nausea. I wouldn't usually go to a doctor for this but now i'm just wondering, when should we get tested? Am i too low risk? Is it irresponsible to not get tested? Everyone has been treating this virus has some big joke and everytime i bring up the fact that maybe i should get tested in case they literally just tell me to calm down and that i am being ridiculous. 
+
+Am i freaking out over nothing?? I'm not ALL THAT freaked out just yet but legit just wondering? I am so confused with what is too much worrying and what is not enough worrying. 
+
+
+Thanks!
+++++++++++
+ My opinion for opening schools is that we need to do TESTING! Teachers and students should be tested everyday with rapid tests. Pandemics are driven by Children; this is a fact. Technology for 15 minute saliva tests which cost as much as a cup of coffee is available now. There is no excuse to open schools during a pandemic of a highly contagious and novel virus where children and young adults are known drivers, without testing frequently and rapidly. The science is there but the politics hasn't caught up. 
+
+All parents should demand this. The sensitivity of the tests need to only identify those who are contagious. So it does not need to be a molecular test that detects even virus fragments and takes 2 days to get results. Canada needs to set an example to the USA and the rest of the world for how to open schools safely. I repeat, WE NEED FREQUENT AND RAPID SALIVA TESTING which is sensitive enough to only identify those who are shedding virus and are contagious. 
+
+On a side note, I read an article today which surveyed 1,500 people about whether they feel safe to send their kids to school. Only 300 of the 1,500 actually had kids. What a joke. You have to be very out of touch with Covid to feel comfortable sending your kid to school. As a parent, I'm not sending my kids to school until i see what happens. You want to be the test subject?
+++++++++++
+ Person who travelled to Vegas tests positive for coronavirus; Toronto Public Health monitoring 
+++++++++++
+ Is there any talks about benefits for Students or recently graduated students? As the title says, is there any talk for students or recently graduated students?
+++++++++++
+ What to do if a family member test positive for COVID? Hello, 
+
+Last Saturday (the 17th), my family and I (5 of us) got tested for COVID. 3 out of 5 family members were in contact with an individual who tested positive for COVID. At the testing centre, there was a doctor present. The doctor advised 3 of my family members get tested again 4-5 days after the first test, as the 3 of them were in close contact. Whereas, the other 2 do not have to get tested again. At home, everyone self-isolated at their rooms, and wore mask when in shared space; such as the kitchen. On Monday (the 19th), all 5 results came back negative. As advised by the doctor, 3 of the family members who was in close contact with an individual positive for COVID get tested again. 3 of them were tested on Wednesday (the 21st). 2 out of the 3 family members got their result back on Friday (the 23rd), and the results are negative. However, 1 of the 3 family members is still awaiting for their result. Only that 1 member is showing very mild symptoms of aching body but body temperature is average. The rest of the family are not showing symptoms. The family has self-isolated for a week now. However, we will continue to wear mask around the house for extra pre-caution. 
+
+I guess my questions are: 
+
+\- All 3 of them got tested as the same time, how come 1 is not available yet? Kind of weird that 2 got theirs back at the same time but 1 did not, when they got tested as a group. Also, when all 5 of us got tested, all of our results were available at the same time. 
+
+\- If that individual does test positive for COVID, what should the rest of the family do? Do we continue to self-isolate as someone in the household is positive? Or are we allowed to go back to work? Of course, that individual will continue to self-isolate in a room alone and will not have contact with the rest (4) family members. 
+
+To summarize: 
+
+2 family members did not have direct contact with the individual who tested positive for COVID and both tested negative for COVID. The other 2 family members who had direct contact with an individual who tested positive for COVID got tested twice (each) and both of their test results are negative for COVID. 
+
+Any tips, advice or suggestions is greatly appreciated!
+++++++++++
+ Several employees at Toronto Public Health headquarters test positive for COVID-19 
+++++++++++
+ The exponential growth of positive cases in Ontario is nothing compared to the exponential growth of the testing backlog Using data from u/Scyllarious's daily posts ( I made a quick chart showing the daily deltas of confirmed cases vs how much we want to test vs how much we are actually testing.
+
+
+
+The orange line is the number of tests completed each day, the yellow line is the number of tests added to the pipeline each day, and the grey line is the difference of the two: number of tests added to the backlog each day.
+
+As of today, Ontario has over 10,000 tests in the backlog. The positive cases being announced today reflect data from a week ago.
+
+Meanwhile the media is fixated on apparent shortages of swabs and test kits instead of putting pressure on the actual problems with Ontario's testing capacity.
+++++++++++
+ 43 Canadians test positive for new coronavirus on cruise ship in Japan 
+
+
+Wow this whole Princess Diamond situation is turning into complete disaster. I was just watching this infection specialist provide first hand assessment of what's going on the ship, it's plain scary how mismanaged this is:
+
+
+++++++++++
+ VIA Rail employee that worked Ottawa-Toronto corridor tests positive for COVID-19 
+++++++++++
+ What to do if you shopped in a store during a time when an employee who tested positive for covid 19 was there? Someone I know received an email saying they had an employee test positive at a grocery store they shop at. The last shift the employee had matches the date and this person shopped there. 
+
+What are you supposed to do at this point?
+++++++++++
+ Northern seniors display positive messages in light of COVID-19 (CTV news) Elders pleading in a clever way to **^(StayHome)**
+
+ [
+++++++++++
+ Saskatchewan Update COVID-19 Laboratory Testing Summary for Saskatchewan   
+
+*Cumulative counts as of March 10, 2020*   
+
+Total Persons Tested 204   (52 last week)
+
+Persons with Pending Results 2   (5 last week)
+
+Persons with Confirmed Negative Results 202   (47 last week)
+
+Persons with Presumptive Positive Results 0   
+
+Persons with Confirmed Positive Results 0   
+
+Total Tests Performed\*\*  216  (wasn't reported last week)
+
+\*\*A person may have multiple tests performed
+
+[
+++++++++++
+ Why Canada is taking so long to start testing blood for COVID-19 [
+++++++++++
+ Ontario November 22 update: 1534 New Cases, 1429 Recoveries, 14 Deaths, 46,389 tests (3.31% positive), Current ICUs: 147 (+1 vs. yesterday) (+29 vs. last week) * Backlog: 30,427 (-12,620), 46,389 tests completed (349.8 per 100k) --&gt; 33,769 swabbed
+* Positive rate (Day/Week/Prev Week): 3.31% /  3.58% /  3.77% - [Chart](
+* Current hospitalizations: 484(-29), ICUs: 147(+1), Ventilated: 89(+2), [vs. last week: +5 / +29 / +22] - [Chart](
+++++++++++
+ Quebec says 41 students and staff have tested positive for COVID-19 since reopening 
+++++++++++
+ How much as we testing? Does anyone know of a good resource to stay up to dat on how many cases are actually being tested for across Canada? Not the number of positive cases, but rather the actual number of tests being done.
+++++++++++
+ Ontario November 27 update: 1855 New Cases, 1451 Recoveries, 20 Deaths, 58,037 tests (3.20% positive), Current ICUs: 151 (+0 vs. yesterday) (+9 vs. last week) Black Friday indeed...
+
+* Backlog: 54,241 (+1,389), 58,037 tests completed (437.7 per 100k) --&gt; 59,426 swabbed
+* Positive rate (Day/Week/Prev Week): 3.20% /  3.48% /  3.56% - [Chart](
+* Current hospitalizations: 541(-15), ICUs: 151(+0), Ventilated: 101(-4), [vs. last week: +23 / +9 / +9] - [Chart](
+++++++++++
+ Covid test reliability Polling the group!
+
+Do any of you have thoughts or insight into how accurate the Canadian test for Covid infection is?
+
+Concern is that tests are coming back negative when the person actually is infected.
+
+This could be due to the nature of the virus/infection (ie. they are in a certain stage of the infection when it is more likely to give a false negative) or that the test is not statistically robust (ie. it has a high incidence of false negatives).
+
+I know there is a presumptive positive process which is then sent to a lab in Winnipeg to be verified but in other experiences with medical testing, there is always a degree of error, especially when you get into the more rare diseases (or tests that aren’t run thousands of times per day, like, say for example, blood sugar).
+
+Given the lack of familiarity with Covid, I don’t 100% trust that we’ve nailed a test to detect its presence with complete certainty. How good are we at detecting viruses?
+
+Thanks in advance for the discussion!
+++++++++++
+ BREAKING: In an email obtained by The Varsity, the Centre for Criminology &amp; Sociolegal Studies told its graduate students and staff on March 15 that one of its students had tested positive for COVID-19. 
+++++++++++
+ The testing situation in Ontario in the upcoming days. As of Sunday the 4th, no more walk-ins will be allowed at testing centers and testing by appointment will only start on the 6th. 
+
+So after today, we will have to go through a phone call conversation where we're told to come get tested or not, like in the initial months. Let's consider the logistics of 40,000 people or more trying to get through phone lines in one day to talk to someone.
+
+Finally, from the 4th to the 6th, no tests at all, just working on backlog. We are voluntarily going to go 2 whole days without testing anyone in the middle of a sharp increase in cases. 
+
+A+ job, for real. From "everyone should get tested!" to shutting down testing for two days to work on a backlog due to a lack of preparedness. 
+
+Am I missing anything?
+++++++++++
+ Covid-19 Comparison Ontario vs South Korea vs US vs Italy Created an account to post these as I thought there might be some interest here. There's a lot of discussion in the news about the numbers in Canada/Ontario but not a lot of context to how we compare to other places. I've tried to look at this a bit so here are some charts comparing ON with South Korea, the US and Italy
+
+[
+
+I'll add Canada soon but when I started collecting data most provinces weren't reporting consistently enough to do this. 
+
+To make the comparison between countries I put all the numbers in cases per 1 million population and started the time series when each country had 100 cases (probably not a perfect method but lets you see how closely each country is following another's trend - for Ontario I used the day Canada hit 100).
+
+I did this for positive cases which is the first chart but the number of positive cases is only as reflective as your testing capacity (the US. So that's the second chart. Finally, I looked at the percentage of positive tests as this probably tells you something about how many true cases are out there as well.
+
+I used South Korea as a positive example. It's probably a bit early but in terms of testing volumes we seem to be doing well. It's unlikely that the case volume will jump like the US line as that seems to be more a result of their increase in testing but again, it's early (it is impressive how fast the US has increased their testing).
+
+The last chart shows our test capacity which is worrying as the number of pending tests is rising pretty dramatically. I don't know much about the process for analyzing tests but there is clearly a huge bottleneck there which is incredibly problematic. There is already a huge delay in recognizing cases given that carriers are asymptomatic. This will add days / weeks to that delay if the capacity isn't increased.
+
+[
+
+[
+
+[
+++++++++++
+ Canada covid tests Does anyone know why covid testing is so low in Canada?   We are even far behind the United States?   And before you say USA has a lot more people.   Of course I'm comparing per million.    Per every million people, our covid testing is far lower than a lot of other countries.   In the world we are 39th.    It looks like some one dropped the ball.   Is this provincial governments problem?   Federal government?   Or just covidiots that think the pandemic isn't real?  The covid testing is especially low in British Columbia.   By the way...I just got tested.   I had a sore throat.   But right now BC is only testing for people who have symptoms.    For people who want to get tested (maybe they live with an elderly person), the test should be available to them.     Why is Canada so far behind in this?
+++++++++++
+ Cancer doctor in Hamilton tests positive after vacation patient and staff contact.  [ 
+
+&amp;#x200B;
+
+Lovely. Reading between the lines it sounds like she showed up to work sick after a trip to Hawaii, and someone said 'get tested, dumbass'. Sure enough, positive. Quick return on the test, at least- tested afternoon of the 9th, positive result confirmed the next day.
+++++++++++
+ Coronavirus: LCBO store in London, Ont., shuts down after employee tested positive 
+++++++++++
+ Toronto school reports COVID-19 outbreak after 18 students, one staff member test positive 
+++++++++++
+ Salmon Arm Walmart employee tests positive for COVID-19 - Salmon Arm Observer 
+++++++++++
+ RBC employees in self-quarantine at home after coworker tests positive for COVID-19 
+++++++++++
+ Ontario November 19 update: 1210 New Cases, 1376 Recoveries, 28 Deaths, 41,838 tests (2.89% positive), Current ICUs: 146 (+19 vs. yesterday) (+48 vs. last week) * Backlog: 44,493 (+7,822), 41,838 tests completed (312.8 per 100k) --&gt; 49,660 swabbed
+* Positive rate (Day/Week/Prev Week): 2.89% /  3.65% /  3.61% - [Chart](
+* Current hospitalizations: 526(-9), ICUs: 146(+19), Ventilated: 88(+10), [vs. last week: +95 / +48 / +26] - [Chart](
+++++++++++
+ COVID-19 Test in Ontario that gives PCR Test Result Hi there,
+
+I was wondering if anyone knew any testing places near Bradford, ON or in the GTA such that they give you a COVID test result WITH a a PCR Test Result Report?
+
+My parents are planning to head back to their home country soon and the airport is super strict about them completing a COVID-19 Test 72 hours before departure and apparently some test report "does not indicate COVID-19 PCR Test Results". 
+
+I've gotten tested at Southlake three times so far and always check on the standard COVID-19 website and it just shows the result but not the PCR Test Results(whatever that means)..
+
+Any help is appreciated! 
+
+Thanks
+++++++++++
+ Ontario November 28 update: 1822 New Cases, 1510 Recoveries, 29 Deaths, 55,086 tests (3.31% positive), Current ICUs: 155 (+4 vs. yesterday) (+9 vs. last week) * Backlog: 56,219 (+1,978), 55,086 tests completed (415.4 per 100k) --&gt; 57,064 swabbed
+* Positive rate (Day/Week/Prev Week): 3.31% /  3.46% /  3.53% - [Chart](
+* Current hospitalizations: 595(+54), ICUs: 155(+4), Ventilated: 99(-2), [vs. last week: +82 / +9 / +12] - [Chart](
+++++++++++
+ 5 more in Alberta But they only have 19 tests since yesterday??  Weird. 
+
+It was 14 confirmed and 2004 tested yesterday. 
+Today is 19 confirmed and 2023 tests.  [AHS numbers](
+++++++++++
+ Covid testing Question about Testing: How does the test determine if you are positive for COVID-19? Does it look for antibodies or something else? Anyone know?
+++++++++++
+ covid test results in Toronto or east end if anyone has taken a covid test recently (like about a week ago), how long did it take for your results to be released? I need to take a test for travel purposes and was hoping to find a test centre that releases results within 3 days or so (preferably in the east end - Scarborough, Ajax, Oshawa) 
+
+thanks in advance!
+++++++++++
+ North York campus shuts down after spouse of student tests positive for COVID-19 
+++++++++++
+ Small fraction of students test positive for COVID-19 in Ottawa's largest school board 
+++++++++++
+ WHERE ARE THE TESTS?? My friends aunt came back from a cruise with a passenger who is confirmed to have COVID19. Her aunt is sick and has pneumonia. She was denied a test.... apparently they are only testing medical staff at the moment.
+
+A new article has popped up saying that about 50 nurses at St. Mary's Hospital were exposed to a COVID19 patient some time ago without masks or other precautions. Many of them are now feeling sick. That's it...? Well do they have it? Why aren't they being tested?? 
+
+If these 2 situations do not warrant testing, who the hell is getting tested??
+
+On top of that, we should be doing thousands of tests! Aggressive testing like new York and all the other places that actually have a grasp on the situation now! Canada's total cases is ~1000?? LAUGH! I bet there's at least 10,000.
+
+WE NEED TO TEST AND WE NEED TO LOCKDOWN!
+++++++++++
+ Two inmates, nine employees at Quebec prison test positive for COVID-19 
+++++++++++
+ Coronavirus: LCBO store in London, Ont., shuts down after employee tested positive 
+++++++++++
+ Where are we with antibody tests being available in Canada ? One of the most crucial aspects is testing everyone, and especially antibody tests to see who has had the virus, anti body tests can even be done at home technically, where are we in Canada with this ?
+
+The second thing to be done is make enough masks in Canada for everyone to use, doubt that will happen tho
+++++++++++
+ Tests in Canada vs Tests in USA - Similarities and Differences The false negatives, releasing patients who were later found positive, and the lack of testing are all concerns in the USA. 
+
+I have seen that we are doing more tests here in Canada than the USA:
+
+"The B.C. Centre for Disease Control (BC CDC) reported that it has tested 1,012 people for the virus as of Feb. 27, 2020."
+
+
+"Theresa Tam, Canada’s Chief Public Health Officer, said that some provinces, particularly B.C. and Ontario, are starting to test a wider sample of the population to detect possible community spread of the virus, including those who go to the hospital with flu-like symptoms even if they haven’t travelled outside of Canada recently."
+
+
+However, I haven't found much information about how the actual tests we do here in Canada differ from the ones in the USA. 
+What do we know so far about the test itself? How are our tests (the actual tests, not the testing proess itself although that is important too) similar or different from the tests in the USA? Should we also be concerned about false positives? Please include links where possible.
+++++++++++
+ Anyone have burning pain after a Covid Test? Anyone have burning pain after a Covid Test?
+
+Well, I went to get tested for the second time in two weeks. The first time I got tested, I was tested by an ER doctor that did an amazing job and made me feel comfortable because these tests make me very anxious. Today, I went to the assessment centre in Barrie and I warned the nurse that I was nervous and kindly asked her to be gentle.. what does she do? Shove it right up my nose hard for 10 seconds twisting it like a screwdriver before I could even breathe.. It actually hurt so bad I nearly started to cry! I rather have 4 shots of dental needles in my mouth then this test! Shortly after when I returned home I was still quite traumatized felt nauseous and felt a burning sensation in my nose. It now has been 12 hours since I got the test done and I’m still feeling a burning pain sensation in my nose. 
+
+Has anyone else had something similar happen to them with the test? Not sure if I should see a doctor... this pain is unbearable
+++++++++++
+ My mom got test result and it was defined "indeterminate". What does that mean? She took the test 10 days ago and the test centre finally called us today. (They told the test would take about a week so I guess it was pretty delayed.) They said it's neither positive nor negative but indeterminate. What does that even mean? Does that mean she has to stay home or what? And does my family have to keep self isolation? I've read some articles about what it means but it was full of medical terms so I don't get it...
+++++++++++
+ Small Group of Employees Test Positive at Well.ca (I believe the location is in Guelph) [deleted]
+++++++++++
+ Do I need to self isolate while waiting for results with no symptoms? I'm in Ottawa and was just tested. I don't have any symptoms although over the weekend I was outdoors at the same picnic table as someone who tested positive (they found out Tuesday, had no symptoms, and were only tested because they had close contact with someone 16 days prior who recently tested positive).
+
+When I went to get tested they only asked if I was part of an outbreak and if I had any symptoms, when I answered no to both of those they performed the test and did not give me any further instructions besides that I will hear back about my results in 5 to 7 days.
+
+Do I need to self isolate until I get my results? I feel like the chances of me having caught it are pretty low, and I'm not even sure I would consider it close contact (outdoors the entire time, opposite ends of a picnic table for only a short while, windy day, the person had no symptoms and had caught the virus 16 days prior and did not know).
+++++++++++
+ I'm confused how there's a shortage of test? Is it not just a swab that's sent to a lab and then tested? Wouldn't it be similar to blood test and even flu tests? And how are places like Germany and south Korea able to test thousands a day and we cant seem to do enough to even test anyone with symptoms.
+
+I'm so confused here. Why are we failing at testing enough people to get this fully under control?
+++++++++++
+ If you have been tested, or admitted to a hospital for non-COVID reasons during the pandemic you need to do this! Hi guys!  Friendly neighborhood surgical department here!  
+
+If you are tested for COVID-19, or you are admitted to hospital for a non-COVID-related reason (including an Emergency Dept visit). You will be flagged as “COVID-positive” or “COVID-suspect” in the database, *even if your results are returned negative*
+
+I’m not privy to how the system is set up but the flaw appears to be that everyone is flagged “COVID-suspect” until testing proves they are not, but if you were flagged in the Emergency Dept and then moved to another floor before your test came back, the flag is somehow unable to be updated/modified.   This has resulted in patients being falsely labelled as “COVID-positive” and resulted in their surgical procedures being cancelled or postponed needlessly. 
+
+I have had a few patients have their minor procedures or CT scans cancelled because of this hiccup.   The first patient had never tested positive; he was admitted to hospital for heart attack and was labelled “COVID-suspect” in ER; moved up to cardiac unit where he is confirmed negative, treated and discharged home where he remained, symptom-free for four weeks before his procedure with our unit, and day of procedure the front desk turned him away.     The second example was a patient who tested positive for COVID in April in ER, in June he re-tested at Public Health and was negative, but was still flagged positive in the hospital database and was turned away on the day of his procedure.  Poor bloke had been waiting 5 months for his procedure because of the pandemic and wasn’t even called in advance to be notified that he was being cancelled!
+
+
+If you have been tested and it was negative, contact Public Health and ask them to confirm your status as COVID-negative.   If you cannot do this and you have an upcoming hospital procedure, it may be helpful to log in to the public health website (where you checked your test results) and print off your results to bring with you to prove that you tested negative.
+
+Just wanted to pass this along because it’s really been creating headaches for staff and patients alike and I would hate for you to have been waiting for months for your procedure only to have it postponed for no reason!
+++++++++++
+ COVID-19: 28 employees test positive at Vancouver chicken plant - Vancouver Sun - April 21, 2020 
+++++++++++
+ Twenty-six new cases in Nova Scotia, &gt;1000 tests completed in a day [
+
+To date, 6764 tests have been performed in Nova Scotia, or 0.7% of the entire population. Our certified lab has *tripled* its output and they are doing an amazing job!
+
+Out of those tests:
+
+* **6591** tested **negative** (97.4% of all tests)
+* **162** are **current positive** cases being treated (2.4% of all tests) 
+* **5** are currently **hospitalized** (3.09% of all current positive cases)
+* **11** have **recovered** (6.36% of all positive tests)
+++++++++++
+ A question I have If say a buisness like Walmart was to have an employee test positive for COVID19, would a quick clean of the store through a single night be enough to have a safe(r) environment to shop in or would this be unsafe? 
+
+You see, they tested positive a week or so ago which means they could have spread it through to many other people such as customers and other employees.
+++++++++++
+ York University Taking Advantage Of Students by breaching law, students privacy rights and health hazard, Regardless of Coronavirus I am writing to you on behalf of York University Economic Students. As you know, on March 13th 2020, York University has shut-down their university for all in-person contact.
+
+However, they require mass number of students to show up to the campus to purchase/borrow webcams for an exam that is to be held online. The issue with this is that the honourable Doug Ford has let a statement out to all individuals to stay home and avoid all contact.
+
+* Also, York University and ECON department are in violation of the Ontario provincial law by forcing students without computers to come outside to pickup the laptops from the university and break their quarantine resulting in spread of COVID19 Infection.
+
+Another alarming issue is that the program that York University uses, is a third party software that does not protect any of our students privacy rights. In Terms of Service of software, "ProctorTrack", it states in **Section 5 &amp; 6,** that it will be our sole risk of using the program, and they will not be held responsible at all, for any information that is sold/leaked/hacked.
+
+* This proctored software scans our faces and palms and accesses every aspect of our computers, and essentially exposing us to a hacker attack and identify theft! 
+
+In regards to the terms of service that "ProctorTrack" provides, York University demands all students to use the program which forces all students privacy to be potentially violated, is an issue for all individuals involved.
+
+Listed Below, This is what York University is making us send to their third party software.
+
+* Name
+* Address
+* Employment information
+* **Biometric data,** including biometric identifiers (such as scans of hand or knuckles) and biometric information (such as knuckle, face, or keystroke patterns)
+* **Government-issued identification number** (if required, or as included in the identify document you provide)
+
+Please sign our petition, as this is not right for any students.
+
+[
+++++++++++
+ Two employees at National Microbiology Lab in Winnipeg test positive for COVID-19 
+++++++++++
+ A woman who tested positive for COVID-19 was arrested in Quebec City after she left isolation 
+++++++++++
+ 3 Air Transat employees test positive for COVID-19, 180 in quarantine 
+++++++++++
+ Two employees at National Microbiology Lab in Winnipeg test positive for COVID-19 
+++++++++++
+ Resources for University Students during COVID-19 Crisis I am currently a student at a university in Ontario, and I have a lease for an apartment that is supposed to end in August 2020. University classes for the May to August term are going to be fully online because of the COVID-19 crisis, so most of the students are choosing to head back home.
+
+Since most of the students will be heading home, we will not be living in apartments that we have a lease for. Leasing agencies are not allowing students to terminate their leases or negotiate some kind of rent reduction, even though the apartment is going to be absolutely empty.  Because of this, each student that will not be living in their apartment will be losing thousands of dollars for a place they will not be using. It is also very difficult to find someone who will take over leases or sublet the apartments, as the demand is extremely low since students will be heading back home from May to August.
+
+I know that students like me have signed leases, and it should be our duty to pay the rent, however, it's super unfair that students will be bearing all of the loss during this crisis, while leasing agencies remain unaffected as they will continue to collect rent from May to August. Not to mention, many students, like me, cannot afford to pay thousands of dollars in rent for a place they will not be using.
+
+I have researched benefits that have been planned out by the Federal and Provincial governments, but there currently seems to be very little for students going through such a situation. Does anyone know if there are benefits that apply to the situation of affected by the COVID-19 crisis financially? What other resources can I check out or who else can I contact with my questions?
+
+Thank you and stay safe!

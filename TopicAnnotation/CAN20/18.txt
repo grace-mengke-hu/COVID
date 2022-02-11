@@ -1,0 +1,66 @@
+
+++++++++++
+ North York campus shuts down after spouse of student tests positive for COVID-19 
+++++++++++
+ My opinion for opening schools is that we need to do TESTING! Teachers and students should be tested everyday with rapid tests. Pandemics are driven by Children; this is a fact. Technology for 15 minute saliva tests which cost as much as a cup of coffee is available now. There is no excuse to open schools during a pandemic of a highly contagious and novel virus where children and young adults are known drivers, without testing frequently and rapidly. The science is there but the politics hasn't caught up. 
+
+All parents should demand this. The sensitivity of the tests need to only identify those who are contagious. So it does not need to be a molecular test that detects even virus fragments and takes 2 days to get results. Canada needs to set an example to the USA and the rest of the world for how to open schools safely. I repeat, WE NEED FREQUENT AND RAPID SALIVA TESTING which is sensitive enough to only identify those who are shedding virus and are contagious. 
+
+On a side note, I read an article today which surveyed 1,500 people about whether they feel safe to send their kids to school. Only 300 of the 1,500 actually had kids. What a joke. You have to be very out of touch with Covid to feel comfortable sending your kid to school. As a parent, I'm not sending my kids to school until i see what happens. You want to be the test subject?
+++++++++++
+ Where can I get COVID19 serological test (antibody test) in Toronto? Hi,
+
+I am looking for Covid-19 serological test (antibody test) in Toronto.
+
+Some countries like my home countries require us to get tested to enter. 
+
+I know 'Medcan' will provide the test from August. 
+
+I wonder there are other options.  
+
+
+Best,
+
+Jack
+++++++++++
+ Is Ontario wasting 5 million hours every day in unnecessary self-quarantine? So I've been waiting 4 days for my [Covid test results](covid19results.ehealthontario.ca). During this time I must remain in self-quarantine. In the summer my partner got her negative test results in 12 hours. When you contact the testing centre at [St. Joseph's Hospital]( the phone message says they will phone patients with positive results but negative test results can take up to 5 days. The web site also says: "our turnaround times typically meet expected timelines." If this is true then [Ontario Public Health]( reports:
+* 57,000 tests performed on November 26th - 2000 positive tests =
+* 55,000 negative tests x
+* 120 hours (5 days) - 12 hours (previous turnaround time) so 108=
+**5,940,000 hours of unnecessary self-quarantine.**
+Of course some people need to isolate even if they have a negative test - if symptoms aren't going away, or if they've had close contact with a case. So let's round down to 5 million hours. Yesterday another 50,000 delayed negative results, today another 50,000. If Ontario had ramped up it's testing in the summer this could have been avoided.
+
+Is everyone waiting 5 days for negative Covid test results?
+Is this a conservative strategy to promote private heath care?
+++++++++++
+ Do I bother getting tested for covid-19? My workplace got hit with 2 cases of covid-19 and I am unsure if it worth it to get tested. I want to get tested, but I am given no clear timeline when my results will come in. I could miss 2 days of work or a week waiting for my results. If I do get tested, I am not getting paid despite it coming from work.
+
+So far all my coworkers that volunteered to get tested have tested negative.   I don't have any symptoms and I haven't worked directly with the two that tested positive.
+++++++++++
+ My mom got test result and it was defined "indeterminate". What does that mean? She took the test 10 days ago and the test centre finally called us today. (They told the test would take about a week so I guess it was pretty delayed.) They said it's neither positive nor negative but indeterminate. What does that even mean? Does that mean she has to stay home or what? And does my family have to keep self isolation? I've read some articles about what it means but it was full of medical terms so I don't get it...
+++++++++++
+ 6 RCMP employees test positive for coronavirus, police force says 
+++++++++++
+ Several employees at Toronto Public Health headquarters test positive for COVID-19 
+++++++++++
+ Quebec says 41 students and staff have tested positive for COVID-19 since reopening 
+++++++++++
+ Covid-19 Comparison Ontario vs South Korea vs US vs Italy Created an account to post these as I thought there might be some interest here. There's a lot of discussion in the news about the numbers in Canada/Ontario but not a lot of context to how we compare to other places. I've tried to look at this a bit so here are some charts comparing ON with South Korea, the US and Italy
+
+[
+
+I'll add Canada soon but when I started collecting data most provinces weren't reporting consistently enough to do this. 
+
+To make the comparison between countries I put all the numbers in cases per 1 million population and started the time series when each country had 100 cases (probably not a perfect method but lets you see how closely each country is following another's trend - for Ontario I used the day Canada hit 100).
+
+I did this for positive cases which is the first chart but the number of positive cases is only as reflective as your testing capacity (the US. So that's the second chart. Finally, I looked at the percentage of positive tests as this probably tells you something about how many true cases are out there as well.
+
+I used South Korea as a positive example. It's probably a bit early but in terms of testing volumes we seem to be doing well. It's unlikely that the case volume will jump like the US line as that seems to be more a result of their increase in testing but again, it's early (it is impressive how fast the US has increased their testing).
+
+The last chart shows our test capacity which is worrying as the number of pending tests is rising pretty dramatically. I don't know much about the process for analyzing tests but there is clearly a huge bottleneck there which is incredibly problematic. There is already a huge delay in recognizing cases given that carriers are asymptomatic. This will add days / weeks to that delay if the capacity isn't increased.
+
+[
+
+[
+
+[

@@ -1,0 +1,11 @@
+
+++++++++++
+ Too risky to fly back to college? Hi all, hope everyone is staying safe.
+
+I will be traveling back to school in about a month. I am considering flying versus driving. Do you think flying would be too risky? Flight would be less than 3 hours. On the other hand, driving will take roughly 20 hours. Thanks in advance for the input
+++++++++++
+ NOVID - Anonymous COVID Contact Tracing App Here’s the info I found (and what makes it sick):
+
+[NOVID]( is the first and only completely anonymous COVID-19 contact-tracing app published in the USA that uses no personal information. Founded by Carnegie Mellon professor Dr. Po-Shen Loh, [NOVID]( uses bluetooth and ultrasound to monitor your distance from and time spent around other users to completely anonymously warn you in advance if you are exposed to the virus.
+
+The app has a "[Community]( feature, which will allow the area’s administration to section out areas to procure COVID-19 data, such as interactions and cases, that happen in the area, all while maintaining the anonymity of the people. With this, the administration can constantly monitor the trajectory of the virus and take decisions for the school’s safety accordingly.

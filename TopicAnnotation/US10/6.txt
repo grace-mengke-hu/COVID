@@ -1,0 +1,132 @@
+
+++++++++++
+ DAILY UPDATE Coronavirus % growth for APRIL 22 Below is a summary of trends from today (as of late EST), for the **USA**, and how it compares to **Global**.
+
+The data is available [in more detail here](
+
+# Global
+
+Confirmed Cases growth is 📉:
+
+* Decreasing to **2.90%**
+* Increasing by **74,406**
+* Total confirmed cases is **2,637,790**
+
+Deaths growth is 📉:
+
+* Decreasing to **3.7%**
+* Increasing by **6,589**
+* Total deaths is **184,230**
+
+Death Rate growth is mixed:
+
+* **20.4%** recovery rate (📉)
+* **6.5%** WHO CFR (flat)
+* **10.8%** incubation rate (📉)
+
+# USA
+
+Confirmed Cases growth is 📉:
+
+* Decreasing to **1.93%**
+* Increasing by **15,889**
+* Total confirmed cases is **839,675**
+
+Deaths growth is 📉:
+
+* Decreasing to **3.9%**
+* Increasing by **1,738**
+* Total deaths is **46,583**
+
+Death Rate growth is mixed:
+
+* **37.6%** recovery rate (📈)
+* **5.3%** WHO CFR (📈)
+* **9.8%** incubation rate (📉)
+
+
+
+**Disclaimer:** *Please take from this what you choose. I'm also capturing individual country data, although that may still be too small to gather enough meaning from the % growth apart from Germany, Iran, Italy, Spain, France, the UK, and the US.*
+
+*I am just breaking down official numbers, and although the official numbers may or may not reflect exactly how many cases remain unreported, I try to remain unopinionated in these reportings and leave the opinions and analysis to the comments.*
+++++++++++
+ 11 new cases of corona virus in Westchester county, NY and 2 new cases in New York City 
+++++++++++
+ Trevor and Bill Gates Discuss CoronaVirus Testing, Accelerating Vaccine Development and How the World Will Rebound. Is this True that Bill Gates Prophesied CoronaVirus Before? 
+++++++++++
+ coronavirus deaths usa sawtooth graph can anyone explain why there is a sawtooth pattern of deaths in the us from covid-19, i would think that even though there are daily variations, graph should be more smooth/random not showing a clear pattern. link:
+ near bottom of page.
+++++++++++
+ Difference in case numbers from WHO, CDC and JHU Seeing all these trackers getting their info from various sources. WHO situation report for 3/10 only has 472 cases while the JHU tracker is above 1000. Is JHU including presumptive cases and that is creating the difference? 
+
+What should I go by?
+
+thanks
+++++++++++
+ U.S. COVID-19 cases hit two-month high, 10 states report record increases 
+++++++++++
+ Seasonal Reinfection Possible with Covid-19? For non-Covid19 flu, we get vaccine shots every year. What happens when we get a vaccine for Covid-19? Will it have to be administered every year? If our body gets immunity to one strain of RNA, why would it come back next year requiring vaccines? It is not clear where we are heading.
+++++++++++
+ Johnson &amp; Johnson (In New Jersey) Announces Lead Vaccine Candidate for COVID-19 : 'The additional capacity will assist in the rapid production of a vaccine and will enable the supply of more than one billion doses of a safe and effective vaccine globally.' 
+++++++++++
+ USA overtakes Brazil in the highest increase in deaths - UPDATE Coronavirus % growth for JULY 24 Below is a summary of trends from yesterday (as of late EST). Starting with the **Global** stats for a broad overview. Then stats for the **USA**.
+
+The data is available [in more detail here](
+
+# Global
+
+Confirmed Cases growth is 📉:
+
+* Decreasing to **1.45%**
+* Increasing by **225,342**
+* Total confirmed cases is **15,736,499**
+* Total active cases is **6,053,644**
+
+Deaths growth is 📉:
+
+* Decreasing to **0.99%**
+* Increasing by **6,256**
+* Total deaths is **639,652**
+
+Death Rate growth is mixed:
+
+* **6.6%** recovery rate (📉)
+* **3.9%** WHO CFR (flat)
+* **4.9%** incubation rate (flat)
+
+# USA 🇺🇸
+
+Confirmed Cases growth is 📈:
+
+* Increasing to **1.83%**
+* Increasing by **73,783**
+* Total confirmed cases is **4,112,531**
+* Total active cases is **2,705,361**
+
+Deaths growth is 📈:
+
+* Increasing to **0.86%**
+* Increasing by **1,242**
+* Total deaths is **145,546**
+
+Death Rate growth is mixed:
+
+* **10.3%** recovery rate (📉)
+* **3.4%** WHO CFR (flat)
+* **4.4%** incubation rate (flat)
+
+# USA 🇺🇸 
+
+Highest global increase in deaths: **1,242**
+
+# UK 🇬🇧
+
+Highest CFR: **13.3%**
+
+**Disclaimer:** *I'm no longer commenting on these threads due to downvoting on particular days when the facts don't fit people's narratives. COVID-19 is not something you should be cheerleading, whichever side you sit on, but here we are! If you have a genuine question for me, PM from now on - but the data source and other things you may want to know are all detailed in the spreadsheet.*
+++++++++++
+ (Rumor from my colleague at work) New possible case in California Rumor from my colleague at work.
+
+I work at a global digital marketing company with a few offices in the U.S. 
+
+A close friend and colleague of mine works with people from LA and San Diego offices. They got an announcement to work from home today, as there was a new Coronavirus case who was present in our LA office space.

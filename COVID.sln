@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DataStat", "DataStat\DataStat.pyproj", "{0F9C0EC9-15A6-4881-A0AC-8AD6202BE90D}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TopicModeling", "TopicModeling\TopicModeling.pyproj", "{C3B494A1-5A35-4E1B-B5EA-8AA2BB4C57B0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2080E5FE-0ADB-426A-BF8E-C401134B70B5}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+		utilFunc.py = utilFunc.py
+	EndProjectSection
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TopicTrend", "TopicTrend\TopicTrend.pyproj", "{5F833EB0-634F-4D6E-ABF9-4CDEA6D08D30}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TopicAnnotation", "TopicAnnotation\TopicAnnotation.pyproj", "{9B312021-204E-435B-BFB7-4BE24D4AB30D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F9C0EC9-15A6-4881-A0AC-8AD6202BE90D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F9C0EC9-15A6-4881-A0AC-8AD6202BE90D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3B494A1-5A35-4E1B-B5EA-8AA2BB4C57B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3B494A1-5A35-4E1B-B5EA-8AA2BB4C57B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F833EB0-634F-4D6E-ABF9-4CDEA6D08D30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F833EB0-634F-4D6E-ABF9-4CDEA6D08D30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B312021-204E-435B-BFB7-4BE24D4AB30D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B312021-204E-435B-BFB7-4BE24D4AB30D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64DC43CF-5A02-4C6D-A99D-16266ED26881}
+	EndGlobalSection
+EndGlobal

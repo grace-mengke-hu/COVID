@@ -1,0 +1,53 @@
+
+++++++++++
+ Flatten the curve The messaging from all Australian media is now focussing on self quarantine, social distancing, avoiding large events, the list goes on. This is good messaging, it’s all towards all of us “flattening the curve” so as to ensure our hospitals facilities remain available for those that need them. I think this messaging is late, but will still significantly help, it’s a good thing
+++++++++++
+ I need your help improving Victoria Governments Corona virus transparency. The existing Covid data released by Vic Health is lacking in comparison to data released by NSW health.
+
+I believe that a publicly accessible data source detailing the local health district or postcode of Victorian Covid cases with an unidentifiable source, would be of great benefit to all Australians. 
+
+This data would keep the Victorian public well informed of the spread of Covid within the community.
+
+If you also believe this data should be publicly released I would urge you to contact Vic Data: [here](
+
+Stay safe, wash ya' hands, be kind.
+++++++++++
+ COVID-19: Public Compliance with and Public Support for Stay-at-Home Mitigation Strategies 
+++++++++++
+ Safety concerns surrounding the new coronavirus app. Hoax text messages claiming to be from the government's new covid-19 tracking app have fuelled concerns about its safety. 
+++++++++++
+ Melbourne based group - just released a web-app for people globally to self-report COVID infections. [  
+
+
+We just released v1.0 of this tonight. Allows you to report symptoms at multiple points over time.
+
+We collect each report and group them by person and date. All data will be released publically (anonymised). Our backend API will be coming online tomorrow for people to pull the data out and do analysis on it.  
+
+
+Please share widely!
+++++++++++
+ COVID-19: Public Compliance with and Public Support for Stay-at-Home Mitigation Strategies 
+++++++++++
+ NSW is unable to use Covidsafe app’s data for contact tracing | Australia news 
+++++++++++
+ COVIDSafe and suspect behaviour I’m just gonna flat out ask the question on everyone’s mind. Will the authorities ever be able to use the data from COVIDSafe to link to behaviour that may considered suspect?
+
+We all know what the apps intended use is, we all know they have said that it’s data will only be used for assisting the community in the Coronavirus crisis - but can they/will they/what will happen if they use the data to assist in other enquires not related to the Covid-19 pandemic?
+
+Asking for a friend...
+++++++++++
+ How reasonable is it to claim we're flattening the curve? How reliable are these claims? Numbers are looking positive. However, we've had reasonably restrictive testing criteria. Is it reasonable to claim we're flattening the curve? 
+
+If we don't know how widespread infection is within the community (e.g. those that don't meet previous and current testing criteria), is it somewhat misleading to claim we're suppressing the curve? 
+
+Isn't the available data only telling us we're suppressing the curve for infections of international travellers and their directly traceable contacts?
+
+Please don't mistake my questions for alarmism. It seems totally justified to be celebrating a declining doubling rate.  I'm just looking for an informed, objective assessment of how believable announcements of curve suppression are. Is there more to our available data? Does it tell us more than we think about community transmission? 
+
+What's the argument for considering curve suppression claims compelling?
+
+Would be awesome to hear from people with medical, epidemiological, data analysis, etc., skill/knowledge?
+++++++++++
+ Don't flatten the curve, bend it: the fatal flaw in our COVID-19 strategy "Flatten the curve" is one of the great public health messaging success stories of our time. Along with a simple graphic, it has become ubiquitous and remarkably effective in communicating the need for social distancing to combat the COVID-19 pandemic. But for all its impact, it may actually be leading our decision-makers astray: rather than flattening the curve, we should instead be aiming to dramatically "bend the curve" to reduce the total number of infections and save lives.”
+
+

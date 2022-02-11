@@ -1,0 +1,515 @@
+
+++++++++++
+ 967 positive cases, 8 cases resolved, 18 cases deceased, 10074 cases under investigation and 29967 negative cases in Ontario, Canada. An increase of 135 positive cases from yesterday. [Source] (
+
+___
+
+[Graph of positive cases] (
+
+Today we had an increase of 135 positive cases, a bit less than yesterdays. While people might assume this might be due to the reduced testing, we actually tested 1.5 times more than yesterday, in fact we tested so much that our cases under investigation actually went down. The first time in weeks. 
+
+On the other hand, all 135 cases today are *pending*, in fact the people updating the table just removed it all together since they didn't want to have to write it out. We've also had 3 more deceased cases, since they weren't on the new cases section (well there isn't one in any case), we can assume is our previous cases. 
+
+
+___
+
+
+Date | Positive Cases | Cases Resolved | Deceased Cases| Cases Under Investigation (+/-) | Negative Cases  | Daily Tested | Total Tested/Testing 
+---|---|---|---|---|---|---|---
+March 27th |  967 (+135) | 8  |18| 10,074 (-891) |29,967| 3,375| 41,032 (+2482)
+[March 26th] ( |  835 (+170) | 8  |15| 10,965 (+476) |26,727| 2,439| 38,550 (+2915)
+[March 25th] ( |  667 (+100) | 8  |13| 10,489 (+415) |24,458| 2,763| 35,635 (+3178)
+[March 24th] ( |  572 (+85) | 8  |8| 10,074 (+1657) |21,795| 2,294| 32,457 (+3951)
+[March 23rd] ( |  489 (+78) | 8  |6| 8,417 (+56) |19,586| 2,030| 28,506 (+2086)
+[March 22nd] ( |  412 (+48) | 8  |5| 8,361 (+1122) |17,634| 1,914| 26,420 (+3036)
+[March 21st] ( |  368 (+59) | 6  | 3| 7,239 (+1764) |15,768| 2,109| 23,384 (+3873)
+[March 20th] ( |  311 (+60) | 5  | 2| 5,475 (+1504) |13,718| 1,357| 19,511 (+2861)
+[March 19th] ( |  251 (+44) | 5  | 2| 3,971 (+593) |12,421| 2,160| 16,650 (+2753)
+[March 18th] ( |  208 (+25) | 5  | 1| 3,378 (+1811) |10,305| 915| 13,897 (+2726)
+[March 17th] ( |  183 (+12) | 5  | 1| 1,567 (+30) |9,415| 963| 11,171 (+993)
+[March 16th] ( |  172 (+32) | 5 | 0 | 1,537 (+221) |8,464| 1,492| 10,178 (+1713)
+[March 15th] ( |  140 (+42)| 5| 0 | 1,316 (+377) |7,004| 1,440| 8,465 (+1817)
+[March 14th] ( |  98 (+24)| 5| 0 | 939 (+359) |5,606| 1,160| 6,648 (+1519)
+[March 13th] ( |  74 (+20)| 5 | 0| 580 (+44) |4,470| 900| 5,129 (+944)
+[March 12th] ( |  54 (+17)| 5| 0 | 536 (+71) |3,590| 719| 4,185 (+790)
+[March 11th] ( |  37 (+6)| 5 | 0| 465 (+353) |2,888| 295| 3,395 (+648)
+[March 10th] ( |  31 (+0)| 5 | 0| 112 (+90) |2,599| 252| 2,747 (+344)
+[March 9th] ( |  31 (+5)| 4 | 0| 22 (-33) |2,347| 258| 2,403 (+225)
+[March 7th-8th] ( | 25 (+3)| 4| 0 | 55 (-17) |2,094| 432| 2,178 (+415)
+[March 6th] ( | 22 (+4)| 4| 0 | 72 (-6) |1,665| 203| 1,763 (+197)
+[March 5th] ( | 18 (+1) | 4 | 0| 78 (-24) |1,466| 251| 1,566 (+228)
+[March 4th] ( |  17 (+0)| 3| 0 | 102 (+57) |1,216| 155| 1,338 (+212)
+[March 3rd] ( |  17 (+2)| 3 | 0| 45 (+33) |1,061| 88| 1,126 (+121)
+[February 29th-March 2nd] ( |  15 (+11)| 3| 0 | 12 (-10) |975| 247| 1,005 (+237)
+[February 28th] ( | 4 (+1) | 3| 0 | 22 (+1) | 739| 68 | 768 (+69)
+[February 27th] ( |  3 (+1)| 3 | 0| 21 (+7) | 672| 63 | 699 (+70)
+[February 26th] ( |  2 (+1) | 3| 0 | 14 (-7) | 610| 41 | 629 (+36)
+[February 25th] ( |  1 (+0) | 3| 0 | 21 (+12) | 568 | 28 | 593 (+40)
+[February 22nd-24th] ( | 1 (+1) | 3 | 0| 9 (-3) | 540 | 58 | 553 (+55)
+[February 21st] ( 0 (-1) | 3| 0 | 12 (-2)  | 483 |21 | 498 (+19)
+[February 20th] ( 1 (-1)| 2 | 0| 14 (-3)  | 462  | 26| 479 (+23)
+[February 19th] ( 2 (+0)| 1 | 17 (+17)  | 436 (436+0)  | 18| 456 (+35)
+[February 18th] ( 2 (+0) | 1| 0 | 0  | 418 (418+0)  | 19| 421 (+19)
+[February 15th-17th] ( 2 (+0)| 1 | 0| 0 (-8) | 399 (399+0)  | 46| 402 (+38)
+[February 14th] ( | 2 (+0)| 1 | 0| 8 (-7) | 353 (353+0)  |31 | 364 (+24)
+[February 13th] ( 2 (+0)| 1 | 0| 15 (+6) | 322 (306+16)  | 21| 340 (+27)
+[February 12th] ( 2 (-1)| 1 | 0| 9 (-10) | 301 (257+44)  |38 | 313 (+28)
+[February 11th] ( 3 (+0)| 0| 0 | 19 (+11) | 263 (184+79)   | 15| 285 (+26) 
+[February 8th-10th] ( 3 (+0)| 0 | 0| 8 (-31) | 248 (167+81)   | 93| 259 (+62)
+[February 7th] ( 3 (+0)| 0 | 0| 39 (-23) | 155 (130+25)   |51 | 197 (+28)
+[February 6th] ( 3 (+0)| 0 | 0| 62 (+19) | 104 (104+0)   |0 | 169 (+19)
+[February 5th] ( 3 (+0)| 0| 0| 43 (+9) | 104 (96+8)  |2 | 150 (+11)
+[February 4th] ( 3 (+0)| 0| 0| 34 (+5) | 102 (90+12)  | | 139 
+
+
+___
+
+Old Table
+
+Date | Confirmed Cases | Presumptive Confirmed | Cases Recovered (Unoffical) | Cases Under Investigation | +/- From Previous Day
+---|---|---|---|---|---
+[February 1st-3rd] ( 3 | 0  |2| 29 | +12
+[January 31st] ( 3 | 0 |2 | 17 | -10
+[January 30th] ( 2 | 0  |0| 27 | +4
+[January 29th] ( 2 | 0 |0 | 23 | +12
+[January 28th] ( 1 | 1 |0 | 11 | -8
+[January 27th] ( 0 | 2 |0 | 19 | 0
+
+___
+
+[Case Details] (
+
+Still the same as yesterday since nothing has changed. 
+___
+++++++++++
+ Day to Day Update: 19 March As of 11 pm ET 19 March 2020, Canada reported 873 coronavirus cases (🔺146 vs yesterday 🔺129).Recoveries at 10(No change vs yesterday no change). Deaths 10(🔺1 vs yesterday 🔺1).
+
+Daily summary: BC added 40 cases today. Alberta adds 27 cases and its first death.  Ontario reported 43 new cases, and its 2nd death. Quebec adds 27 cases.  Saskatchewan adds 4 new cases. Nova Scotia reports 2 new cases. PEI reports 2nd case.
+
+By province: 
+
+Province(Daily change in brackets)|Confirmed Cases|Recoveries|Deaths|Tested
+
+BC|271(🔺40)|5|8|6326
+
+Ontario|258(🔺43)|5|2|16650
+
+Alberta|146(🔺27)|0|1|17013
+
+Quebec|121(🔺27)|0|1|N/A
+
+Saskatchewan|20(🔺4)|0|0|2561
+
+Manitoba|17(No change)|0|0|3270
+
+Nova Scotia|14(🔺2)|0|0|1373
+
+New Brunswick|11(No change)|0|0|421
+
+Newfoundland and Labrador|3(No change)|0|0|N/A
+
+PEI|2(🔺1))|0|0|N/A
+
+Other(No daily updates here, will just keep tally)|10|0|0|N/A
+
+*PEI and NFLD have no info on the number of tested on their websites. 
+
+This is done in tribute to u/DominusDK
+
+Previous days:
+
+[7 March](
+
+[8 March](
+
+[9 March](
+
+[10 March](
+
+[11 March]
+(
+
+[12 March](
+
+[13 March]
+(
+
+[14 March]
+(
+
+[15 March]
+(
+
+[16 March]
+(
+
+[17 March]
+(
+++++++++++
+ 74 positive cases, 5 cases resolved, 580 cases under investigation and 4470 negative cases in Ontario, Canada. An increase of 20 positive cases from yesterday. [Source] (
+
+___
+
+[Graph of positive cases] (
+
+Date | Positive Cases | Cases Resolved | Cases Under Investigation (+/-) | Negative Cases  | Daily Tested | Total Tested/Testing 
+---|---|---|---|---|---|---
+March 13th |  74 | 5 | 580 (+44) |4,470| 880| 5,129 (+944)
+[March 12th] ( |  54 | 5 | 536 (+71) |3,590| 702| 4,185 (+790)
+[March 11th] ( |  37 | 5 | 465 (+353) |2,888| 289| 3,395 (+648)
+[March 10th] ( |  31 | 5 | 112 (+90) |2,599| 252| 2,747 (+344)
+[March 9th] ( |  31 | 4 | 22 (-33) |2,347| 250| 2,403 (+225)
+[March 7th-8th] ( | 25 | 4 | 55 (-17) |2,094| 429| 2,178 (+415)
+[March 6th] ( | 22 | 4 | 72 (-6) |1,665| 199| 1,763 (+197)
+[March 5th] ( | 18 | 4 | 78 (-24) |1,466| 250| 1,566 (+228)
+[March 4th] ( |  17 | 3 | 102 (+57) |1,216| 155| 1,338 (+212)
+[March 3rd] ( |  17 | 3 | 45 (+33) |1,061| 86| 1,126 (+121)
+[February 29th-March 2nd] ( |  15 | 3 | 12 (-10) |975| 207| 1,005 (+237)
+[February 28th] ( |  4 | 3 | 22 (+1) | 739| 67 | 768 (+69)
+[February 27th] ( |  3 | 3 | 21 (+7) | 672| 62 | 699 (+70)
+[February 26th] ( |  2 | 3 | 14 (-7) | 610| 42 | 629 (+36)
+[February 25th] ( |  1 | 3 | 21 (+12) | 568 | 28 | 593 (+40)
+[February 22nd-24th] ( | 1 | 3 | 9 (-3) | 540 | 57 | 553 (+55)
+[February 21st] ( 0 | 3 | 12 (-2)  | 483 |21 | 498 (+19)
+[February 20th] ( 1 | 2 | 14 (-3)  | 462  | 26| 479 (+23)
+[February 19th] ( 2 | 1 | 17 (+17)  | 436 (436+0)  | 18| 456 (+35)
+[February 18th] ( 2 | 1 | 0  | 418 (418+0)  | 19| 421 (+19)
+[February 15th-17th] ( 2 | 1 | 0 (-8) | 399 (399+0)  | 46| 402 (+38)
+[February 14th] ( | 2 | 1 | 8 (-7) | 353 (353+0)  |31 | 364 (+24)
+[February 13th] ( 2 | 1 | 15 (+6) | 322 (306+16)  | 21| 340 (+27)
+[February 12th] ( 2 | 1 | 9 (-10) | 301 (257+44)  |38 | 313 (+28)
+[February 11th] ( 3 | 0 | 19 (+11) | 263 (184+79)   | 15| 285 (+26) 
+[February 8th-10th] ( 3 | 0 | 8 (-31) | 248 (167+81)   | 93| 259 (+62)
+[February 7th] ( 3 | 0 | 39 (-23) | 155 (130+25)   |51 | 197 (+28)
+[February 6th] ( 3 | 0 | 62 (+19) | 104 (104+0)   |0 | 169 (+19)
+[February 5th] ( 3 | 0 | 43 (+9) | 104 (96+8)  |2 | 150 (+11)
+[February 4th] ( 3 | 0| 34 (+5) | 102 (90+12)  | | 139 
+
+___
+
+As we come to Friday the 13th, Ontario increases its positive cases by another 20 cases. But as we look at the numbers of cases being tested, we can see the quantity steadily rising. However, even with the large amounts of tests each day, it is unable to stop the tide of the number of cases under investigation. Continuing to grow each day even with the increase of testing capabilities. An important key to focus on is Ontario's 67th case, a man in his 80s. He has been hospitalized and is now the only case in Ontario to do so. 
+
+Following the closure of public schools yesterday, various universities and colleges in Ontario are closing as well. Examples like the University of Toronto, York University, Seneca College, etc. 
+
+The number of cases today seemed to have overwhelmed even the personnel updating the website as now shortforms are used instead of their original names. ("Peel Public Health" is now just "Peel"). We also have an increase of "pending status" on cases, from the 75th case to the 79th case, we have no information on the case besides the fact that they are in Toronto. This is worrisome as it almost feels like that they're trying to hide the information. 
+
+___
+
+Case Details
+
+Case Number | Patient Age and Gender | Public Health Unit | Hospital | Transmission | Status 
+---|---|---|---|---|---
+43	|50s Male	|Hamilton Public Health	|pending	|travel (pending)	|self-isolating
+44	|&lt;18 Female|	Peel Public Health	|N/A	|close contact|	self-isolating
+45	|20s Male	|Toronto Public Health	|Sunnybrook	|close contact	|self-isolating
+46	|70s Male	|Toronto Public Health	|Mississauga Hospital|	travel (USA)	|self-isolating
+47	|40s Male	|Toronto Public Health	|St Michael’s Hospital	|travel (USA)|	self-isolating
+48	|60s Female	|Region of Waterloo Public Health	|Grand River Hospital|	travel (Puerto Rico)	|self-isolating
+49	|40s Female	|Ottawa Public Health|Queensway Carlton Hospital	|travel (Italy)|	self-isolating
+50	|20s Female	|Toronto Public Health	|Trillium Health Partners	|travel (Europe)	|self-isolating
+51	|40s Female	|Halton Public Health	|Joseph Brant Hospital	|travel (USA, Costa Rica)	|self-isolating
+52	|&lt;18 Male	|Toronto Public Health	|North York General	|close contact	|self-isolating
+53	|30s Male	|Toronto Public Health	|North York General|	close contact	|self-isolating
+54	|20s Male	|Toronto Public Health	|Sunnybrook	|travel (USA)	|self-isolating
+55	|60s Male	|Toronto Public Health	|Sunnybrook	|travel (USA)	|self-isolating
+56	|60s Female	|Toronto Public Health	|Sunnybrook	|travel (USA)	|self-isolating
+57	|20s Female	|Peel Public Health	|pending	|travel (pending)	|self-isolating
+58	|40s Male	|Region of Waterloo Public Health	|Grand River Hospital	|travel (USA)	|self-isolating
+59	|40s Male	|Simcoe Muskoka District Health Unit	|Royal Victoria Hospital	|travel (Spain)	|self-isolating
+60	|20s Female	|York|	pending|	travel (pending)	|self-isolating
+61	|20s Female	|Peel|	pending|	close contact	|self-isolating
+62	|60s Female	|Peel	|pending|	travel (pending), close contact	|self-isolating
+63	|70s Male	|Toronto	|Sunnybrook|	travel (Egypt)	|self-isolating
+64	|70s Female|	Toronto|	Sunnybrook|	travel (Egypt)	|self-isolating
+65	|40s Male|	Toronto	|Mt. Sinai|	travel (USA), close contact	|self-isolating
+66	|40s Female|	Ottawa	|pending|	travel (England)	|self-isolating
+67	|80s Male|	Niagara|	pending|	pending	|hospitalized
+68	|60s Male|	Toronto|	Sunnybrook|	travel (USA)	|self-isolating
+69	|20s Female|	Toronto|	Sunnybrook|	travel (USA)	|self-isolating
+70	|60s Female|	Toronto|	Sunnybrook|	travel (USA)	|self-isolating
+71	|20s Male|	Toronto|	Sunnybrook|	close contact	|self-isolating
+72	|20s Male|	Peel|	pending	|travel (pending)	|self-isolating
+73	|50s Female|	Waterloo|	pending|	travel (pending), close contact	|self-isolating
+74	|20s Female|	Peel|	pending|	travel (pending)	|self-isolating
+75	|pending|	Toronto|	pending|	pending	|self-isolating
+76	|pending|	Toronto|	pending|	pending	|self-isolating
+77	|pending|	Toronto|	pending|	pending	|self-isolating
+78	|pending|	Toronto|	pending|	pending	|self-isolating
+79	|pending|	Toronto|	pending|	pending	|self-isolating
+
+
+
+
+___
+
+Old Table
+
+Date | Confirmed Cases | Presumptive Confirmed | Cases Recovered (Unoffical) | Cases Under Investigation | +/- From Previous Day
+---|---|---|---|---|---
+[February 1st-3rd] ( 3 | 0  |2| 29 | +12
+[January 31st] ( 3 | 0 |2 | 17 | -10
+[January 30th] ( 2 | 0  |0| 27 | +4
+[January 29th] ( 2 | 0 |0 | 23 | +12
+[January 28th] ( 1 | 1 |0 | 11 | -8
+[January 27th] ( 0 | 2 |0 | 19 | 0
+
+___
+++++++++++
+ 37 positive cases, 5 cases resolved, 465 cases under investigation and 2888 negative cases in Ontario, Canada [Source] (
+
+___
+
+[Graph of positive cases] (
+
+Date | Positive Cases | Cases Resolved | Cases Under Investigation (+/-) | Negative Cases  | Daily Tested | Total Tested/Testing 
+---|---|---|---|---|---|---
+March 11th |  37 | 5 | 465 (+353) |2,888| 289| 3,395 (+648)
+[March 10th] ( |  31 | 5 | 112 (+90) |2,599| 252| 2,747 (+344)
+[March 9th] ( |  31 | 4 | 22 (-33) |2,347| 250| 2,403 (+225)
+[March 7th-8th] ( | 25 | 4 | 55 (-17) |2,094| 429| 2,178 (+415)
+[March 6th] ( | 22 | 4 | 72 (-6) |1,665| 199| 1,763 (+197)
+[March 5th] ( | 18 | 4 | 78 (-24) |1,466| 250| 1,566 (+228)
+[March 4th] ( |  17 | 3 | 102 (+57) |1,216| 155| 1,338 (+212)
+[March 3rd] ( |  17 | 3 | 45 (+33) |1,061| 86| 1,126 (+121)
+[February 29th-March 2nd] ( |  15 | 3 | 12 (-10) |975| 207| 1,005 (+237)
+[February 28th] ( |  4 | 3 | 22 (+1) | 739| 67 | 768 (+69)
+[February 27th] ( |  3 | 3 | 21 (+7) | 672| 62 | 699 (+70)
+[February 26th] ( |  2 | 3 | 14 (-7) | 610| 42 | 629 (+36)
+[February 25th] ( |  1 | 3 | 21 (+12) | 568 | 28 | 593 (+40)
+[February 22nd-24th] ( | 1 | 3 | 9 (-3) | 540 | 57 | 553 (+55)
+[February 21st] ( 0 | 3 | 12 (-2)  | 483 |21 | 498 (+19)
+[February 20th] ( 1 | 2 | 14 (-3)  | 462  | 26| 479 (+23)
+[February 19th] ( 2 | 1 | 17 (+17)  | 436 (436+0)  | 18| 456 (+35)
+[February 18th] ( 2 | 1 | 0  | 418 (418+0)  | 19| 421 (+19)
+[February 15th-17th] ( 2 | 1 | 0 (-8) | 399 (399+0)  | 46| 402 (+38)
+[February 14th] ( | 2 | 1 | 8 (-7) | 353 (353+0)  |31 | 364 (+24)
+[February 13th] ( 2 | 1 | 15 (+6) | 322 (306+16)  | 21| 340 (+27)
+[February 12th] ( 2 | 1 | 9 (-10) | 301 (257+44)  |38 | 313 (+28)
+[February 11th] ( 3 | 0 | 19 (+11) | 263 (184+79)   | 15| 285 (+26) 
+[February 8th-10th] ( 3 | 0 | 8 (-31) | 248 (167+81)   | 93| 259 (+62)
+[February 7th] ( 3 | 0 | 39 (-23) | 155 (130+25)   |51 | 197 (+28)
+[February 6th] ( 3 | 0 | 62 (+19) | 104 (104+0)   |0 | 169 (+19)
+[February 5th] ( 3 | 0 | 43 (+9) | 104 (96+8)  |2 | 150 (+11)
+[February 4th] ( 3 | 0| 34 (+5) | 102 (90+12)  | | 139 
+
+___
+
+The most drastic thing to happen today is the incredible increase in testing from yesterday and from since the beginning. I've already noted the tripling of cases under investigation in yesterday's post but today's increase dwarfs that. It seems that the criteria for testing is being loosened as Ontario ramps up testing for a larger number of people. 
+
+This ties in to the 6 new positive cases we've had today, with the first one being very key here. Unlike other cases that we've had, this one's cause is unknown. The man in his 50s presented himself to Health Sciences North but he had no travel history nor did he have any close contact with previous confirmed cases. This could be the result of a community transmission, in which the man was infected by another unconfirmed but positive case. However, there is a silver lining in this situation. The fact that they tested this man without his prior contact to confirmed cases or his lack of travel history means that Ontario is no longer strictly testing anymore. With a more widespread testing method, Ontario will be able to better inform themselves of how many actual infected there are. As a result, we could see a large increase of positive cases during the next few days. 
+
+The rest of the cases today all had prior travel history, with the majority of them coming in from the US. 
+
+* The second case today is woman in her 30s with a travel history to Egypt. She presented herself to Mackenzie Health hospital and is now in self-isolation
+* The third case today is man in his 30s with a travel history to the US. He presented himself to Toronto Western hospital and is now in self-isolation
+* The fourth case today is man in his 40s with a travel history to Austria. He presented himself to Ottawa Hospital and is now in self-isolation
+* The fifth case today is woman in her 30s with a travel history to the US. She presented herself to Hamilton Health Sciences and is now in self-isolation
+* The sixth case today is woman in her 40s with a travel history to the US. She presented herself to St Joseph’s Health Centre and is now in self-isolation
+
+___
+
+Old Table
+
+Date | Confirmed Cases | Presumptive Confirmed | Cases Recovered (Unoffical) | Cases Under Investigation | +/- From Previous Day
+---|---|---|---|---|---
+[February 1st-3rd] ( 3 | 0  |2| 29 | +12
+[January 31st] ( 3 | 0 |2 | 17 | -10
+[January 30th] ( 2 | 0  |0| 27 | +4
+[January 29th] ( 2 | 0 |0 | 23 | +12
+[January 28th] ( 1 | 1 |0 | 11 | -8
+[January 27th] ( 0 | 2 |0 | 19 | 0
+
+___
+++++++++++
+ Canada's "Have Provinces" and "Have not Provinces" of COVID-19 **The "Have Provinces":**
+
+[Nova Scotia]( Active Cases, Hospitalization, ICU admissions slightly off peak. New cases trending up, but flattening. 1.02 in 100,000 hospitalized. Mortality per 100,000 population: 1.23 
+
+[Alberta]( Active Cases, Hospitalization, ICU admissions at peak. New cases trending up steeper than they did in March. 1.59 in 100,000 hospitalized. Mortality per 100,000 population: 1.5
+
+[Ontario]( Active Cases, Hospitalization at peak. New cases trending up after slowing, but shallower than they did in March. 5.97 in 100,000 hospitalized. Mortality per 100,000 population: 4.48 
+
+[Quebec]( Active Cases, Hospitalization at peak. New cases trending up after flattening, but shallower than they did in March. 14.97 in 100,000 hospitalized. Mortality per 100,000 population: 13.28. The situation is by far the worst in Canada.
+
+**The "Have not Provinces":**
+
+[Saskatchewan](  Active Cases, Hospitalization, ICU admissions are all 14 days or more from peak. New cases are flat at just above 3 cases a day. 0.42 in 100,000 hospitalized. Mortality per 100,000 population: 0.34
+
+[Manitoba]( Active Cases, Hospitalization, ICU admissions are all 14 days or more from peak. New cases are flat at just above 1 case a day. 0.51 in 100,000 hospitalized. Mortality per 100,000 population: 0.44
+
+[Newfoundland &amp; Labrador]( Active Cases, Hospitalization, ICU admissions are all 14 days or more from peak. New cases are flat at just above 1 case a day. Had 5 straight days of zero cases. 1.15 in 100,000 hospitalized. Mortality per 100,000 population: 0.58
+
+[New Brunswick]( Active Cases, Hospitalization, ICU admissions are all 14 days or more from peak. New cases are flat and at zero. Had only 1 new case in the last 7 days. 0.64 in 100,000 hospitalized. No deaths. The situation is clearly the best in Canada.
+
+**The odd one out:**
+
+[British Columbia](  Active Cases are back at peak recently after going 14 days off peak. Hospitalization, ICU admissions are all 14 days or more from peak. The 7 days moving average for new cases is flat and off the peak. It is levelled at roughly 33 new cases a day,  comparably higher than the "Have not Provinces" but is not trending up as the "Have Provinces". 2.2 in 100,000 hospitalized. Mortality per 100,000 population: 1.76. Both statistics are higher than some of the "Have Provinces".
+++++++++++
+ Summary of all coronavirus cases in Canada for Thursday, March 5, 2020  As of March 5, 21:00 EST there are **48** confirmed cases in Canada
+
+* **24** in **Ontario** (4 are recovered)
+   * **22** in Toronto
+   * **1** in London
+   * **1** in Waterloo Region
+* **21** in **British** **Columbia**  (4 are recovered
+   * **18** in Vancouver
+   * **3** in BC Interior Region
+* **2** in **Quebec**
+   * **1** in Montreal
+   * **1** in Mont-Laurier
+* **1** in **Alberta** (presumptive)
+   * **1** in Calgary
+
+Details of each case can be found here:
+
+[
+++++++++++
+ COVID-19 Patient Status Charts for Canadian Provinces (April 13, 2020) [BC](
+[AB](
+[SK](
+[MB](
+[ON](
+[QC](
+[NB](
+[NS](
+[NL](
+
+Note: only provinces and territories with population over 500,000 included. Sorry PEI.
+++++++++++
+ 31 positive cases, 4 cases resolved, 22 cases under investigation and 2347 negative cases in Ontario, Canada. An increase of 6 positive cases from yesterday. [Source] (
+
+___
+
+[Graph of Positive Cases] (
+
+Date | Positive Cases | Cases Resolved | Cases Under Investigation (+/-) | Negative Cases  | Daily Tested | Total Tested/Testing 
+---|---|---|---|---|---|---
+March 9th |  31 | 4 | 22 (-33) |2,347| 250| 2,403 (+225)
+[March 7th-8th] ( | 25 | 4 | 55 (-17) |2,094| 429| 2,178 (+415)
+[March 6th] ( | 22 | 4 | 72 (-6) |1,665| 199| 1,763 (+197)
+[March 5th] ( | 18 | 4 | 78 (-24) |1,466| 250| 1,566 (+228)
+[March 4th] ( |  17 | 3 | 102 (+57) |1,216| 155| 1,338 (+212)
+[March 3rd] ( |  17 | 3 | 45 (+33) |1,061| 86| 1,126 (+121)
+[February 29th-March 2nd] ( |  15 | 3 | 12 (-10) |975| 207| 1,005 (+237)
+[February 28th] ( |  4 | 3 | 22 (+1) | 739| 67 | 768 (+69)
+[February 27th] ( |  3 | 3 | 21 (+7) | 672| 62 | 699 (+70)
+[February 26th] ( |  2 | 3 | 14 (-7) | 610| 42 | 629 (+36)
+[February 25th] ( |  1 | 3 | 21 (+12) | 568 | 28 | 593 (+40)
+[February 22nd-24th] ( | 1 | 3 | 9 (-3) | 540 | 57 | 553 (+55)
+[February 21st] ( 0 | 3 | 12 (-2)  | 483 |21 | 498 (+19)
+[February 20th] ( 1 | 2 | 14 (-3)  | 462  | 26| 479 (+23)
+[February 19th] ( 2 | 1 | 17 (+17)  | 436 (436+0)  | 18| 456 (+35)
+[February 18th] ( 2 | 1 | 0  | 418 (418+0)  | 19| 421 (+19)
+[February 15th-17th] ( 2 | 1 | 0 (-8) | 399 (399+0)  | 46| 402 (+38)
+[February 14th] ( | 2 | 1 | 8 (-7) | 353 (353+0)  |31 | 364 (+24)
+[February 13th] ( 2 | 1 | 15 (+6) | 322 (306+16)  | 21| 340 (+27)
+[February 12th] ( 2 | 1 | 9 (-10) | 301 (257+44)  |38 | 313 (+28)
+[February 11th] ( 3 | 0 | 19 (+11) | 263 (184+79)   | 15| 285 (+26) 
+[February 8th-10th] ( 3 | 0 | 8 (-31) | 248 (167+81)   | 93| 259 (+62)
+[February 7th] ( 3 | 0 | 39 (-23) | 155 (130+25)   |51 | 197 (+28)
+[February 6th] ( 3 | 0 | 62 (+19) | 104 (104+0)   |0 | 169 (+19)
+[February 5th] ( 3 | 0 | 43 (+9) | 104 (96+8)  |2 | 150 (+11)
+[February 4th] ( 3 | 0| 34 (+5) | 102 (90+12)  | | 139 
+
+___
+
+First thing we have to talk about is the increased updates that the Ontario website is giving out. Previously the website only updated once during weekdays, now they are updating twice a day every single day. So credit where credit is due, good on Tim for putting in the extra hours to keep us updated. 
+
+The next thing is the addition of the new cases table on the website. Now you can see the information of the new cases like age, gender, location, hospital, transmission type, and status. Really great table to make such information easy to view. Unfortunately this only affects new cases, so it doesn't affect previous cases but if you look through my previous posts, I've given information on each case. 
+
+While the table on the website itself says there's only 30 positive cases, that portion was only updated in this morning, below you'll see the update in the afternoon where we have another positive case. Going up to 31. 
+
+So we first start from [last night] ( where we have the addition of two new positive cases. The first is a woman in her 60s who came back from France. She presented herself to Scarborough Health Network - General Site and is now in self-isolation. The second is a man in his 60s who returned from Washington D.C. and. He presented himself to North York General Hospital and is now in self-isolation. 
+
+Moving on to today, we have four additional cases. However all four seem stable and are all in self-isolation. The first is a man in his 50s who came back from Germany and presented himself to Brampton Civic Hospital. The second is a man in his 80s who came back from Iran and presented himself to North York General Hospital.
+
+The third case is a woman in her 70s who came back from Iran and presented herself to North York General Hospital. The last case is a woman in her 30s who was actually infected through H2H transmission and presented herself to Brampton Civic Hospital. It is unsure who she was infected by as there was no information provided for that. 
+
+___
+
+Old Table
+
+Date | Confirmed Cases | Presumptive Confirmed | Cases Recovered (Unoffical) | Cases Under Investigation | +/- From Previous Day
+---|---|---|---|---|---
+[February 1st-3rd] ( 3 | 0  |2| 29 | +12
+[January 31st] ( 3 | 0 |2 | 17 | -10
+[January 30th] ( 2 | 0  |0| 27 | +4
+[January 29th] ( 2 | 0 |0 | 23 | +12
+[January 28th] ( 1 | 1 |0 | 11 | -8
+[January 27th] ( 0 | 2 |0 | 19 | 0
+
+___
+++++++++++
+ Summary of coronavirus cases in Canada for Wednesday, March 3, 2020 As of March 3, 11AM EST there are **29** confirmed cases in Canada
+
+* **20** in **Ontario** (3 are resolved)
+   * **8** in Toronto
+   * **1** in London
+   * **11** in unspecified cities
+* **8** in **British** **Columbia**
+   * **2** in Vancouver
+   * **1** in BC Interior Region
+   * 5 in unspecified city
+* **1** in **Quebec**
+   * **1** in Montreal
+
+Details of each case can be found here:
+
+[
+
+As of today more than 1,100 people have been tested for the virus in Ontario so far, with 1,061 samples coming back negative.
+++++++++++
+ Day to Day Update: 16 March As of 10 pm ET 16 March 2020, Canada reported 441 coronavirus cases (🔺100 vs yesterday 🔺89). Recoveries at 9(No change vs yesterday no change). Deaths 4(🔺3 vs yesterday no change.)
+
+Daily summary: BC added 30 cases and 3 deaths today. Alberta adds 18 cases and has tested over 10000. Ontario reported 32 new cases, now at 177. Quebec adds 11 cases. 
+
+By province: 
+
+Province(Daily change in brackets)|Confirmed Cases|Recoveries|Deaths|Tested
+
+Ontario|177(🔺32)|5|0|10178
+
+BC|103(🔺30)|4|4|6326
+
+Alberta|74(🔺18)|0|0|10598
+
+Quebec|50(🔺11)|0|0|~3000
+
+Manitoba|7(No change)|0|0|403
+
+Saskatchewan|7(🔺1)|0|0|796
+
+New Brunswick|7(🔺1)|0|0|203
+
+Nova Scotia|5(🔺2)|0|0|671
+
+Newfoundland and Labrador|1(No change)|0|0|N/A
+
+PEI|1(No change)|0|0|N/A
+
+Other(No daily updates here, will just keep tally)|8|0|0|N/A
+
+*Ontario total includes Sophie Trudeau.
+
+This is done in tribute to u/DominusDK
+
+Previous days:
+
+[7 March](
+
+[8 March](
+
+[9 March](
+
+[10 March](
+
+[11 March]
+(
+
+[12 March](
+
+[13 March]
+(
+
+[14 March]
+(

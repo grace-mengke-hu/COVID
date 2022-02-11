@@ -1,0 +1,1200 @@
+
+++++++++++
+ Worldmeters just TODAY removed the Death Rate for *US ONLY*! Our death rate currently 70% Until yesterday every country had an Closed Cases statistics box near the top, which shows the current death rate.  Today, the US's death rate statistics have disappeared.  It remains for all other countries.
+
+*Due to our lack of testing*, our death rate has been highly inflated - hovering around 40-50%.  Today it hit 70%.  I wonder why they took that down...
+
+[
+
+For comparison: [
+++++++++++
+ Impact of Average Length of Stay for a Hospitalized COVID-19 Patient? I have seen no data related to Average Length of Stay for COVID-19 patients. One patient interviewed on CNN had been on an isolation unit for over a month. It seems even if a patient recovers they will face incredible medical bills they are unlikely to be able to pay even with good health insurance.
+
+Has their been any information related to the cost of care for existing patients?
+++++++++++
+ Interactive Coronavirus Map shows US being overtaken by virus. Case severities are represented by larger circles on the map. These circles can be click on for number of cases in the region. &amp;#x200B;
+
+[Coronavirus Map](
+
+While you're bored in quarantine, I suggest checking out this [Coronavirus Map Real Time]( This Coronavirus map allows users to view Coronavirus Case #'s and deaths within the region. Clicking on markers and circles allows you to view statistics in the area. Furthermore, the size of the circles on the map are dependent on the number of cases in the area &amp; how severe those cases are. You can also view the number of worldwide cases, worldwide recoveries, deaths, and ongoing cases.
+
+It's so crazy to see how North America is being engulfed by this disease. Stay safe everyone! Make sure to take the necessary precautions to protect yourself!
+
+&amp;#x200B;
+
+[Zoomed In Pic of US](
+++++++++++
+ Latest on COVID-19 in Minnesota: State officials report first death linked to virus  [
+++++++++++
+ The US topped 1,000 daily Covid-19 deaths and experts worry the worst of the fall surge is yet to come 
+++++++++++
+ Field hospital for Wisconsin COVID-19 patients opens doors as inpatients top 1,000 
+++++++++++
+ Louisianan now has the second highest Covid-19 cases per capita, surpassing New Jersey. 
+
+State|Tot Cases/1M pop
+:--|:--
+New York|22,398
+Louisiana|20,777
+New Jersey|20,623
+++++++++++
+ 2020 Flu Shot Strategy: Get Yours Early In The Season - Emergency rooms and urgent care clinics are often flooded with flu patients during winter months, he explains. So getting a flu shot can help prevent those visits — and thereby prevent the co-mingling of flu patients and COVID-19 patients 
+++++++++++
+ 128 Cases? When I checked BNO yesterday we were at 112-113 cases in the US, this morning we're at 128, but I haven't seen reporting of many new cases (1 NH, 2 Orange County, 1 Contra Costa CA, 1 in LA).  Can someone shed some light on where the other new cases came from?
+++++++++++
+ UT - COVID19 Update - 4/9/2020 For more information, including dashboards and sources, please visit [
+
+# Utah Update
+
+|Type|Count|Last Updated|
+|:-|:-|:-|
+|Total Cases Tested|38,373 est.|April 9, 2020|
+|Total Confirmed Cases|1,976|April 9, 2020|
+|COVID-19 Hospitalizations|168|April 9, 2020|
+|Total Deaths|13|April 9, 2020|
+
+## By Jurisdiction
+
+|Jurisdiction|Cases|Visitor Cases|
+|:-|:-|:-|
+|Bear River|41|6|
+|Central Utah|6|1|
+|Davis County|170|15|
+|Salt Lake County|935|83|
+|San Juan|6|2|
+|Southeast Utah|4|0|
+|Southwest Utah|48|7|
+|Summit County|289|24|
+|Tooele County|24|2|
+|TriCounty|8|0|
+|Utah County|272|17|
+|Wasatch County|88|5|
+|Weber-Morgan|85|6|
+|State Total|1976|168|
+
+# USA UPDATE
+
+|Type|Count|Last Updated|
+|:-|:-|:-|
+|Total Confirmed Cases|427,460|April 9, 2020|
+|Total Deaths|14,696|April 9, 2020|
+|Jurisdictions Reporting|55 (50 states, District of Columbia, Puerto Rico, Guam, the Northern Mariana Islands, and the U.S. Virgin Islands)|April 9, 2020|
+|Source of Exposure|||
+
+## By Exposure
+
+|Source|Count|Last Updated|
+|:-|:-|:-|
+|Travel-related|1,930|April 9, 2020|
+|Close contact|9,763|April 9, 2020|
+|Under investigation|415,767|April 9, 2020|
+|Total cases|427,460|April 9, 2020|
+
+For more information, including dashboards and sources, please visit [
+
+&amp;#x200B;
+
+
+++++++++++
+ New Cases (7-Day Average) by State: Before and After Reopening &amp;#x200B;
+
+|*State*|[*State Reopening Date*]( Cases 7 Day Average: Day Before Reopening*|*New Cases 7 Day Average: 29 May*|
+|:-|:-|:-|:-|
+|[**Alabama**](
+|[Arizona](
+|[**Connecticut**](
+|[Florida](
+|[Hawaii](
+|[Idaho](
+|[**Indiana**](
+|[Iowa](
+|[**Kansas**](
+|[Kentucky](
+|[Louisiana](
+|[Maryland](
+|[**Massachusetts**](
+|[Minnesota](
+|[Missouri](
+|[Nevada](
+|[New Hampshire](
+|[**North Carolina**](
+|[North Dakota](
+|[Ohio](
+|[Rhode Island](
+|[South Carolina](
+|[**Texas**](
+|[Utah](
+|[Vermont](
+|[**Virginia**](
+|[West Virginia](
+|[**Wisconsin**](
+|[Wyoming](
+++++++++++
+ (NC) What is your state's testing numbers? I've begun tracking the North Carolina Health Department's daily numbers.
+
+ [
+
+From 3/20 to 3/21 NC tested 2,043 people.
+
+From 3/21 to 3/22 NC tested 1,162 people.
+
+&amp;#x200B;
+
+On 3/20 there were 137 cases positive.
+
+On 3/21 there were 184 cases positive.
+
+On 3/22 there were 255 cases positive.  
+
+
+I am interested if other states are providing updates and what the numbers are.
+++++++++++
+ UT - COVID-19 Update - 3/24/2020 DISCLAIMER: I have been tracking the COVID-19 pandemic and wanted to share my results on a daily basis to keep everyone in the loop with official/accurate information. You can find all my sources on the link below. Please don't be a dick as I am only trying to curb the false information being spread around the net.
+
+# 
+
+
+
+# UTAH UPDATE:
+
+|Type|Count|Last Updated|
+|:-|:-|:-|
+|Total Cases Tested|5823 est.|March 24, 2020|
+|Total Confirmed Cases|298|March 24, 2020|
+|Total Deaths|1|March 24, 2020|
+
+# By County
+
+|Jurisdiction|Cases|Visitor Cases|
+|:-|:-|:-|
+|Bear River|4|0|
+|Central Utah|0|0|
+|Davis County|31|0|
+|Salt Lake County|124|3|
+|San Juan|0|0|
+|Southeast Utah|0|0|
+|Southwest Utah|5|0|
+|Summit County|82|8|
+|Tooele County|2|0|
+|TriCounty|0|0|
+|Utah County|13|1|
+|Wasatch County|15|1|
+|Weber-Morgan|9|0|
+|State Total|285|13|
+
+&amp;#x200B;
+
+# USA UPDATE:
+
+&amp;#x200B;
+
+|Type|Count|Last Updated|
+|:-|:-|:-|
+|Total Confirmed Cases|44,183|March 24, 2020|
+|Total Deaths|544|March 24, 2020|
+|Jurisdictions Reporting|54 (50 states, District of Columbia, Puerto Rico, Guam, and US Virgin Islands)|March 24, 2020|
+
+# By Exposure
+
+|Source|Count|Last Updated|
+|:-|:-|:-|
+|Travel-related|479|March 24, 2020|
+|Close contact|569|March 24, 2020|
+|Under investigation|43,135|March 24, 2020|
+|Total cases|44,183|March 24, 2020|
+
+For more info: [
+++++++++++
+ The deaths mean more than new cases identified If any thing the data from Italy tells us it's that not everyone who has COVID is being tested. It is impossible to believe that the real death rate is close to 10%. And the difference between Germany and Spain can only be explained if Germany is finding way more of the minor cases. So I decided to take a closer look at deaths.
+ The death rate of this desease is believed to be between 2%and 4%. And it takes about 2 weeks from development of symptoms to death. This means if 164 people died today (March 25th, in the US) two weeks ago there were in reality between 8 thousand (2%death rate) and 4 thousand (4%) new cases that day, March 11, The US identified 307 new cases, through testing meaning between 90 and 95%of the cases are undetected. Using the same logic for today's new case count and you get 100k to 200k actual cases and we can expect 5k deaths per day as the US approaches Easter weekend.
+And your leader is pissed he might lose green fees that weekend.
+
+Please identify where my logic is incorrect.
+++++++++++
+ Here is a thought about the US COVID-19 testing response in comparison to Canada. In theory both countries have access to the exact same resources, and you could also argue the USA has more!!! USA has a population of **327.2** million people
+
+Canada has a population of **37.59** million people
+
+&amp;#x200B;
+
+USA has performed **54205** tests as of March 20, 2020
+
+Canada has performed **54,956** tests as of March 20, 2020
+
+&amp;#x200B;
+
+Simple math.....
+
+&amp;#x200B;
+
+&amp;#x200B;
+
+US has tested 1 person for every **6,036** citizens
+
+Canada has tested 1 person for every **684** citizens
+
+&amp;#x200B;
+
+**WHY?**
+
+&amp;#x200B;
+
+Source:
+
+[
+
+[
+++++++++++
+ Perspective shows that, while we will be in for a tough few weeks/months, humans are rapidly beating Covid-19. Assuming globally reported numbers are anywhere near accurate--something I'd stress throughout this post--perspective shows that things are improving quite a bit, and it also shows that China's techniques for containment are working.
+
+The epicenter of the Covid-19 outbreak (Hubei Province, China), reported just under **68,000** of confirmed cases worldwide (i.e., **44%** of confirmed cases worldwide).  The Hubei Province, however, currently has less than **12,000** active cases (i.e., **14%** of active cases worldwide), and China itself has barely reported any new Covid-19 cases in the last 2 weeks.  The growth has slowed dramatically.
+
+To provide some additional perspective, the first reported cases of Covid-19 were on December 31, 2019, in the Hubei Province.  By January 31, 2020, the number climbed to just under **3,000** and serious containment efforts began.  
+
+This is basically where the United States is today (i.e., the U.S. currently has just under **2,600** active cases).  Assuming the United States is at least as good as China (which is much denser and less hygienic) at containing the virus, we should expect to top out at about 80,000 cases nationwide by mid-April, 2020.  And, my view is that the actual number will be closer to 60,000 based on population-density and social-awareness.
+
+Again, this depends on the accuracy of the data and the degree of containment. China, obviously, imposed some pretty Draconian containment measures.  But, they appear to be working.
+
+Incidentally, Italy, by comparison, currently has just under **18,000** active cases (i.e., **22%** of active cases worldwide).  It makes sense to lock-down the country.  
+
+Anyway, I thought this was interesting data and would provide some different perspectives.  Incidentally, I get my data from [here]( and [here](
+++++++++++
+ COVID-Net, a deep convolutional neural network design tailored for the detection of COVID-19 cases from chest radiography images that is open source and available to the general public 
+++++++++++
+ Can someone explain to me about negative pressure in the hospital rooms for COVID patients? Thank you.  My MIL was in hospital for COVID and had to endure the noisy negative pressure.  She survived and is back home, but what does that do?
+++++++++++
+ WHO Announces Oxygen Therapy Effective for Coronavirus 
+
+WHO: "Oxygen therapy is the major treatment intervention for patients with severe COVID-19"
+
+
+
+Feb. 14 (UPI) -- Oxygen therapy has been effective in the treatment of a critically ill patient infected with the new strain of coronavirus in South Korea, local health authorities said Friday.
+
+Jeong Eun-kyeong, director of Korea Centers for Disease Control and Prevention, said one of the remaining 21 COVID-19 patients in the country was still in critical condition this week. The patient's symptoms have been improving after oxygen was administered using a face mask, local news service Newsis reported.
+
+Oxygen therapy vital in fight vs COVID-19 - 
+
+"The World Health Organization on Sunday urged all countries to prepare for caring for patients severely sickened by the deadly new coronavirus by stocking up on ventilators."
+
+ 
+
+Interim guidance
+13 March 2020
+
+"Although the majority of people with COVID-19 have uncomplicated or mild illness (81%), some will develop severe illness requiring oxygen therapy (14%) and approximately 5% will require intensive care unit treatment. Of those critically ill, most will require mechanical ventilation (2, 10)"
+++++++++++
+ United States adds 1,082 COVID-19 deaths on July 21 &amp;#x200B;
+
+[United States - COVID19 - July 21](
+
+You can find more details, including the state and county level breakdowns, at the following address: [
+
+**Note:** The data comes from Johns Hopkins University (CSSE)
+++++++++++
+ Should case reporting focus on reopening criteria? Should county, state, and federal agencies focus their Covid-19 reporting on the [criteria for reopening]( Policy makers need this data to move through the reopening phases. Citizens need it to plan their personal lives once they've convinced states to allow counties to make localized, scientific decisions on reopening.
+
+The Guidelines for Opening Up America Again use the following criteria:
+* Influenza-like illnesses (ILI)
+* Covid-like syndromic cases
+* Covid-19 cases
+* Positive Covid-19 tests as a percent of total tests
+
+Should these quantities be graphed as daily (not cumulative) quantities so that trajectories are readily apparent?
+++++++++++
+ Dallas County health officials reported 572 new cases Monday, breaking the county's record for cases reported in a day. 
+++++++++++
+ Top 10 Countries CoronaVirus Cases in Europe, Covid-19 A Graphical Representation 
+++++++++++
+ Covid 19 Daily Cases on the Rise NPR: COVID-19 Daily Cases On The Rise In Nearly Half Of U.S. States.
+
+++++++++++
+ DC Declared a Public Health Emergency for COVID-19. Many large events have been cancelled until march 31st.   
+The cancellations include concerts at the Anthem, 930 Club, etc. Cherry Blossom Festival opening events, the Rock and Roll Marathon. 
+
+There is some other stuff going on. But DC is transitioning to social distancing citywide. [
+++++++++++
+ When should it be safe to reopen the country and economy? Temporal dependence prediction for COVID-19 new cases and new deaths 
+++++++++++
+ US becomes first country to record 100,000 new daily Covid cases | New single-day record comes as total United States cases surpass 9 million. 
+++++++++++
+ Projected USA COVID-19 Cases over the next 2 weeks The novel coronavirus and its associated disease, COVID-19, are wreaking terrible costs on medical systems, families, and economies around the globe. The pandemic is now spreading across the USA, with particularly severe outbreaks in New York, Washington State, and California, but cases confirmed and increasing in every state (except West Virginia, but that could change quickly). 
+
+**To help get a sense of how the virus might continue to spread, I have created projections of how many confirmed cases of COVID-19 the USA might be reporting over the coming weeks.**  
+
+Based on data provided by Worldometer ([ **confirmed COVID-19 cases in the USA have increased by 24-44% (average, 32%) EVERY DAY between March 2-14, 2020**. For instance, while there were 319 cases on March 6, there were 435 on March 7 (a 36% increase). While there were 2,247 US cases on March 13, there were 2,943 on March 14 (a 31% increase).
+
+
+
+ It is widely anticipated that the number of known cases is a gross underestimate of **true** US infections due to severe under-testing across the country as well as the fact that perhaps \~80% of infected people have mild symptoms or are asymptomatic (SOURCE:   
+
+If the current exponential rate of increase continues (24-44% daily), the US will shortly see skyrocketing cases (as has occurred in China, Italy, Spain, Iran, France, and Germany, among other countries, some of which have managed to control the epidemic, and others not). Assuming the number of US cases will continue increasing at the current rate for at least the next week, **I have projected the minimum, maximum, and average number of cases that would be observed in the US every day from now through March 21st**. 
+
+ Purple=Projection based on maximum observed daily % increase between 3/2-3/14 (44.34%) 
+
+ Blue=Projection based on average observed daily % increase between 3/2-3/14 (32.75%) 
+
+ Red=Projection based on minimum observed daily % increase between 3/2-3/14 (24.0%) 
+
+[Forecasted number of cases over the next week](
+
+Figures were derived using this exponential formula: 
+
+(Cases on given date) = (Cases on March 14) \* ((Daily Increase Rate; i.e., 1.24, 1.37, or 1.44) \^ (Days passed since March 14; e.g., 1 for March 15, 2 for March 16, etc.))
+
+**Case numbers on March 21 are projected to be: 13,266 (low rate); 21,380 (average rate); or 38,422 (high rate).** The accuracy of these numbers will depend on whether the daily case increase rate tracks rates seen over the past two weeks. **This is a forecast model, not a prophecy**. The rate of increase could slow if containment and/or mitigation measures successfully curb the spread of the virus. Alternatively, the rate of increase could speed up if heightened testing reveals dramatic under counting of cases or if outbreaks in current US epicenters (e.g., Seattle, NYC, Bay Area, LA) instigate strong outbreaks in other parts of the country.  
+
+We have one data point in this regard because we now have total US cases reported on March 15: 3,680 cases. This represents \~25% increase since 3/14: closer to the low rate of increase, but within the observed range.  
+
+Cases will of course continue to increase beyond mid-March. The farther out from the present you go, the more uncertain the continued daily rate of increase, but assuming the recent rates hold over the next two weeks, here is a projection of total reported US cases through March 28.
+
+ Purple=Projection based on maximum observed daily % increase between 3/2-3/14 (44.34%) 
+
+ Blue=Projection based on average observed daily % increase between 3/2-3/14 (32.75%) 
+
+ Red=Projection based on minimum observed daily % increase between 3/2-3/14 (24.0%) 
+
+[Forecasted number of cases over the next two weeks](
+
+Note, the number of cases starts at 2,943 on 3/14. The numbers get so much larger than this by March 28 that it looks like this starts at zero, but it doesn't. 
+
+**Case numbers on March 28 projected to be: 59,799 (low rate); 155,314 (average rate); or 501,612 (high rate).** Remember, the accuracy of these numbers will depend on whether the daily case increase rate tracks rates from the past two weeks. 
+
+Of course, cases will likely continue to increase beyond March 28, and one could continue extrapolating, but I ended the projection there due to high uncertainty in whether the rate of increase will remain constant. For my own interest and hopefully yours, I plan to continue updating this forecast model to reflect adjusted daily increase rates as we get new data every day. You can view the updating forecast models in this Google spreadsheet:
+
+[
+
+In the meantime, practice good anti-virus hygiene, strongly consider social distancing, and call anyone you think might be lonely. 
+
+&amp;#x200B;
+
+Best wishes,
+
+Scott
+
+P.S. A huge shout-out to **Worldometer** ([ I couldn't have done this without their awesome data tracking. Thank you!!
+++++++++++
+ United States passes 5,000,000 total COVID-19 cases by adding more than 46,000 new cases on August 9 &amp;#x200B;
+
+[COVID19 - USA - August 9](
+
+More info + historical trends + breakdowns in state and county level: [
+
+Side Note: The data is fetched from Johns Hopkins University (CSSE).
+++++++++++
+ COVID-19 is still picking up steam globally while China's cases trend back towards zero new cases. United States new cases remains mostly constant between 200 and 300 per day for the fourth day. 
+++++++++++
+ People Don’t Trust Public-Health Experts Because Public-Health Experts Don't Trust People 
+++++++++++
+ More than 55,000 people in the US have been infected and more than 800 have died from COVID-19.How many coronavirus cases does each US state have? Coronavirus in the U.S.:Latest Map and Case Count  
+
+[
+
+So far, Washington and New York states have been hit the hardest by the virus. At least 123 have died in Washington and 270 in New York.
+
+The new coronavirus is an enemy against humanity. Experts think the new coronavirs will probably become a permanent part of the human respiratory-virus repertoire.
+
+Lets Fight Together Against CoronaVirus.
+++++++++++
+ Calculating the mortality rate? I'm trying to understand the mortality rate of this virus. Please tell me where my logic is wrong.
+
+There are 2 ways a given case of Coronavirus can end: The patient can recover or the patient can die.
+
+Of the known cases that have ended, 76,000 have recovered, and 6400 have died.  That's 82,400 cases. (source = [
+
+6400 of 82,400 have died.  That's a mortality rate of almost 8%.  But we're hearing that the mortality rate is more like 1%. Some say as high as 3%.  Obviously I'm not an expert in this, and I generally trust experts, but how are they calculating the mortality rate to get 1-3%?
+++++++++++
+ Cases have plateaued but deaths are continuing to decrease. What can explain this?? I check the coronavirus US cases daily to check how we're doing, and the number of cases has been steady for the past 2 months. But what I've noticed is that deaths have been declining since April, as if it doesn't reflect the number of confirmed cases. What explains this??
+
+Another thing I noticed is that the number of confirmed cases specifically peaks on a Wednesday or Tuesday. What can also explain this?
+++++++++++
+ Cytodyn's drug Leronlimab is showing efficacy in treating severe Covid cases. 10 injected under emergency IND. 8 showed improvement after 3 days. 2 taken off vents. 1 discharged. 2 patients pending labs. 2 clinical trials granted.  
+++++++++++
+ Politico: "Our country wasn’t built to be shut down": Trump pushes back against health experts "Our country wasn’t built to be shut down": Trump pushes back against health experts: 
+++++++++++
+ Plasma Therapy Showing Excellent Results Treating COVID19 Study out of Columbia University showing that 10 of 10 patients treated with plasma therapy from recovered COVID19 patients had exceeded results. Treatment expected to be available as soon as 4 weeks.
+++++++++++
+ Which way are things going? 
+
+This map shows recent COVID-19 Trends with arrows that represent each county's recent trend history, and weekly new case counts for U.S. counties. 
+
+The map data is updated weekly.
+
+It shows COVID-19 Trend for the most recent Monday with a colored arrow for each county. The larger the arrow, the longer the county has had this trend.  An up arrow indicates the number of active cases continue upward. A down arrow indicates the number of active cases is going down.
+
+The intent of this map is to give more context than just the current day of new data because daily data for COVID-19 cases is volatile and can be unreliable on the day it is first reported. Weekly summaries in the counts of new cases smooth out this volatility.
+
+Click or tap on a county to see a history of trend changes and a weekly graph of new cases going back to February 1, 2020. 
+
+This map is updated every Tuesday based on data through the previous Sunday.  [See also this version of the map]( for additional perspective.
+
+COVID-19 Trends show how each county is doing and are updated daily. We base the trend assignment on the number of new cases in the past two weeks and the number of active cases per 100,000 people. To learn the details for how trends are assigned, see the [full methodology]( There are five trends:
+* Emergent - New cases for the first time or in counties that have had zero new cases for 60 or more days.
+* Spreading - Low to moderate rates of new cases each day. Likely controlled by local policies and individuals taking measures such as wearing masks and curtailing unnecessary activities.
+* Epidemic - Accelerating and uncontrolled rates of new cases.
+* Controlled - Very low rates of new cases.
+* End Stage - One or fewer new cases every 5 days in larger populations and fewer in rural areas.
+
+For more information about COVID-19 trends, see the [full methodology](
+Data Source: [Johns Hopkins University CSSE]( [US Cases by County dashboard]( and [USAFacts for Utah County level Data](
+
+Credits: 
+++++++++++
+ A 36-year-old man who recovered from covid-19 sought to give back by donating plasma to a covid positive patient in the icu. FDA supports effort to develop covid-19 treatment from plasma of recovered patients. 
+++++++++++
+ I think that there's evidence that there were at least several hundred cases of COVID-19 in NY before the first official positive result, on Mar 1. New York has a tracker that logs influenza cases recorded by physicians across the state, organized by type:
+
+
+
+Type A and B are based on positive test results. I think (though I'm still trying to verify) that "Type Unspecified" refers to a patient with flu-like symptoms, but with a negative influenza test. This is one way that suspected COVID-19 cases are being identified before testing.
+
+Here, we have **total** influenza cases for each of the last few seasons:
+
+[Table](
+
+[Plot](
+
+Here are the same results for **Type Unspecified**, showing a major spike of hundreds of cases over the previous year baseline on "CDC Day" 8-9:
+
+[Table](
+
+[Plot](
+
+This shows the definition of the "CDC week" dates, showing the spike happened around Feb. 29-Mar 1.:
+
+
+It looks like the next scheduled weekly update is tomorrow, at 5pm.
+++++++++++
+ What if schools based their re-opening status on new tests per capita the last 2 weeks? Here's a post and visualization looking at where all US counties would sit if they followed Minnesota's Re-Opening guidance for schools. I also explain the guidance score and why it's a smart way to look at cases in your area.
+
+I should add, this isn't to say they should follow this guidance, just more of a comparison and applying the new metrics across the entire US at the county level.
+
+[
+++++++++++
+ Need help - explanation of the mortality rate calculation Can someone kindly help explain me how the death/mortality rate of COVID-19 is calculated and why? 
+
+If you go to the Worldmeter web site, which by the way has been an invaluable resource, there’s a section called “closed cases” for each country. A “closed” case is one where someone was infected and either recovered or died. If they’re still infected, the case is “open”.
+
+Here are the closed cases for Italy, Spain and the USA: 
+
+Italy: 
+- 4,440 recovered or discharged (57%)
+- 3,405 deaths (43%)
+
+Spain: 
+- 1,107 recovered or discharged (57%)
+- 831 deaths (43%)
+
+United States
+- 125 recovered or discharged (37%)
+- 217 deaths (63%)
+
+If someone is “active”, how can you include them in a mortality rate calculation? We don’t know if they’ll die or recover yet. 
+
+Someone smarter than me please help. Thanks!!
+++++++++++
+ Covid San Diego "Replaced Approved County Data"  If you live in San Diego, you will know that we narrowly avoided moving back into the most restrictive tier for Covid19, just hitting 6.8 new cases per 100,000 being adjusted to 6.9 new cases. Why is San Diego the only county to use the "replaced approved county data"? What does that mean and why is it almost doubled the other reported number?
+
+Picture of Data. [
+
+Or [ and click on that first blue link for the data.
+++++++++++
+ COVID-19 deaths in the US compared to 18 other countries (University of Pennsylvania) Americans are dying at far higher rates than other countries after you control for population. 
+
+
+
+Researchers at University of Pennsylvania compared US to 18 other countries and found that the US experienced high COVID-19–associated mortality and excess all-cause mortality into September 2020. After the first peak in early spring, US death rates from COVID-19 and from all causes remained higher than even countries with high COVID-19 mortality. This may have been a result of several factors, including weak public health infrastructure and a decentralized, inconsistent US response to the pandemic. ([Here's a link to the study](
+
+(h/t [NPR](
+++++++++++
+ Treatment news! 5 critically ill COVID patients (on ventilators) received antibody-rich plasma from 5 other patients who had recovered from COVID. Results: 3 discharged; 2 in stable condition! Now 1 of recovering patients wants to donate his plasma! 
+++++++++++
+ UT - COVID19 Update - 4/7/2020 For more information, including dashboards and sources, please visit [ Stay safe! 
+
+# Utah Update
+
+|Type|Count|Last Updated|
+|:-|:-|:-|
+|Total Cases Tested|34,647 est.|April 7, 2020|
+|Total Confirmed Cases|1,738|April 7, 2020|
+|COVID-19 Hospitalizations|148|April 7, 2020|
+|Total Deaths|13|April 7, 2020|
+
+## By Jurisdiction
+
+|Jurisdiction|Cases|Visitor Cases|
+|:-|:-|:-|
+|Bear River|37|6|
+|Central Utah|4|0|
+|Davis County|158|12|
+|Salt Lake County|807|73|
+|San Juan|5|2|
+|Southeast Utah|3|0|
+|Southwest Utah|42|7|
+|Summit County|265|21|
+|Tooele County|23|2|
+|TriCounty|3|0|
+|Utah County|236|15|
+|Wasatch County|80|4|
+|Weber-Morgan|75|6|
+|State Total|1738|148|
+
+# USA Update
+
+|Type|Count|Last Updated|
+|:-|:-|:-|
+|Total Confirmed Cases|374,329|April 7, 2020|
+|Total Deaths|12,064|April 7, 2020|
+|Jurisdictions Reporting|55 (50 states, District of Columbia, Puerto Rico, Guam, the Northern Mariana Islands, and the U.S. Virgin Islands)|April 7, 2020|
+
+## By Exposure
+
+|Source|Count|Last Updated|
+|:-|:-|:-|
+|Travel-related|1,669|April 7, 2020|
+|Close contact|6,847|April 7, 2020|
+|Under investigation|365,813|April 7, 2020|
+|Total cases|374,329|April 7, 2020|
+
+&amp;#x200B;
+
+
+
+For more information, including dashboards and sources, please visit [
+++++++++++
+ Rental scams increase during COVID-19 crisis. FTC warns consumers for COVID related scams The FTC, Fox News, and NBC has published official statements warning renters from rental scams during COVID-19. **Rental scams impact over 5 million renters annually.** 
+
+These are especially prevalent in highly populated metro areas. 
+
+Are uninformed renters, shady scammers, or the outdated rental process to blame for these scams? 
+
+There can surely be a better-designed method of contactless rentals during COVID-19 to avoid rental scams.
+++++++++++
+ Countries ranked by active Coronavirus cases. This is confirmed cases minus recoveries and deaths. The US is now #2, right behind Italy. Today, the US had 13,000+ new cases. Source:  
+++++++++++
+ Some defiant U.S. churches plan Easter services, ignoring public health guidelines [
+++++++++++
+ 85 COVID-19 linked to Maine wedding reception: 32 primary cases, 33 secondary cases, &amp; 20 tertiary cases. 6 cases are linked to an outbreak at Maplecrest Rehabilitation, &amp; 18 cases are associated with an outbreak at the York County Jail 
+++++++++++
+ US Cases are doubling every 6 days on average I've been mapping this on my tiny hobby site since late January, and now that we're about to start testing for real here in the US it seemed like a good time to start looking at how many days pass before our case counts double. 
+
+I have sources for all cases &amp; dates, so just ask if you have questions beyond what I've posted below.
+
+**Days to Double:**
+
+Summary: Average time between case count doubling in the US is 6 days. Our longest stretch was 16 days, which was when the first batch of Diamond Princess cases were confirmed.
+
+|Cases|Date|Days to double|
+|:-|:-|:-|
+|1|Jan 21|3|
+|2|Jan 24|2|
+|4|Jan 26|6|
+|8|Feb 1|16|
+|16|Feb 17|3|
+|32|Feb 20|8|
+|64|Feb 28||
+
+&amp;#x200B;
+
+[ source: 
+
+**Assumptions:**
+
+1. I'm including **all persons** in the US (i.e. Diamond Princess transports are included in my numbers)
+2. Cases must have **tested** positive. No presumptions. No potential cases.
+
+I'm tracking 66 current cases in the US. This includes:
+
+&amp;#x200B;
+
+|Cases|Description|Source|
+|:-|:-|:-|
+|44|Diamond Princess|[
+|3|Wuhan|[
+|15|CDC verified US Cases|[
+|4|1 from Santa Clara, 1 from Oregon, and 2 from Washington (these 4 not yet on the CDC page, b/c it only updates twice a decade)|[ (all four cases have sources linked in the headlines from yesterday and today)|
+++++++++++
+ (AR) 22 COVID-19 cases in Arkansas, 14 people under investigation LITTLE ROCK, Ark. — The Arkansas Department of Health is reporting that there are 22 confirmed cases of COVID-19 in the state.
+
+Governor Asa Hutchinson had announced Saturday afternoon that there were three new presumptive positive COVID-19 cases in the state. COVID-19 is the disease caused by the novel coronavirus.
+
+Gov. Hutchinson will provide an update at 11:15 a.m. regarding Arkansas’s COVID-19 response.
+++++++++++
+ Has anyone observed Worldometer showing less positive case of COVID-19 since the new reporting structure for positive cases? Has anyone observed Worldometer showing less positive case of COVID-19 since the new reporting structure for positive cases?
+
+The positive cases is now is half of what it used to be for the hotspots and there was no additional preventive measures such as regional shutdowns in place....
+++++++++++
+ Covid-19 has killed more Americans than all but 3 wars - combined. It's official.  Covid-19 has killed more Americans than all wars/conflicts/police actions we've been involved in, with the exception of the Civil War, and WW1 and WW2.  
+
+For those keeping score, Covid-19: 153,855, Wars: 153,299.
+
+Sources: [United States military casualties of war]( and [NYT Covid tracker](
+++++++++++
+ USA is the country with most active cases worldwide!!! Today USA take the lead as the country with most active cases in the entire world!!! Why anybody is talking about that. It also has a very low recovered cases. This is terrifying, And if you add to that Trump plans for Easter it becomes genocide.
+++++++++++
+ UT - COVID19 Update - 4/4/2020 Hello everyone! Here are the latest numbers. Please stay safe everyone! For more information, including dashboards and sources, please visit 
+
+# Utah Update
+
+|Total Cases Tested|28,043 est.|April 4, 2020|
+|:-|:-|:-|
+|Total Confirmed Cases|1,428|April 4, 2020|
+|COVID-19 Hospitalizations|117|April 4, 2020|
+|Total Deaths|8|April 4, 2020|
+
+## By Jurisdiction
+
+|Jurisdiction|Cases|Visitor Cases|
+|:-|:-|:-|
+|Bear River|27|5|
+|Central Utah|3|0|
+|Davis County|137|10|
+|Salt Lake County|650|58|
+|San Juan|5|2|
+|Southeast Utah|2|0|
+|Southwest Utah|36|7|
+|Summit County|230|14|
+|Tooele County|17|2|
+|TriCounty|2|0|
+|Utah County|186|12|
+|Wasatch County|70|4|
+|Weber-Morgan|63|3|
+|State Total|1428|117|
+
+# USA Update
+
+|Type|Count|Last Updated|
+|:-|:-|:-|
+|Total Confirmed Cases|277,205|April 4, 2020|
+|Total Deaths|6,593|April 4, 2020|
+|Jurisdictions Reporting|55 (50 states, District of Columbia, Puerto Rico, Guam, the Northern Mariana Islands, and the U.S. Virgin Islands)|April 4, 2020|
+
+## By Exposure
+
+|Source|Count|Last Updated|
+|:-|:-|:-|
+|Travel-related|1,388|April 4, 2020|
+|Close contact|4,325|April 4, 2020|
+|Under investigation|233,566|April 4, 2020|
+|Total cases|239,279|April 4, 2020|
+
+For more info : [
+
+&amp;#x200B;
+
+&amp;#x200B;
+
+
+++++++++++
+ Politics and COVID-19 in the US If you divided the country into two, the 20 states that voted for Clinton in 2016 and the 30 states that voted for Trump, Clinton country would have a new COVID-19 case rate over the last 7 days of 83 per 100k people, whereas Trump country would be more than double that at 182 per 100k people.  
+If you break up the 24 states that have Democratic governors from the 26 states with Republican governors, Democratic governor led states have a new COVID-19 case rate over the last 7 days of 91 per 100k people, whereas Republican governor led states have more than double that at 197 per 100k people.  
+
+
+Data pulled on 7/21/20 from [  
+Check my math [
+++++++++++
+ Why do people want to be “more like Sweden”? [I mean I just don’t get why we would want more deaths per million people?](
+
+Seems like a dumb move to me, but what do I know?
+[compare to other Icelandic countries.](
+++++++++++
+ Public health experts are signing an open letter stating, “We could’ve prevented 99% of all [America’s] COVID-19 deaths. But we didn’t.” the letter demanded Trump &amp; GOP listen to experts, get priorities straight, shut the country down now to start over, and fulfill their duty to lead the country. 
+++++++++++
+ Can Covid-19 patients use the same oxygen concentrator as non-covid patients? Can Covid-19 patients use the same oxygen concentrator as non-covid patients? I want to get suppliers to quote me on an Oxygen Concentrator but I've only managed to get one for non-covid patients now. I require references from other countries. Which is best for covid patients. What are they using for home health care
+++++++++++
+ Washington has 41 new COVID cases 41 new COVID cases in Washington.     
+
+
+"The number of illnesses linked to the new coronavirus in Washington jumped considerably Thursday, with 50 COVID-19 cases in King County, 18 in Snohomish County, and the first confirmed case outside the two counties, in Grant County."  
+
+
+[
+++++++++++
+ Looking for clarification on current US case count/location The Johns Hopkins [map]( shows 14 in Nebraska from the cruise in Japan. But I also see there is one lab-confirmed patient from the same cruise in [Napa County](
+
+Either our case total is 30 (with 14 in NE and 1 in Napa, CA), or Johns Hopkins has placed all 14 cases from the cruise in NE erroneously and we're still at 29.
+
+Can anyone confirm one way or another?
+++++++++++
+ People angry at the Public Health agencies I wanted to make this post as someone who hasn't worked in public health but has a graduate degree in public health from a top university in the field. Public health researchers, policymakers and workers have had to fight extremely hard for every policy change or initiative they endorse even in spite of solid research evidence.  
+
+The country's push for individualism makes it difficult for public health which focuses on the whole population. Public health research has shown that universal healthcare is the most efficient and would provide the best healthcare outcomes at the lowest cost, yet what did we get, a fragmented, private health insurance system that is inefficient and not equipped to handle an epidemic like the one we're seeing now.  
+
+Be angry at the CDC for what is going on, but maybe we should look at our own country's antiscience attitudes, pro-capitalism, individualism, and turning healthcare into a giant for-profit industry that has turned the CDC into a weak entity that doesn't have the control and power to protect us from the coronavirus.
+++++++++++
+ This doesn't look like a flattening curve... Worldometer [
+
+&amp;#x200B;
+
+It looks like a bunch of other countries have flattened their curves but the US appears unchanged. Can anyone show me anything that would lead to the belief otherwise?
+++++++++++
+ John Hopkins Live COVID-19 Tracker Clustering all cases by state, no longer specific counties/cities. Every morning I check the John Hopkins live tracker for COVID-19 just to get a very general update if there were any cases in my area overnight. This morning I checked and they are now clustering all cases by state and give no exact location to these cases. This is beyond infuriating and just adds to all of the BS happening the US. So so disappointed.
+++++++++++
+ US passes 7 million Covid cases as health officials warn second surge could come. Cases rise by tens of thousands every day as CDC report shows Americans in their 20s main drivers of virus over summer. 
+++++++++++
+ Johns Hopkins COVID-19 tracking map now showing US cases by county 
+++++++++++
+ USA Cases for top growing states and their counties (Data Source: CSSEGI Github) This is from a python script that I wrote which looks for the states with the biggest total increase in cases as of the previous two days, normalizes it per million population in that state. The state's counties with the highest case differences are also plotted in the same fashion with the state's curve as a dashed line. 
+
+\[Data Summary 6-26-2020\]([
+
+\[Data Source: COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University\]([
+++++++++++
+ Nearly 60,000 Californians have enrolled in coverage amid COVID-19 pandemic - Starting March 20, Covered California opened up the exchange to any eligible uninsured individuals who want health coverage amid the public health emergency 
+++++++++++
+ U.S. tops 13 million COVID-19 cases as experts fear holiday "surge upon surge upon surge" 
+++++++++++
+ UT - COVID-19 UPDATE - 3-23-2020 DISCLAIMER: I have been tracking the COVID-19 pandemic and wanted to share my results on a daily basis to keep everyone in the loop with official/accurate information. You can find all my sources on the link below. Please don't be a dick as I am only trying to curb the false information being spread around the net.
+
+# 
+
+
+
+# UTAH UPDATE:
+
+|Type|Count|Last Updated|
+|:-|:-|:-|
+|Total Cases Tested|5048 est.|March 23, 2020|
+|Total Confirmed Cases|257|March 23, 2020|
+|Total Deaths|0|March 23, 2020|
+
+# By County
+
+|Jurisdiction|Cases|Visitor Cases|
+|:-|:-|:-|
+|Bear River|4|0|
+|Central Utah|0|0|
+|Davis County|29|0|
+|Salt Lake County|109|3|
+|San Juan|0|0|
+|Southeast Utah|0|0|
+|Southwest Utah|5|0|
+|Summit County|65|8|
+|Tooele County|2|0|
+|TriCounty|0|0|
+|Utah County|11|1|
+|Wasatch County|11|1|
+|Weber-Morgan|8|0|
+|State Total|244|13|
+
+&amp;#x200B;
+
+# USA UPDATE:
+
+&amp;#x200B;
+
+|Type|Count|Last Updated|
+|:-|:-|:-|
+|Total Confirmed Cases|33,404|March 23, 2020|
+|Total Deaths|400|March 23, 2020|
+|Jurisdictions Reporting|54 (50 states, District of Columbia, Puerto Rico, Guam, and US Virgin Islands)|March 23, 2020|
+
+# By Exposure
+
+|Source|Count|Last Updated|
+|:-|:-|:-|
+|Travel-related|449|March 23, 2020|
+|Close contact|539|March 23, 2020|
+|Under investigation|32,416|March 23, 2020|
+|Total cases|33,404|March 23, 2020|
+
+For more info: [
+++++++++++
+ (AR) ADH announces Lincoln, Desha counties with positive COVID-19 cases LITTLE ROCK, Ark. — The Arkansas Department of Health reported Monday morning that there are now [22 confirmed COVID-19 cases in the state](
+
+Governor Asa Hutchinson will be holding a press conference at 11:15 a.m. to give an update on Arkansas's response to the coronavirus pandemic.
+
+**Key facts to know:**
+
+* 22 confirmed positive cases of COVID-19 in Arkansas
+   * Pulaski, Jefferson, Saline, Garland, Cleburne, Lincoln and Desha counties have positive cases
+* 14 people are under investigation
+* 258 recent travelers are being monitored by ADH with daily check-in and guidance
+* [All public schools are closed until after Spring Break](
+
+[
+++++++++++
+ Why isn't your President letting USA Health leader to lead daily briefings? I am from an Asian country and have been comparing America's handling of covid19 to my country's. Until now I dont understand why the daily press conference is not being done and led by the USA Dept of Health? 
+
+In my country (32 million population) right from the start our Prime Minister gave the podium to the Health Director who reports to a Health Minister. The daily briefing happens is DIRECTLY from Department of Health leader, our Prime Minister gave all the trust to him and his team. Why does Trump keep leading the briefings and not let (Alex Azar? Or Whoever in Health dept) although I know Dr Fauci is there daily; the briefings would be far far effective for the nation if it was lead by Dr Fauci and other Doctors. Trump needs to just sit down and trust them!
+
+My country's briefings and spread of info have been superb from the start ; we get daily update on 
+- new clusters, where is this new cluster
+- how many ppl affected in this cluster
+- assurance that Govt has traced and contacted their close contacts
+- assurance that Govt has ordered all Close Contacts to TEST and self quarantine
+- detail numbers of how many "generation" a cluster has evolved &gt;&gt; some evolved into 5 generation 
+- a clear diagram of ALL clusters, how many human inside each cluster, how many have they passed the virus to, in big clear Diagram form
+- an early call and warning to "whoever attended such and such at such and such location" to please come forward now for Testing and to immediately self isolate
+- daily update of which district is now a new Red Zone, which district is now cleared etc etc
+
+
+My point being, when the leader is an executive from Health Dept , we the citizens get full and clear picture of everything. Information in our country is very transparent, and the leadership from top to bottom are sending 1 same message to the citizens. I followed USA Covid news since the beginning and the contrast is stark. Can't Trump just shut his mouth and let all the DOCTORS lead? For god sake people from other countries go to USA to get consultations from your experts and Trump just shunned them away in a crisis like this
+
+Back home here our contact tracing is done very seriously they have data that you got Covid19 from Patient 454, and patient 160 died after contact with patient 99. They have info that patient 1345 infected to 5 more people who are now patient 100 to 105 and these 5 people have infected 10 more patients who are such and such number. I feel so sad to see how this Trump clown running America in a life and death situation like this, just let the doctors lead!!
+++++++++++
+ Coronavirus map lets you track/view coronavirus cases, recoveries and deaths city by city. &amp;#x200B;
+
+[Screenshot\/preview of the website\/tracker.](
+
+Hey all. Since we are just stuck at home and bored, I thought that I would share this [coronavirus tracking map]( (Takes maybe 10 seconds to load) I really like this one more than the others because they have great U.S. coverage.. as in the entire country is under city by city or county by county coverage. I believe that New York has all of their cities included on this map. (Currently according to the map there are more than 76876 cases in New York City alone, not to mention the entire state of New York which has a ton more.)
+
+It's also really interesting just to fly around the map and see how each city/county is doing with their cases of coronavirus.
+
+It's crazy looking at the map because you really get a sense of how fast it spread. Now you can see red bubbles representing cases all over the world. It's honestly a bit surreal.
+
+One thing I dislike about the map though is that sometimes it gets a bit challenging to determine where you are at because of the maps "dark" nature. The map uses dark mode &amp; I wish they would include an option to make it light mode &amp; easier to view.
+
+Nevertheless, it is still a great map if you ever want to play around or get some quick information on the coronavirus.
+
+&amp;#x200B;
+
+[Screenshot](
+++++++++++
+ Data U.S. and China comparisons, so what we should expect if things add up in the future. Don't remove, this stuff is important to be aware of. Fact check all my Data with additional sources if you want to ensure accuracy. Ot is from credible sources and accurate. 
+
+"The tipping point came in late February, and has held — as of March 6 there have been 53,880 recoveries in China, compared to 23,676 outstanding infections."
+
+"Nearly 70,000 people have recovered from coronavirus
+Amid concerns over the coronavirus outbreak in the U.S., it’s important to remember most who become infected recover from the illness."
+
+"More than 4,900 people have died and over 132,000 have been infected globally, according to the WHO. About 68,000 victims have recovered, according to Johns Hopkins University, which is tracking the virus."
+
+So this means that 76% of people who have recovered from the Corona Virus are chinese citizens (53,880/70,000).
+
+And this site says 
+
+
+
+That worldwide over 132,000 have been infected and 68,000 have recovered (the other site says 70,000, but those are just estimates)
+
+So, 70,000 - 53,880 = 16,120 which is the amount of non Chinese citizens to recover.
+
+And that means there are 16,120 non-chinese citizens that have recovered. 
+
+And of the 132,000 infected only 16,120 non-chinese people worldwide have recovered, so 16,120/132,000 = .122 meaning 12.2% of people have recovered. 
+
+Why is it that the Coronavirus started in China, and now China currently has a 76% recovery rate, yet the rest of the world has a 12.2% recovery rate.
+
+The statistics are baised, and if you take China out of the picture, then ypu see only 12.2% of infected people have recovered.
+
+So, since this originated in China this information indicates in a few months the rest of the world should have a 76% recovery rate, or be way closer to 76%, then 12.2%.
+
+The death rate in China 21 days ago was 3.1% of those infected, and now it is at 3.9% of those infected. 
+
+The U.S.A current death rate is 2.4%, but we didn't report a case til 21 days after China, so if it is the same in the USA as China then 76% of people should be recovered that got the virus in 21 days, which means the USA should have way more recovered cases, than new cases with deaths in 21 days. 
+
+21 days ago China had 75,465 cases, and now they have 80,814 cases. And that means the death rate increased by 0.9% im 21 days.
+
+That means despite this 0.9% increase im death rate that over the last 21 days that only 0.00003933% of the people of China have neem been infected since then (80,814 - 74,465 = 5,349 new cases) ((5,349/1.36 Billion (China's population) =0.000003933 or 0.00003933%))
+
+So that if it ends up being the same for the USA we would see that same or a similar increase in cases. 
+
+So 0.000003933 × 327 million = 1287 new cases in 21 days from now. 
+
+So ome would think our 1636 cases with the 1287 new cases would mean in 21 days from now April, 2nd (if the USA experiences the same rates China did that) we would have 2,922 cases by April, 2nd. 
+
+But if we have a 76% recovery rate like  China now has, then by April, 2nd despite the number infected increasing from 1636 to 2922, that a 76% recovery rate would mean 2,220 people out of the 2,922 that have been infected would be recovered, which sounds promising, as that would mean only 702 people of the 2,922 infected would not be recovered while 2,220 would be recovered by April, 2nd.
+
+If China has a 76% recovery rate now, which they do, and we are nowhere near that by April 2nd, and if we have way more than 2,922 people infected by April 2nd, amd way less than 2,220 people with recoveries by April 2nd, and if China still has such a high recovery rate, then we should ask ourselves: "what the heck is going on here!?"
+
+And I know the USA isn't the same as China, but wouldn't you think this stuff should be comparable if you compare the stats in these ways on April, 2nd?
+
+And I am sorry for this being such a long rant, but I just wanted to put things into perspective for people so they know what they should expect, based on that stuff, and what actually ends up being the case cause if it doesn't add up and is way worse here on April, 2nd, then that would indicate that something isn't adding up, which I doubt would be the case, but we should at least be aware of this stuff.
+
+And I didn't cite all this stuff, but look it up for yourself if you wanna fact check my numbers.
+
+So I would think that indicates things should start improving by April, 2nd, and if not then something just wouldn't add up which would make people with conspiracy theories on this not seem so crazy, but usually conspiracy theories are nonsense, I would assume, so with that said I think things in theory should improve.
+++++++++++
+ Anyone want to check my math?  
+
+Current Death Rate:
+
+Per a number of sources the current death rate of people infected world wide with the Corona Virus stands at 3.73%
+
+[
+
+Here's a summery of some of the data
+
+World Wide = 145,673 infected,  5,435 dead - Death Rate = 3.73%
+
+USA =             2,329 infected,        50 dead -  Death Rate =    2.15%  
+
+
+China's =        80,824 infected,   3,189 dead -  Death Rate =    3.95%
+
+Italy =            17,660 infected,   1,266 dead -  Death Rate =    7.17%  
+
+
+Iran =              11,364 infected,       514 dead -  Death Rate =    4.52%  
+
+
+UK =                 798 infected,        11 dead -  Death Rate =    1.38%
+
+Philippine =          64 infected,         6 dead -  Death Rate =    9.38%
+
+New Cases reported today stands at 200, with 20 new deaths.
+
+China -        11 new cases, 13 deaths
+
+S. Korea -  107 new cases,  5 deaths
+
+USA -          82 new cases,  1 death
+
+Philippines-    0 new cases,  1 death
+
+Assuming  an infection rate of 60%, and using our current rate of 2.15% as the  low, and 3.73% as the high, I expect these numbers:
+
+USA = 350,000,000 citizens with 210,000,000 infected - 4,515,000 to  7,833,000 dead
+++++++++++
+ (OH) In the past 24 hours, Metropolitan Cleveland has confirmed 40 new cases, an increase of 17.5% from yesterday, for a current total of 268 cases (266 active cases). One new fatality was reported in this period—in Cuyahoga County, bringing the County’s total to 2. 
+++++++++++
+ There was a time when NY equaled 50% of the US cases. That’s no longer the case as positive tests are significantly increasing across the country. Now the NY cases only represent roughly 1/3 of the new daily cases in the US. 
+++++++++++
+ UT - COVID19 Update - 4/5/2020 Hope everyone is having a wonderful weekend. Below are today's numbers. For more information, including dashboards and sources, please visit [
+
+Also, big thank you to everyone who has been so kind on here about my work. It really does means the world to me. Thank you again.
+
+# Utah Update
+
+|Type|Count|Last Updated|
+|:-|:-|:-|
+|Total Cases Tested|30,892 est.|April 5, 2020|
+|Total Confirmed Cases|1,605|April 5, 2020|
+|COVID-19 Hospitalizations|124|April 5, 2020|
+|Total Deaths|8|April 5, 2020|
+
+## By Jurisdiction
+
+|Jurisdiction|Cases|Visitor Cases|
+|:-|:-|:-|
+|Bear River|31|5|
+|Central Utah|5|0|
+|Davis County|142|10|
+|Salt Lake County|741|62|
+|San Juan|5|2|
+|Southeast Utah|3|0|
+|Southwest Utah|40|7|
+|Summit County|256|16|
+|Tooele County|19|2|
+|TriCounty|2|0|
+|Utah County|216|13|
+|Wasatch County|78|4|
+|Weber-Morgan|67|3|
+|State Total|1605|124|
+
+# USA Update
+
+|Type|Count|Last Updated|
+|:-|:-|:-|
+|Total Confirmed Cases|304,826|April 5, 2020|
+|Total Deaths|7,616|April 5, 2020|
+|Jurisdictions Reporting|55 (50 states, District of Columbia, Puerto Rico, Guam, the Northern Mariana Islands, and the U.S. Virgin Islands)|April 5, 2020|
+
+## By Exposure
+
+|Source|Count|Last Updated|
+|:-|:-|:-|
+|Travel-related|1,388|April 5, 2020|
+|Close contact|4,325|April 5, 2020|
+|Under investigation|233,566|April 5, 2020|
+|Total cases|239,279|April 5, 2020|
+
+For more info : [
+
+&amp;#x200B;
+
+
+++++++++++
+ Interactive map lets you view US cases, deaths and recoveries city by city. &amp;#x200B;
+
+[Screenshot of the website zoomed into Chicago ](
+
+Hey all. Saw this on the coronavirus subreddit and saw that coverage for the US (almost all city by city) was good so decided to post here. I've been using the map and its a bit dark, but still usable.
+
+This [coronavirus location map]( lets you view COVID-19 **cases, deaths and recoverie**s in your city. I really like that the U.S. coverage is good and not just country by country but instead city by city. Unfortunately, most other countries do not have as good as a coverage as the USA.
+
+When you hover over the markers you can see the data for the city. also, the red bubbles represent the severity of cases, so **NYC** (New York City) has the largest bubble in North America.
+
+The map used to be really easy to read a month ago cause there were not as many cases meaning not as many dots, but now there are just red dots all across the map.
+
+&amp;#x200B;
+
+[zoomed out](
+++++++++++
+ United States Covid-19: Daily Summary (November 30th) United States Covid-19: Daily Summary (November 30th)
+
+➡ Regional/national data
+
+➡ Latest Restrictions
+
+
+++++++++++
+ What if schools based their re-opening status on confirmed cases per capita the last 2 weeks? Here's a post and visualization looking at where all US counties would sit if they followed Minnesota's Re-Opening guidance for schools. I also explain the guidance score and why it's a smart way to look at cases in your area.
+
+I should add, this isn't to say they should follow this guidance, just more of a comparison and applying the new metrics across the entire US at the county level.
+
+[
+++++++++++
+ Coronavirus crisis: US, Canada to close shared border to ‘non-essential traffic’ President Trump said Wednesday that the US and Canada will temporarily close their border to “non-essential traffic” because of the coronavirus pandemic.
+
+[
+
+&amp;#x200B;
+
+
+++++++++++
+ Extrapolation of the current infection trend [
+
+Today March 11, 58% of all the COVID-19 infected have recovered. If the trend continues, with China having peaked at 81K cases the world as a whole should peak at 183K cases on April 28. Once countries become aware that the virus exists within their borders and implement quarantine programs like Italy, Korea and Japan have, the spread is rapidly contained as has been the case in China. The peak of the virus happened on February 17 with 58K active cases, and today we are at 54K active cases. Over the next week this number will increase to 64K active cased and go down to zero from there.
+++++++++++
+ Comparing COVID-19 in states and provinces  
+
+Showing **7-day avg.daily new total** cases, **raw number per million**
+
+Ranked by highest **current cases peak cases** Scale: **all same per region**
+++++++++++
+ Plasma with antibodies from recovered patients helps even critically ill patients. We need to collect plasma from recovered patients 
+++++++++++
+ Covid-19 "will end up as a Top 10 leading cause of death" in 2020, CDC statisticians tell CNN Covid-19 "will end up as a Top 10 leading cause of death" in 2020, CDC statisticians tell CNN
+
+
+++++++++++
+ Arkansas Covid-19 deaths from different sources [  -  0
+
+Johns Hopkins site.    - 10
+
+[
+
+Arkansas Dept of health.  -  18
+
+[
+++++++++++
+ Hospital cost for a case of COVID-19 in the US? So I just read an article (unfortunaly in German but it's a very trustworthy source: [ ) where a couple of health insurance companies agree that the average COVID-19 treatment will cost them (not the patient, we don't get medical bills here for necessary treatments like that) Euro **10.700**.
+
+If ventilation is included, the number goes up to Euro **38.500**. 
+
+And 10% of these ventilated patients will cost the health insurance companies Euro **85.000**.
+
+I wonder if anyone has any comparable numbers from the US?
+++++++++++
+ "Public Health Advisor (Quarantine Program)" Insight? Everyone take a minute to look at this job posting on [USAJobs.gov](
+
+[
+
+I have a few questions with regards to the job posting "Public Health Advisor (Quarantine Program)".  
+Under certain circumstances with the emergence of COVID-19 as a worldwide pandemic, is it a coincidence that the CDC posted this job on November 15th, 2019 a few days before the first COVID-19 case was reported in Wuhan? Based on current predictions, the number of COVID-19 cases will be at its greatest death toll around late June and early July. From current trends, the number of peak cases will be late April and early May. Is it a coincidence that the job application closes May 15th, 2020?
+
+Is it a coincidence that there are "many vacancies" in places of large populace hubs in the United States? Places that are perfect for large scale quarantine camps. Places that will presumably exhibit a large amount of cases.
+++++++++++
+ Thoughts on disconnect between hospitalizations/deaths and new surges? The increased number of new cases in many states is very concerning to say the least. It is very intriguing though that the hospitalization and death numbers have not moved in tandem with the sharp increase in new cases. Going back to NY and NJ and Italy etc., new cases and new deaths both rapidly increased in tandem. States like Florida, California, Texas and Arizona have had sustained increases in new cases for a few weeks now without a proportionate rise in new deaths. Why? Here's a few hypotheses I came up with:
+
+1. Disease is losing strength as it mutates (which would be great news)
+2. We are catching a lot more mild/asymptomatic cases. Back in March/April you couldn't get a test anywhere unless you were really sick and knew someone with COVID. Now anyone can get tested and the numbers have increased dramatically. So even with massive surges in new cases, the hospitalization and death numbers are not that bad because a lot of mild and asymptomatic cases are being counted, whereas states with earlier outbreaks only caught the really bad cases that were more likely to end up in the hospital. Anecdotally, I know a couple young people in the surging states that have tested positive, with one hardly even knowing he was sick and the other with a moderate illness akin to a flu. Are we just catching an inordinate amount of those cases as compared to earlier states? 
+3. No states or countries for that matter have really had "second waves" that have matched the magnitude of the first. Could the first wave in the South/West be just happening now as opposed to the March/April time frame in the Northeast? All the states surging now really were doing very well while the Northeast and Midwest suffered in April. 
+
+Could be completely wrong, could be a combo of some of these, thoughts? Please leave politics out of this, just looking at the numbers!
+++++++++++
+ How about some good news How about some good news?
+
+-China has closed down its last coronavirus hospital. Not enough new cases to support them.
+
+- Doctors in India have been successful in treating Coronavirus. Combination of drugs used: Lopinavir, Retonovir,  Oseltamivir along with Chlorphenamine. They are going to suggest same medicine, globally.
+
+- Researchers of the Erasmus Medical Center claim to have found an antibody against coronavirus.
+
+- A 103-year-old Chinese grandmother has made a full recovery from COVID-19 after being treated for 6 days in Wuhan, China.
+
+- Apple reopens all 42 china stores,
+
+- Cleveland Clinic developed a COVID-19 test that gives results in hours, not days.
+
+- Good news from South Korea, where the number of new cases is declining.
+
+- Italy is hit hard, experts say, only because they have the oldest population in Europe.
+
+- Scientists in Israel likely to announce the development of a coronavirus vaccine.
+
+- 3 Maryland coronavirus patients fully recovered; able to return to everyday life.
+
+- A network of Canadian scientists are making excellent progress in Covid-19 research. 
+
+- A San Diego biotech company is developing a Covid-19 vaccine in collaboration with Duke University and National University of Singapore.
+
+- Tulsa County's first positive COVID-19 case has recovered. This individual has had two negative tests, which is the indicator of recovery.
+
+- All 7 patients who were getting treated for at Safdarjung hospital in New Delhi have recovered.
+
+- Plasma from newly recovered patients from Covid -19 can treat others infected by Covid-19.
+
+So it's not ALL bad news.  Let's care for each other and stay focused on safety of those most vunerable.
+++++++++++
+ Tue. 10/27 as of 11:00am: 1,175 New Cases, 21 New Deaths, 1,431 New Recovered. 
+++++++++++
+ Researchers Test a Blood Clot Drug That Could Reduce Ventilator Use for COVID-19 Patients - Are Tissue Plasminogen Activators (tPA) an answer for the Desperately Ill? Via [The Mighty](
+
+As the world faces a shortage of ventilators to treat critically ill  COVID-19 patients in respiratory failure, a group of researchers are  launching clinical trials for a drug they hope can treat respiratory  failure in COVID-19 patients more effectively.
+
+[COVID-19 (SARS-CoV-2)](  is a coronavirus that causes a respiratory infection in humans and  symptoms such as fever, coughing and shortness of breath. In advanced  and more serious cases, it can lead to respiratory failure. Currently,  the best treatment available for these critically ill patients is the  use of a ventilator, which helps the lungs function in hopes the patient  will recover.
+
+However, hospitals globally do not have enough ventilators to meet the surge of [COVID-19 patients](  And in a significant number of cases, people placed on a ventilator  with COVID-19 still die, indicating the need for supplemental treatment  strategies. Researchers at MIT and the University of Colorado at Denver [submitted a paper]( suggesting that a common medication used to reduce blood clots may help COVID-19 patients in respiratory failure.
+
+These  researchers noticed that reports from Italy and China showed that blood  clots in the lungs led to respiratory failure in many COVID-19  patients. Based on this data, the researchers want to test tissue  plasminogen activator (tPA) medication on COVID-19 patients. Currently,  tPA drugs are given to stroke or heart attack patients because it breaks  up blood clots. If it works to prevent blood clotting in the lungs,  researchers hope it could have an immediate impact on COVID-19 patients.
+
+“If  this were to work, which I hope it will, it could potentially be scaled  up very quickly, because every hospital already has it in their  pharmacy,” says Michael Yaffe, a David H. Koch professor of science at  MIT, said in a press release. “We don’t have to make a new drug, and we  don’t have to do the same kind of testing that you would have to do with  a new agent. This is a drug that we already use. We’re just trying to  repurpose it.”
+
+Tissue plasminogen activator has only been tested in humans for respiratory failure in [one very small study in 2001](  In that study, administering tPA reduced the death rate from 100% to  70%. Yaffe and his colleagues were granted approval for a tPA trial  under the Food and Drug Administration’s (FDA) compassionate use  program, which allows the use of experimental drugs when there are no  other treatment options. Three hospitals — one in Boston and two in  Colorado — will participate in the initial clinical trial.
+
+“If it  were to work, and we don’t yet know if it will, it has a lot of  potential,” Yaffe said. “The public health benefits are obvious. We  might get people off ventilators quicker, and we could potentially  prevent people from needing to go on a ventilator.”
+++++++++++
+ HHS announces five cooperative agreements (private health info with state agency) to health information exchange organizations (HIEs) to help support state and local public health agencies in their efforts to respond to public health emergencies, including disasters and pandemics such as COVID-19. 
+++++++++++
+ [04.15.2020] Updated latest Predictions char by Associate Professor SQ Yang from UOW \[04.15.2020\] Updated latest Predictions chart by Associate Professor SQ Yang from UOW:
+
+Australia: [
+
+World: [
+
+&amp;#x200B;
+
+
+
+
+++++++++++
+ Gov. Tony Evers issues new order limiting indoor public gatherings to 25% as COVID-19 cases surge 
+++++++++++
+ [Infection2020.com] | U.S. Cases Top 10,000, up 43% in the last 24 hours For those who haven't visited:    Its data is sourced from the CDC, WHO, Johns Hopkins U. and state agencies
+
+Some highlights:
+
+* Coronavirus deaths now at 158, up 43 (or 37%) in the last 24 hours
+
+* The number of confirmed recoveries rose slightly to 108
+
+* Top states for number of cases are:
+
+-- NY with 4,152 cases and 20 deaths
+
+-- WA with 1,187 cases and 68 deaths
+
+-- CA with 871 cases and 17 deaths
+
+-- NJ with 427 cases and 5 deaths
+
+-- FL with 360 cases and 9 deaths
+
+Everyone stay safe out there   O:-)
+++++++++++
+ Evidence that COVID-19 is spreading faster in the US than in other countries Due to a lack of testing, there's a lot we still don't know about how rampant COVID-19 is in the USA. Even with minimal testing, however, **the US is still seeing faster sustained increases in the number of COVID-19 cases relative to other countries in the world**. How do I know? Look at this graph.  
+
+
+
+What is this? The lines show change over time in daily percent increase of reported COVID-19 cases (total cases known on a given day/total cases known the previous day) across several countries. There is also a line showing the average across the 8 countries whose epidemics have lasted at least as long as the USA's (26 days; China, South Korea, Iran, Italy, France, Germany, Spain, USA). There are also lines indicating the average +/- 1 standard deviation.  
+
+All countries have been made comparable by starting the clock on the day each country reached its 100th reported case. On the horizontal axis, you see how many days have elapsed since the 100th case in a given country was reported. The vertical axis shows by what percent the number of new cases in the country grew on each day. Data: [
+
+You will notice that as countries get farther into their epidemics, the daily percent increase tends to decline. In South Korea (red line), daily increases declined more rapidly than average. Italy has recently followed the average pretty closely. **But starting about halfway through its epidemic (day 13), the USA (blue line) has seen daily increases well above average** (even above average +1 StDev!). Cases seem to be building slightly less rapidly in recent days, but we are still not testing at the rate we should be, and are likely missing many cases. The rate of known cases could spike again in the coming weeks as we ramp up testing--sending us above average again. 
+
+**In short, while increases seem to be slowing down a bit in the USA, they are still increasing faster than pretty much all other countries.** We will see whether this trend continues or if the US gets more in line with other countries' trajectories.
+++++++++++
+ MD - New Cases? Maryland's Department of Health is now reporting 17 confirmed cases.  Is there any way to find out where the new cases are located?

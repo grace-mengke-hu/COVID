@@ -1,0 +1,6722 @@
+
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Purely my own speculation, I think the peak is at day 54 or 2020-07-30 (see graph below). Please take it with a HUGE grain of salt. Actually with today's result the peak has move backward to day 56 but the graph below still shows the peak at day 54. This shows that even I cannot accurately predict the future.
+
+swift model [
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+    2020-07-06,127
+    2020-07-07,191
+    2020-07-08,134
+    2020-07-09,165
+    2020-07-10,288
+    2020-07-11,216
+    2020-07-12,273
+    2020-07-13,176
+    2020-07-14,270
+    2020-07-15,238
+    2020-07-16,317
+    2020-07-17,428
+    2020-07-18,216
+    2020-07-19,363
+    2020-07-20,275
+    2020-07-21,374
+    2020-07-22,484
+    2020-07-23,403
+    2020-07-24,300
+    2020-07-25,357
+    2020-07-26,459
+    2020-07-27,532
+    2020-07-28,384
+    2020-07-29,295
+    2020-07-30,723
+    2020-07-31,627
+    2020-08-01,397
+    2020-08-02,671
+    2020-08-03,429
+    2020-08-04,439
+    2020-08-05,725
+    2020-08-06,471
+    2020-08-07,450
+    2020-08-08,466
+    2020-08-09,394
+    2020-08-10,322
+    2020-08-11,331
+    2020-08-12,410
+    2020-08-13,278
+    2020-08-14,372
+    2020-08-15,303
+    2020-08-16,279
+    2020-08-17,282
+    2020-08-18,222
+    2020-08-19,216
+    2020-08-20,240
+    2020-08-21,179
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+    t = 53 for the date 2020-07-29
+    exponential model is 117.3712 * exp(0.0316 * t) + -155.0132
+    simple exponential model is 23.8802 * exp(0.0575 * t)
+    linear model is -92.0667 + 9.1262 * t
+    quadratic model is -10.6796 + -0.2646 * t + 0.1772 * t^2
+    exponential model residue is 160819.9
+    linear model residue is 226483.9
+    quadratic model residue is 146536.1
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 185.3707 * exp(0.0735 * t) + -435.3652
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+Purely my own **speculation**, I think the peak is at day 54 or 2020-07-30 (see graph below). **Please take it with a HUGE grain of salt.** *Actually with today's result the peak has move forward to day 55 but the graph below still shows the peak at day 54. This shows that even I cannot accurately predict the future.*
+
+&amp;#x200B;
+
+
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+    2020-07-06,127
+    2020-07-07,191
+    2020-07-08,134
+    2020-07-09,165
+    2020-07-10,288
+    2020-07-11,216
+    2020-07-12,273
+    2020-07-13,176
+    2020-07-14,270
+    2020-07-15,238
+    2020-07-16,317
+    2020-07-17,428
+    2020-07-18,216
+    2020-07-19,363
+    2020-07-20,275
+    2020-07-21,374
+    2020-07-22,484
+    2020-07-23,403
+    2020-07-24,300
+    2020-07-25,357
+    2020-07-26,459
+    2020-07-27,532
+    2020-07-28,384
+    2020-07-29,295
+++++++++++
+ NSW: graph of daily local cases &amp;#x200B;
+
+
+
+    t = 9 for the date 2020-07-15
+    exponential model is 1.0018 * exp(0.2823 * t) + -1.0625
+    linear model is -1.6 + 1.2 * t
+    quadratic model is 0.7636 + -0.5727 * t + 0.197 * t^2
+    exponential model residue is 20.6
+    linear model residue is 38.8
+    quadratic model residue is 18.3
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 0.9927 * exp(0.4094 * t) + -0.5736
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for NSW.
+
+    “date”,”local_cases”
+    2020-07-06,0
+    2020-07-07,1
+    2020-07-08,1
+    2020-07-09,2
+    2020-07-10,1
+    2020-07-11,1
+    2020-07-12,3
+    2020-07-13,8
+    2020-07-14,11
+    2020-07-15,10
+++++++++++
+ his graph is amazing. It shows that measuring #SARSCoV2 levels in municipal sewage almost perfectly predicts forthcoming #COVID19 cases with a full week's notice (R=0.994). It's one of several discoveries in this new study from @Yale 
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Purely my own speculation, I think the peak is at day 54 or 2020-07-30 (see graph below). Please take it with a HUGE grain of salt. Actually with today's result the peak has move backward to day 56 but the graph below still shows the peak at day 54. This shows that even I cannot accurately predict the future.
+
+swift model [
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+    2020-07-06,127
+    2020-07-07,191
+    2020-07-08,134
+    2020-07-09,165
+    2020-07-10,288
+    2020-07-11,216
+    2020-07-12,273
+    2020-07-13,176
+    2020-07-14,270
+    2020-07-15,238
+    2020-07-16,317
+    2020-07-17,428
+    2020-07-18,216
+    2020-07-19,363
+    2020-07-20,275
+    2020-07-21,374
+    2020-07-22,484
+    2020-07-23,403
+    2020-07-24,300
+    2020-07-25,357
+    2020-07-26,459
+    2020-07-27,532
+    2020-07-28,384
+    2020-07-29,295
+    2020-07-30,723
+    2020-07-31,627
+    2020-08-01,397
+    2020-08-02,671
+    2020-08-03,429
+    2020-08-04,439
+    2020-08-05,725
+    2020-08-06,471
+    2020-08-07,450
+    2020-08-08,466
+    2020-08-09,394
+    2020-08-10,322
+    2020-08-11,331
+    2020-08-12,410
+    2020-08-13,278
+    2020-08-14,372
+    2020-08-15,303
+    2020-08-16,279
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+    exponential model is 0.7706 * exp(0.1827 * t) + 1.7439
+    linear model is -5.2717 + 1.6374 * t
+    quadratic model is 2.6348 + -0.6217 * t + 0.1027 * t^2
+    exponential model residue is 355.0389
+    linear model residue is 863.3429
+    quadratic model residue is 489.8881
+    julia&gt; "doubling time is $(round(log(2)/0.1827,digits=1)) days"
+    "doubling time is 3.8 days"
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 15.8447 * exp(0.1344 * t) + -19.833
+    julia&gt; "doubling time is $(round(log(2)/0.1344,digits=1)) days"
+    "doubling time is 5.2 days"
+    postscript: the log() function in Julia Programming Language 
+    returns the natural logarithm value
+
+Here is the source code for generating the models and the grap
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+++++++++++
+ NSW: graph of daily local cases &amp;#x200B;
+
+
+
+    t = 11 for the date 2020-07-17
+    exponential model is 6941.7034 * exp(0.0001 * t) + -6942.1895
+    linear model is -0.4872 + 0.8462 * t
+    quadratic model is -0.9725 + 1.1374 * t + -0.0265 * t^2
+    exponential model residue is 63.3
+    linear model residue is 63.3
+    quadratic model residue is 62.3
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 6.0598 * exp(0.2108 * t) + -7.8553
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for NSW.
+
+    “date”,”local_cases”
+    2020-07-06,0
+    2020-07-07,1
+    2020-07-08,1
+    2020-07-09,2
+    2020-07-10,1
+    2020-07-11,1
+    2020-07-12,3
+    2020-07-13,8
+    2020-07-14,11
+    2020-07-15,10
+    2020-07-16,6
+    2020-07-17,6
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+    exponential model is 2.8889 * exp(0.1275 * t) + -2.897
+    linear model is -16.4138 + 3.0222 * t
+    quadratic model is 6.6774 + -2.1092 * t + 0.1833 * t^2
+    exponential model residue is 1562.3
+    linear model residue is 5609.7
+    quadratic model residue is 1805.3
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 12.4103 * exp(0.1477 * t) + -15.4102
+
+Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+    exponential model is 1.3407 * exp(0.1537 * t) + 1.4323
+    linear model is -25.6534 + 3.9575 * t
+    quadratic model is 12.0739 + -3.588 * t + 0.2434 * t^2
+    exponential model residue is 4805.2
+    linear model residue is 18057.9
+    quadratic model residue is 7067.9
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 15.4966 * exp(0.1389 * t) + -22.3998
+
+Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+    2020-07-06,127
+    2020-07-07,191
+++++++++++
+ NSW: graph of daily local cases &amp;#x200B;
+
+
+
+    t = 18 for the date 2020-07-24
+    exponential model is 20483.6272 * exp(0.0 * t) + -20483.7208
+    simple exponential model is 2.9019 * exp(0.0917 * t)
+    linear model is -0.0947 + 0.8175 * t
+    quadratic model is -1.7414 + 1.3987 * t + -0.0323 * t^2
+    exponential model residue is 148.7
+    linear model residue is 148.7
+    quadratic model residue is 134.6
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+exponential2 model is 25.4694 \* exp(0.1082 \* t) + -31.775
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for NSW.
+
+    “date”,”local_cases”
+    2020-07-06,0
+    2020-07-07,1
+    2020-07-08,1
+    2020-07-09,2
+    2020-07-10,1
+    2020-07-11,1
+    2020-07-12,3
+    2020-07-13,8
+    2020-07-14,11
+    2020-07-15,10
+    2020-07-16,6
+    2020-07-17,6
+    2020-07-18,11
+    2020-07-19,13
+    2020-07-20,15
+    2020-07-21,12
+    2020-07-22,15
+    2020-07-23,15
+    2020-07-24,7
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+    t = 44 for the date 2020-07-20
+    exponential model is 30.7042 * exp(0.0591 * t) + -49.001
+    linear model is -72.2667 + 7.8303 * t
+    quadratic model is 11.0506 + -3.7954 * t + 0.2642 * t^2
+    exponential model residue is 69074.7
+    linear model residue is 132865.4
+    quadratic model residue is 61473.8
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 57.5647 * exp(0.101 * t) + -143.6244
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+    2020-07-06,127
+    2020-07-07,191
+    2020-07-08,134
+    2020-07-09,165
+    2020-07-10,288
+    2020-07-11,216
+    2020-07-12,273
+    2020-07-13,176
+    2020-07-14,270
+    2020-07-15,238
+    2020-07-16,317
+    2020-07-17,428
+    2020-07-18,216
+    2020-07-19,363
+    2020-07-20,275
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+    t = 41 for the date 2020-07-17
+    exponential model is 8.2636 * exp(0.0938 * t) + -13.8487
+    linear model is -69.0753 + 7.6053 * t
+    quadratic model is 24.0803 + -6.368 * t + 0.3408 * t^2
+    exponential model residue is 33197.2
+    linear model residue is 121454.5
+    quadratic model residue is 37358.6
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 35.1835 * exp(0.1142 * t) + -81.9351
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+    2020-07-06,127
+    2020-07-07,191
+    2020-07-08,134
+    2020-07-09,165
+    2020-07-10,288
+    2020-07-11,216
+    2020-07-12,273
+    2020-07-13,176
+    2020-07-14,270
+    2020-07-15,238
+    2020-07-16,317
+    2020-07-17,428
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+    exponential model is 0.5127 * exp(0.2045 * t) + 2.3183
+    linear model is -9.9538 + 2.2662 * t
+    quadratic model is 5.8855 + -1.8658 * t + 0.1722 * t^2
+    exponential model residue is 665.3
+    linear model residue is 2774.5
+    quadratic model residue is 1179.2
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 9.659 * exp(0.1581 * t) + -8.9412
+
+Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+++++++++++
+ Simple graph showing death rate per thousand over time? I am finding it very frustrating that there does not seem to be a source of information available to answer and monitor the very basic question of “what is Australia’s Covid-19 death rate per thousand people over time”.
+
+Am I missing something obvious or my search skills are not up to scratch?
+
+*If anyone can help with this I’d appreciate it.*
+
+(Note that I’m not asking for increase in cases or current totals dead per demographic. Just the death rate as a percentage of population over time).
+++++++++++
+ NSW: graph of daily local cases &amp;#x200B;
+
+
+
+    t = 25 for the date 2020-07-31
+    exponential model is 24013.165 * exp(0.0 * t) + -24012.0272
+    simple exponential model is 3.7797 * exp(0.0611 * t)
+    linear model is 1.1368 + 0.6168 * t
+    quadratic model is -0.8046 + 1.1021 * t + -0.0194 * t^2
+    exponential model residue is 237.1
+    linear model residue is 237.1
+    quadratic model residue is 212.4
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 91.8021 * exp(0.0521 * t) + -105.1301
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for NSW.
+
+    “date”,”local_cases”
+    2020-07-06,0
+    2020-07-07,1
+    2020-07-08,1
+    2020-07-09,2
+    2020-07-10,1
+    2020-07-11,1
+    2020-07-12,3
+    2020-07-13,8
+    2020-07-14,11
+    2020-07-15,10
+    2020-07-16,6
+    2020-07-17,6
+    2020-07-18,11
+    2020-07-19,13
+    2020-07-20,15
+    2020-07-21,12
+    2020-07-22,15
+    2020-07-23,15
+    2020-07-24,7
+    2020-07-25,9
+    2020-07-26,11
+    2020-07-27,9
+    2020-07-28,12
+    2020-07-29,17
+    2020-07-30,16
+    2020-07-31,18
+++++++++++
+ NSW: graph of daily local cases &amp;#x200B;
+
+
+
+    t = 29 for the date 2020-08-04
+    exponential model is 49520.0288 * exp(0.0 * t) + -49517.411
+    simple exponential model is 4.9322 * exp(0.0395 * t)
+    linear model is 2.6172 + 0.4494 * t
+    quadratic model is -1.575 + 1.3477 * t + -0.031 * t^2
+    exponential model residue is 363.6
+    linear model residue is 363.6
+    quadratic model residue is 234.8
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+exponential2 model is 145.0184 \* exp(0.039 \* t) + -162.1157
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for NSW.
+
+    “date”,”local_cases”
+    2020-07-06,0
+    2020-07-07,1
+    2020-07-08,1
+    2020-07-09,2
+    2020-07-10,1
+    2020-07-11,1
+    2020-07-12,3
+    2020-07-13,8
+    2020-07-14,11
+    2020-07-15,10
+    2020-07-16,6
+    2020-07-17,6
+    2020-07-18,11
+    2020-07-19,13
+    2020-07-20,15
+    2020-07-21,12
+    2020-07-22,15
+    2020-07-23,15
+    2020-07-24,7
+    2020-07-25,9
+    2020-07-26,11
+    2020-07-27,9
+    2020-07-28,12
+    2020-07-29,17
+    2020-07-30,16
+    2020-07-31,18
+    2020-08-01,13
+    2020-08-02,11
+    2020-08-03,9
+    2020-08-04,11
+++++++++++
+ NSW: graph of daily local cases &amp;#x200B;
+
+
+
+    t = 24 for the date 2020-07-30
+    exponential model is 27130.2892 * exp(0.0 * t) + -27129.0359
+    simple exponential model is 3.8171 * exp(0.0603 * t)
+    linear model is 1.2523 + 0.6023 * t
+    quadratic model is -1.2109 + 1.2449 * t + -0.0268 * t^2
+    exponential model residue is 234.7
+    linear model residue is 234.6
+    quadratic model residue is 196.1
+    
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+exponential2 model is 88.0984 \* exp(0.0535 \* t) + -101.1372
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for NSW.
+
+    “date”,”local_cases”
+    2020-07-06,0
+    2020-07-07,1
+    2020-07-08,1
+    2020-07-09,2
+    2020-07-10,1
+    2020-07-11,1
+    2020-07-12,3
+    2020-07-13,8
+    2020-07-14,11
+    2020-07-15,10
+    2020-07-16,6
+    2020-07-17,6
+    2020-07-18,11
+    2020-07-19,13
+    2020-07-20,15
+    2020-07-21,12
+    2020-07-22,15
+    2020-07-23,15
+    2020-07-24,7
+    2020-07-25,9
+    2020-07-26,11
+    2020-07-27,9
+    2020-07-28,12
+    2020-07-29,17
+    2020-07-39,16
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+    exponential model is 2.4943 * exp(0.1258 * t) + -1.3924
+    linear model is -3.7787 + 1.4291 * t
+    quadratic model is 1.2955 + -0.0931 * t + 0.0725 * t^2
+    exponential model residue is 294.3915
+    linear model residue is 473.2919
+    quadratic model residue is 324.403
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+    t = 65 for the date 2020-08-10
+    exponential model is 672.9261 * exp(0.0103 * t) + -741.8147
+    simple exponential model is 49.4499 * exp(0.039 * t)
+    linear model is -100.8345 + 9.7236 * t
+    quadratic model is -54.5129 + 5.3809 * t + 0.0668 * t^2
+    exponential model residue is 513024.9
+    linear model residue is 536251.6
+    quadratic model residue is 505232.5
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 579.7052 * exp(0.0517 * t) + -1173.781
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+Purely my own **speculation**, I think the peak is at day 54 or 2020-07-30 (see graph below). **Please take it with a HUGE grain of salt.** *Actually with today's result the peak has move backward to day 65 but the graph below still shows the peak at day 54. This shows that even I cannot accurately predict the future.*
+
+swift model [
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+“date”,”local\_cases”
+
+2020-06-06,0
+
+2020-06-07,1
+
+2020-06-08,1
+
+2020-06-09,0
+
+2020-06-10,4
+
+2020-06-11,6
+
+2020-06-12,2
+
+2020-06-13,2
+
+2020-06-14,6
+
+2020-06-15,11
+
+2020-06-16,7
+
+2020-06-17,6
+
+2020-06-18,12
+
+2020-06-19,12
+
+2020-06-20,24
+
+2020-06-21,15
+
+2020-06-22,12
+
+2020-06-23,16
+
+2020-06-24,19
+
+2020-06-25,23
+
+2020-06-26,25
+
+2020-06-27,40
+
+2020-06-28,49
+
+2020-06-29,74
+
+2020-06-30,64
+
+2020-07-01,70
+
+2020-07-02,77
+
+2020-07-03,65
+
+2020-07-04,108
+
+2020-07-05,73
+
+2020-07-06,127
+
+2020-07-07,191
+
+2020-07-08,134
+
+2020-07-09,165
+
+2020-07-10,288
+
+2020-07-11,216
+
+2020-07-12,273
+
+2020-07-13,176
+
+2020-07-14,270
+
+2020-07-15,238
+
+2020-07-16,317
+
+2020-07-17,428
+
+2020-07-18,216
+
+2020-07-19,363
+
+2020-07-20,275
+
+2020-07-21,374
+
+2020-07-22,484
+
+2020-07-23,403
+
+2020-07-24,300
+
+2020-07-25,357
+
+2020-07-26,459
+
+2020-07-27,532
+
+2020-07-28,384
+
+2020-07-29,295
+
+2020-07-30,723
+
+2020-07-31,627
+
+2020-08-01,397
+
+2020-08-02,671
+
+2020-08-03,429
+
+2020-08-04,439
+
+2020-08-05,725
+
+2020-08-06,471
+
+2020-08-07,450
+
+2020-08-08,466
+
+2020-08-09,394
+
+2020-08-10,322
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+    exponential model is 2.4615 * exp(0.1321 * t) + -1.7278
+    linear model is -43.0195 + 5.5456 * t
+    quadratic model is 20.0236 + -5.5797 * t + 0.3179 * t^2
+    exponential model residue is 12858.8
+    linear model residue is 51758.7
+    quadratic model residue is 17948.6
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 16.3512 * exp(0.137 * t) + -24.4584
+
+Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+    2020-07-06,127
+    2020-07-07,191
+    2020-07-08,134
+    2020-07-09,165
+    2020-07-10,288
+    2020-07-11,216
+++++++++++
+ NSW: graph of daily local cases &amp;#x200B;
+
+
+
+    t = 28 for the date 2020-08-03
+    exponential model is 45804.8943 * exp(0.0 * t) + -45802.5972
+    simple exponential model is 4.7134 * exp(0.0433 * t)
+    linear model is 2.2966 + 0.4837 * t
+    quadratic model is -1.5277 + 1.3336 * t + -0.0304 * t^2
+    exponential model residue is 338.8
+    linear model residue is 338.8
+    quadratic model residue is 234.5
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 125.7261 * exp(0.0428 * t) + -141.5998
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for NSW.
+
+    “date”,”local_cases”
+    2020-07-06,0
+    2020-07-07,1
+    2020-07-08,1
+    2020-07-09,2
+    2020-07-10,1
+    2020-07-11,1
+    2020-07-12,3
+    2020-07-13,8
+    2020-07-14,11
+    2020-07-15,10
+    2020-07-16,6
+    2020-07-17,6
+    2020-07-18,11
+    2020-07-19,13
+    2020-07-20,15
+    2020-07-21,12
+    2020-07-22,15
+    2020-07-23,15
+    2020-07-24,7
+    2020-07-25,9
+    2020-07-26,11
+    2020-07-27,9
+    2020-07-28,12
+    2020-07-29,17
+    2020-07-30,16
+    2020-07-31,18
+    2020-08-01,13
+    2020-08-02,11
+    2020-08-03,9
+++++++++++
+ Why do so many people become triggered when someone compares the current Covid-19 death rate to the 2018-2019 seasonal flu statistics (which has a much higher death rate) ? [deleted]
+++++++++++
+ It's 3AM in the morning and I can't sleep so I say peak56 has been beaten by a straight line It's 3AM in the morning and I can't sleep so I say peak56 has been beaten by a straight line.
+
+Peak56 model has been my main model for the decline in the number of daily cases in Victoria but it has been over comed by a much better model called Linear. In other words it has been beaten by a **Straight Line.**
+
+To illustrate, I would use some graphs. To start with, I used a graph of Victoria Daily cases
+
+&amp;#x200B;
+
+
+
+Next we take a Log scale graph of the Daily Cases
+
+&amp;#x200B;
+
+
+
+We then approximate the with a straight line (indicated by the red line). Remember that this ia a log scale graph.
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Next we convert this back to our normal graph using
+
+linear(t) = exp(10.315902985612235 + -0.06686833778022322 \* t)
+
+And produce this graph
+
+&amp;#x200B;
+
+
+
+Now for the complete Shocker, it predicts **reality** better than peak56 model
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Both peak56 and Linear
+
+&amp;#x200B;
+
+
+
+The Linear model predicts better than peak56 model after August 25 2020. It also explains the **anomaly** on the 3rd September 2020.
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Purely my own speculation, I think the peak is at day 54 or 2020-07-30 (see graph below). Please take it with a HUGE grain of salt. Actually with today's result the peak has move backward to day 56 but the graph below still shows the peak at day 54. This shows that even I cannot accurately predict the future.
+
+swift model [
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+    2020-07-06,127
+    2020-07-07,191
+    2020-07-08,134
+    2020-07-09,165
+    2020-07-10,288
+    2020-07-11,216
+    2020-07-12,273
+    2020-07-13,176
+    2020-07-14,270
+    2020-07-15,238
+    2020-07-16,317
+    2020-07-17,428
+    2020-07-18,216
+    2020-07-19,363
+    2020-07-20,275
+    2020-07-21,374
+    2020-07-22,484
+    2020-07-23,403
+    2020-07-24,300
+    2020-07-25,357
+    2020-07-26,459
+    2020-07-27,532
+    2020-07-28,384
+    2020-07-29,295
+    2020-07-30,723
+    2020-07-31,627
+    2020-08-01,397
+    2020-08-02,671
+    2020-08-03,429
+    2020-08-04,439
+    2020-08-05,725
+    2020-08-06,471
+    2020-08-07,450
+    2020-08-08,466
+    2020-08-09,394
+    2020-08-10,322
+    2020-08-11,331
+    2020-08-12,410
+    2020-08-13,278
+    2020-08-14,372
+    2020-08-15,303
+    2020-08-16,279
+    2020-08-17,282
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+    t = 47 for the date 2020-07-23
+    exponential model is 30.7661 * exp(0.0591 * t) + -49.1944
+    simple exponential model is 11.8643 * exp(0.0781 * t)
+    linear model is -86.8248 + 8.8019 * t
+    quadratic model is 14.1594 + -4.3699 * t + 0.2803 * t^2
+    exponential model residue is 75620.8
+    linear model residue is 179644.6
+    quadratic model residue is 68704.4
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+exponential2 model is 83.6642 \* exp(0.0917 \* t) + -209.2362
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+Purely my own **speculation**, I think the peak is at day 54 or 2020-07-30 (see graph below). **Please take it with a HUGE grain of salt.**
+
+&amp;#x200B;
+
+
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+    2020-07-06,127
+    2020-07-07,191
+    2020-07-08,134
+    2020-07-09,165
+    2020-07-10,288
+    2020-07-11,216
+    2020-07-12,273
+    2020-07-13,176
+    2020-07-14,270
+    2020-07-15,238
+    2020-07-16,317
+    2020-07-17,428
+    2020-07-18,216
+    2020-07-19,363
+    2020-07-20,275
+    2020-07-21,374
+    2020-07-22,484
+    2020-07-23,403
+++++++++++
+ Vic: graph of daily local cases causes PEAK PANIC &amp;#x200B;
+
+
+
+    t = 54 for the date 2020-07-30
+    exponential model is 73.6014 * exp(0.0401 * t) + -103.6781
+    simple exponential model is 20.9342 * exp(0.0612 * t)
+    linear model is -103.1571 + 9.754 * t
+    quadratic model is 0.2133 + -1.9483 * t + 0.2167 * t^2
+    exponential model residue is 204346.9
+    linear model residue is 322979.8
+    quadratic model residue is 191887.0
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 202.4759 * exp(0.0716 * t) + -470.4776
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+Purely my own **speculation**, I think the peak is at day 54 or 2020-07-30 (see graph below). **Please take it with a HUGE grain of salt.** 
+
+Day 54 is TODAY. GEE I WONDER IF WE SEE ANY SIGNS THAT TODAY IS A PEAK? SARCASM. 
+
+*Actually with today's result the peak has move forward to day 61 but the graph below still shows the peak at day 54. This shows that even I cannot accurately predict the future.*
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+    2020-07-06,127
+    2020-07-07,191
+    2020-07-08,134
+    2020-07-09,165
+    2020-07-10,288
+    2020-07-11,216
+    2020-07-12,273
+    2020-07-13,176
+    2020-07-14,270
+    2020-07-15,238
+    2020-07-16,317
+    2020-07-17,428
+    2020-07-18,216
+    2020-07-19,363
+    2020-07-20,275
+    2020-07-21,374
+    2020-07-22,484
+    2020-07-23,403
+    2020-07-24,300
+    2020-07-25,357
+    2020-07-26,459
+    2020-07-27,532
+    2020-07-28,384
+    2020-07-29,295
+    2020-07-30,723
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+    exponential model is 3.1768 * exp(0.1231 * t) + -3.3385
+    linear model is -27.4777 + 4.134 * t
+    quadratic model is 11.1856 + -3.3492 * t + 0.2339 * t^2
+    exponential model residue is 6096.5
+    linear model residue is 19021.6
+    quadratic model residue is 7186.3
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 16.2679 * exp(0.1372 * t) + -24.3841
+
+Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+    2020-07-06,127
+    2020-07-07,191
+    2020-07-08,134
+++++++++++
+ Effect of lockdown on normal flu? Melbourne's lockdown has knocked corona on it's head. I remember it was getting reported that corona was more common than the flu at one point. In that case, are we close to removing the flu as well? Or is there some reservoir population of animals or something that would make us way off. Would this make future flu seasons less severe?
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+    t = 56 for the date 2020-08-01
+    exponential model is 95.5317 * exp(0.0354 * t) + -130.5966
+    simple exponential model is 24.3907 * exp(0.0572 * t)
+    linear model is -107.7175 + 10.0093 * t
+    quadratic model is -4.6612 + -1.2332 * t + 0.2008 * t^2
+    exponential model residue is 241956.6
+    linear model residue is 361228.8
+    quadratic model residue is 226710.0
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 239.2882 * exp(0.0682 * t) + -545.2403
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+Purely my own **speculation**, I think the peak is at day 54 or 2020-07-30 (see graph below). **Please take it with a HUGE grain of salt.** *Actually with today's result the peak has move backwards to day 76 but the graph below still shows the peak at day 54. This shows that even I cannot accurately predict the future.*
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+    2020-07-06,127
+    2020-07-07,191
+    2020-07-08,134
+    2020-07-09,165
+    2020-07-10,288
+    2020-07-11,216
+    2020-07-12,273
+    2020-07-13,176
+    2020-07-14,270
+    2020-07-15,238
+    2020-07-16,317
+    2020-07-17,428
+    2020-07-18,216
+    2020-07-19,363
+    2020-07-20,275
+    2020-07-21,374
+    2020-07-22,484
+    2020-07-23,403
+    2020-07-24,300
+    2020-07-25,357
+    2020-07-26,459
+    2020-07-27,532
+    2020-07-28,384
+    2020-07-29,295
+    2020-07-30,723
+    2020-07-31,627
+    2020-08-01,397
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+    exponential model is 2.7356 * exp(0.1287 * t) + -2.5311
+    linear model is -48.8137 + 6.0422 * t
+    quadratic model is 22.7511 + -6.226 * t + 0.3408 * t^2
+    exponential model residue is 12926.4
+    linear model residue is 63896.4
+    quadratic model residue is 19319.7
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 16.8168 * exp(0.1361 * t) + -25.9704
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+    2020-07-06,127
+    2020-07-07,191
+    2020-07-08,134
+    2020-07-09,165
+    2020-07-10,288
+    2020-07-11,216
+    2020-07-12,273
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+    t = 44 for the date 2020-07-20
+    exponential model is 30.7042 * exp(0.0591 * t) + -49.001
+    linear model is -72.2667 + 7.8303 * t
+    quadratic model is 11.0506 + -3.7954 * t + 0.2642 * t^2
+    exponential model residue is 69074.7
+    linear model residue is 132865.4
+    quadratic model residue is 61473.8
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 57.5647 * exp(0.101 * t) + -143.6244
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+    2020-07-06,127
+    2020-07-07,191
+    2020-07-08,134
+    2020-07-09,165
+    2020-07-10,288
+    2020-07-11,216
+    2020-07-12,273
+    2020-07-13,176
+    2020-07-14,270
+    2020-07-15,238
+    2020-07-16,317
+    2020-07-17,428
+    2020-07-18,216
+    2020-07-19,363
+    2020-07-20,275
+++++++++++
+ makeshift Water drums. These are relatively cheap to buy and would be useful if you don't have an external water tank storage or need some makeshift water storage in a pinch.
+
+ [ 
+
+Plenty of sellers in different states.
+++++++++++
+ PATIENT SURVEY ABOUT TRANSITIONING TO ONLINE THERAPY DUE TO COVID I hope you are keeping well in this uncertain time. In light of the current COVID-19 pandemic, we are interested to hear about your transition to providing online therapy. We are a collaborative team of therapists and researchers from New York Psychoanalytic Institute (NYPSI) and Yeshiva University, New York, USA.
+
+Your responses are anonymous, and the study has been approved by Western Institutional Review Board. The survey should take approximately 15 minutes.
+
+We would really appreciate it if you could fill it out and if you could distribute it to other patients who have transitioned to online therapy during the pandemic.
+
+Link to patient survey: [
+
+Thank you for your help and stay safe!
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+    exponential model is 1.7682 * exp(0.1488 * t) + -0.8684
+    linear model is -13.164 + 2.6593 * t
+    quadratic model is 6.3279 + -2.0187 * t + 0.1799 * t^2
+    exponential model residue is 884.9
+    linear model residue is 3752.4
+    quadratic model residue is 1189.5
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 9.6385 * exp(0.1583 * t) + -8.9495
+
+Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+    t = 38 for the date 2020-07-14
+    exponential model is 8.6888 * exp(0.093 * t) + -15.2434
+    linear model is -53.1 + 6.3899 * t
+    quadratic model is 18.1749 + -5.1682 * t + 0.3042 * t^2
+    exponential model residue is 24883.7
+    linear model residue is 71049.4
+    quadratic model residue is 24829.8
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 23.4642 * exp(0.1259 * t) + -47.2428
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+    2020-07-06,127
+    2020-07-07,191
+    2020-07-08,134
+    2020-07-09,165
+    2020-07-10,288
+    2020-07-11,216
+    2020-07-12,273
+    2020-07-13,176
+    2020-07-14,270
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+    exponential model is 1.0949 * exp(0.1699 * t) + 0.6454
+    linear model is -11.547 + 2.4653 * t
+    quadratic model is 6.1514 + -1.9593 * t + 0.177 * t^2
+    exponential model residue is 788.2
+    linear model residue is 3238.5
+    quadratic model residue is 1186.2
+
+
+
+    exponential2 model is 9.2474 * exp(0.1601 * t) + -8.0421
+
+Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+++++++++++
+ NSW: graph of daily local cases (Still tracking Victoria historical trajectory) &amp;#x200B;
+
+
+
+    t = 12 for the date 2020-07-18
+    exponential model is 1742.0506 * exp(0.0005 * t) + -1742.6939
+    linear model is -0.6484 + 0.8901 * t
+    quadratic model is -0.7143 + 0.9261 * t + -0.003 * t^2
+    exponential model residue is 64.6
+    linear model residue is 64.6
+    quadratic model residue is 64.6
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 8.4971 * exp(0.1807 * t) + -10.8797
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for NSW.
+
+    “date”,”local_cases”
+    2020-07-06,0
+    2020-07-07,1
+    2020-07-08,1
+    2020-07-09,2
+    2020-07-10,1
+    2020-07-11,1
+    2020-07-12,3
+    2020-07-13,8
+    2020-07-14,11
+    2020-07-15,10
+    2020-07-16,6
+    2020-07-17,6
+    2020-07-18,11
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+    t = 64 for the date 2020-08-09
+    exponential model is 407.0042 * exp(0.0149 * t) + -469.2216
+    simple exponential model is 44.4984 * exp(0.0417 * t)
+    linear model is -107.2713 + 10.0253 * t
+    quadratic model is -42.7197 + 3.8775 * t + 0.0961 * t^2
+    exponential model residue is 443172.4
+    linear model residue is 489731.5
+    quadratic model residue is 430322.0
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 514.3915 * exp(0.0538 * t) + -1061.0454
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+Purely my own **speculation**, I think the peak is at day 54 or 2020-07-30 (see graph below). **Please take it with a HUGE grain of salt.** *Actually with today's result the peak has move backward to day 72 but the graph below still shows the peak at day 54. This shows that even I cannot accurately predict the future.*
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+    2020-07-06,127
+    2020-07-07,191
+    2020-07-08,134
+    2020-07-09,165
+    2020-07-10,288
+    2020-07-11,216
+    2020-07-12,273
+    2020-07-13,176
+    2020-07-14,270
+    2020-07-15,238
+    2020-07-16,317
+    2020-07-17,428
+    2020-07-18,216
+    2020-07-19,363
+    2020-07-20,275
+    2020-07-21,374
+    2020-07-22,484
+    2020-07-23,403
+    2020-07-24,300
+    2020-07-25,357
+    2020-07-26,459
+    2020-07-27,532
+    2020-07-28,384
+    2020-07-29,295
+    2020-07-30,723
+    2020-07-31,627
+    2020-08-01,397
+    2020-08-02,671
+    2020-08-03,429
+    2020-08-04,439
+    2020-08-05,725
+    2020-08-06,471
+    2020-08-07,450
+    2020-08-08,466
+    2020-08-09,394
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Purely my own speculation, I think the peak is at day 54 or 2020-07-30 (see graph below). Please take it with a HUGE grain of salt. Actually with today's result the peak has move backward to day 56 but the graph below still shows the peak at day 54. This shows that even I cannot accurately predict the future.
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+    2020-07-06,127
+    2020-07-07,191
+    2020-07-08,134
+    2020-07-09,165
+    2020-07-10,288
+    2020-07-11,216
+    2020-07-12,273
+    2020-07-13,176
+    2020-07-14,270
+    2020-07-15,238
+    2020-07-16,317
+    2020-07-17,428
+    2020-07-18,216
+    2020-07-19,363
+    2020-07-20,275
+    2020-07-21,374
+    2020-07-22,484
+    2020-07-23,403
+    2020-07-24,300
+    2020-07-25,357
+    2020-07-26,459
+    2020-07-27,532
+    2020-07-28,384
+    2020-07-29,295
+    2020-07-30,723
+    2020-07-31,627
+    2020-08-01,397
+    2020-08-02,671
+    2020-08-03,429
+    2020-08-04,439
+    2020-08-05,725
+    2020-08-06,471
+    2020-08-07,450
+    2020-08-08,466
+    2020-08-09,394
+    2020-08-10,322
+    2020-08-11,331
+    2020-08-12,410
+    2020-08-13,278
+    2020-08-14,372
+    2020-08-15,303
+    2020-08-16,279
+    2020-08-17,282
+    2020-08-18,222
+    2020-08-19,216
+    2020-08-20,240
+    2020-08-21,179
+    2020-08-22,182
+    2020-08-23,208
+    2020-08-24,116
+    2020-08-25,148
+    2020-08-26,149
+    2020-08-27,113
+++++++++++
+ Do lockdowns save lives, or purely defer deaths? Anyone with a epidemiology background able to answer this question?
+
+I may be missing something, but how do lockdowns in totality save lives in the long term? Say I were over 70 with multiple comorbidities. I'm not likely to get the virus at the moment due to people staying home. However, when society begins to reopen, how has my risk changed?
+
+Wasnt the intial purpose of these measures to throttle the spread of the virus to avoid treatable deaths due to hosptial overcrowding? Is it a total falacy to be even discussing death rates for a given point of time?
+
+The mitigating factors are obviously a vaccine or drug therapies, however the timeline on these is uncertain.
+++++++++++
+ NSW: graph of daily local cases &amp;#x200B;
+
+
+
+    t = 19 for the date 2020-07-25
+    exponential model is 26643.4533 * exp(0.0 * t) + -26642.9953
+    simple exponential model is 3.2779 * exp(0.0777 * t)
+    linear model is 0.4571 + 0.7256 * t
+    quadratic model is -2.1565 + 1.5968 * t + -0.0459 * t^2
+    exponential model residue is 182.5
+    linear model residue is 182.5
+    quadratic model residue is 145.6
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+    exponential2 model is 34.7703 * exp(0.0921 * t) + -42.6084
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for NSW.
+
+    “date”,”local_cases”
+    2020-07-06,0
+    2020-07-07,1
+    2020-07-08,1
+    2020-07-09,2
+    2020-07-10,1
+    2020-07-11,1
+    2020-07-12,3
+    2020-07-13,8
+    2020-07-14,11
+    2020-07-15,10
+    2020-07-16,6
+    2020-07-17,6
+    2020-07-18,11
+    2020-07-19,13
+    2020-07-20,15
+    2020-07-21,12
+    2020-07-22,15
+    2020-07-23,15
+    2020-07-24,7
+    2020-07-25,9
+++++++++++
+ Question about moving from Vic to WA for study. I will be enrolled at Joondalup Tafe to start my tafe course February 2021, I already have a house to live in ect
+
+I currently live in Melbourne obviously but when I show proof of my study application in a G2G pass which I will, will I be exempt? Obviously would still quarantine
+++++++++++
+ NSW: graph of daily local cases &amp;#x200B;
+
+
+
+    t = 8 for the date 2020-07-14
+    exponential model is 0.0864 * exp(0.6063 * t) + 0.4246
+    linear model is -1.4222 + 1.1333 * t
+    quadratic model is 1.2848 + -1.187 * t + 0.29 * t^2
+    exponential model residue is 6.4
+    linear model residue is 37.8
+    quadratic model residue is 11.9
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 0.3989 * exp(0.5278 * t) + 0.6939
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for NSW.
+
+    “date”,”local_cases”
+    2020-07-06,0
+    2020-07-07,1
+    2020-07-08,1
+    2020-07-09,2
+    2020-07-10,1
+    2020-07-11,1
+    2020-07-12,3
+    2020-07-13,8
+    2020-07-14,11
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+    exponential model is 0.0912 * exp(0.2851 * t) + 4.5237
+    linear model is -8.3233 + 2.0535 * t
+    quadratic model is 5.4196 + -1.6946 * t + 0.163 * t^2
+    exponential model residue is 480.4481
+    linear model residue is 2323.6694
+    quadratic model residue is 1159.1039
+    julia&gt; "The doubling time is $(log(2)/0.2851) days"
+    "The doubling time is 2.431242302911067 days"
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 11.4834 * exp(0.15 * t) + -12.5202
+    julia&gt; "The doubling time is $(log(2)/0.15) days"
+    "The doubling time is 4.620981203732969 days"
+
+Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+    exponential model is 2.1476 * exp(0.128 * t)
+    linear model is -1.4854 + 1.0702 * t
+    quadratic model is -0.5175 + 0.7072 * t + 0.0213 * t^2
+    exponential model residue is 225.3944
+    linear model residue is 195.3918
+    quadratic model residue is 190.6807
+
+Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+    t = 45 for the date 2020-07-21
+    exponential model is 32.3122 * exp(0.0579 * t) + -51.1732
+    linear model is -76.0888 + 8.0909 * t
+    quadratic model is 10.9793 + -3.782 * t + 0.2638 * t^2
+    exponential model residue is 69262.8
+    linear model residue is 140940.9
+    quadratic model residue is 61475.2
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 67.0937 * exp(0.0971 * t) + -168.0248
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+    2020-07-06,127
+    2020-07-07,191
+    2020-07-08,134
+    2020-07-09,165
+    2020-07-10,288
+    2020-07-11,216
+    2020-07-12,273
+    2020-07-13,176
+    2020-07-14,270
+    2020-07-15,238
+    2020-07-16,317
+    2020-07-17,428
+    2020-07-18,216
+    2020-07-19,363
+    2020-07-20,275
+    2020-07-21,374
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Purely my own speculation, I think the peak is at day 54 or 2020-07-30 (see graph below). Please take it with a HUGE grain of salt. Actually with today's result the peak has move backward to day 56 but the graph below still shows the peak at day 54. This shows that even I cannot accurately predict the future.
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+    2020-07-06,127
+    2020-07-07,191
+    2020-07-08,134
+    2020-07-09,165
+    2020-07-10,288
+    2020-07-11,216
+    2020-07-12,273
+    2020-07-13,176
+    2020-07-14,270
+    2020-07-15,238
+    2020-07-16,317
+    2020-07-17,428
+    2020-07-18,216
+    2020-07-19,363
+    2020-07-20,275
+    2020-07-21,374
+    2020-07-22,484
+    2020-07-23,403
+    2020-07-24,300
+    2020-07-25,357
+    2020-07-26,459
+    2020-07-27,532
+    2020-07-28,384
+    2020-07-29,295
+    2020-07-30,723
+    2020-07-31,627
+    2020-08-01,397
+    2020-08-02,671
+    2020-08-03,429
+    2020-08-04,439
+    2020-08-05,725
+    2020-08-06,471
+    2020-08-07,450
+    2020-08-08,466
+    2020-08-09,394
+    2020-08-10,322
+    2020-08-11,331
+    2020-08-12,410
+    2020-08-13,278
+    2020-08-14,372
+    2020-08-15,303
+    2020-08-16,279
+    2020-08-17,282
+    2020-08-18,222
+    2020-08-19,216
+    2020-08-20,240
+    2020-08-21,179
+    2020-08-22,182
+    2020-08-23,208
+    2020-08-24,116
+    2020-08-25,148
+    2020-08-26,149
+    2020-08-27,113
+    2020-08-28,113
+    2020-08-29,94
+    2020-08-30,114
+    2020-08-31,73
+    2020-09-01,70
+    2020-09-02,90
+    2020-09-03,113
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Purely my own speculation, I think the peak is at day 54 or 2020-07-30 (see graph below). Please take it with a HUGE grain of salt. Actually with today's result the peak has move backward to day 56 but the graph below still shows the peak at day 54. This shows that even I cannot accurately predict the future.
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+swift model [
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+    2020-07-06,127
+    2020-07-07,191
+    2020-07-08,134
+    2020-07-09,165
+    2020-07-10,288
+    2020-07-11,216
+    2020-07-12,273
+    2020-07-13,176
+    2020-07-14,270
+    2020-07-15,238
+    2020-07-16,317
+    2020-07-17,428
+    2020-07-18,216
+    2020-07-19,363
+    2020-07-20,275
+    2020-07-21,374
+    2020-07-22,484
+    2020-07-23,403
+    2020-07-24,300
+    2020-07-25,357
+    2020-07-26,459
+    2020-07-27,532
+    2020-07-28,384
+    2020-07-29,295
+    2020-07-30,723
+    2020-07-31,627
+    2020-08-01,397
+    2020-08-02,671
+    2020-08-03,429
+    2020-08-04,439
+    2020-08-05,725
+    2020-08-06,471
+    2020-08-07,450
+    2020-08-08,466
+    2020-08-09,394
+    2020-08-10,322
+    2020-08-11,331
+    2020-08-12,410
+    2020-08-13,278
+    2020-08-14,372
+    2020-08-15,303
+    2020-08-16,279
+    2020-08-17,282
+    2020-08-18,222
+    2020-08-19,216
+    2020-08-20,240
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Purely my own speculation, I think the peak is at day 54 or 2020-07-30 (see graph below). Please take it with a HUGE grain of salt. Actually with today's result the peak has move backward to day 56 but the graph below still shows the peak at day 54. This shows that even I cannot accurately predict the future.
+
+swift model [
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+    2020-07-06,127
+    2020-07-07,191
+    2020-07-08,134
+    2020-07-09,165
+    2020-07-10,288
+    2020-07-11,216
+    2020-07-12,273
+    2020-07-13,176
+    2020-07-14,270
+    2020-07-15,238
+    2020-07-16,317
+    2020-07-17,428
+    2020-07-18,216
+    2020-07-19,363
+    2020-07-20,275
+    2020-07-21,374
+    2020-07-22,484
+    2020-07-23,403
+    2020-07-24,300
+    2020-07-25,357
+    2020-07-26,459
+    2020-07-27,532
+    2020-07-28,384
+    2020-07-29,295
+    2020-07-30,723
+    2020-07-31,627
+    2020-08-01,397
+    2020-08-02,671
+    2020-08-03,429
+    2020-08-04,439
+    2020-08-05,725
+    2020-08-06,471
+    2020-08-07,450
+    2020-08-08,466
+    2020-08-09,394
+    2020-08-10,322
+    2020-08-11,331
+    2020-08-12,410
+    2020-08-13,278
+    2020-08-14,372
+    2020-08-15,303
+    2020-08-16,279
+    2020-08-17,282
+    2020-08-18,222
+    2020-08-19,216
+++++++++++
+ Options for my studying sister Hello everyone,
+
+due to coronavirus outbreak, my sister has lost her job as a waitress in Melbourne. She is studying at Melbourne uni/college and has student visa, but obviously will not be able to pay rent without a job. She is a foreign student originally from Europe. Are there any options for her? Working places, cheap accommodation? Any advice or tips are very appreciated!
+++++++++++
+ Tips for Safely Injecting Sunlight to Cure Covid 1. Use   only pure Sunlight. This is one time where you don't want it cut down   or diluted with cheap additives like Fluorescent or LED. If you have a   vampire around, test it first on them - if they burn up, then you know   you have the good stuff.
+2. Make sure it has both UVA and UVB. ASK YOUR DEALER!
+3. It's okay to share needles provided you push a bit of sunshine through after each injection.
+4. Studies   have shown that singing John Denver songs increases the treatment   efficacy by approximately 34%. Strangely, the song itself doesn't seem   to matter.
+
+Expect there   to be a shortage on pure sunlight in the coming weeks or months. And   there are some states, like Washington, where it might never be   available. But there are still things you can do.
+
+1. If   you are lucky enough to have Full Spectrum Light Bulbs, these will  work  - though it may take several bulbs. If you can fit the bulb in  your  mouth - do so and turn them on for no less than 30 minutes. If  they will  not fit, you can crush them up and ingest them; but be aware  this is  far less effective.
+2. It   is difficult to collect full sunlight but blind studies have show that   one of the most effective collectors happens to be the eyes. While the   sun is fully visible, stare at it for no less than 15 minutes and  repeat  as needed.
+3. Small   amounts of concentrated sunlight can be smoked with good effect. Those   who have combined sunlight with marijuana seem to particularly enjoy  the  result.
+
+As with any Covid-19 treatment, please contact your local politician to see if it is right for you.
+
+EDIT  1: No, refracting light through your hoarded hand sanitizer will not  increase the efficacy of the sunlight. It may, however, kill some ants  depending on how the bottles are aimed. Which, I suppose, could be  helpful if the ants are carrying Covid 19.
+
+EDIT 2: There is no evidence that ants carry or can pass on Covid 19.
+
+EDIT  3: Lorem ipsum dolor sit amet, choro tibique deseruisse te cum, probo  meliore ius id, vix munere eripuit molestie an. Accusam signiferumque  his ei. No duo epicuri assentior, at ius eros elitr mollis. Cu mel posse  referrentur, an enim appetere quo, vel an recusabo tractatos. Per  audire necessitatibus cu, ne qui utamur intellegam.
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+    exponential model is 1.1333 * exp(0.1572 * t) + 2.9556
+    linear model is -39.3095 + 5.2182 * t
+    quadratic model is 19.8623 + -5.5403 * t + 0.3164 * t^2
+    exponential model residue is 10784.0
+    linear model residue is 47040.4
+    quadratic model residue is 17944.0
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 16.1055 * exp(0.1375 * t) + -23.7017
+
+Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+    2020-07-06,127
+    2020-07-07,191
+    2020-07-08,134
+    2020-07-09,165
+    2020-07-10,288
+++++++++++
+ Survey on Transition to Online Therapy I hope you are doing well during these difficult times. In light of the current COVID-19 pandemic, we are interested to hear about your transition to online therapy. We are a collaborative team of  psychotherapists and researchers from New York Psychoanalytic Institute (NYPSI) and Yeshiva University, New York, USA.
+ 
+We would really appreciate it if you could fill out this 15-minute survey. All responses are anonymous, and this study has been approved by the Western Institutional Review Board. 
+ 
+
+ 
+Thank you and keep safe!
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+    t = 37 for the date 2020-07-13
+    exponential model is 7.7041 * exp(0.0966 * t) + -13.4755
+    linear model is -48.9231 + 6.0513 * t
+    quadratic model is 17.5273 + -5.0237 * t + 0.2993 * t^2
+    exponential model residue is 24494.1
+    linear model residue is 63900.9
+    quadratic model residue is 24597.6
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 20.0339 * exp(0.1307 * t) + -36.4546
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+    2020-07-06,127
+    2020-07-07,191
+    2020-07-08,134
+    2020-07-09,165
+    2020-07-10,288
+    2020-07-11,216
+    2020-07-12,273
+    2020-07-13,177
+++++++++++
+ The CoVid Emperor 
+The emperors new cloths are on display in Australia. 
+
+BUT, no one has noticed that ONE OBVIOUS thing. 
+
+Someone YELL NOW!! 
+
+“Its better to get COVID-19 in Australia than the FLU!! 
+
+COVID-19 Stats: 
+- 0.044% death rate (Flu rate 0.07%)
+- 0.07% hospitalization rate (Flu rate 4%)
+
+If we are closing the county now, we should close it EVERY FLU SEASON. 
+
+So WHY does CoVid-19 behave this way in Australia? 
+
+The answer is our AIR QUALITY, our HEALTH, our AGE and our STRESS levels. 
+Facts:
+- 23% of Italians SMOKE (11% in Australia) 
+-  Average age in Italy is 45 (37 in Aus) 
+-  Aus has the 2nd LEAST stressed workers in the world
+- 54 pollution index in Italy. 23 for Australia. 
+
+AUSTRALIA HAS:
+- Better air quality making for better lungs and better health while our immunity systems are ready to fire due to being the 2nd least stressed country in the world. 
+
+ENOUGH is ENOUGH. 
+- Yes you have our attention. 
+- Yes we needed initial drastic action. 
+But the proof is a total of 45 HOSPITALIZATIONS ONLY. 45!!!
+
+Someone YELL OUT NOW! ‘The emperor is naked!’
+
+
+
+Common flu facts in Australia:
+- 2000-3000 deaths per year
+- 300,000 cases
+- 18,000 hospitalizations
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+    t = 67 for the date 2020-08-12
+    exponential model is 1926.2294 * exp(0.0042 * t) + -2003.634
+    simple exponential model is 56.9422 * exp(0.0352 * t)
+    linear model is -91.2404 + 9.2833 * t
+    quadratic model is -71.1658 + 7.4583 * t + 0.0272 * t^2
+    exponential model residue is 588942.0
+    linear model residue is 593214.3
+    quadratic model residue is 587227.9
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 738.2544 * exp(0.0476 * t) + -1435.5986
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+Purely my own **speculation**, I think the peak is at day 54 or 2020-07-30 (see graph below). **Please take it with a HUGE grain of salt.** *Actually with today's result the peak has move backward to day 56 but the graph below still shows the peak at day 54. This shows that even I cannot accurately predict the future.*
+
+swift model [
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+    2020-07-06,127
+    2020-07-07,191
+    2020-07-08,134
+    2020-07-09,165
+    2020-07-10,288
+    2020-07-11,216
+    2020-07-12,273
+    2020-07-13,176
+    2020-07-14,270
+    2020-07-15,238
+    2020-07-16,317
+    2020-07-17,428
+    2020-07-18,216
+    2020-07-19,363
+    2020-07-20,275
+    2020-07-21,374
+    2020-07-22,484
+    2020-07-23,403
+    2020-07-24,300
+    2020-07-25,357
+    2020-07-26,459
+    2020-07-27,532
+    2020-07-28,384
+    2020-07-29,295
+    2020-07-30,723
+    2020-07-31,627
+    2020-08-01,397
+    2020-08-02,671
+    2020-08-03,429
+    2020-08-04,439
+    2020-08-05,725
+    2020-08-06,471
+    2020-08-07,450
+    2020-08-08,466
+    2020-08-09,394
+    2020-08-10,322
+    2020-08-11,331
+    2020-08-12,410
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+t = 57 for the date 2020-08-02
+
+exponential model is 82.4696 \* exp(0.038 \* t) + -114.6796
+
+simple exponential model is 23.8365 \* exp(0.0578 \* t)
+
+linear model is -114.5313 + 10.3744 \* t
+
+quadratic model is -0.4451 + -1.8492 \* t + 0.2144 \* t\^2
+
+exponential model residue is 247552.8
+
+linear model residue is 401656.9
+
+quadratic model residue is 234214.8
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+exponential2 model is 258.216 \* exp(0.0667 \* t) + -583.1583
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+Purely my own **speculation**, I think the peak is at day 54 or 2020-07-30 (see graph below). **Please take it with a HUGE grain of salt.** *Actually with today's result the peak has move forward to day 80 but the graph below still shows the peak at day 54. This shows that even I cannot accurately predict the future.*
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+    2020-07-06,127
+    2020-07-07,191
+    2020-07-08,134
+    2020-07-09,165
+    2020-07-10,288
+    2020-07-11,216
+    2020-07-12,273
+    2020-07-13,176
+    2020-07-14,270
+    2020-07-15,238
+    2020-07-16,317
+    2020-07-17,428
+    2020-07-18,216
+    2020-07-19,363
+    2020-07-20,275
+    2020-07-21,374
+    2020-07-22,484
+    2020-07-23,403
+    2020-07-24,300
+    2020-07-25,357
+    2020-07-26,459
+    2020-07-27,532
+    2020-07-28,384
+    2020-07-29,295
+    2020-07-30,723
+    2020-07-31,627
+    2020-08-01,397
+    2020-08-02,671
+++++++++++
+ Is Vic local cases increasing exponentially? &amp;#x200B;
+
+*Processing img t82wd0g570651...*
+
+exponential model is 0.6767 \* exp(0.243 \* t)
+
+linear model is -2.1333 + 1.2 \* t
+
+quadratic model is 1.4353 + -0.4471 \* t + 0.1176 \* t\^2
+
+The graph above is generate using Julia.
+
+It was generated using the CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+    t = 55 for the date 2020-07-31
+    exponential model is 64.984 * exp(0.0424 * t) + -92.7599
+    simple exponential model is 20.609 * exp(0.0616 * t)
+    linear model is -109.7105 + 10.118 * t
+    quadratic model is 3.8492 + -2.4997 * t + 0.2294 * t^2
+    exponential model residue is 207515.0
+    linear model residue is 357886.1
+    quadratic model residue is 197113.0
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 217.5683 * exp(0.0701 * t) + -501.2831
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+Purely my own **speculation**, I think the peak is at day 54 or 2020-07-30 (see graph below). **Please take it with a HUGE grain of salt.** *Actually with today's result the peak has move back to day 72 but the graph below still shows the peak at day 54. This shows that even I cannot accurately predict the future.*
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+    2020-07-06,127
+    2020-07-07,191
+    2020-07-08,134
+    2020-07-09,165
+    2020-07-10,288
+    2020-07-11,216
+    2020-07-12,273
+    2020-07-13,176
+    2020-07-14,270
+    2020-07-15,238
+    2020-07-16,317
+    2020-07-17,428
+    2020-07-18,216
+    2020-07-19,363
+    2020-07-20,275
+    2020-07-21,374
+    2020-07-22,484
+    2020-07-23,403
+    2020-07-24,300
+    2020-07-25,357
+    2020-07-26,459
+    2020-07-27,532
+    2020-07-28,384
+    2020-07-29,295
+    2020-07-30,723
+    2020-07-31,627
+++++++++++
+ NSW: graph of daily local cases &amp;#x200B;
+
+
+
+    t = 10 for the date 2020-07-16
+    exponential model is 3.5715 * exp(0.1486 * t) + -3.9999
+    linear model is -1.5455 + 1.1818 * t
+    quadratic model is 0.1678 + 0.0396 * t + 0.1142 * t^2
+    exponential model residue is 30.2
+    linear model residue is 38.9
+    quadratic model residue is 27.7
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 2.158 * exp(0.3192 * t) + -2.5891
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for NSW.
+
+    “date”,”local_cases”
+    2020-07-06,0
+    2020-07-07,1
+    2020-07-08,1
+    2020-07-09,2
+    2020-07-10,1
+    2020-07-11,1
+    2020-07-12,3
+    2020-07-13,8
+    2020-07-14,11
+    2020-07-15,10
+    2020-07-16,10
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+    exponential model is 2.2776 * exp(0.1221 * t)
+    linear model is -1.5947 + 1.0895 * t
+    quadratic model is -0.5308 + 0.714 * t + 0.0209 * t^2
+    exponential model residue is 229.1718
+    linear model residue is 196.5947
+    quadratic model residue is 190.6911
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+    t = 49 for the date 2020-07-25
+    exponential model is 62.7912 * exp(0.0433 * t) + -90.7484
+    simple exponential model is 16.9875 * exp(0.0673 * t)
+    linear model is -86.0376 + 8.7509 * t
+    quadratic model is 1.8583 + -2.2361 * t + 0.2242 * t^2
+    exponential model residue is 106345.5
+    linear model residue is 181036.0
+    quadratic model residue is 93924.9
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 112.8886 * exp(0.0846 * t) + -278.2814
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+Here is the source code for generating the models and the graph
+
+[
+
+Purely my own **speculation**, I think the peak is at day 54 or 2020-07-30 (see graph below). **Please take it with a HUGE grain of salt**. *Actually with today's result the peak has move forward to day 52 but the graph below still shows the peak at day 54. This shows that even I cannot accurately predict the future.*
+
+&amp;#x200B;
+
+
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+    2020-07-06,127
+    2020-07-07,191
+    2020-07-08,134
+    2020-07-09,165
+    2020-07-10,288
+    2020-07-11,216
+    2020-07-12,273
+    2020-07-13,176
+    2020-07-14,270
+    2020-07-15,238
+    2020-07-16,317
+    2020-07-17,428
+    2020-07-18,216
+    2020-07-19,363
+    2020-07-20,275
+    2020-07-21,374
+    2020-07-22,484
+    2020-07-23,403
+    2020-07-24,300
+    2020-07-25,357
+++++++++++
+ "20% infection rate" - where did this assumption originally used in the government's predictions come from? I'm interested in learning more about the Australian government's early predictions for the total number of covid-19 deaths. [This SMH article]( from March credits the Morrison Government with a best case scenario of 20% infection rate, leading to ~50,000 deaths if the death rate is ~1%. With the benefit of hindsight, it looks like the estimated death rate was about right but the estimated infection rate was much too high. Is that a fair summary?
+
+My question to this subreddit is does anyone know where those early assumptions came from, particularly the 20% infection rate as the best case scenario? Was it an assumption shared by most epidemiologists at the time? 
+
+Also, please, let's not resort to mindlessly bashing the government or "The Experts" over this. That's not my intention here. But informed criticism and discussion is of course welcome!
+++++++++++
+ NSW: graph of daily local cases &amp;#x200B;
+
+
+
+    t = 22 for the date 2020-07-28
+    exponential model is 46023.192 * exp(0.0 * t) + -46021.7458
+    simple exponential model is 3.9061 * exp(0.058 * t)
+    linear model is 1.4457 + 0.5761 * t
+    quadratic model is -2.1783 + 1.6115 * t + -0.0471 * t^2
+    exponential model residue is 230.1
+    linear model residue is 230.1
+    quadratic model residue is 151.6
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 72.2467 * exp(0.0605 * t) + -84.0582
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for NSW.
+
+    “date”,”local_cases”
+    2020-07-06,0
+    2020-07-07,1
+    2020-07-08,1
+    2020-07-09,2
+    2020-07-10,1
+    2020-07-11,1
+    2020-07-12,3
+    2020-07-13,8
+    2020-07-14,11
+    2020-07-15,10
+    2020-07-16,6
+    2020-07-17,6
+    2020-07-18,11
+    2020-07-19,13
+    2020-07-20,15
+    2020-07-21,12
+    2020-07-22,15
+    2020-07-23,15
+    2020-07-24,7
+    2020-07-25,9
+    2020-07-26,11
+    2020-07-27,9
+    2020-07-28,12
+++++++++++
+ AUSSIE MMO LOCKDOWN RECOMMENDATIONS! So, we’re obviously going to get locked into our homes, and we’re probably all gamer dorks... so other than bitching on a discord, what MMO’S will everyone be cracking into? ...at least we’ll have some social interaction online yeah?
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+    t = 39 for the date 2020-07-15
+    exponential model is 12.9206 * exp(0.0813 * t) + -22.3263
+    linear model is -55.0415 + 6.5432 * t
+    quadratic model is 15.6493 + -4.6185 * t + 0.2862 * t^2
+    exponential model residue is 28359.4
+    linear model residue is 72635.5
+    quadratic model residue is 26183.9
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 28.2353 * exp(0.1205 * t) + -61.6784
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+    2020-07-06,127
+    2020-07-07,191
+    2020-07-08,134
+    2020-07-09,165
+    2020-07-10,288
+    2020-07-11,216
+    2020-07-12,273
+    2020-07-13,176
+    2020-07-14,270
+    2020-07-15,238
+++++++++++
+ NSW: graph of daily local cases &amp;#x200B;
+
+
+
+    t = 15 for the date 2020-07-21
+    exponential model is 47.6309 * exp(0.0178 * t) + -48.293
+    linear model is -0.9559 + 0.9691 * t
+    quadratic model is -0.6189 + 0.8247 * t + 0.0096 * t^2
+    exponential model residue is 75.6
+    linear model residue is 76.1
+    quadratic model residue is 75.6
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 13.3219 * exp(0.147 * t) + -16.8989
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for NSW.
+
+    “date”,”local_cases”
+    2020-07-06,0
+    2020-07-07,1
+    2020-07-08,1
+    2020-07-09,2
+    2020-07-10,1
+    2020-07-11,1
+    2020-07-12,3
+    2020-07-13,8
+    2020-07-14,11
+    2020-07-15,10
+    2020-07-16,6
+    2020-07-17,6
+    2020-07-18,11
+    2020-07-19,13
+    2020-07-20,15
+    2020-07-21,12
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+    t = 40 for the date 2020-07-16
+    exponential model is 12.6163 * exp(0.082 * t) + -21.8348
+    linear model is -60.0383 + 6.9275 * t
+    quadratic model is 17.3411 + -4.977 * t + 0.2976 * t^2
+    exponential model residue is 28374.8
+    linear model residue is 83660.1
+    quadratic model residue is 26819.5
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 32.7127 * exp(0.1162 * t) + -74.7488
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+    2020-07-06,127
+    2020-07-07,191
+    2020-07-08,134
+    2020-07-09,165
+    2020-07-10,288
+    2020-07-11,216
+    2020-07-12,273
+    2020-07-13,176
+    2020-07-14,270
+    2020-07-15,238
+    2020-07-16,317
+++++++++++
+ NSW: graph of daily local cases (still following the Vic trajectory) &amp;#x200B;
+
+
+
+    t = 16 for the date 2020-07-22
+    exponential model is 47.7739 * exp(0.0177 * t) + -48.4363
+    linear model is -1.0 + 0.9779 * t
+    quadratic model is -0.6233 + 0.8273 * t + 0.0094 * t^2
+    exponential model residue is 75.6
+    linear model residue is 76.3
+    quadratic model residue is 75.6
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 15.7275 * exp(0.1361 * t) + -19.9011
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for NSW.
+
+    “date”,”local_cases”
+    2020-07-06,0
+    2020-07-07,1
+    2020-07-08,1
+    2020-07-09,2
+    2020-07-10,1
+    2020-07-11,1
+    2020-07-12,3
+    2020-07-13,8
+    2020-07-14,11
+    2020-07-15,10
+    2020-07-16,6
+    2020-07-17,6
+    2020-07-18,11
+    2020-07-19,13
+    2020-07-20,15
+    2020-07-21,12
+    2020-07-22,15
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+    t = 66 for the date 2020-08-11
+    exponential model is 1190.1992 * exp(0.0064 * t) + -1264.4882
+    simple exponential model is 53.8903 * exp(0.0367 * t)
+    linear model is -94.8446 + 9.4471 * t
+    quadratic model is -64.8606 + 6.6794 * t + 0.0419 * t^2
+    exponential model residue is 568223.9
+    linear model residue is 577745.9
+    quadratic model residue is 564569.9
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 655.5409 * exp(0.0496 * t) + -1300.8928
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+Purely my own **speculation**, I think the peak is at day 54 or 2020-07-30 (see graph below). **Please take it with a HUGE grain of salt.** *Actually with today's result the peak has move backward to day 62 but the graph below still shows the peak at day 54. This shows that even I cannot accurately predict the future.*
+
+swift model [
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+    2020-07-06,127
+    2020-07-07,191
+    2020-07-08,134
+    2020-07-09,165
+    2020-07-10,288
+    2020-07-11,216
+    2020-07-12,273
+    2020-07-13,176
+    2020-07-14,270
+    2020-07-15,238
+    2020-07-16,317
+    2020-07-17,428
+    2020-07-18,216
+    2020-07-19,363
+    2020-07-20,275
+    2020-07-21,374
+    2020-07-22,484
+    2020-07-23,403
+    2020-07-24,300
+    2020-07-25,357
+    2020-07-26,459
+    2020-07-27,532
+    2020-07-28,384
+    2020-07-29,295
+    2020-07-30,723
+    2020-07-31,627
+    2020-08-01,397
+    2020-08-02,671
+    2020-08-03,429
+    2020-08-04,439
+    2020-08-05,725
+    2020-08-06,471
+    2020-08-07,450
+    2020-08-08,466
+    2020-08-09,394
+    2020-08-10,322
+    2020-08-11,331
+++++++++++
+ NSW: graph of daily local cases &amp;#x200B;
+
+
+
+    t = 20 for the date 2020-07-26
+    exponential model is 28326.4616 * exp(0.0 * t) + -28325.6772
+    simple exponential model is 3.4937 * exp(0.0704 * t)
+    linear model is 0.7835 + 0.674 * t
+    quadratic model is -2.1988 + 1.6158 * t + -0.0471 * t^2
+    exponential model residue is 195.4
+    linear model residue is 195.4
+    quadratic model residue is 145.7
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 45.2765 * exp(0.0797 * t) + -54.4914
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for NSW.
+
+    “date”,”local_cases”
+    2020-07-06,0
+    2020-07-07,1
+    2020-07-08,1
+    2020-07-09,2
+    2020-07-10,1
+    2020-07-11,1
+    2020-07-12,3
+    2020-07-13,8
+    2020-07-14,11
+    2020-07-15,10
+    2020-07-16,6
+    2020-07-17,6
+    2020-07-18,11
+    2020-07-19,13
+    2020-07-20,15
+    2020-07-21,12
+    2020-07-22,15
+    2020-07-23,15
+    2020-07-24,7
+    2020-07-25,9
+    2020-07-26,11
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+    t = 50 for the date 2020-07-26
+    exponential model is -137.54 * exp(-149506.6063 * t) + 137.54
+    simple exponential model is 17.4816 * exp(0.0664 * t)
+    linear model is -90.0098 + 8.9941 * t
+    quadratic model is 2.2792 + -2.3066 * t + 0.226 * t^2
+    exponential model residue is 1.0670444e6
+    linear model residue is 191710.4
+    quadratic model residue is 93983.7
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 128.5865 * exp(0.0816 * t) + -313.5894
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+Here is the source code for generating the models and the graph
+
+[
+
+Purely my own speculation, I think the peak is at day 54 or 2020-07-30 (see graph below). Please take it with a HUGE grain of salt. Actually with today's result the peak has move forward to day 52 but the graph below still shows the peak at day 54. This shows that even I cannot accurately predict the future.
+
+&amp;#x200B;
+
+
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+    2020-07-06,127
+    2020-07-07,191
+    2020-07-08,134
+    2020-07-09,165
+    2020-07-10,288
+    2020-07-11,216
+    2020-07-12,273
+    2020-07-13,176
+    2020-07-14,270
+    2020-07-15,238
+    2020-07-16,317
+    2020-07-17,428
+    2020-07-18,216
+    2020-07-19,363
+    2020-07-20,275
+    2020-07-21,374
+    2020-07-22,484
+    2020-07-23,403
+    2020-07-24,300
+    2020-07-25,357
+    2020-07-26,459
+++++++++++
+ NSW: graph of daily local cases &amp;#x200B;
+
+
+
+    t = 21 for the date 2020-07-27
+    exponential model is 39570.6333 * exp(0.0 * t) + -39569.3797
+    simple exponential model is 3.7877 * exp(0.0613 * t)
+    linear model is 1.253 + 0.6036 * t
+    quadratic model is -2.3834 + 1.6945 * t + -0.0519 * t^2
+    exponential model residue is 224.7
+    linear model residue is 224.7
+    quadratic model residue is 148.2
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 58.6287 * exp(0.0686 * t) + -69.2546
+    
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for NSW.
+
+    “date”,”local_cases”
+    2020-07-06,0
+    2020-07-07,1
+    2020-07-08,1
+    2020-07-09,2
+    2020-07-10,1
+    2020-07-11,1
+    2020-07-12,3
+    2020-07-13,8
+    2020-07-14,11
+    2020-07-15,10
+    2020-07-16,6
+    2020-07-17,6
+    2020-07-18,11
+    2020-07-19,13
+    2020-07-20,15
+    2020-07-21,12
+    2020-07-22,15
+    2020-07-23,15
+    2020-07-24,7
+    2020-07-25,9
+    2020-07-26,11
+    2020-07-27,9
+++++++++++
+ NSW: graph of daily local cases People of NSW are jealous that Victorians are getting all the COOL graphs, so they DEMAND I give them COOL graphs too!
+
+&amp;#x200B;
+
+
+
+    t = 7 for the date 2020-07-13
+    exponential model is 0.0008 * exp(1.3003 * t) + 0.9029
+    linear model is -0.5833 + 0.7738 * t
+    quadratic model is 1.0417 + -0.8512 * t + 0.2321 * t^2
+    exponential model residue is 2.2
+    linear model residue is 19.7
+    quadratic model residue is 10.7
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 0.5312 * exp(0.4865 * t) + 0.4139
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for NSW.
+
+    “date”,”local_cases”
+    2020-07-06,0
+    2020-07-07,1
+    2020-07-08,1
+    2020-07-09,2
+    2020-07-10,1
+    2020-07-11,1
+    2020-07-12,3
+    2020-07-13,8
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Purely my own speculation, I think the peak is at day 54 or 2020-07-30 (see graph below). Please take it with a HUGE grain of salt. Actually with today's result the peak has move backward to day 56 but the graph below still shows the peak at day 54. This shows that even I cannot accurately predict the future.
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+    2020-07-06,127
+    2020-07-07,191
+    2020-07-08,134
+    2020-07-09,165
+    2020-07-10,288
+    2020-07-11,216
+    2020-07-12,273
+    2020-07-13,176
+    2020-07-14,270
+    2020-07-15,238
+    2020-07-16,317
+    2020-07-17,428
+    2020-07-18,216
+    2020-07-19,363
+    2020-07-20,275
+    2020-07-21,374
+    2020-07-22,484
+    2020-07-23,403
+    2020-07-24,300
+    2020-07-25,357
+    2020-07-26,459
+    2020-07-27,532
+    2020-07-28,384
+    2020-07-29,295
+    2020-07-30,723
+    2020-07-31,627
+    2020-08-01,397
+    2020-08-02,671
+    2020-08-03,429
+    2020-08-04,439
+    2020-08-05,725
+    2020-08-06,471
+    2020-08-07,450
+    2020-08-08,466
+    2020-08-09,394
+    2020-08-10,322
+    2020-08-11,331
+    2020-08-12,410
+    2020-08-13,278
+    2020-08-14,372
+    2020-08-15,303
+    2020-08-16,279
+    2020-08-17,282
+    2020-08-18,222
+    2020-08-19,216
+    2020-08-20,240
+    2020-08-21,179
+    2020-08-22,182
+    2020-08-23,208
+    2020-08-24,116
+    2020-08-25,148
+    2020-08-26,149
+    2020-08-27,113
+    2020-08-28,113
+    2020-08-29,94
+    2020-08-30,114
+    2020-08-31,73
+    2020-09-01,70
+    2020-09-02,90
+    2020-09-03,113
+    2020-09-04,81
+    2020-09-05,76
+    2020-09-06,63
+    2020-09-07,41
+    2020-09-08,55
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+    exponential model is 6.4975 * exp(0.0959 * t) + -8.6245
+    linear model is -16.5204 + 3.0336 * t
+    quadratic model is 4.6476 + -1.5024 * t + 0.1564 * t^2
+    exponential model residue is 2486.5
+    linear model residue is 5612.4
+    quadratic model residue is 2327.9
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 15.011 * exp(0.1402 * t) + -21.4177
+    Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+    t = 42 for the date 2020-07-18
+    exponential model is 19.1812 * exp(0.071 * t) + -32.5599
+    linear model is -67.5465 + 7.4934 * t
+    quadratic model is 15.8386 + -4.7093 * t + 0.2905 * t^2
+    exponential model residue is 57848.4
+    linear model residue is 122152.7
+    quadratic model residue is 53397.2
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 41.7077 * exp(0.1095 * t) + -100.6546
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+    2020-07-06,127
+    2020-07-07,191
+    2020-07-08,134
+    2020-07-09,165
+    2020-07-10,288
+    2020-07-11,216
+    2020-07-12,273
+    2020-07-13,176
+    2020-07-14,270
+    2020-07-15,238
+    2020-07-16,317
+    2020-07-17,428
+    2020-07-18,216
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+    exponential model is 4.1233 * exp(0.1131 * t) + -4.9667
+    linear model is -13.5714 + 2.7063 * t
+    quadratic model is 4.8879 + -1.5535 * t + 0.1578 * t^2
+    exponential model residue is 1432.6
+    linear model residue is 3787.4
+    quadratic model residue is 1422.6
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 11.4888 * exp(0.1509 * t) + -13.2651
+
+Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+++++++++++
+ NSW: graph of daily local cases &amp;#x200B;
+
+
+
+    t = 14 for the date 2020-07-20
+    exponential model is 10.6084 * exp(0.0611 * t) + -10.9059
+    linear model is -1.1667 + 1.0143 * t
+    quadratic model is -0.2353 + 0.5844 * t + 0.0307 * t^2
+    exponential model residue is 69.0
+    linear model residue is 72.9
+    quadratic model residue is 69.0
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+exponential2 model is 10.9067 \* exp(0.161 \* t) + -13.8636
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for NSW.
+
+    “date”,”local_cases”
+    2020-07-06,0
+    2020-07-07,1
+    2020-07-08,1
+    2020-07-09,2
+    2020-07-10,1
+    2020-07-11,1
+    2020-07-12,3
+    2020-07-13,8
+    2020-07-14,11
+    2020-07-15,10
+    2020-07-16,6
+    2020-07-17,6
+    2020-07-18,11
+    2020-07-19,13
+    2020-07-20,15
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+    exponential model is 2.1318 * exp(0.1281 * t)
+    linear model is -2.1857 + 1.188 * t
+    quadratic model is 0.0091 + 0.4564 * t + 0.0385 * t^2
+    exponential model residue is 233.9933
+    linear model residue is 235.3038
+    quadratic model residue is 209.2741
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,26
+++++++++++
+ VIC: A New Hope &amp;#x200B;
+
+
+
+    exponential model is 2.1518 * exp(0.126 * t)
+    linear model is -1.0784 + 0.9877 * t
+    quadratic model is -0.7637 + 0.8618 * t + 0.0079 * t^2
+    exponential model residue is 287.5820495132549
+    linear model residue is 252.40931372549022
+    quadratic model residue is 251.92930856553147
+
+Everyone, there is a new hope. Today is 22nd June 2020 and the number of local cases for victoria is **7** (and not 12 as a lot of people are let to believe)
+
+How do I know the number of non-overseas cases for victoria is **7**. We know that today we have 4 overseas cases. Next from this website [ 
+
+We see that yesterday (june 21) the cumulative cases for Victoria is 1836 and today (june 22) the cumulative cases for Victoria is 1847 and so the daily increase is 1847 - 1836 = 11 new cases.
+
+Next we subtract the 4 overseas cases from 11 to arrive at **7** local cases.
+
+Here is the Julia source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,7
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+    t = 60 for the date 2020-08-05
+    exponential model is 127.8146 * exp(0.0305 * t) + -168.5536
+    simple exponential model is 29.9609 * exp(0.0518 * t)
+    linear model is -117.9392 + 10.5428 * t
+    quadratic model is -10.89 + -0.3436 * t + 0.1814 * t^2
+    exponential model residue is 317846.3
+    linear model residue is 454888.7
+    quadratic model residue is 300627.9
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+exponential2 model is 341.8371 \* exp(0.0612 \* t) + -745.9722
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+Purely my own **speculation**, I think the peak is at day 54 or 2020-07-30 (see graph below). **Please take it with a HUGE grain of salt.** *Actually with today's result the peak has move backward to day 82 but the graph below still shows the peak at day 54. This shows that even I cannot accurately predict the future.*
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+    2020-07-06,127
+    2020-07-07,191
+    2020-07-08,134
+    2020-07-09,165
+    2020-07-10,288
+    2020-07-11,216
+    2020-07-12,273
+    2020-07-13,176
+    2020-07-14,270
+    2020-07-15,238
+    2020-07-16,317
+    2020-07-17,428
+    2020-07-18,216
+    2020-07-19,363
+    2020-07-20,275
+    2020-07-21,374
+    2020-07-22,484
+    2020-07-23,403
+    2020-07-24,300
+    2020-07-25,357
+    2020-07-26,459
+    2020-07-27,532
+    2020-07-28,384
+    2020-07-29,295
+    2020-07-30,723
+    2020-07-31,627
+    2020-08-01,397
+    2020-08-02,671
+    2020-08-03,429
+    2020-08-04,439
+    2020-08-05,725
+++++++++++
+ NSW: graph of daily local cases &amp;#x200B;
+
+
+
+    t = 13 for the date 2020-07-19
+    exponential model is 24.5353 * exp(0.0314 * t) + -25.0479
+    linear model is -0.8857 + 0.9495 * t
+    quadratic model is -0.4571 + 0.7352 * t + 0.0165 * t^2
+    exponential model residue is 67.1
+    linear model residue is 67.8
+    quadratic model residue is 67.0
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 10.0068 * exp(0.1674 * t) + -12.7389
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for NSW.
+
+    “date”,”local_cases”
+    2020-07-06,0
+    2020-07-07,1
+    2020-07-08,1
+    2020-07-09,2
+    2020-07-10,1
+    2020-07-11,1
+    2020-07-12,3
+    2020-07-13,8
+    2020-07-14,11
+    2020-07-15,10
+    2020-07-16,6
+    2020-07-17,6
+    2020-07-18,11
+    2020-07-19,13
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+t = 58 for the date 2020-08-03
+
+exponential model is 115.7942 \* exp(0.0321 \* t) + -154.7705
+
+simple exponential model is 27.5447 \* exp(0.054 \* t)
+
+linear model is -112.6576 + 10.2757 \* t
+
+quadratic model is -8.636 + -0.6739 \* t + 0.1888 \* t\^2
+
+exponential model residue is 280534.2
+
+linear model residue is 404818.3
+
+quadratic model residue is 263464.3
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+exponential2 model is 283.6726 \* exp(0.0648 \* t) + -633.6058
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+Here is the source code for generating the models and the graph
+
+[
+
+Purely my own **speculation**, I think the peak is at day 54 or 2020-07-30 (see graph below). **Please take it with a HUGE grain of salt.** *Actually with today's result the peak has move backward to day 77 but the graph below still shows the peak at day 54. This shows that even I cannot accurately predict the future.*
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+“date”,”local\_cases”
+
+2020-06-06,0
+
+2020-06-07,1
+
+2020-06-08,1
+
+2020-06-09,0
+
+2020-06-10,4
+
+2020-06-11,6
+
+2020-06-12,2
+
+2020-06-13,2
+
+2020-06-14,6
+
+2020-06-15,11
+
+2020-06-16,7
+
+2020-06-17,6
+
+2020-06-18,12
+
+2020-06-19,12
+
+2020-06-20,24
+
+2020-06-21,15
+
+2020-06-22,12
+
+2020-06-23,16
+
+2020-06-24,19
+
+2020-06-25,23
+
+2020-06-26,25
+
+2020-06-27,40
+
+2020-06-28,49
+
+2020-06-29,74
+
+2020-06-30,64
+
+2020-07-01,70
+
+2020-07-02,77
+
+2020-07-03,65
+
+2020-07-04,108
+
+2020-07-05,73
+
+2020-07-06,127
+
+2020-07-07,191
+
+2020-07-08,134
+
+2020-07-09,165
+
+2020-07-10,288
+
+2020-07-11,216
+
+2020-07-12,273
+
+2020-07-13,176
+
+2020-07-14,270
+
+2020-07-15,238
+
+2020-07-16,317
+
+2020-07-17,428
+
+2020-07-18,216
+
+2020-07-19,363
+
+2020-07-20,275
+
+2020-07-21,374
+
+2020-07-22,484
+
+2020-07-23,403
+
+2020-07-24,300
+
+2020-07-25,357
+
+2020-07-26,459
+
+2020-07-27,532
+
+2020-07-28,384
+
+2020-07-29,295
+
+2020-07-30,723
+
+2020-07-31,627
+
+2020-08-01,397
+
+2020-08-02,671
+
+2020-08-03,429
+++++++++++
+ Victoria testing less than half as much as NSW and QLD. Any sources why? And if journos are lurking, please ask Daniel Andrews why.
+
+Victoria's testing rate per thousand people is less than half the rate of tests being done in NSW and Qld, while our positive rate is higher than either state (see daily case tracker thread). Are we running out of tests in Vic? 
+
+I feel like Victoria's case numbers will rocket up when the new test kits arrive in the coming days. This current blind spot may be the reason for Andrews leading the nation with much needed lockdown measures.
+
+Any thoughts?
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+    t = 48 for the date 2020-07-24
+    exponential model is 49.1269 * exp(0.0486 * t) + -73.7979
+    simple exponential model is 14.9564 * exp(0.0711 * t)
+    linear model is -85.4563 + 8.7146 * t
+    quadratic model is 6.3677 + -3.0076 * t + 0.2442 * t^2
+    exponential model residue is 98687.6
+    linear model residue is 180816.1
+    quadratic model residue is 87417.7
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 97.0069 * exp(0.0881 * t) + -241.3879
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+Purely my own **speculation**, I think the peak is at day 54 or 2020-07-30 (see graph below). **Please take it with a HUGE grain of salt.** *Actually with today's result the peak has move forward to day 50 but the graph below still shows the peak at day 54. This shows that even I cannot accurately predict the future.*
+
+&amp;#x200B;
+
+
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+    2020-07-06,127
+    2020-07-07,191
+    2020-07-08,134
+    2020-07-09,165
+    2020-07-10,288
+    2020-07-11,216
+    2020-07-12,273
+    2020-07-13,176
+    2020-07-14,270
+    2020-07-15,238
+    2020-07-16,317
+    2020-07-17,428
+    2020-07-18,216
+    2020-07-19,363
+    2020-07-20,275
+    2020-07-21,374
+    2020-07-22,484
+    2020-07-23,403
+    2020-07-24,300
+++++++++++
+ What infection rate for effective herd immunity? Vaccination rate of 90-95% for measles. 
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+    t = 68 for the date 2020-08-13
+    exponential model is 24062.2968 * exp(0.0004 * t) + -24145.0212
+    simple exponential model is 61.6949 * exp(0.033 * t)
+    linear model is -83.971 + 8.9578 * t
+    quadratic model is -82.1502 + 8.7947 * t + 0.0024 * t^2
+    exponential model residue is 657941.6
+    linear model residue is 657975.9
+    quadratic model residue is 657926.0
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 834.244 * exp(0.0456 * t) + -1587.5697
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+Purely my own **speculation**, I think the peak is at day 54 or 2020-07-30 (see graph below). **Please take it with a HUGE grain of salt.** *Actually with today's result the peak has move backward to day 56 but the graph below still shows the peak at day 54. This shows that even I cannot accurately predict the future.*
+
+swift model [
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+    2020-07-06,127
+    2020-07-07,191
+    2020-07-08,134
+    2020-07-09,165
+    2020-07-10,288
+    2020-07-11,216
+    2020-07-12,273
+    2020-07-13,176
+    2020-07-14,270
+    2020-07-15,238
+    2020-07-16,317
+    2020-07-17,428
+    2020-07-18,216
+    2020-07-19,363
+    2020-07-20,275
+    2020-07-21,374
+    2020-07-22,484
+    2020-07-23,403
+    2020-07-24,300
+    2020-07-25,357
+    2020-07-26,459
+    2020-07-27,532
+    2020-07-28,384
+    2020-07-29,295
+    2020-07-30,723
+    2020-07-31,627
+    2020-08-01,397
+    2020-08-02,671
+    2020-08-03,429
+    2020-08-04,439
+    2020-08-05,725
+    2020-08-06,471
+    2020-08-07,450
+    2020-08-08,466
+    2020-08-09,394
+    2020-08-10,322
+    2020-08-11,331
+    2020-08-12,410
+    2020-08-13,278
+++++++++++
+ Coronovirus Calculator Shows past and current growth rates and forecast numbers based on current growth rates if no new measures are introduced and growth rates stay steady. Tabs at the bottom for different countries.
+
+[
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+    t = 59 for the date 2020-08-04
+    exponential model is 153.8282 * exp(0.0276 * t) + -198.2498
+    simple exponential model is 30.9193 * exp(0.051 * t)
+    linear model is -110.9268 + 10.1862 * t
+    quadratic model is -16.0562 + 0.372 * t + 0.1663 * t^2
+    exponential model residue is 306198.2
+    linear model residue is 407606.7
+    quadratic model residue is 288239.2
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 314.8728 * exp(0.0628 * t) + -694.3198
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+Purely my own **speculation**, I think the peak is at day 54 or 2020-07-30 (see graph below). **Please take it with a HUGE grain of salt.** *Actually with today's result the peak has move backward to day 74 but the graph below still shows the peak at day 54. This shows that even I cannot accurately predict the future.*
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+    2020-07-06,127
+    2020-07-07,191
+    2020-07-08,134
+    2020-07-09,165
+    2020-07-10,288
+    2020-07-11,216
+    2020-07-12,273
+    2020-07-13,176
+    2020-07-14,270
+    2020-07-15,238
+    2020-07-16,317
+    2020-07-17,428
+    2020-07-18,216
+    2020-07-19,363
+    2020-07-20,275
+    2020-07-21,374
+    2020-07-22,484
+    2020-07-23,403
+    2020-07-24,300
+    2020-07-25,357
+    2020-07-26,459
+    2020-07-27,532
+    2020-07-28,384
+    2020-07-29,295
+    2020-07-30,723
+    2020-07-31,627
+    2020-08-01,397
+    2020-08-02,671
+    2020-08-03,429
+    2020-08-04,439
+++++++++++
+ Rate the lockdown All non Melbourne metro Australia’s. How would you rate the current Melbourne metro lock down. 
+
+0 being to relaxed 10 Being to harsh
+
+And why?
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+    t = 62 for the date 2020-08-07
+    exponential model is 222.8341 * exp(0.0222 * t) + -274.7127
+    simple exponential model is 37.0513 * exp(0.0464 * t)
+    linear model is -113.7872 + 10.3372 * t
+    quadratic model is -26.1799 + 1.7201 * t + 0.139 * t^2
+    exponential model residue is 375491.7
+    linear model residue is 463979.0
+    quadratic model residue is 357608.2
+    
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 414.6914 * exp(0.0576 * t) + -882.2802
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+Purely my own **speculation**, I think the peak is at day 54 or 2020-07-30 (see graph below). **Please take it with a HUGE grain of salt.** *Actually with today's result the peak has move backward to day 76 but the graph below still shows the peak at day 54. This shows that even I cannot accurately predict the future.*
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+    2020-07-06,127
+    2020-07-07,191
+    2020-07-08,134
+    2020-07-09,165
+    2020-07-10,288
+    2020-07-11,216
+    2020-07-12,273
+    2020-07-13,176
+    2020-07-14,270
+    2020-07-15,238
+    2020-07-16,317
+    2020-07-17,428
+    2020-07-18,216
+    2020-07-19,363
+    2020-07-20,275
+    2020-07-21,374
+    2020-07-22,484
+    2020-07-23,403
+    2020-07-24,300
+    2020-07-25,357
+    2020-07-26,459
+    2020-07-27,532
+    2020-07-28,384
+    2020-07-29,295
+    2020-07-30,723
+    2020-07-31,627
+    2020-08-01,397
+    2020-08-02,671
+    2020-08-03,429
+    2020-08-04,439
+    2020-08-05,725
+    2020-08-06,471
+    2020-08-07,450
+++++++++++
+ Simple graph showing death rate per thousand over time? I am finding it very frustrating that there does not seem to be a source of information available to answer and monitor the very basic question of “what is Australia’s Covid-19 death rate per thousand people over time”.
+Am I missing something obvious or my search skills are not up to scratch?
+If anyone can help with this I’d appreciate it.
+(Note that I’m not asking for increase in cases or current totals dead per demographic. Just the death rate as a percentage of population over time).
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+    t = 52 for the date 2020-07-28
+    exponential model is 74.879 * exp(0.0399 * t) + -105.6975
+    simple exponential model is 19.8953 * exp(0.0627 * t)
+    linear model is -95.7128 + 9.3366 * t
+    quadratic model is -0.6036 + -1.8528 * t + 0.2152 * t^2
+    exponential model residue is 122667.9
+    linear model residue is 216423.1
+    quadratic model residue is 109040.5
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 160.7701 * exp(0.0766 * t) + -383.743
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+Purely my own **speculation**, I think the peak is at day 54 or 2020-07-30 (see graph below). **Please take it with a HUGE grain of salt.** *Actually with today's result the peak has move forward to day 57 but the graph below still shows the peak at day 54. This shows that even I cannot accurately predict the future.*
+
+&amp;#x200B;
+
+
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+    2020-07-06,127
+    2020-07-07,191
+    2020-07-08,134
+    2020-07-09,165
+    2020-07-10,288
+    2020-07-11,216
+    2020-07-12,273
+    2020-07-13,176
+    2020-07-14,270
+    2020-07-15,238
+    2020-07-16,317
+    2020-07-17,428
+    2020-07-18,216
+    2020-07-19,363
+    2020-07-20,275
+    2020-07-21,374
+    2020-07-22,484
+    2020-07-23,403
+    2020-07-24,300
+    2020-07-25,357
+    2020-07-26,459
+    2020-07-27,532
+    2020-07-28,384
+++++++++++
+ Is Vic local cases increasing exponentially? You decide! Is Vic local cases increasing exponentially? You decide!
+
+**I am not going to make any analysis**. Here is the CSV data for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+    exponential model is 3.953 * exp(0.1156 * t) + -4.9701
+    linear model is -30.4924 + 4.4167 * t
+    quadratic model is 11.8577 + -3.524 * t + 0.2406 * t^2
+    exponential model residue is 6248.7
+    linear model residue is 21809.9
+    quadratic model residue is 7257.8
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 17.4947 * exp(0.1347 * t) + -27.6326
+
+Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+    2020-07-06,127
+    2020-07-07,191
+    2020-07-08,134
+    2020-07-09,165
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Purely my own **speculation**, I think the peak is at day 54 or 2020-07-30 (see graph below). **Please take it with a HUGE grain of salt.** *Actually with today's result the peak has move backward to day 56 but the graph below still shows the peak at day 54. This shows that even I cannot accurately predict the future.*
+
+swift model [
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+    2020-07-06,127
+    2020-07-07,191
+    2020-07-08,134
+    2020-07-09,165
+    2020-07-10,288
+    2020-07-11,216
+    2020-07-12,273
+    2020-07-13,176
+    2020-07-14,270
+    2020-07-15,238
+    2020-07-16,317
+    2020-07-17,428
+    2020-07-18,216
+    2020-07-19,363
+    2020-07-20,275
+    2020-07-21,374
+    2020-07-22,484
+    2020-07-23,403
+    2020-07-24,300
+    2020-07-25,357
+    2020-07-26,459
+    2020-07-27,532
+    2020-07-28,384
+    2020-07-29,295
+    2020-07-30,723
+    2020-07-31,627
+    2020-08-01,397
+    2020-08-02,671
+    2020-08-03,429
+    2020-08-04,439
+    2020-08-05,725
+    2020-08-06,471
+    2020-08-07,450
+    2020-08-08,466
+    2020-08-09,394
+    2020-08-10,322
+    2020-08-11,331
+    2020-08-12,410
+    2020-08-13,278
+    2020-08-14,372
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+    t = 63 for the date 2020-08-08
+    exponential model is 284.7773 * exp(0.0191 * t) + -341.1321
+    simple exponential model is 40.3059 * exp(0.0443 * t)
+    linear model is -111.6572 + 10.2342 * t
+    quadratic model is -33.115 + 2.6333 * t + 0.1206 * t^2
+    exponential model residue is 398306.2
+    linear model residue is 468773.5
+    quadratic model residue is 382049.1
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 460.2697 * exp(0.0558 * t) + -965.0604
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+Purely my own **speculation**, I think the peak is at day 54 or 2020-07-30 (see graph below). **Please take it with a HUGE grain of salt.** *Actually with today's result the peak has move backward to day 74 but the graph below still shows the peak at day 54. This shows that even I cannot accurately predict the future.*
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+    2020-07-06,127
+    2020-07-07,191
+    2020-07-08,134
+    2020-07-09,165
+    2020-07-10,288
+    2020-07-11,216
+    2020-07-12,273
+    2020-07-13,176
+    2020-07-14,270
+    2020-07-15,238
+    2020-07-16,317
+    2020-07-17,428
+    2020-07-18,216
+    2020-07-19,363
+    2020-07-20,275
+    2020-07-21,374
+    2020-07-22,484
+    2020-07-23,403
+    2020-07-24,300
+    2020-07-25,357
+    2020-07-26,459
+    2020-07-27,532
+    2020-07-28,384
+    2020-07-29,295
+    2020-07-30,723
+    2020-07-31,627
+    2020-08-01,397
+    2020-08-02,671
+    2020-08-03,429
+    2020-08-04,439
+    2020-08-05,725
+    2020-08-06,471
+    2020-08-07,450
+    2020-08-08,466
+++++++++++
+ Death rate USA vs AUS So I just did a quick calculation on current COVID death rates per infections of USA vs Australia. The USA has a death rate percentage of 0.03 while Australia’s death rate is 0.008.
+
+Why such a difference or are we still a couple of weeks behind and it may get worse?
+++++++++++
+ This graph is amazing. It shows that measuring #SARSCoV2 levels in municipal sewage almost perfectly predicts forthcoming #COVID19 cases with a full week's notice (R=0.994). It's one of several discoveries in this new study from @Yale 

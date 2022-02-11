@@ -1,0 +1,53 @@
+
+++++++++++
+ Canadian Technology to Detect COVID-19 In The Air: "BioCloud, an unobtrusive wall-mounted technology which detects the presence of COVID-19 in the air and triggers an alert system" 
+++++++++++
+ Don't take Advil for the fever - take Tylenol instead  [
+++++++++++
+ U of G develops a low cost way of mass testing for Covid-19  [
+++++++++++
+ Covid-19 Death Rate Ranking | TOP 10 Country (Updated on 30 Jul 2020) 
+++++++++++
+ Impacts of COVID-19 on Canadians: Experiences of Discrimination / Répercussions de la COVID-19 sur les Canadiens – Expérience de la discrimination *\[We are Canada’s national statistical agency. We are here to engage with Canadians and provide them with high-quality statistical information that matters!\]*
+
+Discrimination—it happens in Canada too. To make significant changes, we need up-to-date facts! 
+
+Have you experienced discrimination based on race, sex, gender identity or expression, ethnicity, religion, sexual orientation, age, disability or language? Has this changed during the COVID-19 pandemic? 
+
+Complete our questionnaire—[Impacts of COVID-19 on Canadians: Experiences of Discrimination]( The results will benefit people and communities across Canada. 
+
+\*\*\*
+
+*\[Nous sommes l’organisme national de statistique du Canada. Nous sommes ici pour discuter avec les Canadiens et leur fournir des renseignements statistiques de grande qualité qui comptent!\]*
+
+La discrimination est présente au Canada aussi. Pour effectuer des changements importants, il nous faut des faits à jour! 
+
+Avez-vous été victime de discrimination fondée sur la race, le sexe, l’identité ou l’expression de genre, l’origine ethnique, la religion, l’orientation sexuelle, l’âge, l’incapacité ou la langue? Cela a-t-il changé au cours de la pandémie de COVID-19?
+
+Remplissez notre questionnaire :[Répercussions de la COVID-19 sur les Canadiens – Expérience de la discrimination]( Les résultats bénéficieront aux gens et aux communautés de partout au Canada.
+++++++++++
+ Update on Policy and Developments in Canada Since WHO declared pandemic status &gt;Retired lieutenant-general and former Liberal MP Andrew Leslie says the reality is that the current situation has many similarities to a traditional war
+
+[What's happened in Canada since the WHO declared COVID-19 a pandemic](
+++++++++++
+ Covid-19 Trends and Layman's explanation of logarithmic scales One of my favourite subscriptions ([minutephysics]( did a 2-minute explanation on logarithmic scales. Very interesting as it relates to covid-19 and how to understand the trajectory of the disease. Here is the site that he used to plot the trajectory   
+
+[Extracted from   ](
+++++++++++
+ Covid-19 Death Rate: 7% or 18%? Why is the death rate calculated as (total deaths / total cases) and not (total deaths / closed cases) ??
+
+Because all active cases will have one of two outcomes: recovered or dead. And when eventually the virus is stopped and no new cases are recorded, all active cases will be closed with one of the two outcomes. This means calculating the death rate in closed cases is more accurate (which would be 18% from [
+
+Am I missing something here??
+++++++++++
+ Childrens' COVID severe outcome tracking in Canada I understand that this is not a very positive topic but I wanted to create this thread as there are some worrying trends in the data that point to more cases than we know about.
+
+Firstly, there are sporadic reports of MIS-C and there doesn't seem to be anyone tracking these cases.
+
+Secondly, the deaths are not being reported officially in a timely manner.  We know one death occurred in August a [19 year old in Quebec]( however, that death is not reflected in the official numbers.  Data from [ shows an additional 2-3 deaths in Quebec in 2-17 year olds from April/May posted in the past week and 1 MIS-C case in Alberta.  Ontario has a report of a child who died [with COVID but not of COVID](  There have been reports of children drowning in the bathtub from febrile seizures in the US with diagnosed/undiagnosed COVID.  There is also [an official death in a child with COVID in Ontario]( the only death in the National system and the report goes to great lengths to ensure all we know is the child was under 10.
+
+With all this data, there could be 4-6 deaths in children under 20 in Canada with close to 11,000 positive tests.
+
+The public needs to know what the real story is here so if anyone has any further insight or links to articles, please post it.
+++++++++++
+ Staggering 480 new Manitoba cases Friday, code red coming to Winnipeg [

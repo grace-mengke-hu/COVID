@@ -1,0 +1,1066 @@
+
+++++++++++
+ Daily Tests/Positive Ratio 24th Sept Daily 0.09% positivity ratio, 12 cases on 13337 Test results  
+14 Day Avg: 0.24%, 30 Cases, 12803 Tests
+
+&amp;#x200B;
+
+
+
+Note: I do this on the actual new cases / the number of reported tests. Some other places do it on the 'net new' cases. I prefer this way, as this is the daily snapshot - The *actual* number of positives from the previous 24 hours vs the *actual* number of tests processed. Reclassified numbers could have been from any time. This way will give slightly higher ratios, and is pessimistic about the 14d average. These are the state wide gross numbers - DHHS seem to be a bit of a black box in how they get their averages. It's important you, the reader, understand these points for yourself. A positivity ratio of 1% does not imply that 1% of the wider population is infected - the tests are not of a random sample of the population.
+++++++++++
+ Tested positive for COVID-19? Here's what happens next – and why day 5 is crucial 
+++++++++++
+ Testing and Detection - broader random samples? Sewerage testing per suburb? Batch testing? I read that there is a suspected actual asymptomatic community infection rate of 10 times the number of detected cases. If this is the case in Victoria, right now, there could be around 40,000 cases spreading around in the community. 
+
+**Batch Testing:**
+
+In China they do "batch testing" where they combine the swab samples of 10-20 people and test as one test... if positive they then test each of them individually. Now that the numbers are looking like they are taking off, would this form of wider sampling be any good to identify new clusters? they could put together a small army of sample collectors to hit the suburbs and keep going around and around until the numbers come right down.
+
+**Sewerage Testing:**
+
+Each suburb has got main sewer lines where it all goes before getting pumped off to be treated... if they got a detailed map of the entire pipeline system and sampled at various branches regularly, they can test the sewerage water for covid and then they could create a "heat-map" and which could perhaps guide more intensive testing... would be interesting to see what came back from the regional areas too.
+
+**Targeting Specific Workplaces/Schools?**
+
+Can they identify a hit-list of high risk workplaces and proactively take broad sample testing there to pick up any asymptomatic carriers there before they pass on to large group?
+++++++++++
+ Family of deceased Queensland man who returned false positive COVID-19 tests breaks silence 
+++++++++++
+ SA cases so low because of refusals to test?? Reginal SA - My sister played a game of Netball on Thursday night with a lady that has now been confirmed positive for Covid-19.
+They have tested the rest of the positive lady's team but are refusing to test the team that they played.
+2 of the 7 opposing players are in self isolation although the rest have continued to go about daily life as they have received conflicting information.
+
+My sister who is a physiotherapist in aged care (currently self isolating) was refused testing. She played directly on the positive player who was coughing badly during the match.
+
+2 other member of my sister team have been refused tests. One even has a sore throat...
+
+Meanwhile members of my sister's team are working  in Child care/Bakery/School etc. Aswell as socialising within the Community..
+
+It doesn't make any sence to me if you have to wait for bad symptoms to appear before you can get tested so you can warn others around you to isolate too.
+++++++++++
+ "From what I can see, everything in the #covidsafe app is above board, very transparent and follows industry standard." - Matthew Robbins, Twitter 
+++++++++++
+ NSW Health: Public Health Alert Public Health Alert
+
+**08 October 2020**
+
+NSW Health is alerting the public to the following locations visited by new cases of COVID-19 notified today. These cases will be included in tomorrow’s numbers and contact tracing is underway.
+
+Anyone who attended the following venues is considered a **casual contact and must monitor for symptoms and get tested immediately if they develop.** **After testing, they must remain in isolation until a negative test result is received:**
+
+* **Surf Dive ‘n’ Ski at Castle Towers Shopping Centre Castle Hill** \- 5 October 2020, 12.00pm to 5.00pm
+* **Chemist Warehouse on the corner of Bridge and Rawson Streets, Epping** – 6 October, 10.30am-11.00am
+* **Macquarie University Sports and Aquatic Centre outdoor pool area at North Ryde** – 7 October 2020, 5.30am-10.30am
+
+[source](
+++++++++++
+ Questions about the corona virus test Or technically, three questions.
+
+1. How specific is the test? That is, there are seven corona viruses know to infect humans, this Covid-19 virus, SARS, MERS and four almost harmless corona viruses which cause about 30% of common cold cases. (Most of the rest are caused by various rhinoviruses.) How well does this test distinguish between different corona viruses?
+
+2. What is the rate of false positives of the test? That is, out of 100 people who test positive, how many of them actually have the disease?
+
+3. What is the rate of false negatives for the test? That is, out of 100 people who test negative, how many of them actually do have the disease?
+
+Thanks in advance.
+++++++++++
+ Daily Tests/Positive Ratio, 5 Sept. 0.48%, 76 cases on 15820 Test results 
+++++++++++
+ COVIDSafe and suspect behaviour I’m just gonna flat out ask the question on everyone’s mind. Will the authorities ever be able to use the data from COVIDSafe to link to behaviour that may considered suspect?
+
+We all know what the apps intended use is, we all know they have said that it’s data will only be used for assisting the community in the Coronavirus crisis - but can they/will they/what will happen if they use the data to assist in other enquires not related to the Covid-19 pandemic?
+
+Asking for a friend...
+++++++++++
+ Everybody needs good neighbours [
+
+Nice neighbourly thing to do, but still a possible social distancing risk, I guess. Bit split here.
+++++++++++
+ Daily Tests/Positive Ratio, 3 Sept. 0.66%, 113 cases on 17098 tests. [removed]
+++++++++++
+ New South Wales has made a hotel quarantine test compulsory  
+
+After concerns over the possibility of returned international travellers leaving hotel quarantine without ever having undertaken a coronavirus test, New South Wales has moved to make one mandatory.
+
+Under the changes announced today, **a coronavirus test will be mandatory for all travellers at the 10-day point** of their fortnight's quarantine in a hotel.
+
+Anyone who refuses the test will have to stay in quarantine for another 10 days.
+
+Since March 29, 3,262 symptomatic returned travellers have been tested in New South Wales, with 105 of those (that's 3 per cent) testing positive.
+++++++++++
+ Daily Tests/Positive Ratio, 4 Sept. 0.32%, 81 cases on 25031 tests. Daily 0.32% positivity ratio, 81 cases on 25031 test results.  
+3Day Avg: 0.54%, 95 Cases, 18680 Tests  
+7Day Ave: 0.59%, 91 Cases, 16152 Tests
+
+&amp;#x200B;
+
+
+
+Note: I do this on the actual new cases / the number of reported tests. Some other places do it on the 'net new' cases. I prefer this way, as this is the daily snapshot. This way will give slightly higher ratios. It's important you, the reader, understand what the difference is. A positivity ratio of 1% does not imply that 1% of the wider population is infected - the tests are not of a random sample of the population.
+++++++++++
+ false negatives in 32% of Covid-19 tests [
+
+This article was published on ABC news confirming the testing method for Covid-19.
+
+"Testing methods worldwide include a blood test, a swab test inside  your nose or in the back of your throat, or a sputum (mix of saliva and  mucus) test.
+
+The blood test format or serology method (the  examination of blood serum) is currently not available in Australia,  where it is more likely the test will be a nasal swab, as per the  guidelines set out by the [Department of Health for pathologists](
+
+Swab tests are officially called RT-PCR tests, they compare the sample taken from your throat to a sample of the virus.
+
+[
+
+The other method of testing, the gold standard, is the CT scan. As this is a lower respiratory virus throat swaps are not as sensitive as CT scans when determining if you are inflicted with the virus. 
+
+The below article outlines the comparison between the CT scan and the RT-PCR tests. For 888 positive CT result there were only 601 positive swab tests. 
+
+[
+++++++++++
+ Don't sweat on the famous five – it's the mystery numbers that count: Sutton 
+++++++++++
+ How/why is Victoria able to test so much more than other states? They have the lowest positive rate (by far) due to how much they are testing.
+
+I live in QLD and I just find it interesting we are sitting at around 180k total tests and Victoria is sitting around 480k even slightly more than NSW.
+
+Do other states have less physical tests or are people just not coming forward to be tested?
+++++++++++
+ Patients remain positive via a stool test after showing negative in respiratory samples 
+++++++++++
+ Where to get tested NEWS.com.au: Coronavirus: Where to get tested for coronavirus in Australia.
+
+++++++++++
+ Current testing turnaround times Victoria. I searched the sub and the last post relating to this was around 2 weeks ago and there seemed to be quite a mixed response in terms of testing turnaround times. 
+
+Just got tested at Footscray bunnings and they said 3-5 days for results, had a work colleague test around 2 weeks ago and took around 36 hours to get a negative text back. My mum got tested on a friday at a UFS clinic in regional Vic and got her negative result back mid monday.
+
+Anyone been tested recently and can weigh in with their turnaround times?
+++++++++++
+ South Korean COVID-19 Test Kits "Not Accurate, Falls Well Below US FDA Standards" Claims Stanford School of Medicine Scientist Casting Doubt on Korean Government's Official Numbers (Xpost from r/VanCovid19) As you know the global media is praising the Koreans for testing everyone and that more people have been recovered than diagnosed. My Korean friends have just directed me to an interesting recent development in the past 20 hours.
+
+A famous Korean medical professor has posted on his Facebook that he has a letter from Dr. Seung-min Park, a Scientist at Standford School of Medicine, which allegedly describe a comparison experiment between the Korean test kits with others that concluded the Korean test kits were "inadequate", "fell well below US FDA standards" even adding that even in the most dire situations "it cannot be relied upon".
+
+The Korean professor says this puts into question the numbers being reported by the Korean government and that potentially thousands of people who were tested negative are roaming freely.
+
+There are increasing number of cases being reported by the mainstream Korean media where those who tested negative are resulting in positive, in one particular case, a person was tested 6 times with the kit until the 7th try yielded a positive result,  raising questions about the accuracy of government's reporting and the test kit. 
+
+This shocking claim is sending shockwaves throughout the country is being shared all over Korean social media. What we have come to believe about South Korea's official figures are now being questioned.
+
+edit: I can't add reddit image links, to see the facebook post screenshot with English translation, find it [on the original thread](
+++++++++++
+ [VIC] Update for Benalla and Portland - Coronavirus detected in wastewater samples Coronavirus was detected in wastewater samples. Coronavirus fragments have been detected in wastewater from Benalla and Portland. If you are a resident or have visited either of these areas from November 15-17, please be alert for symptoms. 
+
+If you have symptoms, no matter how mild, get tested and stay home until you have your result.  Find a testing site near you: [dhhs.vic.gov.au/getting-tested]( Find out more about how wastewater testing helps Vitoria stay safe and stay open: [
+
+ Source: [VICGovDHHS](
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+++++++++++
+ What are international media saying about our cases/response to Coronavirus? [removed]
+++++++++++
+ Confirmed cases are going down... But so are tests Over the last few days the news has been reporting that the number of new COVID-19 cases has been decreasing. For example, in NSW, on March 27, there were 212 new cases, the highest number in a single day so far. But on March 29, there were only 127. A 40% decrease. The problem with that info is that, in the same time span, testing has decreased 60%. From 8835 tests done on the 27th, to 3437 on the 29th.
+
+In order to account for the difference in test numbers, it's helpful to look at the percentage of tests on any given date that return positive. \~2.3% of tests that returned results on March 27 were positive. On March 29, despite the 40% decrease in cases, \~3.6% returned positive. That's a fairly substantial increase, and yet I don't see anyone talking about it. Everyone is talking about raw numbers when they aren't really relevant.
+
+A few people I've spoken to seem to have a general sense that things are slowing down, but I don't think that's the case. They're just beginning to run out of obvious people to test. International arrivals, etc. Kind of concerning.
+++++++++++
+ TIL that Victoria is the only state which opted for Chinese-made testing kits. It was found they have a 1.1% false positive rate (which at 25k tests/day = 275 cases) *.pdf link* 
+++++++++++
+ Victorian's, getting tested doesn't hurt. Victorian's, Getty tested for COVID19 doesn't hurt.  
+
+You may have seen on the internet, US soldiers getting tested by what looks like the dipstick of Ferguson tractor shoved up their noses, that's not how it's tested in Victoria.
+++++++++++
+ Vic, Analysis of testing number and positive rate People has asked me to perform an analysis of the Victorian number of daily tests and the daily positive rate.
+
+This thing is so nuance that I can spent hours doing it and writing up the source code and reports. Unfortunately I don't have hours to throw at it. So I would just give a brief analysis.
+
+**First question** is What the hell are we analyzing anyway?
+
+What do people really want to know?
+
+I think people are arguing among themselves that different days have different number of test done. So, if we did twice the number of tests yesterday, what about the number of cases be? Would it be double?
+
+**Answer**: This is hard.
+
+The reason is simple. Ask yourself, what kinda people would take a test?
+
+There are two kinds of people
+
+1. People with symptoms
+2. People with No Symptoms (known as close contacts)
+
+The problem is that we are **NOT** given those two numbers, instead we are just given the number of tests done and the number of positive cases.
+
+People can easily calculate the **Positive Rate**, but positive rate of what? Positive rate of people who took a test. Sure but the number of tests are different for different days.
+
+**The solution:**
+
+This is the solution, we need to separate the number of tests into two separate groups
+
+1. Group 1, the number of tests for close contacts
+2. Group 2, the number of tests for people with Symptoms 
+
+Why do we need Group 2? Because the positive rate is the same whether we test 10000 subjects, 20000 subjects, 30000 subjects or 40000 subjects in a day. Why? Because now, we are calculating a ratio. In other words, we are performing random sampling of the population at large using only Symptoms as a selection criteria.
+
+Enough talk, lets see some graphs
+
+This is the "positive rate" of the number of tests (group1 + group2). The blue line is that 7 days moving average. The green line is the moving average of moving average.
+
+&amp;#x200B;
+
+
+
+Now we do our magic. We will attempt to separate group2 from "group 1 + group 2".
+
+num of (daily) tests = group 1 + group 2
+
+Next we assume that each infected person generates 12 close contacts
+
+group 1 = num of daily cases \* 12
+
+So we have
+
+group 2 = num of (daily) tests - ( num of daily cases \* 12 )
+
+In my graph, I call group 2 as "adjusted number of tests" (adjtests)
+
+Once we have the group 2, we can calculate the positive rate for group 2
+
+positive rate = num of daily cases / adjtests
+
+So the graph looks like
+
+&amp;#x200B;
+
+
+
+Our last trick is to calculate the adjcases if everyday we perform a constant amount of tests, say we perform 25000 tests every day.
+
+adjcases = MAofMA \* 25000
+
+Then we plot the adjcases and official cases together on the same graph
+
+&amp;#x200B;
+
+
+++++++++++
+ Fantastic outcome. Let's hope we keep it up and test, test, test! 
+++++++++++
+ Safety concerns surrounding the new coronavirus app. Hoax text messages claiming to be from the government's new covid-19 tracking app have fuelled concerns about its safety. 
+++++++++++
+ Why aren’t we just testing those that arrive from overseas upon arrival rather than making them quarantine? As the title states, why aren’t we just testing those that arrive from overseas upon arrival rather than making them quarantine?
+
+I know a lot of people will say “well they might test negative straight away, then test positive later” but that’s exactly the same argument for anyone that gets a coronavirus test?
+++++++++++
+ 150 million serology tests recently ordered are not effective in early detection of COVID-19 
+++++++++++
+ Why not make a “testing day” for everyone in Melbourne and Mitchell Shire? Like Election Day, where voting is mandatory, why can’t we have a COVID testing day, where getting tested for COVID-19 is mandatory if you live in Melbourne or Mitchell shire? We can have testing centres via drive-thru, schools, church halls, community centres, halls, clinics, mobile testing, hospitals etc?
+
+&amp;#x200B;
+
+Why not make testing day the 1st August 2020, and everyone residing in Melbourne and Mitchell Shire will have to get tested for COVID-19 despite whatever that have done before, whether they have received a negative or positive result, or already isolating/quarantining.
+
+And of course, very heavy fines for refusing?
+++++++++++
+ New Zealand Coronavirus: New community cases: 0 | Remaining Active: 6 | Days since last case: 10 - 05/10 **Coronavirus: New community cases: 0 | Remaining Active: 6 | Days since last case: 10 - 05/10**
+   
+ This information has been compiled by /u/kezzaNZ on October 05, 2020 at 10:46AM, and was posted to /r/newzealand. The original post (and any subsequent updates) can be found here: 
+
+********
+
+The numbers are out early, I presume that's because the PM is giving an alert level update without Bloomfield.
+
+**New Cases**
+
+Total new cases: 1
+
+New community cases: 0
+
+New managed isolation cases: 1
+
+The person who has tested positive arrived from Hong Kong on 1 October and returned a positive test as part of routine testing at around day 3. They have been transferred to the Auckland quarantine facility.
+
+**Running Totals**
+
+Total cases: 1855 ( 1 )
+
+Total community cases (season 2): 186 ( 0 )
+
+Days since last community case: 10
+
+Deaths: 25 ( 0 )
+
+**Active Cases**
+
+Recoveries: 2
+
+All active cases: 40 ( -1 )
+
+Active community cases: 6 ( -1 )
+
+Community recovery rate: 97%
+
+**Hospitalisations**
+
+Hospitalisations: 0 ( 0 )
+
+ICU: 0 ( 0 )
+
+**Testing**
+
+Tests yesterday: 2,834
+
+Seven day average: 4,409
+
+Total tests: 982,819
+
+Total tests season 2: 479,897
+++++++++++
+ Medical supplies office in Sydney coronavirus hotspot closes after staff member tests positive 
+++++++++++
+ [Academic Research] Participants needed for research on coping strategies, relationships, and social support during COVID-19. (Living in Australia, 18+) Hi,
+
+Looking for participants to help with my thesis research by answering some questions about relationships and interpersonal support: [
+
+Generally, the study takes about 20-30 minutes.
+
+The findings of this study will help identify and develop treatments for people who self-injure, or are at risk of self-injurious behaviour. Both participants with and without a history of self-harm are encouraged to participate. Responses are anonymous, and participants will not be able to be identified at any point. Data will be stored on a secure online server for 5 years.
+
+Participants will be presented with the opportunity to enter the draw for 1 of 3 $50 VISA gift cards upon completion of the study. This will be provided through an anonymous link, so that the entry cannot be linked to the participant's responses and preserve anonymity.
+
+Thank you. :)
+++++++++++
+ World Health Assembly formally adopts independent review into handling of coronavirus pandemic 
+++++++++++
+ Harvard information on testing results and false negatives based on days since infection. Definitely something to keep in mind if you have been exposed [source ](
+
+
+If you get the nasal/throat swab or saliva test, you will get a false negative test result:
+
+“100% of the time on the day you are exposed to the virus. (There are so few viral particles in your nose or saliva so soon after infection that the test cannot detect them.)
+
+About 40% of the time if you are tested four days after exposure to the virus.
+
+About 20% of the time if you develop symptoms and are tested three days after those symptoms started”
+++++++++++
+ New Zealand Coronavirus: New community cases: 0 | Remaining Active: 14 | Days since last case: 5 - 30/09 **Coronavirus: New community cases: 0 | Remaining Active: 14 | Days since last case: 5 - 30/09**
+   
+ This information has been compiled by /u/kezzaNZ on September 30, 2020 at 10:08AM, and was posted to /r/newzealand. The original post (and any subsequent updates) can be found here: 
+
+********
+
+Going forward I will only be reporting MIQ cases in the body and not in the title, because that's what we really care about.
+
+Once we are down to zero active community cases, Ill be wrapping this up again, hopefully for good.
+
+**New Cases**
+
+Total new cases: 1
+
+New community cases: 0
+
+New managed isolation cases: 1
+
+The person who has tested positive around day 3 of their time in managed isolation arrived from France via Singapore on September 25. They have been transferred to the Auckland quarantine facility.
+
+**Running Totals**
+
+Total cases: 1836 ( 1 )
+
+Total community cases (season 2): 186 ( 0 )
+
+Days since last community case: 5
+
+Deaths: 25 ( 0 )
+
+**Active Cases**
+
+Recoveries: 12
+
+All active cases: 44 ( -11 )
+
+Active community cases: 14 ( -12 )
+
+Community recovery rate: 92%
+
+**Hospitalisations**
+
+Hospitalisations: 1 ( 0 )
+
+ICU: 0 ( 0 )
+
+**Testing**
+
+Tests yesterday: 4,969
+
+Seven day average: 5,132
+
+Total tests: 960,559
+
+Total tests season 2: 462,079
+
+**Close Contacts**
+
+Close contacts identified: 4,073 ( -6 )
+
+Contacted and self isolating: 4073 ( -6 )
+
+Contact rate: 100.0%
+++++++++++
+ Disgusting Bigotry: The Media Is Only Blaming This Bat For Coronavirus Because He’s A Gamer 
+++++++++++
+ Twitter user PRguy17 explains why so many Melburnians are fed up with mainstream media: its because most of it fails the public interest test 
+++++++++++
+ VIC: I need symptoms to qualify for a test, yeah? I’ve been in a psych ward for a week, and am getting out tomorrow. A patient on my ward was tested a few days ago, but the other patients never heard whether they were positive or not. I’m also worried about having had so many interactions with different patients and staff. 
+
+DHHS says you need symptoms to qualify for a test, but I’m just paranoid and getting a test would put my mind at ease. So I was wondering if needing symptoms to get tested is actually the case, or have people been able to get tested without symptoms? Would it be a waste of time getting tested? Idk. I just need answers lol.
+++++++++++
+ Revised health advice for diners (&gt;2hrs) of Thai Rock - Potts Point, NSW Immediately seek testing and self isolate.
+
+&gt; NSW Health is directing everyone who attended the Thai Rock Restaurant at Potts Point for two hours or more between Wednesday, 15 July and Saturday, 25 July to immediately be tested for COVID-19 and isolate yourself for 14 days from the last date you attended the venue, regardless of symptoms. Anyone who attended Thai Rock Potts Point for less than two hours on these dates should monitor for symptoms and immediately isolate and seek testing if they appear.
+ 
+If you are directed to isolate, you must remain in isolation for a full 14 days even if your initial test is negative. If you do develop COVID-19 symptoms, you should be retested, even if you have had a negative result previously. Anyone feeling unwell – even with the mildest of symptoms such as a runny nose or scratchy throat – is urged to self-isolate and seek testing. Do not go to work or catch public transport until you are cleared of COVID-19.
+
+Read more: 
+ 
+A full list of COVID-19 testing clinics is available below, and people can also visit their GP: 
+++++++++++
+ Hotel Quarantine and Testing - why 14 days? As someone who works offshore and usually overseas, the hotel quarantine has really screwed me up and I'll probably have no reliable work until it's eased. 
+
+I believe at the start we weren't actually testing at the end but waiting for 14 days no symptoms which was the best way to make sure as symptoms usually presented themselves by then. 
+
+But now 6 months down the line we have tests that are deployed regularly and available in large numbers, why can't people be released after a negative test and no symptoms?
+After a few days of isolation after the flight. Why a negative on day 3 and 11 or whatever it is now?
+
+If you presented to a roadside testing station with suspected symptoms and subsequently tested negative, you would be free to go and carry on as normal, you don't have to isolate for 14 days.
+
+If you were going to board an outgoing flight that required a negative test (Etihad/Emirates) you would be free to go after a negative test, you don't have to isolate for 14 days.
+
+So why in quarantine if you test negative do you still have to sit it out for 2 weeks? 
+
+Getting rid of that fixed time would free up loads of space and enable greater numbers of returning passengers, and also massively reduce the cost.
+++++++++++
+ Oklahoma State linebacker says he tested positive for Covid-19 after attending protest 
+++++++++++
+ A staff member at Cedar Meats has tested positive to COVID-19 
+++++++++++
+ Vietnam halts new rice export contracts as it reviews stocks (Vietnam is our third biggest supplier in the category of unprocessed vegetables, fruit and nuts, I wonder if they're reviewing these contracts too?) [
+
+[
+++++++++++
+ Cultural backgrounds, languages could be recorded during coronavirus tests to help future health responses 
+++++++++++
+ Daily Tests/Positive Ratio, 5 Sept. 0.48%, 76 cases on 15820 Test results Daily 0.48% positivity ratio, 76 cases on 15820 Test results  
+3 Day Avg: 0.49%, 90 Cases, 19316 Tests  
+7 Day Avg: 0.59%, 88 Cases, 15824 Tests
+
+&amp;#x200B;
+
+
+
+Note: I do this on the actual new cases / the number of reported tests. Some other places do it on the 'net new' cases. I prefer this way, as this is the daily snapshot. This way will give slightly higher ratios. It's important you, the reader, understand what the difference is. A positivity ratio of 1% does not imply that 1% of the wider population is infected - the tests are not of a random sample of the population.
+++++++++++
+ Pistons’ Christian Wood becomes third NBA player to have positive COVID-19 test, per report He is now the third [NBA]( player to have tested positive and first who is not a member of the [Utah Jazz]( [Rudy Gobert]( and [Donovan Mitchell](  both tested positive earlier in the week. Wood's Pistons played against  Gobert's Jazz on Saturday, March 7, and the two were matched up against  each other.  
+
+Wonder if he did indeed catch it from him.
+
+[
+++++++++++
+ A rapid-diagnostic test for COVID-19 has been approved for use in Australia, and could be in use within a week or so, according to a past president of the Royal Australasian College of Physicians.  
+
+The Therapeutic Goods Administration has approved the new antibody test by company MD Solutions, which **gives results within 15 minutes** through an expedited approvals process.
+
+The test has some **significant limitations**. Patients who’ve been recently infected but have not yet mounted an immune response **will not return a positive result.**
+
+In addition, the test has a **lower sensitivity**, meaning it will give a **negative result to some patients** who do have the disease.
+
+But antibody tests give a **positive result to people who have had the disease in the past**, meaning they can show who might have some immunity and may be at a **lower risk of contracting the virus again**. 
+
+&gt;*“This is one of the most important things in the crisis — getting testing right,” said Professor Nicholas Talley, who edits the Australian Medical journal, and a former president of the Royal Australasian College of Physicians.*
+
+  
+A spokesperson for the TGA said the Doherty Institute in Melbourne would be assessing how the tests perform to ensure they are used in the best way possible. 
+
+ [
+++++++++++
+ 'There is no evidence that children get Covid infections' (because no one has tested them - shouldn't an argument for keeping schools open be mounted with actual evidence ?) How can you base a decision on schools on a statement that there is no evidence of something when you havent looked for that something?
+Choosing not to test a hypothesis means you are basing a decision on a choice not to test the validity of an assumption.
+Isnt the counter argument that there is no evidence that children are not an asymptomatic reservoir for infection just as valid? Because no one has done covid testing of even small cohorts of children.
+++++++++++
+ Crossroads Hotel cluster - returning to work I visited the Crossroads Hotel on July 4 for lunch with family. We all got tested for Covid-19 as there have been a number of confirmed cases including a staff member. All of our results were negative however whilst we were getting tested they advised we may not be in the clear just because it reads a negative result. 
+
+NSW Health have posted this on their website “NSW Health is urging anyone who attended the Crossroads Hotel at Casula between Friday,, 3 July and Friday, 10 July to immediately self-isolate until 14 days after they were last there, attend a clinic for testing even if they have no symptoms, watch for respiratory symptoms and get retested should any occur. Even if you get a negative test stay in isolation for 14 days.”
+
+Now I work in a bank and every day they are talking with work health and safety to see if it’s safe for me to return to work. It’s super busy at the moment and I’m worried if they tell me to return before I complete 14 days isolation then I could either get in trouble (fined) or get symptoms and soon read a positive result.  
+
+Management at my work seem to think just because my results were negative then I’m fine to return back.
+++++++++++
+ Daily Tests/Positive Ratio, 1 Sept. 0.69%, 70 cases on 10153 tests. Daily 0.69% positivity ratio, 70 cases on 10153 test results. Lowest daily test number since mid June, and I suspect this is an important KPI for the gov.  
+3Day Avg: 0.66%, 86 Cases, 12970 Tests  
+7Day Ave: 0.66%, 104 Cases, 16548 Tests
+
+&amp;#x200B;
+
+
+
+Note: I do this on the actual new cases / the number of reported tests. Some other places do it on the 'net new' cases. I prefer this way, as this is the daily snapshot. This way will give slightly higher ratios. It's important you, the reader, understand what the difference is. A positivity ratio of 1% does not imply that 1% of the wider population is infected - the tests are not of a random sample of the population.
+++++++++++
+ Mourners on red alert after a woman who attended FIVE funerals tests positive to coronavirus 
+++++++++++
+ Daily Tests/Positive Ratio and 14day best case, 6 Sept (Roadmap day) 
+++++++++++
+ Japanese man tests positive for coronavirus second time after hospital recovery [
+++++++++++
+ New Zealand Coronavirus: No new community cases, 1 new border case - 26/09 **Coronavirus: No new community cases, 1 new border case - 26/09**
+   
+ This information has been compiled by /u/kezzaNZ on September 26, 2020 at 11:05AM, and was posted to /r/newzealand. The original post (and any subsequent updates) can be found here: 
+
+********
+
+Sorry, my original post had it as a community case but it was historic. This mistake occured because I went off the MoH website and not the press release.
+
+**New Cases**
+
+Total new cases: 2
+
+New community cases: 0
+
+New managed isolation cases: 1
+
+New historical case: 1
+
+The historical case was tested because they were a passenger on the recent charter flight from Christchurch to Auckland. They had returned negative day 3 and day 12 results in managed isolation.
+
+From additional testing and serology analysis, we have determined there is no link to the Christchurch returnee group. Any infection would have occurred overseas prior to the person returning to New Zealand earlier this month and they are no longer infectious.
+
+**Running Totals**
+
+Total cases: 1831 ( 2 )
+
+Total community cases (season 2): 187 ( 1 )
+
+Deaths: 25 ( 0 )
+
+**Active Cases**
+
+Recoveries: 1
+
+All active cases: 61 ( 1 )
+
+Active community cases: 31 ( 0 )
+
+Community recovery rate: 83%
+
+**Hospitalisations**
+
+Hospitalisations: 2 ( -1 )
+
+ICU: 0 ( 0 )
+
+**Testing**
+
+Tests yesterday: 5,952
+
+Seven day average: 5,392
+
+Total tests: 943,196
+
+Total tests season 2: 437,213
+
+**Close Contacts**
+
+Close contacts identified: 4,177 ( 124 )
+
+Contacted and self isolating: 4170 ( 120 )
+
+Contact rate: 99.8%
+
+**Christchurch Charter Flight**
+
+All passengers have now been tested, except one – a young child.
+
+Aside from the previously reported 3 cases and today’s historical case, all results have been negative, with one pending.
+
+**23 September Cases**
+
+There are now a total of 42 close contacts associated with these cases. 34 have returned negative test results and the remaining have been or are in the process of being tested. All are now self-isolating.
+
+The National Contact Tracing team will continue issuing exposure notices through the COVID Tracer App where appropriate.
+
+Anyone receiving an app notification as having visited a place of interest should be vigilant of their health and get tested if they develop symptoms.
+++++++++++
+ If people suspect we have higher cases because we aren’t testing the community, wouldn’t that mean we’d have more deaths? Sorry if this is sounds like a stupid question but I’d appreciate some knowledge on whats going on
+
+If we think our numbers are way higher due to not testing the community wouldn’t that mean our death toll would be much greater then it is? 
+
+Are people who aren’t tested yet actually die from corona not getting tested after death? Is it still early days for those who got infected via the community to get serious symptoms?
+
+Would love to hear your thoughts/opinions!
+++++++++++
+ Timeline of Famous People Tested Positive for Coronavirus // How many people do you know here? 
+++++++++++
+ Coronavirus: Australia to test raw sewage to detect community spread 
+++++++++++
+ Role of rapid testing in Australia The TGA has already approved rapid tests that could deliver COVID results in 15 minutes and the WHO has pegged them as an integral part of the pandemic response.
+
+Some (such as Norman Swan) have said that since the tests can be as much as 35% less accurate than PCR, they’re not appropriate for use in places (eg Australia) that have very little remaining virus.
+
+So maybe these tests can’t be used as a substitute for normal testing, but are there situations here where they could be justifiably used as an extra layer of protection?
+++++++++++
+ A tiered system to limit international travel in response to the coronavirus 
+++++++++++
+ Expert panel to rule on possible positive test result in Victoria yesterday initially ruled as 'persistent shedding' [removed]
+++++++++++
+ Australia currently in silver medal position for testing per capita 
+++++++++++
+ If you are displaying symptoms, stay updated with this link for the current testing protocol - it's more than likely you will be denied a test at this stage. 
+++++++++++
+ [VIC] - Coronavirus update for northern metropolitan Melbourne – 25 October 2020 *Media release*  
+*25 October 2020*
+
+&amp;#x200B;
+
+No new additional cases linked to the northern metropolitan outbreak have been discovered after more than 1,135 tests results were returned to the Department of Health and Human Services today.  
+ 
+
+Victoria’s Commander of Testing and Community Engagement Jeroen Weimar said the test results returned today have so far been negative, which was reassuring when taken in addition to the 2500 results from yesterday.  
+ 
+
+He said there was a huge response from the community to the call to get tested, with more than 13,000 people being tested in Banyule, Darebin, Hume, Moreland and Nillumbik since 20 October.  
+ 
+
+1400 swabs taken today are already in the labs and testing will proceed throughout the evening.  
+ 
+
+“This testing enables us to get a very clear picture of how many cases there are and ensure there is a plan in place for everyone who tests positive along with the close contacts.  
+ 
+
+“There will at times no doubt be delays as more people come forward, but we are so appreciative of everyone making the effort, particularly during these colder spring days.”  
+ 
+
+There are currently 39 cases linked to the outbreak, including cases associated with East Preston Islamic College and Croxton Special School. DHHS continues to investigate links between the outbreak and other positive cases within the area.  
+ 
+
+Mr Weimar said a special paediatric pop up site had also been established to cater for the very specific needs to the Croxton Special School community.  
+ 
+
+“People have really embraced this call to action for which we are very grateful. We continue to meet with community and business leaders to ensure everyone has the information they need.”  
+ 
+
+He said the community’s actions showed a real willingness to do whatever was necessary to get on top of the virus and assist in managing its transmission.
+
+&amp;#x200B;
+
+[Source](
+++++++++++
+ NSW: Church closed after parishioner tests positive for coronavirus Australia’s largest Maronite Catholic church has closed for cleaning after a parishioner tested positive for COVID-19.
+
+The church member attended Our Lady of Lebanon in Harris Park in western Sydney on Wednesday 15 July at 5.30pm, Thursday 16 July at 6pm and Friday 17 July at 1.30pm and 6pm.
+
+The church has been closed until Tuesday.
+
+Anyone who attended Our Lady of Lebanon Cathedral since Wednesday and who is showing symptoms of COVID-19 is urged to get tested.
+
+The church said it does not believe the parishioner contracted the virus at the premises.
+
+Source: 
+++++++++++
+ The Google/Apple contact tracing solution arguably respects privacy more than COVIDSafe since you don't have to provide your phone number, which can identify you. 
+++++++++++
+ 5 fifo workers test positive by way of prick test. Will be interesting to follow this: a) are tests accurate, b) community transmission more evident than believed 
+++++++++++
+ A question for everyone baying for tough punishment of those testing positive and subsequently not being home *Re-posted to fix title*
+
+It's been impossible to ignore the intensity and pitch with which people (and the media) are calling for tough(er) punishment of people who have tested positive and aren't found to be at home when called on.
+
+Why will people continue to go get tested in an environment of fear of retribution?
+
+I'm sure there are people already making that decision already and this will only increase that proportion of people. Is the goal to identify and control COVID or have it silently spread in the community... because I think it's clear which outcome we'll achieve through the punishment approach.
+++++++++++
+ Close contact COVID-19 testing in Melbourne My wife tested positive for COVID-19 on the 24th of July and I tested negative on the 23rd of July. I developed symptoms on the 25th of July.
+
+We both were in quarantine (My wife self isolated). I got a call from the health department on my 8th day of quarantine asking me to get tested at my nearest clinic. I told them that I couldn't go as I was experiencing symptoms and I can't drive( They asked me to use public transport or a taxi but I didn't go because I was symptomatic and I did not want to infect others )
+
+My wife got clearance from the health department as she no longer has the symptoms. They said that she does not need to take the test again, however, I was asked to get tested. I don't have any symptoms for the last 4 days. If I tested positive now, do I need to isolate again even though I no longer have any symptoms?
+++++++++++
+ Low test numbers in Victoria? Has there been any official word on why Victoria’s reported test numbers are so low?
+
+Is this due to test kits not being available or simply a low number of people presenting with symptoms?
+
+Seems very strange that Victoria has only 25,000 reported tests when QLD has 1.5x that number and NSW has 2.4x more.
+
+Source: 
+++++++++++
+ Daily Tests/Positive Ratio 21st Sept Daily 0.15% positivity ratio, 11 cases on 7164 Test results  
+14 Day Avg: 0.31%, 39 Cases, 12802 Tests
+
+
+
+ Note: I do this on the actual new cases / the number of reported tests. Some other places do it on the 'net new' cases. I prefer this way, as this is the daily snapshot - The *actual* number of positives from the previous 24 hours vs the *actual* number of tests processed. Reclassified numbers could have been from any time. This way will give slightly higher ratios, and is pessimistic about the 14d average. These are the state wide gross numbers - DHHS seem to be a bit of a black box in how they get their averages. It's important you, the reader, understand these points for yourself. A positivity ratio of 1% does not imply that 1% of the wider population is infected - the tests are not of a random sample of the population.
+++++++++++
+ [Academic Research] Participants needed for research surrounding coping strategies and relationships during COVID-19 in Australia.  If you have the time, we would really appreciate your participation!
+
+Looking for participants to help out with my thesis about relationships and interpersonal support: [
+
+Generally, the study takes about 20-30 minutes.
+
+Participants will be presented with the opportunity to enter the draw for 1 of 3 $50 VISA gift cards upon completion of the study. This will be provided through an anonymous link, so that the entry cannot be linked to the participant's responses and preserve anonymity.
+++++++++++
+ [NSW] Public health alert - Our Lady of Lebanon Cathedral 20 July 2020 - [NSW Health Media Release
+](
+
+NSW Health is directing anyone who attended **Our lady of Lebanon Cathedral** in **Harris Park** to immediately self-isolate for 14 days and come forward for testing even if they are not experiencing symptoms if they attended on:
+
+* Wednesday 15 July – 5.30pm Mass
+* Thursday 16 July – 6pm Mass
+* Friday 17 July – 1pm Funeral &amp; 6pm Mass
+
+Anyone who has attended the church since 15 July outside of these specific times should also closely monitor for symptoms and get tested if they begin to feel unwell, no matter how mild their symptoms are.
+
+The alert has been issued after a confirmed case linked to the Thai Rock restaurant cluster attended the church on the four occasions outlined prior to being diagnosed.
+
+Two additional cases, parishioners who also attended services on these days, have now also returned a positive result for COVID-19, both of whom are in isolation.
+
+NSW Health is working with the parish to contact worshippers who attended and signed the attendance sheet. The church has undergone cleaning but will remain closed.
+
+Western Sydney Local Health District is setting up a pop-up clinic in the car park of Our Lady of Lebanon Cathedral from tomorrow for the next four days at 9am - 4:30pm. Clinics are also available in the area at Stocklands Merrylands and Auburn Community Health Centre and walks in clinic are also available at Westmead, Blacktown and Mount Druitt hospitals. 
+
+NSW Health is reminding those wishing to attend church services to adhere to social distancing advice and practice good hand hygiene. Anyone who is feeling unwell should avoid public gatherings and workplaces, self-isolate and get tested immediately.
+
+NSW Health continues to advise against group singing and chanting in religious services, including choirs, given the high risk of transmission associated with these activities. This is particularly important at this time as NSW responds to a number of COVID outbreaks.
+++++++++++
+ ScoMo just said we had one of the highest test rates in the world at 147 000 Does anyone know how this stacks up?
+
+That equates to 5764 tests per a million people. 
+
+South Korea had only officially tested [4099]( people per a million as of March 9th, when they had [7478 confirmed cases]( That honestly sounds like pretty good news and might mean there's far less unknown cases out there then other countries.
+
+[This article]( claims the US has only conducted twice as many tests as us, and they are clearly in far worse shape.
+++++++++++
+ Daily Tests/Positive Ratio 14th Sept Daily 0.39% positivity ratio, 35 cases on 8937 Test results  
+14 Day Avg: 0.44%, 62 Cases, 14829 Tests
+
+&amp;#x200B;
+
+
+
+Note: I do this on the actual new cases / the number of reported tests. Some other places do it on the 'net new' cases. I prefer this way, as this is the daily snapshot. This way will give slightly higher ratios. It's important you, the reader, understand what the difference is. A positivity ratio of 1% does not imply that 1% of the wider population is infected - the tests are not of a random sample of the population.
+++++++++++
+ 1,135 tests returned in Melbourne today have come back negative 
+++++++++++
+ Daily New Cases - Why has this single number become so important? Can someone explain why so much importance has been placed on the single variable 'daily new cases' with no context.  Knowing how complicated test data analysis is, it seems laughable this single metric is used to gauge the immediate future of the state.  Imagine the following,
+
+Friend: 'Our team has scored 30 points, how awesome is that'.
+
+You: 'OK well how many points have the opponents scored? How much time is left in the game? Who is currently playing and who is injured? Is it an away or home game?'
+
+Friend: 'What? that doesn't matter.. I think our team can score 50 points tomorrow'.
+
+This is the logic used to determine the immediate future of the state.  Some simple questions that barely scratch the surface.
+
+\* What is the number of positive cases against number of tests performed? Basic reasoning would suggest 50 tests will present less positives then 5000 tests.
+
+\* What changes have occurred in the testing process during this period? Has a better test been introduced, has the number of testing stations increased/decreased, has training improved, are the public more aware of the need for testing?
+
+\* Have we changed the targeted areas of testing during this period?
+
+\* Have we considered this metric is dependant on people coming forward to be tested.  We know that some people wont come forward because they are showing no symptoms, have been tested negative previously and are less likely to be tested again, or outright refuse to be tested.
+++++++++++
+ Where to get tested NEWS.com.au: Coronavirus: Where to get tested for coronavirus in Australia.
+
+++++++++++
+ Daily Tests/Positive Ratio, 30 Aug. 0.80% on 14321 tests Daily 0.80% positivity ratio, 114 cases on 14321 test results.   
+3Day Avg: 0.63%, 107 Cases, 17433 Tests  
+7Day Ave: 0.76%, 121 Cases, 17017 Tests
+
+&amp;#x200B;
+
+
+
+Note: I do this on the actual new cases / the number of reported tests. Some other places do it on the 'net new' cases. I prefer this way, as this is the daily snapshot. This way will give slightly higher ratios. It's important you, the reader, understand what the difference is. A positivity ratio of 1% does not imply that 1% of the wider population is infected - the tests are not of a random sample of the population. 
+
+&amp;#x200B;
+
+
+
+Bonus content time because I was lazy yesterday and didn't do a graph. Someone asked on r/melbourne for how the UK was going on positivity, so I went over to the [UK gov's covid data]( (wow is it better presented than DHHS) and plotted it for May to 26th Aug (last test numbers for UK). April was up to 38% in the UK, which nuked the graph scale. The UK are doing ca 186k tests a day (and increasing) and recorded \~1k of new cases (also sadly increasing slowly)
+++++++++++
+ "Innovative thinking helps industry unmask a working COVID solution" - rapid PCR testing 
+++++++++++
+ COVID-19 point of care testing Assignment questions  
+
+Please delete if not allowed. So I have an assignment on point of care testing on COVID in Australia but I'm struggling to understand some of the questions, if someone would be able to explain the questions to me in a bit more depth and maybe provide some resources I would be really appreciative.
+
+1. Using a timeline, explain how the criteria for who is being tested for COVID-19 has changed with the main infection source (e.g. overseas infection, cruise ship infection, direct contact with known COVID-19 case to community cases).
+2. Using the SARS-CoV-2 tests described by the group, explain the processes required for scaling up production of the newer diagnostic testing in a global pandemic and regulatory processes required for use of new diagnostic tests for COVID-19 within Australia, Europe and the United States of America.
+3. What are the main lessons learnt from diagnostic testing during the COVID-19 pandemic that could assist with future communicable diseases?
+++++++++++
+ Testing kits Can someone please eli5 why we are unable to manufacture our own supply of testing kits? Is it just the reagent we are lacking?
+++++++++++
+ Four-year-old child declared false-positive for COVID-19 A four-year-old mistakenly diagnosed with COVID-19 has been deemed a false-positive, NSW Health confirmed.
+
+The child was among four false-positives detected by NSW Health's expert panel convened to investigate suspect cases. NSW Health could not disclose further information, citing patient confidentiality.
+
+On Thursday night a second Sydney school was closed due to a COVID-positive test result. Camden High School in Sydney's south-west will be closed on Friday after a year 7 student tested positive for coronavirus.
+
+A clinic has been set up at Camden Hospital for anyone with symptoms connected to the school. Only students who are unwell with a fever or respiratory symptoms such as a sore throat or cough need to be tested.
+
+On Thursday, Lane Cove West Primary School was closed after a seven-year-old year 2 student tested positive.
+
+Earlier this month NSW Health authorities said we should expect more false positives as tens of thousands of mildly symptomatic people come forward for testing every week.
+
+The ministry confirmed a man in his 30s diagnosed with COVID-19 on Monday was a false-positive. The south-western Sydney man is the fourth false-positive reported in three days.
+
+The false-positive child was among just 23 children between zero and four years old who had tested positive for the virus in NSW.
+
+The expert panel routine reviews cases that were deemed to be positive but had no known source of infection, prioritising people with very mild or no symptoms and have not spent time in virus hotspots.
+
+Their samples are retested, and they are also tested for the presence of coronavirus antibodies to either confirm an infection, or rule it out.
+
+False-positives are rare and pose no risk to the community, unlike false-negative test results, which can lead a COVID-positive person to unknowingly spread the virus, believing they are not infected.
+
+Virologists suggest that as less virus circulates in the community and testing picks up people with mild symptoms, there will be more results on the borderline of positive and negative due to a patient's low viral load.
+
+There is also a slim possibility that the test is detecting the presence of another, similar virus.
+
+---
+
+Source: 
+++++++++++
+ Canadian Prime Minister Justin Trudeau’s wife tests positive for coronavirus [
+++++++++++
+ Daily Tests/Positive Ratio 5th Oct Daily 0.1% positivity ratio, 9 cases on 9023 Test results (ok for a weekend)  
+14 Day Avg: 0.1%, 13 Cases, 12277 Tests 
+
+&amp;#x200B;
+
+
+
+ A testing target of [1 in 40]( per fortnight has been raised by DHHS coronavirus testing head Jeroen Weimar. This translates to a daily testing target of \~11,700, which has been added to the graph as the dashed line.
+
+Note: I do this on the actual new cases / the number of reported tests. Some other places do it on the 'net new' cases. I prefer this way, as this is the daily snapshot - The *actual* number of positives from the previous 24 hours vs the *actual* number of tests processed. Reclassified numbers could have been from any time. This way will give slightly higher ratios, and is pessimistic about the 14d average. These are the state wide gross numbers - DHHS seem to be a bit of a black box in how they get their averages. It's important you, the reader, understand these points for yourself. A positivity ratio of 1% does not imply that 1% of the wider population is infected - the tests are not of a random sample of the population.
+
+I had planned to do a tracker for these 14 days to see how we are going for the 5 day average, but with the uncertainty of the reclassifieds I couldn't get it to be as accurate as I wanted, so I will not be publishing it.
+++++++++++
+ QLD's latest case with unknown origin has been fully confirmed as false positive 
+++++++++++
+ Pharmacists abused by customers who have 'turned into animals' over Australia's medicine limits 
+++++++++++
+ Daily Tests/Positive Ratio, 28 Aug . 0.57% on 19863 tests Daily 0.57% positivity ratio, 113 cases on 19863 test results.  
+3Day Avg: 0.71% 125 Cases, 19604 Tests  
+7Day Ave: 0.84%, 147 Cases, 18397 Tests
+
+&amp;#x200B;
+
+
+
+Note: I do this on the actual new cases / the number of reported tests. Some other places do it on the 'net new' cases. I prefer this way, as this is the daily snapshot. This way will give slightly higher ratios. It's important you, the reader, understand what the difference is. A positivity ratio of 1% does not imply that 1% of the wider population is infected - the tests are not of a random sample of the population.
+++++++++++
+ Public health alert – Oran Park cluster – New venues 17 October 2020 - 10:32 PM
+
+​NSW Health is alerting the public that confirmed cases of COVID-19 linked to the Oran Park cluster have attended a number of venues in **western Sydney** and the **south coast** over the **past nine days**.
+
+Contact tracing is underway. NSW Health will contact close and casual contacts directly. **Anyone who was at the following venues is potentially a close contact and should monitor for symptoms and get tested immediately if they develop.** After testing, they must remain in isolation until a negative test result is received:
+
+* **Gregory Hills Hotel**, Central Hills Drive, Gregory Hills, on the evening of Friday 9 October
+* **1500 United Cinema**, Narellan Town Centre, on Saturday 10 October, 12.50pm- 3pm
+
+**Anyone who attended the following locations is considered a casual contact of these cases. They must monitor for symptoms and get tested immediately if they develop.** After testing, they must remain in isolation until a negative test result is received.
+
+* **Shellharbour South Beach and Little Park** on Sunday 11 October, 12pm-4pm
+* **Woolworths Oran Park**, 351 Oran Park Drive, on Monday 12 October, 6.40-6.55pm
+
+Contact tracing is underway for anyone who travelled on the following public transport. **Fellow travellers must monitor for symptoms and get tested immediately if they develop.** After testing, they must remain in isolation until a negative test result is received. NSW Health will contact close and casual contacts directly.
+
+* **Bus 840** from Oran Park Drive (South Street Circuit) to Campbelltown Station on Wednesday 14 October, 9.40am-10.10am
+* **Bus 885** from Campbelltown Station to Bradbury on Wednesday 14 October, 10.15am-10.45am
+* **Bus 885** from Bradbury to Campbelltown Station on Wednesday 14 October, 2pm-2.30pm
+* **Bus 840** from Campbelltown Station to Bradbury on Wednesday 14 October, 3pm-3.30pm
+
+Testing numbers have dropped recently, which is a concern. NSW Health is appealing to the community to come forward for testing right away if you have even the mildest of symptoms like a runny nose or scratchy throat, cough, fever or other symptoms that could be COVID-19.
+
+There are more than 300 COVID-19 testing locations across NSW. To find your nearest clinic visit [ ]( contact your GP.
+
+&amp;#x200B;
+
+[source](
+++++++++++
+ Testing turnaround time In Victoria. Semi-related symptoms (non-respiratory) and test was done during blitz to stoke numbers. Test was done last Thursday. Dr at hospital even said she would be extremely surprised if it came back positive. Still waiting for result. Fifth day of sick leave being burnt tomorrow waiting for highly likely negative.
+
+How long are other people waiting for results?
+++++++++++
+ NSW Health: Public health alert - updated advice *30 October 2020 -* ***Updated advice***
+
+NSW Health is advising that more attendees of a gym in south-west Sydney, where a confirmed case of COVID-19 included in yesterday’s numbers had visited, are now considered close contacts.  
+Anyone who attended any class scheduled to begin five minutes before or after one of the classes below is now considered a close contact and must get tested immediately and isolate for a full 14 days from exposure regardless of the result:  
+
+
+* F45 gym, 1640 Camden Valley Way, Leppington, on these dates and times:
+   * Thursday 15 October 2020, 5.15pm – 6pm
+   * Saturday 17 October 2020, 8.10am – 9.10am
+   * Sunday 18 October 2020, 8.55am – 9.40am
+   * Mondaay 19 October 2020, 5.50am – 6.35am
+   * Tuesdy 20 October 2020, 5.50am – 6.35am
+   * Wednesday 21 October 2020, 5.15pm – 6pm
+   * Thursday 22 October 2020, 6.45am – 7.30am 
+   * Friday 23 October 2020, 9.35am – 10.20am
+   * Saturday 24 October 2020, 7.10am – 8.10am 
+   * Sunday 25 October 2020, 8.55am – 9.40am 
+   * Monday 26 October 2020, 5.50am – 6.35am
+   * Tuesday 27 October 2020, 6.45am – 7.30am
+   * Wednesday 28 October 2020, 5.50am – 6.35am
+
+Additionally, anyone who attended the following venue between these times is considered a close contact and must get tested immediately and isolate for a full 14 days from exposure regardless of the result: 
+
+* Upstairs function room, Jasmins Lebanese Restaurant, 222 South Terrace, Bankstown, on Thursday 22 October 2020, between 6.30pm and 9pm
+
+Those who visited the restaurant downstairs on that date and time are considered a casual contact and must monitor for symptoms and get tested immediately if they develop. After testing, they must remain in isolation until a negative test result is received.  
+Testing numbers have dropped recently, which is a concern. NSW Health is appealing to the community to come forward for testing right away if you have even the mildest of symptoms like a runny nose or scratchy throat, cough, fever or other symptoms that could be COVID-19.  
+There are over 300 COVID-19 testing locations across NSW. To find your nearest clinic visit [COVID-19 testing clini​​cs]( or contact your GP.​
+++++++++++
+ Second Flinders Street station worker tests positive, 13 staff isolate 
+++++++++++
+ NSW Health: Public health alert - New cases and venues # Public health alert - New cases and venues
+
+12 October 2020Two new cases of COVID-19 have been linked to a medical clinic in Lakemba.  
+Both cases are doctors who worked at the A2Z Medical Clinic. All staff at the clinic are now isolating and are being tested.  
+The two new cases are linked to a previously reported case in the patient who attended Lakemba Radiology.  
+NSW Health is in the process of contacting everyone considered to be a close contact of these cases.  
+Close contacts must be tested immediately and isolate for a full 14 days from exposure regardless of the result.  
+Casual contacts of cases must monitor for symptoms, then get tested and isolate immediately if they develop. After testing, they must remain in isolation until a negative result is received.  
+Anyone who attended A2Z Medical Clinic, 96 Haldon Street Lakemba, at the following times should self-isolate and get tested if symptoms occur.  Some people will be managed as close contacts. NSW Health will contact everyone directly to provide tailored advice depending on their exposure:  
+
+
+* Thursday, 1 October, 2.30-3.30pm
+* Friday, 9 October, 3-4.30pm
+* Saturday, 10 October, all day
+
+The patient also attended Isra Medical practice, 102A Haldon Street Lakemba, and anyone who attended at the following time is considered to be a casual contact:  
+
+
+* Monday, 5 October, 7:15-7.40pm
+
+Previously reported cases attended the Ingleburn Hotel on Sunday, 4 October from 3-6pm.  
+
+
+* Ingleburn Hotel Bar Room: anyone who spent an hour or more in the Bar Room between these times is considered a close contact and must immediately isolate and be tested. Anyone who spent less than an hour there is considered a casual contact.
+* Ingleburn Hotel Bistro and Gaming Room: anyone who attended either or these areas in the hotel is considered a casual contact. 
+
+Anyone who used the following train services at the specified times is also considered a casual contact:  
+
+
+* Thursday, 1 October, from Wiley Park Station to Lakemba Station, between 12.02 and 12.14pm
+* Thursday, 1 October, from Lakemba Station to Wiley Park Station, between 3.14pm and 3.27pm
+* Tuesday, 6 October, from Wiley Park Station to Lakemba Station, between 12.10pm and 12.30pm 
+* Tuesday, 6 October, from Lakemba Station to Wiley Park Station, between 1:42pm and 1:58pm
+
+Testing numbers have dropped recently, which is a concern. NSW Health is appealing to the community to come forward for testing right away if you have even the mildest of symptoms like a runny nose or scratchy throat, cough, fever or other symptoms that could be COVID-19.   
+This is particularly important for people in the South Western Sydney and Western Sydney areas.  
+A new pop-up testing clinic has been established at   
+
+
+* Lakemba Uniting Church, cnr Haldon Street and The Boulevard, Lakemba. Opening hours are 12-4pm Monday, 12 October and 10am-4pm Tuesday, 13 October.
+
+See the list of [COVID-19 testing clinics​]( or call your GP.  
+​  
+​  
+[source](
+++++++++++
+ So I got my son tested because he had a sore throat, but... My son came home from school yesterday with a sore throat. I didn’t want to take a chance, even though a couple of his classmates had cold symptoms and tested negative. So we went to the local testing place. My son was tested, But I was refused (very politely I should add) a test because I had no symptoms. I thought we were past that stage? Wouldn’t it make sense to test me at the same time rather than wait for a result and then potentially go through the same 24-72hr wait twice?
+++++++++++
+ Daily Tests/Positive Ratio 3rd Oct Daily 0.07% positivity ratio, 8 cases on 11281 Test results   
+14 Day Avg: 0.11%, 13 Cases, 12177 Tests 
+
+ 
+
+
+
+A testing target of [1 in 40]( per fortnight has been raised by DHHS coronavirus testing head Jeroen Weimar. This translates to a daily testing target of \~11,700, which has been added to the graph as the dashed line.
+
+Note: I do this on the actual new cases / the number of reported tests. Some other places do it on the 'net new' cases. I prefer this way, as this is the daily snapshot - The *actual* number of positives from the previous 24 hours vs the *actual* number of tests processed. Reclassified numbers could have been from any time. This way will give slightly higher ratios, and is pessimistic about the 14d average. These are the state wide gross numbers - DHHS seem to be a bit of a black box in how they get their averages. It's important you, the reader, understand these points for yourself. A positivity ratio of 1% does not imply that 1% of the wider population is infected - the tests are not of a random sample of the population.
+++++++++++
+ The situation in VIC is as bad or maybe even worst than NSW. On the paper number of cases in NSM is way more than VIC but when you consider the number of tests performed in each state the picture changes.
+NSW has performed 39,089 of which 307 were positive (1 positive per 127 tests)
+In Victoria, the number of tests performed is just 17180 with a total of 149 positive results (1 positive per 115)
+
+As you can see the situation in victoria is way worst. There are more positive cases per tests. Victoria simply doesn't simply test as much as NSW to show the whole picture.
+++++++++++
+ With a relaxing of the testing criteria for COVID-19 expect a sharp rise in positive results. Not necessarily because the virus is spreading faster, but simply because we will be returning more positive results with greater amounts of testing. This is a good thing!
+++++++++++
+ New Zealand Coronavirus: 2 new community cases, 2 new border cases - 20/09 **Coronavirus: 2 new community cases, 2 new border cases - 20/09**
+   
+ This information has been compiled by /u/kezzaNZ on September 20, 2020 at 12:03PM, and was posted to /r/newzealand. The original post (and any subsequent updates) can be found here: 
+
+********
+
+**New Cases**
+
+Total new cases: 4
+
+New community cases: 2
+
+New managed isolation cases: 2
+
+The two community cases are household contacts of the case reported yesterday, which is not connected to the Auckland cluster.
+
+The case reported yesterday was tested after developing symptoms on September 16, and returned a positive result. He and his household contacts self-isolated when he developed symptoms. They were all moved into the Auckland quarantine facility on September 18, when the first case returned a positive result.
+
+All identified close contacts have been isolated and tested.
+
+The source of the case’s infection is still under investigation, but genome sequencing is consistent with two confirmed cases from the same flight from India to New Zealand that landed on August 27.
+
+It is possible that this case was infected during that flight and has had an extremely long incubation period – there is evidence that in rare instances the incubation period can be up to 24 days. This person developed symptoms 21 days after he arrived in New Zealand. If this is the case, it sits well outside the standard incubation period of the virus.
+
+The vast majority of people who are infected with COVID-19 will become unwell within 14 days. Having returnees stay in managed isolation for 14 days remains the gold standard, and this is also the approach adopted by other countries. Our own modelling confirms that 14 days spent in managed isolation with two tests leaves a very low risk that someone will leave managed isolation with COVID-19.
+
+Another possible scenario is that the case may have been infected during the flight from Christchurch to Auckland – other passengers from that flight are currently being contacted and assessed as a precautionary measure in order to exclude them as the source of infection.
+
+This case is another example of the tricky nature of the virus, and a reminder that anyone who has been through a managed isolation facility should remain very aware of their health. Anyone who develops symptoms of COVID-19 should get tested and self-isolate while awaiting results as these people did.
+
+**Running Totals**
+
+Total cases: 1815 ( 4 )
+
+Total community cases (season 2): 182 ( 2 )
+
+Deaths: 25 ( 0 )
+
+**Active Cases**
+
+Recoveries: 0
+
+All active cases: 71 ( 4 )
+
+Active community cases: 35 ( 2 )
+
+Community recovery rate: 82%
+
+**Hospitalisations**
+
+Hospitalisations: 3 ( -1 )
+
+ICU: 1 ( 0 )
+
+**Testing**
+
+Tests yesterday: 5,417
+
+Seven day average: 6,883
+
+Total tests: 910,853
+
+Total tests season 2:
+
+**Close Contacts**
+
+Close contacts identified: 3,916 ( -2 )
+
+Contacted and self isolating: 3,912 ( 0 )
+
+Contact rate: 99.9%

@@ -1,0 +1,1265 @@
+
+++++++++++
+ Nurses, lab workers, physicians among 'alarming' number of health-care workers with COVID-19 | CBC News 
+++++++++++
+ Manitoba Nov. 18 update: 400 new cases, 11 deaths 400 new cases have been announced, 1 was removed due to being a duplicate, bringing the total to 12 007
+
+239 in the Winnipeg Health Region
+
+93 in the Southern Health Region
+
+40 in the Northern Health Region
+
+20 in the Interlake-Eastern Health Region
+
+8 in the Prairie Mountain Health Region
+
+11 more deaths have been announced bringing the total to 190
+
+5 in Winnipeg
+
+A male in his 60s
+
+2 males in their 80s linked to the outbreak at Golden Links Lodge
+
+A male in his 90s
+
+A female in her 90s linked to the outbreak at Golden Links Lodge
+
+1 in the Fort Garry Health District, 1 in the River East Health District, 2 in the St. Boniface Health District, 1 in the St. James - Assiniboia Health District
+
+3 in Southern Health Region
+
+A female in her 50s
+
+2 males in their 80s
+
+1 in the City of Steinbach, 1 in the Hanover Health District, 1 in the Rural Portage Health District
+
+2 males in their 70s from the Interlake-Eastern Health Region
+
+1 in the City of Selkirk and 1 in the Fisher/Peguis Health District
+
+A male in his 90s from the City of Dauphin in the Prairie Mountain Health Region
+
+249 currently hospitalized with 40 in ICU
+
+The current 5 day test positivity rate is 14.2%, 13.8% in Winnipeg
+
+4 432 people have recovered with 7 385 active cases
+
+3 050 tests were completed Tuesday bringing the total to 318 479
+
+An outbreak has been declared at Health Science Centre units GH3 and GA4. The sites move to critical (red) on the pandemic response system.
+
+A specific fine of $298 is being put in place for not wearing a mask in public places
+++++++++++
+ Canada's top public health officer urges COVID-19 caution ahead of holiday season 
+++++++++++
+ Restrictions coming to the entire province. I won't be doing my normal daily update today because it is simply too much today.
+
+At 12:01 AM on Monday, Interlake-Eastern, Prairie Mountain and the Southern Health Regions will be moving to restricted (orange) level on the pandemic response system with the Northern Health Region. All restrictions coming to these regions will be what we see currently with Winnipeg and Northern.
+
+As well on Monday, Winnipeg will be moved to critical (red) on the pandemic response system. The "restrictions" coming include the following
+ 
+All restaurants and bars will be closed for dine in
+
+Non essential retail stores will be allowed to remain open at 25% capacity
+
+Sports and recreation facilities will be closed.
+
+Gyms will remain open but masks will now be required when working out.
+
+Movie theaters and concert halls will be closed.
+
+Faith based gatherings will be limited to 15% or 100 people, whichever one is lower.
+
+Non essential and elective surgeries will be postponed
+
+A brief update for today, 480 new cases have been announced however this is due to a backlog
+
+3 deaths were announced bringing the total to 65. A male in his 80s, and 2 females, 1 in her 90s and 1 in her 80s. All from the Parkview Place outbreak.
+
+5 day positivity rate severely jumped up to 8.6%. However in Winnipeg it is 9.7%
+
+104 people are hospitalized with 19 in ICU
+
+2 737 active cases with 2 572 recovered
+
+Outbreaks have been declared at 3 more care homes all of which move to red. Deer Lodge Centre in Winnipeg, Pembina Place in Winnipeg and Grandview Personal Care Home in Dauphin. 
+
+An outbreak has also been declared at Centre Scolaire Léo-Rémillard in Winnipeg. The school moves to orange.
+++++++++++
+ Manitoba Nov. 15 update: 494 new cases, 10 deaths A record setting 494 new cases have been announced bringing the total to 10 947
+
+266 in the Winnipeg Health Region
+
+136 in the Southern Health Region
+
+34 in the Prairie Mountain Health Region
+
+30 in the Northern Health Region'
+
+28 in the Interlake-Eastern Health Region
+
+10 more deaths have been announced bringing the total to 162
+
+9 in Winnipeg
+
+A female in her 80s
+
+A female in her 80s, 2 males in their 80s, 2 females in their 90s and 2 males in their 90s linked to the outbreak at Maples Personal Care Home
+
+A male in his 100s linked to the outbreak at Seine River Retirement Centre
+
+1 in the Inkster Health District, 1 in the Point Douglas Health District, 1 in the River East Health District, 1 in the River Heights Health District, 4 in the Seven Oaks Health District, 1 in the St. Vital Health District.
+
+A female in her 70s from the City of Steinbach in the Southern Health Region
+
+220 currently hospitalized with 41 in ICU
+
+The current 5 day test positivity rate is 12.4%, 13.1% in Winnipeg.
+
+4 070 people have recovered with 6 715 active cases
+
+2 715 tests were completed Saturday bringing the total to 309 794
+
+An outbreak has been declared at Villa Youville Personal Care Home in Ste. Anne. The site moves to critical (red) on the pandemic response system.
+
+The outbreak at Golden West Centennial Lodge in Winnipeg has been declared over
+++++++++++
+ Public Health uses a definition of "community spread" of COVID that confuses the public 
+++++++++++
+ Burnt-out health-care workers warn of mass exodus, with no end in sight to mandatory redeployment to CHSLDs 
+++++++++++
+ How are the homeless/almost-homeless/very-poor suppose to get to testing sites? Public transit? Walking?
+
+Edit: I mean if someone suspects they have covid, i'd hope they would be able to get to a testing facility via not public transit.
+
+Edit 2; Lets say they call their respective covid hotline and the hotline says to go for testing
+++++++++++
+ Ontario November 18 update: 1417 New Cases, 1495 Recoveries, 32 Deaths, 33,440 tests (4.24% positive), Current ICUs: 127 (+0 vs. yesterday) (+39 vs. last week) Link to report: 
+
+Detailed tables: [Google Sheets mode]( and [HTML of Sheets, loads faster but looks ugly](
+
+* 109 new school cases. 670 (13.9% of all) schools have active cases
+* Backlog: 36,671 (+11,236), 33,440 tests completed (250.0 per 100k) --&gt; 44,676 swabbed
+* Positive rate (Day/Week/Prev Week): 4.24% /  3.82% /  3.43% - [Chart](
+* Current hospitalizations: 535(+6), ICUs: 127(+0), Ventilated: 78(+3), [vs. last week: +111 / +39 / +21] - [Chart](
+* 72 new hospitalizations, 12 new ICU admissions
+* *52.7% of today's cases are in people under the age of 40.* /s
+* 8.3% or 117 of today's cases are in people aged 70+
+* 490 of today's cases relate to episode dates more than 5 days ago
+
+**Global Comparison (Last 14 days/100k / % positive (week))**
+
+* Belgium: 657.9 (16.96%), France: 796.8 (27.93%), Spain: 534.0 (12.47%)
+* UK: 505.4 (8.06%), Italy: 792.3 (28.73%), Sweden: 556.5 (12.65%)
+* Germany: 308.0 (8.02%), Switzerland: 1074.7 (27.26%), Luxembourg: 1241.6 (6.18%)
+* Korea: 4.7 (1.80%), NZ: 0.8 (0.04%), Australia: 0.58 (0.03%)
+* USA: 600.4 (10.11%), Canada: 164.5 (8.00%)
+
+|Reporting_PHU|Today|Averages-&amp;gt;&amp;gt;|Last 7|Prev 7|Per 100k-&amp;gt;&amp;gt;|Last 7/100k|Prev 7/100k|Source (week %)-&amp;gt;&amp;gt;|Close contact|Community|Outbreak|Travel|Ages (week %)-&amp;gt;&amp;gt;|&amp;lt;40|40-69|70+|More Averages-&amp;gt;&amp;gt;|Oct|Sep|Aug|Jul|Jun|May|
+:--|--:|:--|--:|--:|:--|--:|--:|:--|--:|--:|--:|--:|:--|--:|--:|--:|:--|--:|--:|--:|--:|--:|--:|
+|Total|1417||1422.1|1216.7||74.4|63.7||48.7|56.1|-5.8|1||51.6|38|10.3||774.8|313.4|100.1|133.8|240.3|376.7|
+|||||||||||||||||||||||||
+|Peel|463||400.6|333.4||202.9|168.9||53.1|40.6|5.5|0.7||56.2|37|6.7||151.9|65.7|19.7|23.9|45.2|69.4|
+|Toronto PHU|410||459.9|401||117.8|102.8||28.7|85.4|-14.7|0.6||49.6|39.1|11.3||286.2|110.4|21.1|33.9|97.7|168.9|
+|York|178||143.9|114.6||90.7|72.3||56.9|39.5|3.1|0.5||45|44.4|10.6||80.3|26.1|6.2|9.7|18.8|28.8|
+|Halton|63||54.9|47.7||70|60.9||47.1|41.1|11.2|0.5||51.9|38.8|9.2||27.9|9.7|1.9|2.3|3.7|6.2|
+|Waterloo Region|54||54.1|32||70.8|41.9||38|45.4|16.1|0.5||49.4|34.9|16.6||13.6|9|2.8|2.7|7.2|13.2|
+|Hamilton|46||34|49.4||44.3|64.4||39.1|24.4|36.1|0.4||44.2|35.7|20.1||20.9|6.1|2.7|1.7|5.4|8.4|
+|Durham|40||54.6|36.6||59.1|39.6||52.4|37.7|9.7|0.3||55.3|40.1|5||26.7|8.8|3|3.4|8.2|16.6|
+|Simcoe-Muskoka|25||26.6|16.3||34.4|21.1||61.3|29.6|7.5|1.6||57.5|36.1|6.5||15.6|6.3|1.5|2.1|4.3|6.4|
+|Wellington-Guelph|23||17.3|12.9||30.3|22.6||33.9|50.4|14|1.7||47.1|45.5|7.5||7|2.8|1.1|1.7|3.2|3.6|
+|Ottawa|22||50.7|51.7||38|38.7||177.7|113.8|-197.7|6.2||56.3|29.3|14.3||86.5|44.9|14.4|14.1|4.7|20.5|
+|Thunder Bay|20||6.4|3.3||29.6|15.1||22.2|8.9|68.9|0||26.7|68.9|4.4||0.4|0.1|0.3|0.1|0.3|0.3|
+|Windsor|17||24.3|12.7||42.6|22.3||50.6|45.9|-0.6|4.1||51.2|38.2|10.6||5.6|4.6|7|22.8|20.9|12.3|
+|Southwestern|14||9.9|5.4||77.5|42.7||52.2|31.9|11.6|4.3||44.9|31.8|23.1||1.7|0.5|3.6|1.9|0.3|0.5|
+|Niagara|9||19.4|30||30.4|46.9||68.4|11|20.6|0||39|40.4|20.6||11.4|4.6|2.4|3.5|3.8|5.1|
+|Haldimand-Norfolk|5||3.4|2.9||21.9|18.2||58.3|29.2|12.5|0||58.4|37.5|4.2||1.6|0.4|0.7|0.5|7.5|1|
+|Kingston|3||5|1.7||18.1|6.2||60|14.3|20|5.7||85.8|11.5|2.9||1.5|0.6|0.1|0.6|0.9|0|
+|Brant|3||7|8.1||36.3|42.2||53.1|55.1|-10.2|2||49|38.7|14.3||4.5|0.9|0.6|0.7|0.5|0.5|
+|Northwestern|3||1.3|0.9||11.8|7.8||44.4|55.6|0|0||33.3|44.4|22.2||0.7|0.2|0.1|0.3|0.5|0.2|
+|Chatham-Kent|3||5.3|1.7||36.3|11.8||35.1|21.6|43.2|0||62.1|35.1|2.7||1.3|0.2|3.9|2.8|0.5|2|
+|Lambton|3||1.3|1.3||7.1|7.1||55.6|77.8|-33.3|0||22.2|66.6|11.1||0.8|0.3|1.3|0.5|0.7|2.7|
+|Rest|13||42.2|53.1||13.5|17.1||49.2|24.1|22.7|4.1||56.5|24.3|19||28.7|11.2|5.7|4.6|6|10.1|
+
+
+
+
+
+
+**Canada comparison:** 
+
+|Province|Yesterday|Averages-&amp;gt;&amp;gt;|Last 7|Prev 7|Per 100k-&amp;gt;&amp;gt;|Last 7/100k|Prev 7/100k|Positive % - last 7|
+:--|--:|:--|--:|--:|:--|--:|--:|--:|
+|Canada|4276||4775.9|4014.6||88.9|74.8|7.99|
+||||||||||
+|Ontario|1249||1423.1|1154||68.4|55.5|3.91|
+|Quebec|982||1271.9|1180.3||104.9|97.4|12.12|
+|Alberta|773||869.9|705.9||139.3|113|inf|
+|British Columbia|717||631.7|491.3||87.2|67.8|10.6|
+|Manitoba|269||390|357.3||199.4|182.6|11.17|
+|Saskatchewan|240||172.6|120.1||102.9|71.6|10.69|
+|Moreovit|34||8.3|0.3||149.6|5.2|15.72|
+|New Brunswick|4||3.4|1.6||3.1|1.4|0.99|
+|Nova Scotia|5||2.7|2.6||2|1.8|0.37|
+|Newfoundland|2||1.1|0.9||1.5|1.2|0.41|
+|Northwest Territories|0||0.7|0||11.2|0|2.51|
+|Yukon|1||0.3|0||4.9|0|1.21|
+|Prince Edward Island|0||0.1|0.4||0.6|1.9|0.05|
+
+**Today's deaths:** 
+
+|Reporting_PHU|Age_Group|Client_Gender|Case_AcquisitionInfo|Case_Reported_Date|Episode_Date|
+:--|:--|:--|:--|:--|:--|
+|Hamilton|80s|FEMALE|Outbreak|2020-11-16|2020-11-14|
+|Toronto PHU|80s|MALE|Outbreak|2020-11-12|2020-11-10|
+|Toronto PHU|80s|MALE|Outbreak|2020-11-10|2020-11-09|
+|York|70s|FEMALE|Close contact|2020-11-09|2020-11-08|
+|Peel|40s|MALE|Community|2020-11-10|2020-11-08|
+|Toronto PHU|70s|MALE|Outbreak|2020-11-09|2020-11-08|
+|Toronto PHU|80s|FEMALE|Outbreak|2020-11-11|2020-11-07|
+|Ottawa|90s|FEMALE|Outbreak|2020-11-07|2020-11-06|
+|Toronto PHU|80s|FEMALE|Outbreak|2020-11-06|2020-11-05|
+|Toronto PHU|90s|FEMALE|Community|2020-11-06|2020-11-04|
+|Toronto PHU|90s|FEMALE|Outbreak|2020-11-07|2020-11-04|
+|Halton|80s|MALE|Outbreak|2020-11-05|2020-11-03|
+|Toronto PHU|90s|FEMALE|Outbreak|2020-11-04|2020-11-02|
+|Toronto PHU|90s|FEMALE|Outbreak|2020-11-06|2020-11-02|
+|Hamilton|90s|FEMALE|Outbreak|2020-11-02|2020-11-01|
+|Toronto PHU|80s|MALE|Community|2020-11-03|2020-11-01|
+|Ottawa|90s|FEMALE|Outbreak|2020-11-02|2020-11-01|
+|Peel|90s|MALE|Outbreak|2020-11-05|2020-10-31|
+|Toronto PHU|60s|FEMALE|Outbreak|2020-11-15|2020-10-30|
+|Niagara|80s|FEMALE|Outbreak|2020-10-31|2020-10-28|
+|Toronto PHU|90s|FEMALE|Outbreak|2020-10-29|2020-10-27|
+|Hamilton|80s|FEMALE|Outbreak|2020-11-02|2020-10-27|
+|Toronto PHU|90s|FEMALE|Outbreak|2020-10-24|2020-10-23|
+|Toronto PHU|80s|FEMALE|Outbreak|2020-10-24|2020-10-22|
+|Toronto PHU|90s|FEMALE|Outbreak|2020-10-20|2020-10-18|
+|Toronto PHU|50s|MALE|Close contact|2020-10-22|2020-10-17|
+|Toronto PHU|90s|FEMALE|Outbreak|2020-11-10|2020-10-16|
+|Toronto PHU|90s|FEMALE|Outbreak|2020-10-29|2020-10-16|
+|Toronto PHU|80s|MALE|Outbreak|2020-10-25|2020-10-15|
+|Toronto PHU|90s|FEMALE|Outbreak|2020-10-08|2020-10-08|
+++++++++++
+ Traveling to Canada? I just noticed they updated their page on visiting to Canada, using the ArriveCAN app to enter now, did they change something? I thought it was on lock down?
+
+&amp;#x200B;
+
+[ (Travel and tourism) Plus the new November 21 update that's pinned in BLUE to the second link
+
+&amp;#x200B;
+
+[
+++++++++++
+ Letter to North Van families - Lynn Valley care centre cases Dear Parents/Guardians and Staff,
+Subject: Confirmation of COVID-19 cases at Lynn Valley Care Centre (long-term care facility)
+As you are likely aware, the Provincial Health Officer announced three confirmed cases of COVID-19 at the Lynn Valley Care Centre, located at 1070 Lynn Valley Road. This information has understandably increased the concern and anxiety amongst members of our school community. We continue to work closely with Vancouver Coastal Health to keep our community informed about any risk associated with these cases.
+
+Vancouver Coastal Health has confirmed that any care home staff who have potentially been exposed have been identified, instructed to isolate at home and asked to monitor for symptoms. Care home staff without known exposures may continue working and there are no restrictions on the family members of any staff (exposed or unexposed). If staff develop symptoms, they will be tested. If they test positive, they will be isolated along with their family members.
+
+Our efforts to help reduce the risk of transmission of COVID-19 with increased cleaning and disinfecting of high-touch surfaces will continue. We are also considering further measures for the coming week and the weeks following Spring Break.  Most importantly, we ask that you stay home if you or your family are sick.
+ 
+Mark Pearmain
+Superintendent of Schools
+++++++++++
+ Points from Prime Minister's Public announcement March 17, 2020 Please drop a comment if I missed anything:
+
+-ontario declares state of emergency
+
+- thanks to health care workers
+
+- need to lighten load on health care
+
+- wash hands, sneeze in elbow, social distancing, stay home
+- 
+- Wednesday parks canada suspends visitor services at parks and heritage sites
+
+- urgent assistance $5000 emergency loan program  abroad call #?or email sos@international.gc.ca
+
+- Cabinet meeting this afternoon
+
+- tomorrow another announcement on economic actions
+++++++++++
+ COVID-19: Dr. Deena Hinshaw calls leaked public health meeting recordings a ‘personal betrayal’ 
+++++++++++
+ Manitoba Nov. 21 update: 387 new cases, 10 deaths [
+
+387 new cases have been announced, 2 were removed due to a data error bringing the total to 13 304
+
+218 in the Winnipeg Health Region
+
+94 in the Southern Health Region
+
+34 in the Northern Health Region
+
+26 in the Interlake-Eastern Health Region
+
+15 in the Prairie Mountain Health Region
+
+10 deaths have been announced bringing the total to 217
+
+7 in Winnipeg
+
+A male in his 30s
+
+A female in her 70s linked to the outbreak at Parkview Place
+
+A male in his 70s linked to the outbreak at Misericordia Health Centre
+
+A male in his 70s
+
+A male in his 80s linked to the outbreak at Holy Family Home
+
+A female in her 80s and a male in his 90s linked to the outbreak at Maples Personal Care Home
+
+2 in the Downtown Health District, 1 in the Point Douglas Health District, 1 in the River Heights Health District, 2 in the Seven Oaks Health District, 1 in the St. James - Assiniboia Health District
+
+A female in her 80s linked to the outbreak at Bridgepark Manor Assisted Living Facility in the City of Steinbach in the Southern Health Region
+
+A female in her 100s linked to the outbreak at Gilbert Plains Personal Care Home in the Riding Mountain Health District in the Prairie Mountain Health Region
+
+A male in his 60s from the GR/Misipawistki CN/ML/Mosakahiken CN/Eas/Chemawawin FN Health District in the Northern Health Region
+
+276 currently hospitalized with 45 in ICU
+
+The current 5 day test positivity rate is 13.8%, 13.6% in Winnipeg
+
+5 075 people have recovered with 8 012 active cases
+
+2 519 tests were completed Friday bringing the total to 327 511
+
+Outbreaks have been declared at Grace Hospital Unit 3 North, Dakota House in Winnipeg, Eastview Place in Altona, Tabor Home in Morden, Fernwood Place in Steinbach, Lion Prairie Manor, Douglas Campbell Lodge in Portage La Prairie. All sites move to critical (red) on the pandemic response system
+++++++++++
+ Missed opportunities to address COVID-19 early may prolong response measures, experts say 
+++++++++++
+ COVID-19 in long-term care homes in Ontario and British Columbia Key Points:
+• Many more residents living in Ontario long-term care homes have died from coronavirus disease 2019 (COVID-19) than in British Columbia.
+• During the first wave of the pandemic, British Columbia was faster than Ontario in responding to COVID-19, with actions to address public health support, staffing, and infection prevention and control.
+• Leaders in British Columbia were more decisive, coordinated and consistent in their overall communication and response.
+• Before the pandemic, the long-term care system in British Columbia exhibited a number of potential strengths relevant to pandemic preparedness compared with Ontario: there was better coordination between long-term care, public health and hospitals; greater funding of long-term care; more care hours for residents; fewer shared rooms; more nonprofit facility ownership; and more comprehensive inspections.
+
+
+++++++++++
+ Little Things Therapists Recommend Doing For Your Mental Health Every Day - MENTAL HEALTH 
+++++++++++
+ Just read that Ontario will reduce testing... seems a bit early to move to these measures? 
+++++++++++
+ Most Canadians could be vaccinated by end of 2021, says federal public health officer 
+++++++++++
+ Ontario will run out of protective equipment for health care workers in a week: Premier Ford 
+++++++++++
+ Fourth health-care worker dies of COVID-19 in Ontario, union calls for better protection 
+++++++++++
+ COVID Mental Health Survey **PARTICIPANTS NEEDED FOR STUDY**
+
+How do this **global pandemic** and consequent **social isolation** affect our **mental health**? 
+
+Professor Ian Gold and other researchers at the Neurophilosophy lab are conducting a study on mental health and beliefs during the COVID-19 pandemic. We are interested in how different **beliefs and attitudes towards COVID19** (including degree of trust in the government and believing so-called conspiracy theories) impact mental health and cognition. The study will take approximately **25 minutes**, and will be conducted online and will be offered in English. You will be asked to answer a series of questions about your experiences, feelings, and beliefs, especially with regard to the COVID-19 pandemic and the related social isolation. By participating, you help researchers better understand the scope of people's beliefs, attitudes and opinions throughout this crisis, and how they may relate to mental health.
+
+Your participation is completely ANONYMOUS. If you are interested in participating, click on this link: [ which will take you to the survey. If you have any questions, please send us a Direct Message or contact us at neurophilosophylabmcgill@gmail.com. DO NOT REPLY directly to this ad.
+++++++++++
+ Health authorities ask for pause on cottage season to prevent strain on rural health-care systems 
+++++++++++
+ Public Health Lessons Learned From Biases in Coronavirus Mortality Overestimation Abstract:
+
+In testimony before  US Congress on March 11, 2020, members of the House Oversight and  Reform Committee were informed that estimated mortality for the novel  coronavirus was 10-times higher than for seasonal influenza. Additional  evidence, however, suggests the validity of this estimation could  benefit from vetting for biases and miscalculations. The main objective  of this article is to critically appraise the coronavirus mortality  estimation presented to Congress. Informational texts from the World  Health Organization and the Centers for Disease Control and Prevention  are compared with coronavirus mortality calculations in Congressional  testimony. Results of this critical appraisal reveal information bias  and selection bias in coronavirus mortality overestimation, most likely  caused by misclassifying an influenza infection fatality rate as a case  fatality rate. Public health lessons learned for future infectious  disease pandemics include: safeguarding against research biases that may  underestimate or overestimate an associated risk of disease and  mortality; reassessing the ethics of fear-based public health campaigns;  and providing full public disclosure of adverse effects from severe  mitigation measures to contain viral transmission.
+
+&amp;#x200B;
+
+[Figure 2](
+
+&amp;#x200B;
+
+[
+++++++++++
+ Manitoba Nov. 543 new cases, 7 deaths [
+
+A record setting 543 new cases have been announced bringing the total to 14 087
+
+368 in the Winnipeg Health Region
+
+118 in the Southern Health Region
+
+27 in the Northern Health Region
+
+21 in the Interlake-Eastern Health Region
+
+12 in the Prairie Mountain Health Region
+
+7 more deaths have been announced bringing the total to 236
+
+5 in Winnipeg
+
+A female in her 90s linked to the outbreak at Maples Personal Care Home
+
+A female in her 70s linked to the outbreak at Holy Family Personal Care Home
+
+A female in her 80s
+
+A male in his 60s
+
+A female in her 80s
+
+2 in the Fort Garry Health District, 1 in the Point Douglas Health District, 2 in the Seven Oaks Health District
+
+2 in the Southern Health Region
+
+A male in his 80s linked to the outbreak at Menno Home
+
+A male in his 70s
+
+1 from the Ste Anne/La Broquerie Health District and 1 from an Unknown Health District
+
+296 currently hospitalized with 52 in ICU
+
+The current 5 day test positivity rate is 14%, 13.8% in Winnipeg
+
+5 353 people have recovered with 8 498 active cases
+
+2 798 tests were completed Sunday bringing the total to 333 694
+
+Outbreaks have been declared at the Flin Flon Personal Care Home in Flin Flon and Charleswood Care Centre in Winnipeg. Both sites have been moved to critical (red) on the pandemic response system
+++++++++++
+ Children's mental-health care neglected in fight against COVID-19, parents say 
+++++++++++
+ Closures and Cancellations I thought having one place to list anything affected by province or area depending on population would be a good idea. There is so much scattered information, so I can update an add anything as it happens and mark anything as new. Please let me know any information that is missing. 
+
+
+
+[NL Health COVID-19 Information](
+
+Visitor restrictions/Precautions:
+
+
+[Western Health](
+
+[Central Health](
+
+[Eastern Health](
+
+*I’ve found no information regarding Labrador-Grenfell *
+
+Cancellations: 
+
+All recreational facilities in St. John's to close, including the Railway Coastal Museum, the Welcome Centre and the Pippy Park Winter Activity Centre, although trails will remain open. After school programming will continue as long as schools remain open.
+
+
+Public meetings in St. John's are cancelled and city council meetings will be closed to the public. Livestreams will continue.
+
+
+All recreational facilities in Mount Pearl are closed, including the Summit Centre, Glacier Arena, Admiralty House and the Reid and Gloria Pearson community centres. City-hosted events for the month of March are also cancelled.
+
+
+All recreational facilities in Paradise are closed. The after school program will remain open. All town recreational programming and events are also cancelled.
+
+
+All recreational programming and facilities in Conception Bay South are closed. This includes Worsley Park, Parsons Rotary Club House, the Topsail Soccer Hut, the Recreation Complex, CBS Arena and the Robert French Memorial Stadium.
+
+
+All programs and events at town facilities in Happy Valley-Goose Bay have been suspended.
+
+
+All events sanctioned by Hockey NL, including minor, junior and senior hockey are suspended until further notice.
+
+
+The Works will remain closed until further notice. This includes the Aquarena, Field House, and all other Works facilities.
+
+
+Mile One Centre has suspended public programming and will remain closed until further notice.
+
+
+Any events at Memorial University with more than 25 participants, excluding classes and labs.
+
+
+Any multi-school events under the Newfoundland and Labrador English School District, plus community use of schools and all international trips.
+
+
+All extracurricular activities at St. Bonaventure's College in St. John's and at schools within the French-language district.
+
+
+Church services at 5 Wing Goose Bay.
+
+
+Marble Mountain is closed.
+
+
+Newfoundland and Labrador Rugby Union has suspended all training and games.
+++++++++++
+ Nurses, lab workers, physicians among 'alarming' number of health-care workers with COVID-19 | CBC News 
+++++++++++
+ Why overuse of antibiotics in COVID-19 could have lasting impact in health care 
+++++++++++
+ Health care workers and first responders will get priority access to Costco 
+++++++++++
+ Anxieties over COVID-19 and possible PPE shortages prompting some health care workers to draft wills 
+++++++++++
+ Alberta to declare oil sands workers essential as province prepares COVID-19 pandemic response 
+++++++++++
+ Nurses, lab workers, physicians among &amp;#x27;alarming&amp;#x27; number of health-care workers with COVID-19 [deleted]
+++++++++++
+ Health-care staff talk of devastating COVID toll on working conditions, mental health 
+++++++++++
+ As COVID-19 infections surge, Ontario hospitals call for more stringent public health measures 
+++++++++++
+ Ontario November 17 update: 1249 New Cases, 1135 Recoveries, 12 Deaths, 26,468 tests (4.72% positive), Current ICUs: 127 (+2 vs. yesterday) (+45 vs. last week) Link to report: 
+
+Detailed tables: [Google Sheets mode]( and [HTML of Sheets, loads faster but looks ugly](
+
+* 106 new school cases. 683 (14.1% of all) schools have active cases
+* Backlog: 16,254 (-9,893), 33,351 tests completed (249.3 per 100k) --&gt; 23,458 swabbed
+* Positive rate (Day/Week/Prev Week): 4.46% /  3.79% /  3.28% - [Chart](
+* Current hospitalizations: 500(+21), ICUs: 125(+7), Ventilated: 70(+3), [vs. last week: +133 / +41 / +16] - [Chart](
+* *49.6% of today's cases are in people under the age of 40.* /s
+* 7.9% or 99 of today's cases are in people aged 70+
+* 530 of today's cases relate to episode dates more than 5 days ago
+
+**Global Comparison (Last 14 days/100k / % positive (week))**
+
+* Belgium: 755.0 (17.34%), France: 783.1 (28.66%), Spain: 545.8 (12.47%)
+* UK: 505.4 (7.33%), Italy: 785.8 (27.85%), Sweden: 511.9 (10.53%)
+* Germany: 307.6 (8.02%), Switzerland: 1093.0 (28.20%), Luxembourg: 1301.7 (4.73%)
+* Korea: 4.3 (1.60%), NZ: 0.8 (0.03%), Australia: 0.59 (0.02%)
+* USA: 581.7 (10.00%), Canada: 165.5 (7.72%)
+
+|Reporting_PHU|Today|Averages-&amp;gt;&amp;gt;|Last 7|Prev 7|Per 100k-&amp;gt;&amp;gt;|Last 7/100k|Prev 7/100k|Source (week %)-&amp;gt;&amp;gt;|Close contact|Community|Outbreak|Travel|Ages (week %)-&amp;gt;&amp;gt;|&amp;lt;40|40-69|70+|More Averages-&amp;gt;&amp;gt;|Oct|Sep|Aug|Jul|Jun|May|
+:--|--:|:--|--:|--:|:--|--:|--:|:--|--:|--:|--:|--:|:--|--:|--:|--:|:--|--:|--:|--:|--:|--:|--:|
+|Total|1249||1423.1|1153.7||74.5|60.4||40|41.7|17.4|0.9||51.7|37.7|10.5||774.8|313.4|100.1|133.8|240.3|376.7|
+|||||||||||||||||||||||||
+|Toronto PHU|569||456.1|391.7||116.9|100.4||15.2|64.3|20.1|0.5||49.6|39.4|10.9||286.2|110.4|21.1|33.9|97.7|168.9|
+|Peel|256||401.3|309.3||203.3|156.7||55.1|35.4|8.8|0.7||54.7|37.1|8.4||151.9|65.7|19.7|23.9|45.2|69.4|
+|York|94||144.1|101||90.9|63.7||57.1|28.8|13.5|0.6||45.9|43.9|10.3||80.3|26.1|6.2|9.7|18.8|28.8|
+|Durham|69||57.9|36.4||62.7|39.5||51.6|36.8|11.4|0.2||57.5|38.2|3.9||26.7|8.8|3|3.4|8.2|16.6|
+|Halton|58||50.1|50.1||64|64||47.3|33.6|18.5|0.6||52.4|38.2|9.4||27.9|9.7|1.9|2.3|3.7|6.2|
+|Waterloo Region|42||52.1|29.3||68.2|38.3||33.7|47.4|18.4|0.5||51.8|32.9|15.4||13.6|9|2.8|2.7|7.2|13.2|
+|Niagara|27||24.1|26.3||37.7|41.1||55|-2.4|46.2|1.2||42.6|39.1|18.4||11.4|4.6|2.4|3.5|3.8|5.1|
+|Wellington-Guelph|22||15|12.4||26.3|21.8||42.9|38.1|17.1|1.9||46.6|45.7|7.7||7|2.8|1.1|1.7|3.2|3.6|
+|Hamilton|19||36.3|45.1||47.3|58.9||40.2|28|31.5|0.4||43.4|37.8|18.9||20.9|6.1|2.7|1.7|5.4|8.4|
+|Simcoe-Muskoka|19||26.9|16||34.8|20.7||50.5|39.4|9|1.1||58.4|35|6.4||15.6|6.3|1.5|2.1|4.3|6.4|
+|Windsor|16||23.4|11.6||41.1|20.3||24.4|24.4|47|4.3||53.1|36|11||5.6|4.6|7|22.8|20.9|12.3|
+|Ottawa|11||51.6|54.6||38.6|40.9||64.3|8.6|24.4|2.8||57.9|28.3|13.9||86.5|44.9|14.4|14.1|4.7|20.5|
+|Brant|9||7.4|7.4||38.5|38.5||40.4|34.6|23.1|1.9||48.1|40.4|11.5||4.5|0.9|0.6|0.7|0.5|0.5|
+|Thunder Bay|9||4.7|2.1||21.7|9.9||24.2|3|72.7|0||39.4|57.6|3||0.4|0.1|0.3|0.1|0.3|0.3|
+|Southwestern|6||9.6|4.1||75.3|32.6||41.8|23.9|29.9|4.5||49.2|32.9|17.9||1.7|0.5|3.6|1.9|0.3|0.5|
+|Chatham-Kent|6||5.3|1.3||36.3|8.8||37.8|32.4|29.7|0||59.4|37.8|2.7||1.3|0.2|3.9|2.8|0.5|2|
+|Eastern Ontario|5||6.7|9.4||23.2|32.6||66|4.3|27.7|2.1||51|27.6|21.3||10.9|2.4|0.5|0.5|0.5|1.8|
+|Kingston|5||4.9|1.4||17.6|5.2||52.9|23.5|20.6|2.9||82.3|14.7|2.9||1.5|0.6|0.1|0.6|0.9|0|
+|London|3||14.4|16.7||22.2|25.7||61.4|13.9|16.8|7.9||77.2|14.9|7.9||8.4|4.8|1.8|1.5|3.1|4.3|
+|Haliburton, Kawartha|3||1.7|0.9||6.7|3.4||75|8.3|16.7|0||33.3|25|25||0.4|0.5|0.4|0.6|0.7|0.5|
+|Rest|1||29.5|26.6||12.4|11.3||40.3|23.8|34.5|1.5||49|30.1|20.9||12.1|4.4|5.1|3.3|10.4|7.4|
+
+
+
+
+
+**Canada comparison:** 
+
+|Province|Yesterday|Averages-&amp;gt;&amp;gt;|Last 7|Prev 7|Per 100k-&amp;gt;&amp;gt;|Last 7/100k|Prev 7/100k|Positive % - last 7|
+:--|--:|:--|--:|--:|:--|--:|--:|--:|
+|Canada|4802||4779.6|3824.9||89|71.2|8.03|
+||||||||||
+|Ontario|1487||1443|1105.7||69.3|53.1|3.92|
+|Quebec|1218||1297.6|1138.7||107|93.9|12.24|
+|Alberta|860||861.3|685.4||137.9|109.8|inf|
+|British Columbia|646||604.3|459||83.4|63.4|10.88|
+|Manitoba|392||406.3|317.1||207.7|162.1|12.23|
+|Saskatchewan|181||156.4|113.6||93.2|67.7|10.24|
+|Lotmoreovit|8||3.4|0.3||61.9|5.2|7.87|
+|New Brunswick|8||2.9|1.6||2.6|1.4|0.82|
+|Nova Scotia|2||2.4|2.3||1.8|1.6|0.33|
+|Newfoundland|0||0.9|0.9||1.2|1.2|0.31|
+|Northwest Territories|0||0.7|0||11.2|0|3.68|
+|Prince Edward Island|0||0.3|0.3||1.3|1.3|0.1|
+|Yukon|0||0.1|0||2.4|0|0.68|
+
+
+
+
+
+
+**Today's deaths:**
+
+|Reporting_PHU|Age_Group|Client_Gender|Case_AcquisitionInfo|Case_Reported_Date|Episode_Date|2020-11-17|
+:--|:--|:--|:--|:--|:--|--:|
+|Ottawa|90s|MALE|Outbreak|2020-11-11|2020-11-11|1|
+|Toronto PHU|90s|MALE|Outbreak|2020-11-11|2020-11-10|1|
+|Huron Perth|90s|MALE|Outbreak|2020-11-09|2020-11-07|1|
+|Huron Perth|90s|FEMALE|Outbreak|2020-11-09|2020-11-07|1|
+|Toronto PHU|80s|FEMALE|Community|2020-11-10|2020-11-06|1|
+|Toronto PHU|90s|MALE|Outbreak|2020-11-11|2020-11-06|-1|
+|Huron Perth|90s|FEMALE|Outbreak|2020-11-07|2020-11-06|1|
+|Windsor|90s|MALE|Outbreak|2020-11-11|2020-11-06|1|
+|Toronto PHU|80s|FEMALE|Outbreak|2020-11-04|2020-11-03|1|
+|Huron Perth|90s|MALE|Outbreak|2020-11-04|2020-11-03|1|
+|Waterloo Region|90s|FEMALE|Community|2020-11-08|2020-10-28|1|
+|Toronto PHU|90s|FEMALE|Outbreak|2020-10-30|2020-10-28|1|
+|Ottawa|80s|FEMALE|Outbreak|2020-10-22|2020-10-18|1|
+|Toronto PHU|70s|MALE|Outbreak|2020-10-11|2020-10-11|1|
+++++++++++
+ Manitoba Nov. 27 update: 344 new cases, 14 deaths [
+
+344 new cases have been announced bringing the total to 15 632
+
+178 in the Winnipeg Health Region
+
+73 in the Northern Health Region
+
+65 in the Southern Health Region
+
+15 in the Interlake-Eastern Health Region
+
+13 in the Prairie Mountain Health Region
+
+14 more deaths have been announced bringing the total to 280
+
+9 in Winnipeg
+
+A male in his 50s
+
+A male in his 70s
+
+A female in her 70s linked to the outbreak at Parkview Place 
+
+A female in her 80s linked to the outbreak at Saul &amp; Claribel Simkin Centre
+
+A female in her 80s linked to the outbreak at Saul &amp; Claribel Simkin Centre
+
+A male in his 90s linked to the outbreak at St. Norbert Personal Care Home
+
+A male in his 90s linked to the outbreak at Golden Links Lodge
+
+A male in his 90s linked to the outbreak at Golden Links Lodge
+
+A female in her 100s linked to the outbreak at Saul &amp; Claribel Simkin Centre
+
+2 in the Downtown Health District, 4 in the Fort Garry Health District, 1 in the River East Health District, 1 in the St. Boniface Health District, 1 in the St. Vital Health District
+
+2 in the Southern Health Region
+
+A male in his 70s
+
+A male in his 90s linked to the outbreak at Rest Haven Nursing Home
+
+Both in the City of Steinbach
+
+2 in the Interlake-Eastern Health Region
+
+A male in his 50s
+
+A male in his 70s
+
+1 in the Eriksdale/Ashern Health District, 1 in the Springfield Health District
+
+A female in her 90s from the City of Brandon in the Prairie Mountain Health Region. Linked to the outbreak at Fairview Home
+
+322 currently hospitalized with 45 in ICU
+
+The current 5 day test positivity rate is 14.5%, 14.2% in Winnipeg
+
+6 487 people have recovered with 8 865 active cases
+
+3 110 tests were completed Thursday bringing the total to 345 708
+
+Outbreaks have been declared at Misericordia Health Centre on their Transitional Care Unit C6 in Winnipeg, Grace Hospital unit 4 south in Winnipeg and Kin Place Personal Care Home in Oakbank. All sites move to critical (red) on the pandemic response system
+
+The outbreaks at Collège Louis-Riel, Collège Leo Remillard and the Convalescent Home all in Winnipeg have been declared over.
+++++++++++
+ COVID-19 Test Counts by Province &amp; Territory I followed the links in the pinned post and attempted to find the total number of tests performed in every province and territory, along with the results. Unfortunately I couldn't find any test counts for Newfoundland, PEI, Quebec, Nunavut, or the Yukon, although NL, PEI, and Nunavut do say they have no confirmed cases. Also my French is very rusty and I couldn't find the English-language COVID page for Quebec, so the confirmed cases for Quebec are from Public Health Canada. If you find an official source that fills in any of the blanks please comment with a link and I'll update this post. Otherwise my current plan is to check and update once a day.
+
+A challenge with compiling and comparing these numbers is that every website has a slightly different system for reporting. The biggest variation is whether they count individual tests or persons tested or both; I've used persons when possible. Another is that BC includes recovered cases in the confirmed case counts (as does Public Health Canada), while Ontario excludes them. I've changed Ontario to match BC. If you find any other ambiguities or mismatches or have any suggestions, please comment.
+
+Initial post: 12:20 EDT March 13
+
+||Updated|Total|Negative|Pending|Probable|Confirmed|Resolved|
+|:-|:-|:-|:-|:-|:-|:-|:-|
+|[NL](
+|[NS](
+|[PE](
+|[NB](
+|[QC](
+|[ON](
+|[MB](
+|[SK](
+|[AB](
+|[BC](
+|[NU](
+|[NWT](
+|[YT](
+|[Other](
+|Total||||12269|10317|558|4|
+|||||||||
+|[CA](
+++++++++++
+ Long-term care worker among 2 new COVID-19 cases in Campbellton region linked to doctor 
+++++++++++
+ Approved Hard-surface disinfectants and hand sanitizers (COVID-19) - Health Canada The following hard-surface disinfectants meet Health Canada's requirements for emerging viral pathogens. These authorized disinfectants may be used against SARS-CoV-2, the coronavirus that causes COVID-19.
+
+[
+
+This is the Canadian version of the EPA list that was circulated early on: [
+++++++++++
+ Niagara distiller making free hand sanitizer for police, health-care workers, others 
+++++++++++
+ London Ontario Ticket for failure to comply to emergency order while driving to work at Long term Health Care facility. I got this forwarded from a friend that works at the facility. [deleted]
+++++++++++
+ Impacts of COVID-19 on Health Care Workers: Infection Prevention and Control / Répercussions de la COVID-19 sur les travailleurs de la santé : prévention et contrôle des infections 
+++++++++++
+ BC northern health statement. What do you think about this? 
+++++++++++
+ Public health seeks to curb COVID-19 spike in Outremont's Hasidic community 
+++++++++++
+ COVID-19 is causing long-term mental health problems in some patients - MENTAL HEALTH 
+++++++++++
+ The demands of Quebec health-care workers will be written in the sky 
+++++++++++
+ All Community centres, Library's and Daycares are closed in Peel region. 
+++++++++++
+ Is there any information regarding cases out of the 80+ group and health care workers? I think we are all interested to know a bit more about the source of the infection of those outside the LTC homes and health workers. Defining it as community acquired is definitely not helping much. Many are also direct contact because of positive family members or co-workers. Is there any way to find out more about the source of the transmission? Wouldn’t it help knowing more about the source - if they do contact tracing - to improve the way we all behave?
+++++++++++
+ Native Chief says health care workers are spreading COVID to their people 
+++++++++++
+ Health care workers shouldn't work at multiple nursing homes: nurses' group 
+++++++++++
+ Time lapse of Peach Arch Border Crossing Last 24 hours of the Peach Arch Border Crossing
+
+[
+
+Click on the Green Button - Replay the Day to play the last 24 hours.
+
+In addition other traffic camera are also available at the other crossings:
+
+&amp;#x200B;
+
+[
+++++++++++
+ Anyone have success organizing a community/municipal preparedness plan? Has any had any success starting a community or municipal preparedness plan? I tried thirteen years ago and it was like herding cats.
+++++++++++
+ Canada supports China’s ongoing response to novel coronavirus outbreak  [ 
+
+&amp;#x200B;
+
+ News release
+
+February 9, 2020 - Ottawa, Ontario - Global Affairs Canada
+
+Canada is working with its partners and international organizations to control the spread of the novel coronavirus. This is vital to helping those affected and protecting the health and safety of people around the world.
+
+To support China’s ongoing response to the outbreak, Canada has deployed approximately 16 tonnes of personal protective equipment, such as clothing, face shields, masks, goggles and gloves to the country since February 4, 2020. 
+
+This equipment has been provided in collaboration with the Canadian Red Cross and the Red Cross Society of China.
+++++++++++
+ Update Alert 3: Masks for Prevention of Respiratory Virus Infections, Including SARS-CoV-2, in Health Care and Community Settings 
+++++++++++
+ 'Was it perfect? No': Theresa Tam discusses Canada's early pandemic response 
+++++++++++
+ University of Toronto study finds temperature, latitude not associated with COVID-19 spread: School closures, physical distancing and public health measures have effect 
+++++++++++
+ PM Trudeau announces extensive plans for Made In Canada medical supplies for Canadians, 500K from 3M coming tomorrow, reaffirms 3 point economic plan, recognizes World Health Day and National Caregiver Day 
+++++++++++
+ Canada is lacking resources for testing.  
+
+ [ 
+
+&amp;#x200B;
+
+The health and safety of all Canadians is our top priority.
+
+PHAC is working with provinces, territories and international partners, including the World Health Organization, to actively monitor the situation. Global efforts are focused on containment of the outbreak in China and the prevention of further spread.
+
+Canada's Chief Public Health Officer of Canada is in close contact with provincial and territorial Chief Medical Officers of Health to ensure that any cases of COVID-19 occurring in Canada continue to be rapidly identified and managed in order to protect the health of Canadians.
+
+Canada's National Microbiology Laboratory has implemented testing to diagnose COVID-19 from clinical specimens. The laboratory is working collaboratively with Canadian provincial public health laboratories to ensure there is additional testing capacity in multiple jurisdictions.
+
+**As of February 25, 2020, British Columbia and Ontario are able to confirm laboratory diagnostics for the virus that causes COVID-19. For all other provinces, their results undergo additional testing at the National Microbiology Laboratory to provide further confirmation of initial laboratory findings. Please refer to information from provinces and territories for further test result summaries.**
+
+As of March 2, 2020, the National Microbiology Laboratory has confirmed 506 negative cases and 14 positive cases of COVID-19.
+++++++++++
+ Asking the tough questions: Chief Medical Officers questioned on lockdown’s adverse health impacts 
+++++++++++
+ Alberta to reopen selected businesses in two weeks, pending stricter public-health measures 
+++++++++++
+ N95 masks are for health care workers only. Surgical masks are for the public. PLEASE FOLLOW THE RECOMMENDATIONS 
+++++++++++
+ Manitoba Nov. 28 update: 487 new cases, 10 deaths 487 new cases have been announced 16 118
+
+307 in the Winnipeg Health Region
+
+104 in the Southern Health Region
+
+38 in the Northern Health Region
+
+23 in the Interlake-Eastern Health Region
+
+15 in the Prairie Mountain Health Region
+
+10 more deaths have been announced bringing the total to 290
+
+5 in Winnipeg
+
+A male under the age of 10 (I felt so sick I had to type that)
+
+A female in her 60s
+
+A female in her 80s linked to the outbreak at Heritage Lodge
+
+A female in her 80s
+
+A male in his 90s linked to the outbreak at Park Manor
+
+1 in the Downtown Health District, 1 in the Point Douglas Health District, 1 in the St. James - Assiniboia Health District, 2 in the Transcona Health District
+
+3 in the Prairie Mountain Health Region
+
+A male in his 70s linked to the outbreak at Gilbert Plains Personal Care Home
+
+A male in his 80s linked to the outbreak at Fairview Home
+
+A female in her 90s linked to the outbreak at Gilbert Plains Personal Care Home
+
+1 in the City of Brandon, 2 in the Riding Mountain Health District
+
+A male in his 60s from the Eriksdale/Ashern Health District in the Interlake-Eastern Health Region
+
+A female in her 80s from the City of Steinbach in the Southern Health Region
+
+327 currently hospitalized with 44 in ICU
+
+The current 5 day test positivity rate is 14.2%, 13.9% in Winnipeg
+
+6 804 people have recovered with 9 024 active cases
+
+2 604 tests were completed Friday bringing the total to 348 768
+
+Outbreaks have been declared at Health Sciences Centre unit GD4 in Winnipeg and Manitoba Developmental Centre in Portage La Prairie. Both sites move to critical (red) on the pandemic response system
+
+The outbreaks at Aborgate School in La Broquerie and Reston School in Reston have been declared over
+++++++++++
+ China beat the coronavirus with science and strong public health measures, not just with authoritarianism 
+++++++++++
+ Quebec (and Canada) - Case Definition and Exposure Criteria for Testing Patient must meet both criteria for testing in Quebec. 
+
+*"Indication clinique (La personne doit satisfaire aux critères d’exposition ET à ceux de la maladie)."*
+
+English Translation: Clinical indication (The person must meet the exposure criteria AND those of the disease). 
+
+[
+
+Quebec directs you to Government of Canada links below for the case definition and exposure criteria ([
+
+**COV-19 Case Definition - Government of Canada:**
+
+[
+
+**Exposure Criteria (COVID-19 - Affected Areas List) - Government of Canada:**
+
+[
+++++++++++
+ Opening up Saskatchewan is starting Phase one on May 7th, personal health care systems and parks are opening up.
+++++++++++
+ COVID-19, and the Doomsday Clock Just read this article, and thought it was worth sharing, and discussing! 
+
+ [
+++++++++++
+ Anxieties over COVID-19 and possible PPE shortages prompting some health care workers to draft wills 
+++++++++++
+ Public health is epically failing at any prevention at this point.. [removed]
+++++++++++
+ Manitoba Nov. 25 update: 349 new cases, 9 deaths [
+
+349 new cases have been announced bringing the total to 14 907
+
+213 in the Winnipeg Health Region
+
+73 in the Southern Health Region
+
+30 in the Northern Health Region
+
+22 in the Interlake-Eastern Health Region
+
+11 in the Prairie Mountain Health Region
+
+9 deaths have been announced, 1 was removed due to a data error (from the River East Health District of Winnipeg), bringing the total to 256
+
+5 in Winnipeg
+
+A male in his 40s
+
+A male in his 60s
+
+A female in her 70s linked to the outbreak at St. Norbert Personal Care Home
+
+A female in her 80s
+
+A female in her 90s linked to the outbreak at Saul &amp; Claribel Simkin Centre 
+
+2 in the Fort Garry Health District, 1 in the Inkster Health District, 1 in the River Heights Health District, 1 in an Unknown Community Area
+
+4 in the Southern Health Region
+
+A female in her 50s
+
+A male in his 80s
+
+A male in his 80s linked to the outbreak at Buhler Active Living Centre
+
+A female in her 90s linked to the outbreak at Rest Have Nursing Home
+
+1 in the City of Steinbach, 1 in the City of Winkler, 2 in the Hanover Health District
+
+303 currently hospitalized with 50 in ICU
+
+The current 5 day test positivity rate is 14%, both provincially and in Winnipeg
+
+5 893 people have recovered with 8 758 active cases
+
+2 614 tests were completed Tuesday bringing the total to 340 151
+
+Outbreaks have been declared at Woodhaven Manor in Steinbach and Lions Manor in Winnipeg. Both sites move to critical (red) on the pandemic response system
+++++++++++
+ Manitoba Nov. 30 update: 343 new cases, 11 deaths [
+
+343 new cases have been announced, 1 was removed due to a data correction bringing the total to 16 825
+
+207 in the Winnipeg Health Region
+
+53 in the Southern Health Region
+
+46 in the Northern Health Region
+
+23 in the Interlake-Eastern Health Region
+
+14 in the Prairie Mountain Health Region
+
+11 deaths have been announced bringing the total to 312
+
+7 in Winnipeg
+
+A male in his 30s
+
+A female in her 40s
+
+A female in her 70s linked to the outbreak at Health Science Centre unit GA3
+
+A male in his 80s linked to the outbreak at Charleswood Care Centre
+
+A male in his 80s linked to the outbreak at Golden Links Lodge
+
+A female in her 90s linked to the outbreak at St. Norbert Personal Care Home
+
+A female in her 90s
+
+2 in the Downtown Health District, 2 in the Fort Garry Health District, 1 in the Inkster Health District, 1 in the Point Douglas Health District, 1 in the Transcona Health District
+
+2 in the Southern Health Region
+
+A male in his 80s linked to the outbreak at Villa Youville Personal Care Home
+
+A male in his 90s linked to the outbreak at Bridgepark Manor Assisted Living Facility
+
+1 in the City of Steinbach and 1 in the Ste Anne/La Broquerie Health District
+
+A male and female in their 80s from the City of Brandon in the Prairie Mountain Health Region, Linked to the outbreak at Fairview Personal Care Home
+
+342 currently hospitalized with 43 in ICU
+
+The current 5 day test positivity rate is 13.4%, 13.7% in Winnipeg
+
+7 253 people have recovered with 9 260 active cases
+
+2 611 tests were completed Sunday bringing the total to 355 081
+
+Outbreaks have been declared at Lakeshore General Hospital in Ashern and West Park Manor Personal Care Home in Winnipeg. Both sites move to critical (red) on the pandemic response system.
+
+The outbreaks at Women's Correctional Centre in Headingly and Keeyask Generating Station near Thompson have been declared over
+++++++++++
+ There are 7 new COVID-19 cases in BC. Two of the new cases are care workers at the Lynn Valley care centre. 
+++++++++++
+ Coronavirus: Ontario education minister outlines COVID-19 Management Plan  [ 
+
+Can anyone explain to me what is meant by "In some cases the class cohorts will be tested, sent home, or closed until the outbreak is declared over, as determined by as approved by the Chief Medical Officer."
+++++++++++
+ Ontario shifts policy on precautions for health workers in coronavirus outbreak. Droplet precautions = surgical masks 
+++++++++++
+ Ontario switching to droplet precautions: Ontario shifts policy on precautions for health workers in coronavirus outbreak 
+++++++++++
+ Manitoba Nov. 19 update: 475 new cases, 8 deaths [
+
+Sorry this is coming in a little later than usual, I got busy with school work
+
+475 new cases have been announced bringing the total to 12 482
+
+271 in the Winnipeg Health Region
+
+124 in the Southern Health Region
+
+55 in the Northern Health Region
+
+13 in the Prairie Mountain Health Region
+
+12 in the Interlake-Eastern Health Region
+
+8 deaths have been announced bringing the total to 198
+
+4 in Winnipeg
+
+A male in his 60s linked to the outbreak at Keekinan Centre
+
+A male in his 70s, female in her 80s and female in her 90s linked to the outbreak at Maples Personal Care Home
+
+1 in the Point Douglas Health District and 3 in the Seven Oaks Health District
+
+2 in the Southern Health Region
+
+A male in his 70s and a male in his 80s linked to the outbreak at Rest Haven Nursing Home
+
+1 in the Tache Health District and 1 in an Unknown Health District
+
+A male in his 90s and female in her 90s linked to the outbreak at Gilbert Plains Personal Care Home in the Riding Mountain Health District in the Prairie Mountain Health Region
+
+263 currently hospitalized with 43 in ICU
+
+The current 5 day test positivity rate is 14%, 13.7% in Winnipeg
+
+4 655 people have recovered with 7 629 active cases
+
+3 269 tests were completed Wednesday bringing the total to 321 853
+
+Outbreaks have been declared at Health Science Centre unit GA3 in Winnipeg, Buhler Active Living Centre in Winkler, Oakwood Place in Blumenort and St. Paul's Personal Care Home in Dauphin. All sites move to critical (red) on the pandemic response system
+++++++++++
+ 'Appreciated': Toronto Mayor, first responders pay tribute to health-care workers - CP24 
+++++++++++
+ I work in retail and the store closed, is the government going to help? I work on an hourly basis every week (\~20hrs/week) at minimum wage in Toronto, Ontario and the store will be closed until Mar 31 at least because of COVID-19, all of our shifts were cancelled. I've been reading about Trudeau's Economic Response Plan ([ and there is nothing about cancellation of shits. Is there anything I could apply for? I've never done any form of unemployment or anything like that. Any advice is appreciated!!
+++++++++++
+ Those who believe the public is taking mask supply away from health care workers? From where do you believe this is happening? There are no masks being taken from health care workers sources. One off a shelf from a Walmart isn’t going to make a dent.
+
+People are making masks, ordering from overseas, and using non NIOSH masks that the Govt wouldn’t approve for health care worker use anyways. 
+
+It’s become a moot argument/point to make about people taking masks from health workers.
+
+Now, at this point, anyone who finds a way to cover their airways is doing a service to healthcare by stopping infection.
+
+If you see someone wearing a mask, thank them for doing their part. 
+
+If you see someone not covering their face, tell them to cover their face. They are the problem. Those people are who are spreading
+++++++++++
+ Most Canadians could be vaccinated by end of 2021, says federal public health officer 
+++++++++++
+ Manitoba Nov. 16 update: 392 new cases, 10 deaths 392 new cases have been announced bringing the total to 11 339
+
+255 in the Winnipeg Health Region
+
+72 in the Southern Health Region
+
+25 in the Northern Health Region
+
+21 in the Interlake-Eastern Health Region
+
+19 in the Prairie Mountain Health Region
+
+10 more deaths have been announced bringing the total to 172
+
+6 in Winnipeg
+
+A male in his 80s, female in her 80s and female in her 90s linked to the outbreak at Maples Personal Care Home.
+
+A male in his 90s linked to the outbreak at Victoria Hospital
+
+A male in his 80s linked to the outbreak at Seine River Retirement Centre
+
+A male in his 70s not linked to any outbreak
+
+1 in the Assiniboine South Health District, 1 in the Point Douglas Health District, 2 in the River East Health District, 1 in the Seven Oaks Health District and 1 in the St. Vital Health District
+
+4 in Southern Health Region
+
+A male in his 90s linked to the outbreak at Bethesda Place Personal Care Home
+
+A male in his 80s linked to the outbreak at Carman Memorial Hospital
+
+A male in his 90s linked to the outbreak at Brooklyn Terrace
+
+A male in his 70s linked to the outbreak at Bethesda Regional Health Centre
+
+2 in the City of Steinbach, 1 in the Grey Health District and 1 in the Ste. Anne/La Broquerie Health District
+
+234 currently hospitalized with 42 in ICU
+
+The current 5 day test positivity rate is 13%, 12.8% in Winnipeg
+
+ 4 156 people have recovered with 7 011 active cases
+
+2 391 tests were completed Sunday bringing the total to 312 238
+
+Outbreaks have been declared at St. Paul's Residence Personal Care Home in The Pas and Oakview Place Personal Care Home in Winnipeg. Both sites have been moved to critical (red) on the pandemic response system
+++++++++++
+ StatCan plans 'contactless' census for 2021 in response to COVID-19 
+++++++++++
+ How to manage mental health during the second wave of COVID-19 
+++++++++++
+ Fourth health-care worker dies of COVID-19 in Ontario, union calls for better protection 
+++++++++++
+ Manitoba Nov. 29 update: 365 new cases, 11 deaths 365 new cases have been announced, 1 case was removed bringing the total to 16 483
+
+241 in the Winnipeg Health Region
+
+71 in the Southern Health Region
+
+27 in the Northern Health Region
+
+17 in the Interlake-Eastern Health Region
+
+9 in the Prairie Mountain Health Region
+
+10 more deaths have been announced bringing the total to 301 (see comments for an update on where deaths have been and the increase since 200 deaths)
+
+7 in Winnipeg
+
+A male in his 60s
+
+A male in his 70s linked to the outbreak at Holy Family Home
+
+A female in her 80s linked to the outbreak at Fred Douglas Lodge
+
+A female in her 80s linked to the outbreak at Park Manor
+
+A male in his 80s linked to the outbreak at Holy Family Home
+
+A female in her 90s linked to the outbreak at Charleswood Care Centre
+
+A female in her 90s linked to the outbreak at Holy Family Home
+
+1 in the Inkster Health District, 2 in the Point Douglas Health District, 1 in the River East Health District,  1 in the Seven Oaks Health District, 1 in the Transcona Health District, 1 in an Unknown Community Area
+
+3 in the Southern Health Region
+
+A female in her 80s linked to the outbreak at Villa Youville Personal Care Home
+
+A female in her 80s linked to the outbreak at Menno Home
+
+A female in her 90s linked to the outbreak at Rest Haven Nursing Home
+
+1 in the City of Steinbach, 1 in the Hanover Health District, 1 in the Ste. Anne/La Broquerie Health District
+
+A female in her 80s from The Pas/OCN/Kelsey Health District in the Northern Health Region
+
+366 currently hospitalized with 44 in ICU
+
+The current 5 day test positivity rate is 13.3%, 13.5% in Winnipeg
+
+7 010 people have recovered with 9 172 active cases
+
+3 158 tests were completed Saturday bringing the total to 352 437
+
+An outbreak has been declared at The Pas Hospital acute care inpatient unit. The site moves to critical (red) on the pandemic response system
+++++++++++
+ Niagara distiller making free hand sanitizer for police, health-care workers, others 
+++++++++++
+ What are some of the impacts of Covid-19 on your industry that most people outside the industry wouldn't know or think about? I've seen a few posts from farmers, educators and health care workers, and spoken with friends and family about some of the impacts to their jobs or industries. It has made me curious what some of the lesser known impacts are across these and other industries. 
+
+If really love to hear from people across a wide variety of industries - farming, manufacturing, trades, energy, retail, commerce, finance, forestry, education, tech, business... You name it! 
+
+If you're able, it would also be interesting to hear your take on what can or should be done to address those impacts. And if you're comfortable, share what your role is in that industry (corporate exec, small business owner, management, journeyman, labourer, admin...)
+++++++++++
+ Infected health-care workers the source of coronavirus outbreaks at four Ontario hospitals 
+++++++++++
+ Goodlife closing all gym locations across Canada; states Canadian Public Health Officer has raised threat from low to 'serious' 
+++++++++++
+ Ontario shares projections: 100k death (no intervention), 3k-15k deaths with public health measures Ontario has shared its model and projections. Very helpful to understand how these public health measures can impact the disease and why they're so important. Without interventions they estimate 100k deaths. And depending on the next set of public health measures, approximately 3,000 to 15,000 deaths. So far, they believe that 4,400 deaths will have been spared by the end of the month by the actions taken to date. As they've been saying from the start, the success of these measures will depend on how well they're followed. Here's the presentation: [
+++++++++++
+ 9,500 workers - and counting - are absent from Quebec health-care system, Premier Legault says 
+++++++++++
+ 'Was it perfect? No': Theresa Tam discusses Canada's early pandemic response 
+++++++++++
+ Health care workers shouldn't work at multiple nursing homes: nurses' group 
+++++++++++
+ Montreal to close public sports facilities, libraries and leisure centres that hold more than 250 people 
+++++++++++
+ Health care workers and first responders will get priority access to Costco. 
+++++++++++
+ Public health buck stops with Pallister: Premier Brian Pallister is not being honest when he says Manitoba’s top doctor has the final say on public health orders. 
+++++++++++
+ Manitoba Nov. 22 update: 243 new cases, 12 deaths [
+
+243 new cases have been announced bringing the total to 13 544
+
+135 in the Winnipeg Health Region
+
+49 in the Southern Health Region
+
+29 in the Northern Health Region
+
+16 in the Prairie Mountain Health Region
+
+14 in the Interlake-Eastern Health Region
+
+12 deaths have been announced bringing the total to 229
+
+All in Winnipeg
+
+A male in his 40s
+
+A male in his 60s linked to the outbreak at Victoria Hospital
+
+A female in her 70s
+
+A male in his 70s
+
+A male in his 80s
+
+A female in her 80s
+
+A female in her 80s linked to the outbreak at Parkview Place
+
+A female in her 80s linked to the outbreak at Maples Personal Care Home
+
+A male in his 90s
+
+A male in his 90s linked to the outbreak at Beacon Hill Lodge
+
+A female in her 90s
+
+A female in her 90s linked to the outbreak at St. Norbert Personal Care Home
+
+4 in the Downtown Health District, 3 in the Fort Garry Health District, 1 in the Inkster Health District, 2 in the River East Health District, 1 in the Seven Oaks Health District, 1 in the St. Vital Health District.
+
+288 currently hospitalized with 52 in ICU
+
+The current 5 day positivity rate is 13.7%, 13.4% in Winnipeg
+
+5 193 people have recovered with 8 122 active cases
+
+2 112 tests were completed Saturday bringing the total to 330 265
+++++++++++
+ Burnout warning from frontline health-care workers worried you aren't helping 
+++++++++++
+ Canadian Pandemic Influenza Preparedness: Planning Guidance for the Health Sector There has been significant discussion surrounding Canada's Pandemic planning, preparedness and standards.  For reference, this is Canada's current [Pandemic Influenza Preparedness: Planning Guidance for the Health Sector.](
+
+It was developed in 2006 after the SARS inquiry and updated after MERS and H1N1.
+
+These are detailed steps, measures and contingencies for Federal, Provincial and Municipal governments and public health authorities. 
+
+For the most part, Canada is not following this Pandemic Plan because the Federal Government has not declared an emergency.   [Step 1 of this plan was never taken.](
+
+*Planning for a prolonged and widespread health emergency of  unpredictable impact is challenging but essential. It requires a “whole  of society” response and the coordinated efforts of all levels of  government in collaboration with their stakeholders.*  
+
+Many of us are struggling to understand why Canada finds itself facing new restrictions and wanting to know there is light at the end of the tunnel.  If you want to know why a measures is mandatory or optional, or what options exist for reopening, this is the gold standard.
+++++++++++
+ COVID-19 Assessment Centre(s) planning for the Kitchener-Waterloo-Wellesley-Wilmot-Woolich region Just got an email regarding the planning of COVID-19 testing centres. Here are some excerpts from the email:
+
+"The Primary Care Council for the KW4 OHT met on the evening of March 11, 2020. We hosted Dr. Julie Emili from Public Health who is helping our region with our COVID-19 Screening and setting up our COVID-19 Assessment Centres. Our Region is working hard on a plan led by the hospitals, however, she has requested help. We are in need of ideas for Assessment Centre locations &amp; Volunteers to work in them..."
+
+"VOLUNTEERS:
+• We are asking for volunteers, for any health care professional who is interested in helping in the COVID-19 Assessment Centres.  
+• We currently do not know which type of individuals are needed, so we ask that you forward this around to those in the Kitchener-Waterloo-Wellesley-Wilmot-Woolich area who are interested in helping, and Public Health will contact you with further details. 
+• You will be provided with personal protective equipment (PPE), which when used appropriately will protect you.
+• You will be able to work safely from your clinic while you help in the assessment centre."
+
+"LOCATIONS:
+• We are looking for suggestions as to where to locate assessment centres.  
+• Even if you have sent suggestions to someone, please list them again.
+• The request is to have a reception area, a sink (in or outside exam rooms) and a door to the rooms where patients are being assessed."
+
+"On behalf of Public Health, we are currently creating a list with as many people who are willing to help. This includes PAs, NPs, Midwives, MOAs, RPNs, RNs, Receptionists, etc"

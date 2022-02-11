@@ -1,0 +1,296 @@
+
+++++++++++
+ Estimation of 114,000 to 798,000 Canadian Deaths? Is that what they are looking at?  We are all playing 3 games right now*; Not It, Keep Away, and Last Person Standing*.
+
+We are doing this because there will be a lot of Canadian deaths if we don't.  My **Estimation of Canadian deaths are between 114,000 to 798,000.**
+
+&amp;#x200B;
+
+If we assume *30-70% rate of population infection, 1-3% death rate, and \~38 million* Canadians it breaks down as follows;
+
+If the population infection rate is 30% of 38 million Canadians, 11.4 million people will be infected. If death rate is at 1%, that is 114,000 Canadians dead.
+
+If the population infection rate is 70% of 38 million Canadians, 26.6 million people will be infected. If death rate is at 3%, this is 798,000 Canadians dead.
+
+[
+
+[
+
+[
+
+10x these numbers for the USA.
+++++++++++
+ New Case Breakdown: Inside and outside of Long term Care Faciliteis There have been many recently about the recent rise in new cases/deaths being driven by outbreaks in LTC facilities. I compiled numbers from the daily reports to quantify to what extent these comments are true. 
+
+To smooth out hte numbers I used 3-day moving averages.
+
+&amp;#x200B;
+
+
+
+ \*There are some weird quirks in the data due to retroactive adjustments in classifications of deaths as LTC that leads to non-LTC death (which I compute as total death - LTC death) to be negative in one observation.
+++++++++++
+ New Ontario COVID-19 data shows ‘appalling’ death numbers in long-term care 
+++++++++++
+ CDC adjusts death count - comorbidities Hey all,
+
+Genuinely curious if someone can explain the effect of CDC adjusting how they're counting covid deaths. 
+
+According to their new data only 6% of deaths in the US have been from covid19 on its own. The other 94% had another health condition directly involved in the cause of death. 
+
+Does this change anything or give us anymore information we didn't already know? 
+
+In healthy people this would make it seem like the actual mortality rate from covid19 alone is extremely low. Do we just have an extremely unhealthy population?
+++++++++++
+ Case numbers JHU data:
+
+| Date | Country | Province/territory | Confirmed | Deaths | Death-to-Case Ratio
+|:---|:---|:---:|:---:|:---|:---:|:---:|
+2020-05-28 | Canada | Alberta | 6955 (+29) | 143 (+2) | 2.1%
+2020-05-28 | Canada | British Columbia | 2558 (+8) | 164 (+2) | 6.4%
+2020-05-28 | Canada | Diamond Princess | 1 (+0) | 1 (+0) | 100%
+2020-05-28 | Canada | Grand Princess | 13 (+0) | 0 (+0) | 0%
+2020-05-28 | Canada | Manitoba | 294 (+2) | 7 (+0) | 2.4%
+2020-05-28 | Canada | New Brunswick | 126 (+3) | 0 (+0) | 0%
+2020-05-28 | Canada | Newfoundland and Labrador | 261 (+1) | 3 (+0) | 1.1%
+2020-05-28 | Canada | Northwest Territories | 5 (+0) | 0 (+0) | 0%
+2020-05-28 | Canada | Nova Scotia | 1055 (+2) | 59 (+0) | 5.6%
+2020-05-28 | Canada | Ontario | 28320 (+377) | 2292 (+28) | 8.1%
+2020-05-28 | Canada | Prince Edward Island | 27 (+0) | 0 (+0) | 0%
+2020-05-28 | Canada | Quebec | 49711 (+563) | 4303 (+74) | 8.7%
+2020-05-28 | Canada | Saskatchewan | 639 (+2) | 10 (+0) | 1.6%
+2020-05-28 | Canada | Yukon | 11 (+0) | 0 (+0) | 0%
+2020-05-28 | Canada | calculated total | 89976 (+987) | 6982 (+106) | 7.8%
+++++++++++
+ Why does COVID-19 seem so much more lethal in Canada?  I am an Ottawa, Ontario, Canada native who currently lives in El Paso, Texas, USA. I have noticed that COVID-19 seems far more lethal in Ottawa than in El Paso.
+
+Ottawa has had 2629 cases and 264 deaths, for a mortality rate of about 10%. El Paso has far more cases, at 16,308, but we have had only 29 more deaths than Ottawa. El Paso has 293 deaths for a mortality rate of about 1.8%
+
+If infected, you are approximately 5 times more likely to die of COVID-19 in Ottawa than in El Paso. The statistics State and Province-wide differ as well. Texas has a mortality rate of about 1.7% and Ontario's death rate is about 7%.
+
+Nation-wide, Canada's death rate from COVID is about 7.5% and the USA's is less than 0.5%
+
+There are far more cases here in the USA, but the lethality is much lower. Did Canada get hit with a much more lethal strain? Is the difference due to health care standards? Is Canada not actively testing? Why is COVID-19 so much more deadly in Canada?
+
+Check the stats here: Ottawa Ontario: [ El Paso Texas: [
+++++++++++
+ Modeling Mega Thread by Province with CFR If  any mistakes, additions, etc, reply, will edit :) I calculated CFRs manually based on data provide in sources, if any mistakes I will fix it.
+
+**Saskatchewan**
+
+Upper range *408,000* cases *8,370* deaths **CFR 2.05%** infection rate *34.5%*
+
+Mid range *262,000* cases *5,260* deaths **CFR 2.00%** infection rate *22.2%*
+
+Low range *153,000* cases *3,075* deaths **CFR 2.09%** infection rate *13%*
+
+[
+
+**Alberta**
+
+Probable scenario *800,000* cases *400* to *3,100* deaths **CFR 0.05%** to **0.38%**
+
+More serious scenario *1,000,000* cases *500* to *6,600* deaths **CFR 0.05%** to **0.66%**
+
+No social distancing scenario *1,600,000* cases *32,000* deaths **CFR 2.0%**
+
+[
+
+**Ontario**
+
+No social distancing scenario *300,000* cases *6,000* deaths **CFR 2.0%** (through April 30)
+
+Prevented to date *220,000* cases *4,400* deaths **CFR 2.0%** (through April 30)
+
+Current scenario *80,000* cases *1,600* deaths **CFR 2.0%** (through April 30)
+
+Taking further measures scenario *12,500* cases *200* deaths **CFR 1.6%** (through April 30)
+
+Worst case scenario *5,000,000* cases (based on 2% CFR) *100,000* deaths (though course of pandemic)
+
+With public health measures *????* cases *3,000-15,000* deaths CFR *???*
+
+Sources: [
+
+[
+
+**Quebec**
+
+Optimistic scenario *29,212* cases *1,263* deaths **CFR 4.3%**
+
+Pessimistic scenario *59,845* cases *8,860* deaths **CFR 14.8%**
+
+Source: [
+++++++++++
+ 4/25/2020 Ontario Case Breakdown: Inside and outside of Long term Care Facilities I compiled numbers from the daily reports to quantify to  new cases/deaths being driven by outbreaks in LTC facilities.
+
+To smooth out the numbers I used 3-day moving averages.
+
+&amp;#x200B;
+
+
+
+ 
+
+\*There are some weird quirks in the data due to retroactive adjustments in classifications of deaths as LTC that leads to non-LTC death (which I compute as total death - LTC death) to be negative in one observation.
+++++++++++
+ Anyone else find that Ontario mortality data is badly out of date? I saw that [The Economist]( visualized Excess Mortality, showing a kind of outline of COVID's impact by comparing 2020 deaths per week to prior years. It has Europe, the US, Japan, Peru, Ecuador, Chile... but nothing on Canada. 
+
+Okay, I can try to fill the gap. In Canada, a death must be registered with the Provincial Office of Registrar General. [Ontario]( seems to be caught up only to Dec 31. That's Dec 31, 2018.
+
+But Stats Can will have the answer, right? Well, [Weekly Death Counts]( has data for BC, Quebec... most provinces. But again, Ontario is missing 70 weeks of data!
+
+Anyone else who studies this -- am I missing something? How can Quebec, BC, Peru, Ecuador, Chile, the US, etc. all have processed death certificates during a pandemic, but not Ontario?
+++++++++++
+ A much-needed reality check for the “second wave” of COVID-19 
+
+&gt;The media blare out the fact that new cases are up 25% from the height of the pandemic, but ignore the fact that testing is up 800%. This is a lie by omission. It’s alarmism. And it should be ignored.
+
+&gt;Instead of the hysteria focusing on new case numbers, we should aim our focus on what really matters: number of new cases in vulnerable populations (especially those over the age of 70), number of hospitalizations, number of people in intensive care units (ICUs) and number of deaths.
+++++++++++
+ Halifax NS reports no new cases for first time [
+
+Tracking the numbers on the NS gov't website (on day 61 of my tracking document) and the central health region has reported no new cases of Covid-19! This region includes both Halifax and Windsor, and is home to 46% of the province's population (using statscan's 2016 numbers).
+
+The one new case in the province occurred in the Northern health district, which includes Truro, Tatamagouche, New Glagow, Amherst and our border with NB.  
+
+One new death at Northwood LTCF brings the total number of deaths there to 42. Out of the 48 deaths in Nova Scotia at least 44 (91%) have been affiliated with long-term care facilities.
+++++++++++
+ Is 100,000 US deaths an underestimation of the real devastation that is to come? The US is saying that we should prepare for 100,000 American deaths.  Is this really accurate or are they downplaying it?
+
+The population of the US is 327 million.  Assume a 40% infection rate and a 1% death rate.
+
+This means 327 million \* .4 \* .01 = 1.3 million deaths.
+
+Am I missing something here?
+++++++++++
+ Toronto deaths? Does anyone know what the correct number of deaths in Toronto is? Last night it was updated to 19, but today it’s listed at 11 (which was yesterday morning’s number).
+++++++++++
+ New Ontario COVID-19 data shows ‘appalling’ death numbers in long-term care 
+++++++++++
+ Why the giant spike of deaths on Oct 2nd and 3rd? There were 76 and 41 deaths on Oct 2nd and 3rd, respectively. There were 10 or fewer deaths for weeks before or after this two day spike.
+
+Anyone know what happened?
+++++++++++
+ Does anyone know where I can find information regarding the number outbreaks, cases and deaths at LTCFs? Looking for a comprehensive list of incidents related to Long-term Care Facilities. Each incident is reported individually or all cases are reported together. 
+
+From what I can tell, there are 150+ outbreaks at LTCFs in Quebec and Ontario...each.
+
+Deaths of residents from just 3 of these outbreaks account for 10% of all deaths in Canada to date.
+
+From research I've done, I think the LTCF deaths probably account for between 70-80% of all Covid deaths, but I can't find the detailed breakdowns.
+++++++++++
+ Why is there no comparative data being released? The GOV is doing a big ask with little data to support their decision or requests.
+
+Can someone tell me why we have not seen a graph showing the previous hospitalizations and deaths for disease going back 4 or 5 years also including the total death rate for the country. If total death rate and total death due to disease has not gone up we are destroying the country for nothing.
+
+These are not soft requests the GOV is asking, the decisions the GOV is making right now will also have drastic health consequences up to and including death. These deaths of despair, such as suicides, increased homicides, should be included in any model where we increase unemployment as a part of the solution.
+++++++++++
+ How large is Québec's death backlog? I notice that Québec always reports death that occurred over a week ago, such as today. According to CTV, 30/35 deaths Québec reported today were from before 11 June. I am wondering if there is any way to know an approximate number for this large backlog, and also why they have one unlike other provinces?
+++++++++++
+ NYC Confirmed and Probable deaths Hey guys they broke deaths by confirmed, probable, and not known. Out of 24,000, 10,000 are not known. That would suggest excess deaths.  
+
+
+ A death is classified as not known to be confirmed or probable COVID-19if t  he decedent died in New York City (NYC resident or residency pending) had no known positive laboratory test for SARS-CoV-2 (COVID-19) and the death certificate does not list COVID-19 or an equivalent as a cause of death.   
+
+
+ A death is classified as probable if the decedent was a New York City resident (NYC resident or residency pending) who had no known positive laboratory test for SARS-CoV-2 (COVID-19) but the death certificate lists as a cause of death “COVID-19” or an equivalent.   
+
+
+[
+++++++++++
+ Day to Day Update: 2 April As of 9 pm ET 2 April 2020, Canada reported 11,283 coronavirus cases (🔺1552 vs yesterday 🔺1139). Recoveries at 1736(🔺493 vs yesterday 🔺303). Deaths 137, 166, or 173***(🔺26, 55, or 62 vs yesterday 🔺7).
+
+Daily summary: *I’ve seen three numbers for deaths, from [137]( ), to [166]( ), and even [173]( ). I’m using all three, therefore. It’s horribly confusing.*Quebec added 907 cases today and 3 new deaths. BC added 55 new cases and 6 new deaths.  Alberta adds 97 new cases and 2 new deaths. Ontario reported 401 new cases and some amount of new deaths. [This is where the numbers are fudging up. I’m seeing as high as 81 deaths for Ontario, which would mean an increase of 44 deaths.] Saskatchewan adds 13 new cases. Nova Scotia reported 20 new cases, and NFLD reports 8 new cases. Manitoba reported 40 new cases. New Brunswick reported 10 new cases. PEI added a case. Canadian total exceeds 11,000; we’~~re~~ve ~~on track to~~surpassed South Korea and the 10,000 mark. There’s still Nunavut in Nunavut.
+Hospitalisations will now be added to the chart as well. 
+
+Note: Today’s death numbers may seem like a spike, but I am getting conflicting info on deaths. Also, I am syncing my testing numbers to Ici Radio Canada’s webpage, because it saves me a lot of time and effort by not having to search on *every individual province’s site.* Exception is when the numbers don’t change on their website, then I’ll go to that province’s page.
+
+By province:
+
+|Prov.(Daily change in brackets)|Confirmed|Recoveries|Deaths|Hosp.|Tested|
+|-|-|-|-|-|-|
+|Quebec|5518(🔺907)|231|36|365|79413|
+|Ontario|2392(🔺426)|831|57 or 81(?)|405|64785|
+|BC|1121🔺55)|641|31|142|44639|
+|Alberta|968(🔺97)|174|13|62|57096|
+|Saskatchewan|206(🔺13)|36|3|4|11395|
+|Nova Scotia|193(🔺20)|11|0|5|7639|
+|Newfoundland and Labrador|183(🔺8)|10|1|15|2929|
+|Manitoba|167(🔺40)|11|1|4|11327|
+|New Brunswick|91(🔺10)|22|0|4|4030|
+|PEI|22(🔺1)|3|0|N/A|958|
+|Yukon|6(No change)|3|0|N/A|722|
+|Northwest Territories|2(No change)|0|0|N/A|1109|
+|Other(No daily updates here, will just keep tally)|13|0|0|N/A|
+
+*Sources are on the sidebar, which are the official government sites for the provinces. Data also taken from [this site]( and [this site](
+
+**No change
+
+***Death toll is confusing
+
+This is done in tribute to u/DominusDK
+
+[Previous days](
+
++[1 April](
+++++++++++
+ Does anyone have any insight into the 3 pediatric deaths in Quebec? This is a reputable data source and you can click on Quebec to see that there are 3 deaths our of 10 PICU cases (all cases are 12 and under).  I played with the slider and found that the confirmed deaths are from April and May but they were not there just a couple of days ago.  Does anyone have any insight into this?  3 child deaths in Quebec from COVID would definitely change the discussion especially since none of the PICU cases included in the dataset had moderate or severe comorbidities.  Is anyone able to corroborate this?
+
+[
+++++++++++
+ Help understanding this data please [Ontario] May 20, 3622 cases 991 hospitalized, 7382 tests completed
+
+Nov 20, today, 12623 cases, 518 hospitalizations, 48173 tests completed.
+
+
+
+more tests equals more cases but more cases doesnt equal more hospitalizations? that doesnt make sense?
+
+also interesting to note in footnotes:
+
+7] Back to paragraph^ Deaths are determined by using the outcome field in iPHIS, CORES, CCMtool or The COD. Any case marked "Fatal" is included in the deaths data. Deaths are included whether or not COVID-19 was determined to be a contributing or underlying cause of death as indicated in the iPHIS field “Type of Death”.
+
+[8] Total number of tests completed by the COVID-19 Clinical Lab network (including PHO, hospital and community laboratories). This number represents total tests and not persons tested.
+
+
+++++++++++
+ models are now predicting between 1,200 and 1,620 deaths from COVID-19 In Canada by April 21 Dr. Theresa Tam, the chief public health officer of Canada, says models are now predicting between 1,200 and 1,620 deaths from COVID-19 by April 21.
+
+Last week the projections expected between 500 and 700 deaths this week, and Canada today has confirmed 1,048 deaths.
+
+Tam says the overall curve is “bending” when it comes to the number of new infections being confirmed in Canada but the death rate is higher than expected because such a high proportion of outbreaks are in long-term care centres.
+
+Tam says more than 90 per cent of the patients confirmed to have died from COVID-19 are over the age of 60, and half of them lived in long term care centres.
+
+
+++++++++++
+ Toronto/Peel lockdown: Can we just call it "retail lockdown"? I don't see any news organizations raising the major differences between this lockdown and spring's, the main one being Ontario actually (mostly) locked down in the spring. Why is everyone writing "Toronto and Peel are going \_\_back\_\_ into lockdown" when we're all still leaving our houses to go to work every weekday. Am I crazy?
+
+I'm worried that this seems to be as far as our government is willing to go--there are no more listed steps in the current system. If/when numbers continue to go up, hospitals become more fully overwhelmed, are we just going to stay in this half-assed "lockdown"?
+
+Who was leisure-shopping anyway??
+++++++++++
+ massaging the numbers You've probably seen the Sal Khan video that long story short says each death means 800 infections 20 days before the death.  It's a crude metric but it's the least bad we have to go on right now if we want any kind of real picture of Coronavirus infections in Canada instead of the silliness we're getting as official statistics.
+
+Canada has 21 deaths, with the first occurring on March 11.  Back that up 20 days and you can posit the first 800 infections on February 20.  That was 30 days ago.  Given the posited doubling rate of five days, 30/5=6 so that 1 death could mean 800 doubled 6 times or 102,400  infections today.
+
+The 21 deaths weren't all on the same day, but assuming they were gives an upper bound for posited number of infections under this crude model.  That works out to 2,150,400 infections, or 5.812% of Canada's population.
+
+Working backwards, if Khan's assumption of a 1% death rate holds, we're talking an upper bound of 2,150,400/100 or 21,500 deaths in no sooner than another 20 days, by April 12.
+
+I'm not trying to be alarmist here, just trying to cope with the Yes, Minister bad ganja I keep getting from Ontario reporting partial test results from some of the tests done 12-15 days ago.  If anyone can make a positive contribution to that, please do.
+++++++++++
+ Covid-19 Death Rate: 7% or 18%? Why is the death rate calculated as (total deaths / total cases) and not (total deaths / closed cases) ??
+
+Because all active cases will have one of two outcomes: recovered or dead. And when eventually the virus is stopped and no new cases are recorded, all active cases will be closed with one of the two outcomes. This means calculating the death rate in closed cases is more accurate (which would be 18% from [
+
+Am I missing something here??
+++++++++++
+ in the UK - Coronation Street legend Ken Morley, 77, claims he cheated death after contracting coronavirus a YEAR ago - falling ill around Christmas 2018  
+
+Coronation Street legend Ken Morley, 77, claims he cheated death after contracting coronavirus a YEAR ago...
+
+*"While in hospital, he was informed by doctors that the unnamed illness had mainly affected 'Chinese students' living in the area."*  
+source: [

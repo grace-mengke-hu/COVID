@@ -1,0 +1,349 @@
+
+++++++++++
+ Coronavirus Australia News Updates (13 October) * 'Hadn't been with a woman in months': Jesse Hogan fined for WA COVID breach  ([Wide World of Sports](
+* Care home sends bag marked 'clinical waste' to resident's family after COVID case  ([The Age](
+* Why people are volunteering to catch coronavirus  ([9News](
+* Zinc deficiency linked to poor COVID-19 outcomes - News ([Medical.Net](
+* Coronavirus vaccine: ‘Unexpected illness’ halts Johnson &amp; Johnson trial  ([NEWS.com.au](
+* Daniel Andrews rules out easing restrictions as planned  ([Daily Mail](
+* Donald Trump tells thousands at Florida rally 'I'll kiss everyone', again claims he's immune from coronavirus  ([ABC News](
+* Covid-19 reinfection casts doubt on virus immunity: study  ([Macau Business](
+* 'No student left behind': Victorian government to deploy thousands of tutors  ([The Age](
+* Young male gamblers on sports betting splurge during COVID-19 lockdown, research shows  ([ABC News](
+* Johnson &amp; Johnson pauses Covid vaccine trial over participant's 'unexplained illness'  ([The Guardian](
+
+
+
+_This daily news summary was automatically generated using [News API]( data from Australian news sources. If you have feedback, please send a modmail to /r/CoronavirusAustralia._
+++++++++++
+ NSW reports 3 new local cases, 1 new interstate case and 3 new overseas cases # New cases reported in the last 24 hours
+
+* **3** are returned overseas travellers in hotel quarantine
+* **1** is an interstate case from Victoria
+* **1** is locally acquired and under investigation (this post will be updated with postcode information tonight)
+* **2** are locally acquired and are linked to a known case or cluster:
+   * **1** is a household case of a previous case linked to Concord Hospital; **1** is a healthcare worker at Liverpool Hospital 
+
+&amp;#x200B;
+
+* [NSW Health]( is concerned by a drop in testing numbers over the past two weeks. Anyone feeling unwell – even with the mildest of symptoms such as a runny nose or scratchy throat – must come forward and get tested.
+
+# Cases to date - last updated 11:10 AM [14/09]
+
+[Click on image or this caption to view\/enlarge table.](
+
+# Sources of confirmed cases - last updated 6:49 PM [14/09]
+
+Over the last week, I have reported some differences in the number of reported cases when comparing the NSW press releases and the Data.NSW daily data sets. [To save space in the daily post, if you are interested in seeing the differences across days, check out this link.](
+
+[Click on image or this caption to view\/enlarge table.](
+
+# Recent Clusters - last updated 10:50 AM [14/09]
+
+|Cluster|Last 24 hours|Total|Reported|
+|:-|:-|:-|:-|
+|Sydney CBD|\-|71|Sept: [13]( [11]( [9]( [8]( [6]( [5]( [4]( [3]( [2]( Aug: [31]( [30]( [29]( [28]( [27](
+|St Paul’s Greystanes|\-|17|Sept: [13]( [12]( [10]( [4]( [3]( [2](
+|Concord/Liverpool Hospital|\-|15|Concord = Sept: [12]( [11]( [10]( [9]( [8]( [7]( Liverpool = Sept:[11]( [7]( [6]( [4]( [1]( Aug: [13](
+|Reddam Early Learning Centre, Lindfield|\-|3|Sept: [1]( Aug: [30](
+
+# Recently affected educational institutions* - last updated 10:50 AM [14/09]
+
+|School|Suburb, LGA|Last 24 hours|TOTAL|Reported|
+|:-|:-|:-|:-|:-|
+|Kincoppal Rose Bay School|Rose Bay, Waverley|\-|3|Sept: [8]( [6](
+|Regents Park Christian School|Regents Park, Canterbury-Bankstown/Cumberland|\-|1|Sept: [3](
+|Girraween Public School|Girraween, Cumberland|\-|2|Sept: [2]( [1](
+|St Paul's Catholic College|Greystanes, Cumberland|\-|6|Sept: [12]( [10]( [1]( Aug: [30](
+|Homebush Public School|Homebush, Strathfield|\-|0|Sept: [1]( Aug: [28](
+
+^(\* The case at Lidcombe Public School was a false positive. Sept:) [^(7)]( [^(6)](
+
+# Latest COVID-19 case locations in NSW - as of 15/09 [9:15 AM]
+
+Please view the [NSW Gov]( website for the most up to date information, including information concerning additional [locations]( and [Sydney bus and train routes]( where you are required to monitor yourself for [COVID-19 symptoms](
+
+|[**Increased testing and surveillance**]( and get tested immediately**](
+|:-|:-|
+|Bankstown (suburb)|**Ashfield:** New Shanghai Night restaurant|
+|Cumberland LGA|**Ashfield:** The Crocodile Farm Hotel|
+|Fairfield LGA|**Concord:** Concord Repatriation General Hospital\*|
+|Ku-ring-gai LGA|**Oatlands:** Oatlands Golf Club|
+|Liverpool LGA|**Parramatta:** Albion Hotel|
+|Mt Druitt (suburb)|**Prestons**: Life in the Spirit Ministry|
+|Parramatta LGA|**Randwick**: Fitness First|
+|Randwick LGA|**Sydney**: Hyde Park Medical Centre|
+|Sutherland LGA|**Waverley:** Eastern Suburbs Legion Club|
+|Eastern part of City of Sydney LGA||
+|Waverley LGA||
+|Woollahra LGA||
+
+^(\*This location is not listed on the) [^(NSW gov website)]( however, there was a press release on the) [^(10/09)]( ^(instructing anyone who attended Concord Hospital’s ED waiting room on Sunday 6/09 - 2:20 PM - 5:00 PM for an hour or more to self-isolate for 14 days, even with a negative test result) ^(until Sunday, September 20 inclusive. NSW Health is contacting all close contacts, but anyone else who visited the waiting area for less than one hour should be alert for symptoms.)
+
+# [A collated list of NSW media releases and public health alerts are also available on our Wiki](
+
+**Sources:**
+
+* [NSW Health - media release: 15th September](
+* [NSW COVID-19 statistics]( \[Updated Daily\]
+* [Data.NSW]( \[Updated daily, except on weekends\]
+* [COVID-19 weekly surveillance in NSW]( \[Published 10/09/20\]
+++++++++++
+ Coronavirus Australia News Updates (9 November) * Perth dentist jailed for breaching quarantine to treat patients  ([NEWS.com.au](
+* Coronavirus vaccine production begins in Australia before Oxford-AstraZeneca's products last stage of approval  ([ABC News](
+* Australian fashion label Alice McCall calls in administrators due to COVID-19 pandemic  ([PerthNow](
+* No spike in NSW suicides in 2020, despite COVID-19 lockdowns, bushfires  ([Sydney Morning Herald](
+* Melbourne Covid lockdown rules and coronavirus restrictions explained  ([The Guardian](
+* Second wave of COVID-19 in UK has reached “critical” stage, says study - News ([Medical.Net](
+* Rouse Hill area COVID testing alert issued after virus was detected in sewage samples  ([7NEWS.com.au](
+* Can Biden bring the US back from the coronavirus brink?  ([ABC News](
+* Australian house sizes are increasing, led by the ACT: CommSec report  ([Domain News](
+* 60 Minutes Australia: White House insider Olivia Troye reveals what happened as Donald Trump dealt with the COVID-19 pandemic  ([NEWS.com.au](
+
+
+
+_This daily news summary was automatically generated using [News API]( data from Australian news sources. If you have feedback, please send a modmail to /r/CoronavirusAustralia._
+++++++++++
+ Coronavirus Australia News Updates (21 June) * Coronavirus live news: Trump refers to 'the Chinese virus' at rally; Victoria cases hit two-month high  ([The Guardian](
+* ‘Very frustrated’ Demons fight each other in fiery intraclub at MCG after postponed Essendon game  ([Fox Sports](
+* Victoria outbreak reminder of virus risks  ([Gloucester Advocate](
+* Balanced B and T cell response required to control SARS-CoV-2 - News ([Medical.Net](
+* Refugee advocates flout coronavirus restrictions to protest in Brisbane against detention  ([ABC News](
+* Coronavirus Australia: Victoria records another spike in virus cases  ([NEWS.com.au](
+* Why Latrell Mitchell was in tears in dressing room after Rabbitohs beat Warriors  ([Wide World of Sports](
+* India has the fourth-highest number of COVID-19 cases, but the Government denies community transmission  ([ABC News](
+* Flying during coronavirus: Not as much has changed as you might expect  ([ABC News](
+* Coronavirus cases and restrictions easing in Victoria could lead to second wave, expert warns  ([7NEWS.com.au](
+
+
+
+_This daily news summary was automatically generated using [News API]( data from Australian news sources. If you have feedback, please send a modmail to /r/CoronavirusAustralia._
+++++++++++
+ Discussion/Press conferences for Victoria, NSW, Queensland, and, New Zealand - 14 September, 2020 #Victoria's presser: [11am](
+
+# NSW - [11am](
+
+~~Queensland - 9am~~
+
+# New Zealand - 11am AEST
+
+As usual, u/KezzaNZ's case update post will be crossposted approximately around 11am AEST.
+
+&amp;#x200B;
+
+You can watch here closer to the time:
+
+* [The Age](
+* [9news live](
+++++++++++
+ Coronavirus Australia News Updates (23 October) * Police arrest demonstrators at Melbourne protest against coronavirus lockdown restrictions  ([ABC News](
+* Full running sheet for the NRL Grand Final between Melbourne Storm and Penrith Panthers  ([NEWS.com.au](
+* Recovered COVID-19 patients exhibit cognitive deficits - News ([Medical.Net](
+* Queensland border: Opening with NSW in November may be in doubt  ([NEWS.com.au](
+* North Dakota's rural areas are being hit hardest by COVID-19, according to the state  ([Jamestown Sun](
+
+
+
+_This daily news summary was automatically generated using [News API]( data from Australian news sources. If you have feedback, please send a modmail to /r/CoronavirusAustralia._
+++++++++++
+ Discussion/Press conferences for Victoria, NSW, Queensland, and, New Zealand - 07 September, 2020 # Victoria
+
+7am: Nothing confirmed yet.
+
+&amp;#x200B;
+
+# NSW
+
+7am: Nothing confirmed yet.
+
+&amp;#x200B;
+
+# Queensland
+
+7am: Nothing confirmed yet.
+
+&amp;#x200B;
+
+# New Zealand - 11am AEST
+
+As usual, u/KezzaNZ's case update post will be crossposted approximately around 11am AEST.
+
+&amp;#x200B;
+
+You can watch here closer to the time:
+
+* \[The Age\] - Will update shortly with the link. 
+* [9news live](
+++++++++++
+ Coronavirus Australia News Updates (4 August) * Victorian abattoir Cedar Meats coronavirus contact tracing failure exposed  ([7NEWS.com.au](
+* It's not either/or: why we'll still need good hand washing even with a COVID-19 vaccine  ([ABC News](
+* Coronavirus Australia live update: Victoria reports 11 deaths and 439 new Covid cases, with 12 infections in NSW  ([The Guardian](
+* Paul Keating says superannuation withdrawals dwarf coronavirus support schemes like JobKeeper  ([ABC News](
+* Coronavirus: Melbourne police rebuke 'sovereign citizens' for breaking rules  ([BBC News](
+* Working outside home during Melbourne's stage 4 coronavirus restrictions will require a permit. Here's what we know about them  ([ABC News](
+* Coronavirus testing: What happens at Sydney airport  ([NEWS.com.au](
+* Banks' deferred loans hit $274b as more borrowers pause payments  ([Sydney Morning Herald](
+* Coronavirus Melbourne: Coronavirus is proving tough, but there is some good news  ([The Australian](
+* Without seasonal workers, Australia may face a hungry summer  ([The Guardian](
+* Another two COVID-19 cases in SA, new restrictions in place  ([The Advertiser](
+* Teachers protest reopening of US schools while coronavirus lurks  ([Sydney Morning Herald](
+* ‘This is so out of whack!’ Robbo’s massive rant over ‘wishy-washy’ Magpies punishment  ([Fox Sports](
+
+
+
+_This daily news summary was automatically generated using [News API]( data from Australian news sources. If you have feedback, please send a modmail to /r/CoronavirusAustralia._
+++++++++++
+ Victoria's press conference today 10:05am: No time has been announced yet - will update once it has been confirmed. 
+
+
+
+---
+You can watch here closer to the time:
+
+* [The Age](
+* [9news live](
+++++++++++
+ NSW records 16 local cases and 1 new overseas case # New cases reported in the last 24 hours
+
+* 1 locally acquired with no known source
+* 1 in hotel quarantine
+* 15 linked to know clusters:
+   * 8 linked to Sydney CBD cluster 
+   * 6 linked to st paul's greystanes, source remains unknown. 
+   * 1 linked to Liverpool Hospital 
+
+&amp;#x200B;
+
+Will update with more information soon
+
+&amp;#x200B;
+
+# Cases to date
+
+||Last 24 hours|TOTAL|
+|:-|:-|:-|
+|Confirmed cases|\+17|3,890 (-1)|
+|[***Active (NSW Gov)***](
+|Recovered|N/A|N/A|
+|Deaths|\+0|54|
+|[Tests conducted](
+|Treated by NSW Health||73|
+|Hospitalised||10|
+|ICU||6|
+|Ventilated||3|
+|ECMO||0|
+
+&amp;#x200B;
+
+# NSW media releases in the last 14 days
+
+|*Date published*|*Title*|
+|:-|:-|
+|02/09|**NSW Education**: [COVID-19 update – BWSC Umina campus remains operational](
+|01/09|**NSW Government:** [Increased mobility on NSW VIC border](
+|31/08|**NSW Government:**[NSW border closure no longer acceptable for agriculture](
+|30/08|**NSW Government:**[More mental health support for regional students](
+|30/08|**NSW Health:** [Public health alert](
+|29/08|**NSW Health:** [City Tattersalls Fitness Centre](
+|28/08|**NSW Health:** [NSW Health Alert: 14 day guidelines for Aged Care visitors](
+|27/08|**NSW Health:** [Public health alert](
+|26/08|**NSW Health:** [Royal Hospital for Women at Randwick, City Tattersalls, Virgin Gym Zetland, bus routes in Blacktown, Rouse Hill and Mt Druitt](
+|25/08|**NSW Health:** [City Tattersalls Fitness Centre](
+|24/08|**NSW Government:** [Western and South West Sydney testing blitz](
+|22/08|**NSW Health:** [Second hotel security guard tests positive](
+
+&amp;#x200B;
+
+# Sources of confirmed cases
+
+||Last 24 hours|This week|TOTAL|
+|:-|:-|:-|:-|
+|Locally - Known||50|1,317|
+|Locally - Unknown||10|392|
+|Interstate||0|89|
+|Overseas||11|2,076|
+|Under investigation||0|0|
+
+&amp;#x200B;
+
+# Clusters in the last 14 days
+
+|Cluster|Last 24 hours|TOTAL|Reported|
+|:-|:-|:-|:-|
+|Sydney CBD|\-|49|Sept: [1]( Aug: [31]( [30]( [29]( [28]( 27|
+|Reddam Early Learning Centre, Lindfield|\-|3|Sept: [1]( Aug: [30](
+|Liverpool Hospital|\-|4|Sept: [1]( Aug: [13,](
+|Our Lady of Mercy School, Parramatta|\-|7|Aug: [25]( [17]( [15]( [12]( [11]( [9](
+|Thai Rock Restaurant Potts Point and linked clusters|\-|38|Aug: [23]( [15]( [8]( [7]( [6]( [5]( [4]( [3]( [2]( [1]( July: [31]( [30]( [29]( [28](
+|July funeral events in the Bankstown area|\-|76|Aug: [22]( [20]( [18]( [17]( [15]( [14]( [12]( [8]( [6]( [4]( [3]( [2]( [1]( July: [31]( [30]( [29]( [28]( [27]( [26](
+|Tangara School, Cherrybrook|\-|26|Aug: [22]( [16]( [15]( [14]( 13, [12]( [11]( [10]( [9]( [8](
+
+&amp;#x200B;
+
+# Affected educational institutions in the last 14 days
+
+|School|Suburb|LGA|Last 24 hours|TOTAL|Reported|
+|:-|:-|:-|:-|:-|:-|
+|Girraween Public School|Girraween|Cumberland|\-|1|Sept: [1](
+|St Paul's Catholic College|Greystanes|Cumberland|\-|4|Sept: [1]( Aug: [30](
+|Homebush Public School|Homebush|Strathfield|\-|0|Sept: [1]( Aug: [28](
+|Double Bay Public School|Double Bay|Woollahra|\-|1|Aug: [28](
+|St Gertrude's Catholic Primary School|Smithfield|Fairfield|\-|1|Aug: [28](
+|Ryde Secondary College|Ryde|Ryde|\-|1|Aug: [28](
+|Riverstone High School|Riverstone|Blacktown|\-|1|Aug: [26](
+|Wyndham College|Quakers Hill|Blacktown|\-|1|Aug: [26](
+|Schofields Public School|Schofields|Blacktown|\-|0|Aug: [27](
+
+&amp;#x200B;
+
+# Latest COVID-19 case locations in NSW - as of 01/09
+
+The table below was last updated at 14:38:29 PM on Tuesday, 1 September. Please view the [NSW Gov]( website for the most up to date information.
+
+|[**Increased testing and surveillance**]( and get tested immediately**](
+|:-|:-|
+|Campbelltown LGA|**Bus route X39**|
+|Canterbury-Bankstown LGA|**Caringbah**: Highfield Caringbah|
+|Eastern part of City of Sydney LGA |**Hunters Hill**: Hunters Hill Bowling Club (indoor dining room) |
+|Fairfield LGA|**Marrickville:** Anytime Fitness|
+|Hornsby Shire LGA|**Newtown**: It’s Time for Thai restaurant|
+|The Hills LGA|**Randwick**: Fitness First|
+|Liverpool LGA|**Sydney**: City Tattersalls Fitness Centre|
+|Parramatta LGA|**Zetland**: Virgin Gym|
+|Woollahra LGA||
+
+&amp;#x200B;
+
+**OTHER INFORMATION**:
+
+* [**Monitor for symptoms if you've been to these locations**](
+* [**Public transport routes**](
+
+&amp;#x200B;
+
+# Locally acquired, source not identified - as of 01/09
+
+NOTE: The data below is for confirmed COVID-19 cases only based on the location of the usual residence, not necessarily where the virus was contracted.
+
+|Reported|Postcode - LGA|
+|:-|:-|
+|29/08|2770 - Blacktown (C)|
+|28/08|2145 - Cumberland (A)|
+|27/08|2762 - Blacktown (C)|
+|27/08|2163 - Fairfield (C)|
+|27/08|2164 - Fairfield (C)|
+|27/08|2566 - Campbelltown (C) (NSW)|
+|26/08|2762 - Blacktown (C)|
+|26/08|2762 - Blacktown (C)|
+|25/08|2762 - Blacktown (C)|
+|25/08|2762 - Blacktown (C)|
+|21/08|2194 - Canterbury-Bankstown (A)|
+|21/08|2168 - Liverpool (C)|
+|20/08|2166 - Fairfield (C)|
+
+&amp;#x200B;
+
+* [NSW Health - media release: 1st September](
+* [Case statistics - up to 8pm 31 August 2020](
+* [COVID-19 weekly surveillance in NSW](
+* [NSW data](

@@ -1,0 +1,2495 @@
+
+++++++++++
+ NSW: graph of daily local cases &amp;#x200B;
+
+
+
+    t = 22 for the date 2020-07-28
+    exponential model is 46023.192 * exp(0.0 * t) + -46021.7458
+    simple exponential model is 3.9061 * exp(0.058 * t)
+    linear model is 1.4457 + 0.5761 * t
+    quadratic model is -2.1783 + 1.6115 * t + -0.0471 * t^2
+    exponential model residue is 230.1
+    linear model residue is 230.1
+    quadratic model residue is 151.6
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 72.2467 * exp(0.0605 * t) + -84.0582
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for NSW.
+
+    “date”,”local_cases”
+    2020-07-06,0
+    2020-07-07,1
+    2020-07-08,1
+    2020-07-09,2
+    2020-07-10,1
+    2020-07-11,1
+    2020-07-12,3
+    2020-07-13,8
+    2020-07-14,11
+    2020-07-15,10
+    2020-07-16,6
+    2020-07-17,6
+    2020-07-18,11
+    2020-07-19,13
+    2020-07-20,15
+    2020-07-21,12
+    2020-07-22,15
+    2020-07-23,15
+    2020-07-24,7
+    2020-07-25,9
+    2020-07-26,11
+    2020-07-27,9
+    2020-07-28,12
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+    t = 41 for the date 2020-07-17
+    exponential model is 8.2636 * exp(0.0938 * t) + -13.8487
+    linear model is -69.0753 + 7.6053 * t
+    quadratic model is 24.0803 + -6.368 * t + 0.3408 * t^2
+    exponential model residue is 33197.2
+    linear model residue is 121454.5
+    quadratic model residue is 37358.6
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 35.1835 * exp(0.1142 * t) + -81.9351
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+    2020-07-06,127
+    2020-07-07,191
+    2020-07-08,134
+    2020-07-09,165
+    2020-07-10,288
+    2020-07-11,216
+    2020-07-12,273
+    2020-07-13,176
+    2020-07-14,270
+    2020-07-15,238
+    2020-07-16,317
+    2020-07-17,428
+++++++++++
+ It's 3AM in the morning and I can't sleep so I say peak56 has been beaten by a straight line It's 3AM in the morning and I can't sleep so I say peak56 has been beaten by a straight line.
+
+Peak56 model has been my main model for the decline in the number of daily cases in Victoria but it has been over comed by a much better model called Linear. In other words it has been beaten by a **Straight Line.**
+
+To illustrate, I would use some graphs. To start with, I used a graph of Victoria Daily cases
+
+&amp;#x200B;
+
+
+
+Next we take a Log scale graph of the Daily Cases
+
+&amp;#x200B;
+
+
+
+We then approximate the with a straight line (indicated by the red line). Remember that this ia a log scale graph.
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Next we convert this back to our normal graph using
+
+linear(t) = exp(10.315902985612235 + -0.06686833778022322 \* t)
+
+And produce this graph
+
+&amp;#x200B;
+
+
+
+Now for the complete Shocker, it predicts **reality** better than peak56 model
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Both peak56 and Linear
+
+&amp;#x200B;
+
+
+
+The Linear model predicts better than peak56 model after August 25 2020. It also explains the **anomaly** on the 3rd September 2020.
+++++++++++
+ How many times do I need to get tested? I've had the same symptoms for months - mild headache, a bit of fluid in the ear, sniffles, sometimes a sore throat.  I've been tested three times and always negative.  I attribute it to the mould in the rental we live in.  Do I need to get tested again?  At the last test, the nurse jammed the stick hard into my nostril and then yelled (actually raised her voice) when I jerked back a little.  Of course I'll go and get tested if I need to, but it's the same symptoms and I feel it's a bit of waste of resources.
+++++++++++
+ 'Illegal dinner party' not the cause of Tasmania Covid-19 cluster, chief medical officer clarifies Brendan Murphy walks back claim that coronavirus cluster was sparked by a gathering of healthcare workers.
+
+[
+++++++++++
+ Victorian positive test rates as a percentage of tests conducted since June 
+++++++++++
+ Mourners on red alert after a woman who attended FIVE funerals tests positive to coronavirus 
+++++++++++
+ Wild suggestion: test everyone in Melbourne It's now clear that if we want to go back to normal and be able to stay there we need to eliminate the virus from the community. This cannot be achieved in a timely fashion with the present lockdown, and small pockets will likely still remain.
+
+I would like to see us take a more proactive approach to fighting this virus. The simple brute-force approach would be to test every person in Melbourne. How could this be achieved? Here I would like to speculate on how we could use pooled testing to make this practical.
+
+It is critical that all testing be achieved within a few weeks, it wouldn't be helpful if it took the rest of the year to test everyone. Lets say we set a goal of 4 weeks.
+
+There are 4.9 million people in Melbourne but only 1.8 million households. If we are going for elimination it should make little difference who in a household tests positive, the whole household should be on strict isolation orders. Therefore we don't need to be any more specific than this and just aim to identify positive households. 
+
+Testing 1.8 million households in 4 weeks equates to 64,000 tests per day - not sounding so crazy now! but it is still probably unrealistic. To get this down to our current testing rates of 20-30k, we would need to pool 2-3 households tests together. This means more negative people would be forced to isolate along with their neighbors, which isn't ideal, but not the end of the world. To mitigate these effects, LGA's with more positives could test every household, while the others pool 4-5 together.
+
+What do you think? what other ambitious strategies could be used to beat this virus?
+++++++++++
+ Two staff at major Tasmanian hospital test positive for coronavirus (ABC) 
+++++++++++
+ Childcare centre closes in Melbourne. Guardian Childcare and Education East Ivanhoe has been closed after the parents of a child tested positive to COVID-19. Several of the children also attend nearby Fairy Hills kindergarten which has been contacted for comment.  
+
+A childcare centre in Melbourne’s northeast has been closed after the parents of a child tested positive to COVID-19.
+
+Guardian Childcare and Education East Ivanhoe Statement provided a statement to The Australian that the centre has been cleaned three times since the parents were last in the centre on Friday.
+
+The centre said it immediately contacted the Department of Health Victoria and was advised that the risk of contracting the virus as the result of a pick-up or drop-off was low.
+
+The centre also notified other parents at the centre.
+
+One of the educators has also undergone testing for coronavirus but as of Thursday no educators have tested positive.
+
+The centre will undergo another full disinfectant clean and the decision to re-open will be based on advice from the relevant Health Authority.
+
+Several of the children also attend nearby Fairy Hills kindergarten which has been contacted for comment.
+
+ [
+++++++++++
+ Queensland records 8 new local cases # New cases reported in the last 24 hours
+
+**8** new local cases today in Queensland.   
+
+- 5 cases are related to the Queensland Correctional Services Academy. They are members of the same family from one household and were already in quarantine when they were diagnosed.
+- 3 cases are related to the Ipswich Hospital cluster. Two of those cases are health care workers who were already in quarantine, and the third is one of their children.
+
+
+**Please visit the following link to view the full contact tracing list of places visited by confirmed cases:** [**Current contact tracing alerts**](
+
+# Cases to date
+
+||Last 24 hours|Total|
+|:--|--:|--:|
+|Confirmed cases|+8|1,143|
+|Active cases|+4|29|
+|Recovered|+1|1,091|
+|Current hospitalisations||12|
+|Patients currently in ICU||0|
+|Deaths||6|
+|Tests conducted|+12,075|990,944|
+|Cases of First Nations people|0|10|
+
+# Likely source of infection
+
+||Last 24 hours|Total|
+|:--|--:|--:|
+|Locally Acquired—close contact with a confirmed case|0|219|
+|Locally Acquired—no known contact||42|
+|Interstate acquired||21|
+|Overseas acquired|+1|852|
+|Under investigation||0|
+
+# Active cluster
+
+|Outbreak|Suburb|LGA|Last 24 hours|Total|Reported|
+|:--|:--|:--|:--|:--|:--|
+|Brisbane Youth Detention Centre / QCS academy|Wacol|Brisbane|\-|24|August: 31, 30, 29, 28, 26, 24, 23, [22]( [20](
+
+&amp;#x200B;
+
+**Sources**:
+
+* [**Queensland COVID-19 statistics**](
+* [QLD Health: Urgent COVID-19 update](
+* [Current status: Public health directions regarding movements and gatherings](
+* [COVID-19 symptoms and testing locations](
+++++++++++
+ Queensland records 4 new local cases # New cases reported in the last 24 hours
+
+* **4** cases linked to the **Queensland Corrective Services (QCS)** **academy** in **Wacol**. 1 is a trainer at the academy and 3 are household contacts of previously reported cases. 
+
+&amp;#x200B;
+
+**Will provide further information as it comes through** 
+
+&amp;#x200B;
+
+**Please visit the following link to view the full contact tracing list of places visited by confirmed cases:** [**Current contact tracing alerts**](
+
+&amp;#x200B;
+
+# Cases to date
+
+||Last 24 hours|Total|
+|:-|:-|:-|
+|Confirmed cases|\+4|1,117|
+|Active cases|\+4|24|
+|Recovered||1,084|
+|Current hospitalisations|\+1|18|
+|Patients currently in ICU||0|
+|Deaths||6|
+|Tests conducted| \+18,763|878,366|
+|Cases of First Nations people||10|
+
+&amp;#x200B;
+
+# Likely source of infection
+
+||Last 24 hours|Total|
+|:-|:-|:-|
+|Locally Acquired—close contact with a confirmed case||196|
+|Locally Acquired—no known contact||40|
+|Interstate acquired||21|
+|Overseas acquired||851|
+|Under investigation||5|
+
+&amp;#x200B;
+
+# Active cluster
+
+&amp;#x200B;
+
+|Outbreak|Suburb|LGA|Last 24 hours|Total|Reported|
+|:-|:-|:-|:-|:-|:-|
+|Brisbane Youth Detention Centre|Wacol|Brisbane||15|August: 28, 26, 24, 23, [22]( [20](
+
+&amp;#x200B;
+
+&amp;#x200B;
+
+**Sources**:
+
+* [**Queensland COVID-19 statistics**](
+* [QLD Health: Urgent COVID-19 update](
+* [Current status: Public health directions regarding movements and gatherings](
+* [COVID-19 symptoms and testing locations](
+++++++++++
+ NSW records 4 new cases * **4** overseas returned travellers in quarantine.
+* More than **7,000** people were tested in NSW in the 24 hours to 8:00pm yesterday.
+* Total cases in NSW: **3,082**
+  * **404** active cases.
+  * **2,631** (+17) have recovered.
+  * **49** deaths in total. 
+  * **384,185** people tested and cleared.
+* Areas for increased testing and surveillance as of 17/05:
+  * [The Hills LGA](
+  * [Penrith LGA](
+* Berejiklian announced the easing of travel restrictions inside NSW from 1 June. She said the state will be open to visitors from other states.
+
+---
+
+
+**NSW Government - helpful links:**
+
+* [Current restrictions](
+* [Information about symptoms and testing](
+* [Testing clinics](
+* [Mental wellbeing services](
+* [Financial support for individuals and households](
+* [Travel and transport advice](
+* [NSW education advice](
+++++++++++
+ Queensland records 1 new case #  New cases reported in the last 24 hours
+
+* **1** case is a relative of an already confirmed case linked to the **Brisbane Youth Detention Centre** at **Wacol**
+
+**\*\*MORE INFORMATION AS IT COMES TO HAND\*\***
+
+ 
+
+***Sources:***
+
+* [QLD Health: Urgent COVID-19 update](
+* [Current status: Public health directions regarding movements and gatherings](
+* [COVID-19 symptoms and testing locations](
+++++++++++
+ ScoMo just said we had one of the highest test rates in the world at 147 000 Does anyone know how this stacks up?
+
+That equates to 5764 tests per a million people. 
+
+South Korea had only officially tested [4099]( people per a million as of March 9th, when they had [7478 confirmed cases]( That honestly sounds like pretty good news and might mean there's far less unknown cases out there then other countries.
+
+[This article]( claims the US has only conducted twice as many tests as us, and they are clearly in far worse shape.
+++++++++++
+ Employee at 570 Bourke St Melbourne tests positive Just got the call from work not to come into the office, as someone in the office has tested positive.
+
+Unsure if it’s one of the cases already recorded / attributed to elsewhere. 
+
+But anyone who works in the building or frequents the cafes / metro woolies nearby should probably take precautions.
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+    exponential model is 1.0949 * exp(0.1699 * t) + 0.6454
+    linear model is -11.547 + 2.4653 * t
+    quadratic model is 6.1514 + -1.9593 * t + 0.177 * t^2
+    exponential model residue is 788.2
+    linear model residue is 3238.5
+    quadratic model residue is 1186.2
+
+
+
+    exponential2 model is 9.2474 * exp(0.1601 * t) + -8.0421
+
+Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+++++++++++
+ Victoria records 6 new cases Total cases in Victoria: **1,567**
+
+**Unsure of the breakdown, will update when it becomes available.**
+
+
+
+
+
+---
+
+**Other links:**
+
+
+* [Eased restrictions effective from 12th of May, 2020](
+* [Getting tested for coronavirus \(COVID-19\)](
+* [Where to get tested in Victoria for coronavirus \(COVID-19\)](
+* [Mental health resources](
+++++++++++
+ Four members of the Monash community have tested positive with COVID-19 
+++++++++++
+ r/CoronavirusDownunder random daily discussion thread - 03 November, 2020 * **Victoria: TBA** 
+* **NSW: TBA**
+
+**You can watch here:** The Age | [9news live]( | [ABC Melbourne - Facebook]( | [ABC News - YouTube](
+
+&amp;#x200B;
+
+# 🇦🇺 - Australia's COVID-19 update as of 02/11
+
+
+
+&amp;#x200B;
+
+# Other COVID-19 headlines around the world
+
+**Feel free to talk about the COVID-19 situation in any country within this post and/or anything else you like as long as it is within the rules.**
+
+|SUBMISSION|DOMAIN|
+|:-|:-|
+|🇬🇪 - [Georgian PM tested positive for coronavirus: press office](
+|🇺🇸 - [Anthony Fauci: Trump suggests he might fire infectious disease expert after election](
+|🇺🇸 - [Trump supporters chant “Fire Fauci!” at midnight rally in Florida. “Let me wait until a little bit after the election,” Trump replies]( via Twitter|
+|🇩🇪 - [The number of coronavirus patients in German ICUs has tripled in two weeks]( |cnn.com|
+|🇬🇧🇺🇸 - [Trump criticizes lockdowns in Europe as Covid-19 cases surge on the continent and in US](
+|[Global coronavirus report: WHO chief Tedros in isolation after contact with positive case]( |theguardian.com|
+|🇳🇵- [Mount Everest Empties as Covid-19 Strikes Tourism in Nepal]( |nytimes.com|
+|🇺🇸 - [US coronavirus: Nearly 50,000 hospitalized with Covid-19 as experts warn of growing healthcare pressure]( |cnn.com|
+|🇬🇧 - [The new lockdown rules for England, Wales, Scotland and Northern Ireland](
+|🇬🇧 - [Covid-19: Prince William ‘tested positive in April’](
+|🇺🇸 - [A woman died of coronavirus on a plane. Her fellow passengers were never notified](
+|🇸🇬 - [About 25,000 close contacts of COVID-19 cases identified using TraceTogether: Gan Kim Yong](
+|🇪🇸 - [Spain’s PM calls for calm after violent anti-lockdown protests](
+|🇪🇺 - [New COVID curbs prompt wave of resistance across Europe]( |reuters.com|
+|🏴󠁧󠁢󠁥󠁮󠁧󠁿🏴󠁧󠁢󠁷󠁬󠁳󠁿 - [First minister worried people will travel to Wales to ‘escape’ English lockdown]( |theguardian.com|
+|🇨🇦 - [As COVID outbreak raged at Atholville home, volunteer workers felt abandoned by province]( |cbc.ca|
+|🇨🇦 - [Why Ontario hospitals are full to bursting, despite few COVID-19 patients]( |cbc.ca|
+|🇨🇦 - [Winnipeg nurse with COVID-19 says health-care workers don’t have enough PPE to stay safe](
+|🇯🇵 - [Japan opens airport COVID-19 test lab for departing travellers](
+|🇷🇺 - [Russian firm seeks to produce COVID-19 drug without patent, Vedomosti reports](
+|🇺🇸 - [D.C. cancels plan to begin in-person classes Nov. 9 for some students](
+|  🇺🇸 - [Washington D.C.-area coronavirus caseload sets record as infections surge](
+
+&amp;#x200B;
+
+# Some numbers around the world    
+
+🇹🇼 - **TAIWAN**:
+
+* **+5** (total cases: 563).
+* **+0** (total deaths: 7).
+
+&amp;#x200B;
+
+🇲🇾 - **MALAYSIA**:
+
+* **+834** (total cases: 33,339).
+* **+2** (total deaths: 251).
+
+&amp;#x200B;
+
+🇧🇪 - **BELGIUM**:
+
+* **+11,789** (total cases: 441,018).
+* **+112** (total deaths: 11,737).
+
+&amp;#x200B;
+
+🇵🇱 - **POLAND**:
+
+* **+15,578** (total cases: 395,480).
+* **+92** (total deaths: 5,875).
+
+&amp;#x200B;
+
+🇷🇺 - **RUSSIA**:
+
+* **+18,257** (total cases: 1,655,038).
+* **+238** (total deaths: 28,473).
+
+&amp;#x200B;
+
+🇬🇧 - **UK**:
+
+* **+18,950** (total cases: 1,053,864).
+* **+136** (total deaths: 46,853).
+
+&amp;#x200B;
+
+🇨🇭 - **SWITZERLAND**:
+
+* **+21,926** (total cases: 176,177).
+* **+25** (total deaths: 2,351).
+
+ 
+
+🇫🇷 - **FRANCE**:
+
+* **+52,518** (total cases: 1,466,433) **- Biggest one day increase on record.**
+* **+418** (total deaths: 37,435).
+* Positivity rate: **20.6%**(+0.2).
+* **+1,112** (total hospitalisations: 25,143).
+* **+152** (total ICU admissions: 3,730).
+
+**At the current rate, COVID-19 hospitalizations in France will exceed the first wave in 7 days.**
+
+&amp;#x200B;
+
+
+++++++++++
+ So Peter Dutton is officially under quarantine after testing positive with Covid 19. Scott Morrison was in a cabinet meeting with him on Tuesday. Will ScoMo self quarantine and follow protocol??? 
+++++++++++
+ [NSW] Second quarantine guard to test positive for COVID-19 worked with first guard A second guard at a quarantine hotel in Sydney to test positive to COVID-19 worked on a shift with the first guard, NSW Chief Health Officer Dr Kerry Chant has said.
+
+The man, who tested positive at about midnight last night, was one of 700 people tested after the first guard tested positive.
+
+Dr Chant said the man, who had no symptoms, worked on the same shift with the other guard on August 3, but there was currently not an "immediate connection" between them.
+
+The second guard then worked at the Sheraton Grand Hyde Park overnight on August 16, but it was not clear if he was infectious at that time.
+
+All 699 other people who were tested after the first guard's case came back negative.
+
+Urgent testing will be carried out this weekend to determine if the second quarantine hotel security guard to test positive for COVID-19 in Sydney has the same virus strain as the first.
+
+NSW Chief Health Officer Dr Kerry Chant said in a media conference on Saturday afternoon that the second guard and four close contacts are currently being managed in a health facility.
+
+Dr Chant said although the second guard worked on the same shift as the first on August 3, at Sydney Harbour Marriott Hotel, the urgent genome sequencing would be completed by Monday "for the ultimate investigative thoroughness".
+
+"It's critical that we don’t jump to conclusions," Dr Chant said.
+
+She said the second guard's viral load was "quite low" so there may be issues with the ability to carry out the sequencing.
+
+Dr Chant said it is "reassuring" that the second guard is the only other case to emerge after 700 people were tested following the first quarantine security guard testing positive.
+
+"This is a very tricky virus," Dr Chant said.
+
+"The first security guard in effect led us to this second security guard. That's the responsibility we all have, is to rock up and get this testing done [when we have any symptoms]."
+
+From the SMH Live blog: 
+++++++++++
+ NSW: graph of daily local cases &amp;#x200B;
+
+
+
+    t = 18 for the date 2020-07-24
+    exponential model is 20483.6272 * exp(0.0 * t) + -20483.7208
+    simple exponential model is 2.9019 * exp(0.0917 * t)
+    linear model is -0.0947 + 0.8175 * t
+    quadratic model is -1.7414 + 1.3987 * t + -0.0323 * t^2
+    exponential model residue is 148.7
+    linear model residue is 148.7
+    quadratic model residue is 134.6
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+exponential2 model is 25.4694 \* exp(0.1082 \* t) + -31.775
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for NSW.
+
+    “date”,”local_cases”
+    2020-07-06,0
+    2020-07-07,1
+    2020-07-08,1
+    2020-07-09,2
+    2020-07-10,1
+    2020-07-11,1
+    2020-07-12,3
+    2020-07-13,8
+    2020-07-14,11
+    2020-07-15,10
+    2020-07-16,6
+    2020-07-17,6
+    2020-07-18,11
+    2020-07-19,13
+    2020-07-20,15
+    2020-07-21,12
+    2020-07-22,15
+    2020-07-23,15
+    2020-07-24,7
+++++++++++
+ Getting tested for Covid-19 and informing workplace? Hi,
+
+As a hypothetical question, if you were to get tested for COVID-19 (and you had mild symptoms) are you required to inform your workplace that you have been tested while you are still waiting for your results?
+
+Should you use sick days until the result comes back and then inform them if it is positive?
+++++++++++
+ Australian Border Force officers returned to work before testing positive for coronavirus 
+++++++++++
+ South Australia’s almost three-week streak of zero daily coronavirus cases has ended, after a British woman tested positive to COVID-19 during a sanctioned trip to visit a dying relative in Adelaide. 
+++++++++++
+ Fairfield woman tests positive to COVID-19 after attending funeral, church services as NSW Health undertakes contact tracing - ABC News [deleted]
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+t = 57 for the date 2020-08-02
+
+exponential model is 82.4696 \* exp(0.038 \* t) + -114.6796
+
+simple exponential model is 23.8365 \* exp(0.0578 \* t)
+
+linear model is -114.5313 + 10.3744 \* t
+
+quadratic model is -0.4451 + -1.8492 \* t + 0.2144 \* t\^2
+
+exponential model residue is 247552.8
+
+linear model residue is 401656.9
+
+quadratic model residue is 234214.8
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+exponential2 model is 258.216 \* exp(0.0667 \* t) + -583.1583
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+Purely my own **speculation**, I think the peak is at day 54 or 2020-07-30 (see graph below). **Please take it with a HUGE grain of salt.** *Actually with today's result the peak has move forward to day 80 but the graph below still shows the peak at day 54. This shows that even I cannot accurately predict the future.*
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+    2020-07-06,127
+    2020-07-07,191
+    2020-07-08,134
+    2020-07-09,165
+    2020-07-10,288
+    2020-07-11,216
+    2020-07-12,273
+    2020-07-13,176
+    2020-07-14,270
+    2020-07-15,238
+    2020-07-16,317
+    2020-07-17,428
+    2020-07-18,216
+    2020-07-19,363
+    2020-07-20,275
+    2020-07-21,374
+    2020-07-22,484
+    2020-07-23,403
+    2020-07-24,300
+    2020-07-25,357
+    2020-07-26,459
+    2020-07-27,532
+    2020-07-28,384
+    2020-07-29,295
+    2020-07-30,723
+    2020-07-31,627
+    2020-08-01,397
+    2020-08-02,671
+++++++++++
+ Canadian Prime Minister Justin Trudeau’s wife tests positive for coronavirus [
+++++++++++
+ Waverley College in Sydney evacuates after student tests positive to COVID-19 
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+    t = 67 for the date 2020-08-12
+    exponential model is 1926.2294 * exp(0.0042 * t) + -2003.634
+    simple exponential model is 56.9422 * exp(0.0352 * t)
+    linear model is -91.2404 + 9.2833 * t
+    quadratic model is -71.1658 + 7.4583 * t + 0.0272 * t^2
+    exponential model residue is 588942.0
+    linear model residue is 593214.3
+    quadratic model residue is 587227.9
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 738.2544 * exp(0.0476 * t) + -1435.5986
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+Purely my own **speculation**, I think the peak is at day 54 or 2020-07-30 (see graph below). **Please take it with a HUGE grain of salt.** *Actually with today's result the peak has move backward to day 56 but the graph below still shows the peak at day 54. This shows that even I cannot accurately predict the future.*
+
+swift model [
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+    2020-07-06,127
+    2020-07-07,191
+    2020-07-08,134
+    2020-07-09,165
+    2020-07-10,288
+    2020-07-11,216
+    2020-07-12,273
+    2020-07-13,176
+    2020-07-14,270
+    2020-07-15,238
+    2020-07-16,317
+    2020-07-17,428
+    2020-07-18,216
+    2020-07-19,363
+    2020-07-20,275
+    2020-07-21,374
+    2020-07-22,484
+    2020-07-23,403
+    2020-07-24,300
+    2020-07-25,357
+    2020-07-26,459
+    2020-07-27,532
+    2020-07-28,384
+    2020-07-29,295
+    2020-07-30,723
+    2020-07-31,627
+    2020-08-01,397
+    2020-08-02,671
+    2020-08-03,429
+    2020-08-04,439
+    2020-08-05,725
+    2020-08-06,471
+    2020-08-07,450
+    2020-08-08,466
+    2020-08-09,394
+    2020-08-10,322
+    2020-08-11,331
+    2020-08-12,410
+++++++++++
+ Victoria records 8 new cases * **4** detected through routine testing.
+* **2** **Lynden Care Camberwell** staff.
+* **1** case was detected in a returned traveller in hotel quarantine.
+* **1** under investigation by the public health team.
+* Total cases in Victoria: **1,618**
+  * **66** (+8) active cases. 
+  * **8** in hospital; **3** in ICU. 
+  * **1,533** have recovered.
+  * **19** deaths in total.
+  * **182** may have been acquired through community transmission. 
+  *  More than **437,000** people tested.
+
+Source: **[ABC News](
+
+**I don't think they provided the breakdown of active/recovered cases, so the above information might be outdated. Will update as more info comes**
+
+---
+
+**Victorian Government - helpful links:**
+
+* [Current restrictions](
+* [Getting tested for coronavirus \(COVID-19\)](
+* [Where to get tested for coronavirus \(COVID-19\)](
+* [Mental health resources](
+* [Family violence crisis response and support](
+* [Education - latest advice]( 
+* [Your coronavirus \(COVID-19\) questions answered](
+++++++++++
+ NSW Health: Public health alert - new venues [13/09] 13 October 2020
+
+NSW Health is alerting the public that confirmed cases of COVID-19 reported today have attended venues in South West Sydney.  Anyone who attended the following venues is considered a casual contact and must monitor for symptoms and get tested immediately if they develop. 
+
+After testing, they must remain in isolation until a negative test result is received:   
+
+
+* Woolworths Oran Park, 351 Oran Park Dr, Oran Park on the following dates: 
+   * Wednesday 30 September from 5:30pm to 6:30pm 
+   * Thursday 8 October from 5:15pm to 6pm
+   * Friday 9 October 6pm to 6:30pm
+* Prasadi Nepali Emerald Hills, 2 Hurricane Drive, Raby on Friday 2 October from 3:30pm to 4pm
+* Emerald Hills McDonalds 101 Raby Rd, Leppington on Friday 2 October from 5pm to 5:15pm 
+* Aldi Emerald Hills, Shop 2/03, 5 Emerald Hills Blvd, Leppington, on Friday 2 October from 5:30pm to 6:15pm 
+* Fantastic Furniture Campbelltown, 4 Blaxland Rd, Campbelltown, on Friday 9 October from 3:30pm to 5:20pm 
+* Bunnings Gregory Hills, 2 Rodeo Rd, Gregory Hills, on Tuesday 6 October from 7pm to 8:00pm 
+* IKEA Tempe, 634-726 Princes Hwy, Tempe, on Wednesday 7 October from 1:30pm – 5:30pm
+* Testing numbers have dropped recently, which is a concern. NSW Health is appealing to the community to come forward for testing right away if you have even the mildest of symptoms like a runny nose or scratchy throat, cough, fever or other symptoms that could be COVID-19.
+
+A new pop-up clinic for COVID-19 testing has been established at:  
+
+
+* Julia Reserve Community Centre walk-in, Peter Brock Drive, Oran Park from 1pm today. The clinic will be open daily until Sunday 18 October between 8am and 6pm.
+
+See a list of [COVID-19 testing clinics​]( or call your GP.
+
+[source](
+++++++++++
+ Several Positive Tests in NSW Overnight are Backpackers from Bondi 
+++++++++++
+ Victoria - Box Hill Hospital- 6 staff confirmed positive to COVID-19. Box Hill Hospital- 6 staff confirmed positive to COVID-19. Health Minister Jenny Mikakos noted she is aware 6 staff there have tested positive.
+++++++++++
+ Recommendations for using a Cloth Face mask with Brett Sutton, Victorian Chief Health Officer 
+++++++++++
+ COVID-19 Iso Has Us Lusting Over VIC's Chief Health Officer As A '90s Fk Boi 
+++++++++++
+ This cute dog i know looks like Victoria's Chief Health Officer. 
+++++++++++
+ Herd immunity is the plan. Vic Chief Health Officer as good as confesses 
+++++++++++
+ NSW: graph of daily local cases &amp;#x200B;
+
+
+
+    t = 13 for the date 2020-07-19
+    exponential model is 24.5353 * exp(0.0314 * t) + -25.0479
+    linear model is -0.8857 + 0.9495 * t
+    quadratic model is -0.4571 + 0.7352 * t + 0.0165 * t^2
+    exponential model residue is 67.1
+    linear model residue is 67.8
+    quadratic model residue is 67.0
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 10.0068 * exp(0.1674 * t) + -12.7389
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for NSW.
+
+    “date”,”local_cases”
+    2020-07-06,0
+    2020-07-07,1
+    2020-07-08,1
+    2020-07-09,2
+    2020-07-10,1
+    2020-07-11,1
+    2020-07-12,3
+    2020-07-13,8
+    2020-07-14,11
+    2020-07-15,10
+    2020-07-16,6
+    2020-07-17,6
+    2020-07-18,11
+    2020-07-19,13
+++++++++++
+ Daily Tests/Positive Ratio 2nd Oct Daily 0.06% positivity ratio, 7 cases on 12530 Test results   
+14 Day Avg: 0.12%, 14 Cases, 12225 Tests 
+
+&amp;#x200B;
+
+
+
+ Graph format updated slightly - constructive feedback is welcome and will always be considered.
+
+A testing target of [1 in 40]( per fortnight has been raised by DHHS coronavirus testing head Jeroen Weimar. This translates to a daily testing target of \~11,700, which has been added to the graph as the dashed line.
+
+Note: I do this on the actual new cases / the number of reported tests. Some other places do it on the 'net new' cases. I prefer this way, as this is the daily snapshot - The *actual* number of positives from the previous 24 hours vs the *actual* number of tests processed. Reclassified numbers could have been from any time. This way will give slightly higher ratios, and is pessimistic about the 14d average. These are the state wide gross numbers - DHHS seem to be a bit of a black box in how they get their averages. It's important you, the reader, understand these points for yourself. A positivity ratio of 1% does not imply that 1% of the wider population is infected - the tests are not of a random sample of the population.
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+    exponential model is 3.953 * exp(0.1156 * t) + -4.9701
+    linear model is -30.4924 + 4.4167 * t
+    quadratic model is 11.8577 + -3.524 * t + 0.2406 * t^2
+    exponential model residue is 6248.7
+    linear model residue is 21809.9
+    quadratic model residue is 7257.8
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 17.4947 * exp(0.1347 * t) + -27.6326
+
+Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+    2020-07-06,127
+    2020-07-07,191
+    2020-07-08,134
+    2020-07-09,165
+++++++++++
+ SA reports 2 new local and 0 new overseas cases today. # New cases reported in the last 24 hours:
+
+2 new cases were reported
+
+*  A teenage girl Woodville High School tested postive. The girl picked up a pizza from Woodville Pizza Bar on 14th November.
+* A male in his 40s, who is a close contact of case linked to the cluster. The man was in quarantine with his family.
+
+**Some additional notes from today's presser:**
+
+* A total of 31 cases linked to Parafield cluster
+* About 4000 contacts are in isolation
+* QR CovidSafe checkins will be in place next week
+* SA Health is making sure everyone at Peppers Hotel is tested. Over 95% tested
+
+# Cases to date
+
+||Last 24 hours|TOTAL|
+|:-|:-|:-|
+|**Confirmed cases**||**557**|
+|**Active**||**38**|
+|**Recovered**||**513**|
+|**Deaths**||**4**|
+|Test results received\*||692,506|
+|Hospital||1|
+|ICU||0|
+
+\* *Across private and public laboratories*
+
+# Active cases breakdown
+
+||Last 24 hours|TOTAL|
+|:-|:-|:-|
+|Active cases|2|40|
+|Overseas acquired|\-|10|
+|Close contact|2|31|
+|Locally acquired (contact unknown)|\-|0|
+|Interstate acquired|\-|0|
+|Under investigation (in quarantine)|\-|0|
+
+# Parafield cluster
+
+|Total cases linked to cluster|31|
+|:-|:-|
+|New cases linked to cluster today||
+|Cases in hospital|1|
+|Approximate number of contacts in quarantine|4,300|
+
+# Healthcare
+
+|Site|Suburb|Last 24 hours|Known TOTAL|Reported|
+|:-|:-|:-|:-|:-|
+|Calvary Adelaide Hospital|Adelaide|\-|1 (patient)|Nov: [17](
+
+# Aged care outbreaks
+
+|Facility name|LGA|Suburb|Total cases|Total staff|Total residents|Total other|Deaths|Reported|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|AngicareSA|City of Charles Sturt|Brompton|4|4|0|0|0|Nov: 20, [17]( [16](
+
+# Affected educational institutions in the last 14 days
+
+|Name|Suburb|LGA|Notes|Reported|
+|:-|:-|:-|:-|:-|
+|Woodville High School|St Clair|City of Charles Sturt|Student attended school on 23rd November|Nov: 25|
+|Flinders University - Sturt Campus|Bedford Park|City of Mitcham/City of Marion|Person who has  tested positive has attended the IELI Intensive English Language Institute on Sturt Campus in recent days.|Nov: [17](
+|Mt Carmel College|Rosewater|City of Port Adelaide Enfield||Nov: 17|
+|Roma Mitchell Secondary College|Gepps Cross|City of Port Adelaide Enfield|**Confirmed** **case** in a secondary student.  Roma Mitchell Secondary College will be closed to all services until at least Monday 30 November.|Nov: [17](
+|Holy Family Catholic School|Parafield Gardens|City of Salisbury||Nov: 16|
+|Thomas More College|Salisbury Downs|City of Salisbury|**Confirmed** **case** in a Year 8 student.|Nov: [16](
+|Mawson Lakes School and Preschool|Mawson Lakes|City of Salisbury|Closed as a precaution, no confirmed cases at this point.|Nov: [15](
+
+# Helpful Information &amp; Links:
+
+* SA Health: Media release - Thursday 26th November
+* [South Australian Emergency Management Direction 2020](
+* [SA: Current restrictions and responsibilities](
+* [SA: COVID-19 Health information](
+* [SA Health Contact Tracing Page - List of Exposure Sites](
+* [Map of Exposure Sites Across Adelaide]( (Credit: [/u/dogryan100](
+
+**Interstate borders:**
+
+For information about interstate borders, please see the links below:
+
+[VIC]( | [NSW]( | [QLD]( | [WA]( | [TAS]( | [ACT]( | [NT](
+++++++++++
+ positive test rates for non overseas cases? Does anyone know how or where I can find the positive test rates per state for non overseas cases?
+++++++++++
+ NSW Gov: NSW hits three million tests as community urged to remain vigilant 27 October 2020
+
+As the state marks three million COVID-19 tests since January, the NSW Government is calling on the community to continue to work together to fight the deadly virus.
+
+Premier Gladys Berejiklian said reaching three million tests was a major milestone in the state’s fight against [COVID-19](
+
+“I want to thank everyone in NSW who has come forward to be tested – three million COVID-19 tests is an incredible result,” Ms Berejiklian said. 
+
+“As we ease restrictions, it is critical that we maintain our high rates of testing which has been central to our success in limiting the spread of the virus and keeping NSW open.”
+
+Health Minister Brad Hazzard warned that while recent easing of restrictions is very welcome, it comes with risks and it is critical everyone keeps getting tested.
+
+“This is a stealthy virus and if we give it an inch, it will take a mile and undo a lot of good work,” Mr Hazzard said.
+
+“The community response to COVID-19 has been fantastic and I thank the people of NSW for their efforts and sacrifices during the past nine months, which have put us in a position where we have been able to ease restrictions.
+
+“We hope to be able to continue to ease restrictions in the weeks and months ahead, but this depends on us being successful in minimising community transmission.”
+
+As at 8pm on 26 October 2020, 3,000,641 COVID-19 tests had been performed on 2,247,101 people in NSW. Of those people tested, 63.7 per cent had a single test and 36.3 per cent had more than one test, with 1.16 per cent having more than five tests.
+
+NSW Chief Health Officer Dr Kerry Chant said it was critical that people continue to come forward for testing and practice COVID-safe behaviours when out and about and catching up with family and friends.
+
+“When we have high numbers of people continuing to get tested, that allows us to detect cases in the community earlier and prevent onward transmission,” Dr Chant said.
+
+“Get tested at the first sign of even the [mildest of symptoms]( wash your hands regularly, physically distance and wear a mask when using public transport and in places where you can’t physically distance.
+
+“We have been able to get the recent clusters under control with the support of the community, but their emergence shows that the risk of a resurgence of cases in NSW remains very real.”
+
+Restrictions eased recently by the NSW Government include:
+
+* 30 people can now gather outdoors in public spaces (previously the rule was 20 people). It remains a maximum of 20 people in households
+* there can be 30 customers per booking, and 30 customers per table, at hospitality venues (previously the rule was a maximum of 10 customers)
+* corporate functions of up to 300 people can now be held at any appropriate premises, including at restaurants, subject to a COVID safety plan (previously it was just function centres)
+* religious gatherings/places of worship (excluding weddings and funerals) can have up to 300 people, subject to a COVID-19 safety plan
+* gyms are now only required to have a [COVID-19 safety marshal]( if there are more than 20 people in the gym at one time.
+
+Additionally, from 1 December 2020, the number of people who can attend weddings will be increased to 300 people subject to the four square metre rule indoors and two square metre rule outdoors. This will allow people to make plans and book venues knowing the capacity ahead of time.
+
+There are more than [300 COVID-19 testing locations]( across NSW. Find your nearest [clinic]( or contact your GP. Most people receive their results within 24 hours.
+++++++++++
+ [VIC] Residents of Geelong’s northern suburbs and Lara urged to get tested after wastewater finding Media Release  
+*26 November 2020*
+
+Coronavirus fragments have been detected in a wastewater sample  collected from the Oyster Cove wastewater treatment plant in Corio.
+
+Residents and visitors to Geelong’s northern suburbs and Lara from  Saturday 21 to Tuesday 23 November are urged to get tested if they have  any symptoms, no matter how mild. 
+
+The result is unexpected given that there are no residents in the  area known to have recently had a coronavirus (COVID-19) illness or  diagnosis. 
+
+Samples of untreated wastewater are analysed for fragments of  SARS-CoV-2 – the virus that causes coronavirus (COVID-19) – at more than  50 wastewater treatment plants across Victoria. 
+
+Acting Chief Health Officer Allen Cheng said the viral fragments may  be because of residents or people visiting these areas shedding the  virus. People who have had coronavirus may shed the virus or virus  fragments for several weeks in their stool, well beyond their infectious  period.
+
+“We have had few of these positive wastewater results recently and,  while we haven’t discovered any undiagnosed case of coronavirus  (COVID-19), it is possible that there may be an infectious person in  this catchment,” Professor Cheng said.
+
+“We encourage people in this area who are symptomatic to be tested  and will update the community once more testing results become  available.”
+
+“It is also a timely reminder for local businesses to re-check their  COVID Safe plans to keep themselves, their colleagues and customers  safe.”
+
+Viral fragments were last week detected in wastewater in Altona,  Benalla and Portland despite no known local people with recent  coronavirus (COVID-19) infection.
+
+Increased testing of residents and visitors in these locations has not revealed anyone with the virus. 
+
+For a full list of testing locations, visit the [Where to get tested]( page. 
+
+More information on wastewater testing is on the [Department of Health and Human Services website](
+
+A list of wastewater sampling locations and latest results can be found on the [Wastewater monitoring webpage]( 
+
+Source: [DHHS Media Release](
+
+&amp;#x200B;
+
+
+++++++++++
+ NT reports no new local cases # 𝗡𝗲𝘄 𝗖𝗮𝘀𝗲𝘀 𝗶𝗻 𝘁𝗵𝗲 𝗹𝗮𝘀𝘁 𝟮𝟰 𝗵𝗼𝘂𝗿𝘀:
+
+* **0** new locally acquired cases
+* **0** new overseas cases
+* Currently, there is **no evidence of community transmission in the Northern Territory**.
+
+**NOTE:** Late yesterday afternoon, the NT government reported 5 new overseas cases.  This has been also noted on [yesterday's daily post](
+
+See the pictogram below for more detailed information. Green highlighted text represents new updated information for today, and the red highlighted text represents yesterday's reported numbers. Text that is not highlighted indicates no change across days.
+
+[Green highlighted text = 14\/11; Red highlighted text = 13\/11](
+
+&amp;#x200B;
+
+* **NT Government:** [COVID-19 website](
+* **Recent Press Releases:**
+   * [COVID-19 Infringement Notices - Darwin]( \[13/11\]
+   * [Positive COVID-19 case update]( \[13/11\]
+   * [Mitchell Shire revoked as a hotspot]( \[13/11\]
+   *  [Returned traveller tests positive]( \[12/11\]
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+    exponential model is 2.1318 * exp(0.1281 * t)
+    linear model is -2.1857 + 1.188 * t
+    quadratic model is 0.0091 + 0.4564 * t + 0.0385 * t^2
+    exponential model residue is 233.9933
+    linear model residue is 235.3038
+    quadratic model residue is 209.2741
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,26
+++++++++++
+ Daily Tests/Positive Ratio, 27 Aug Daily 0.44% positivity ratio, 113 cases on 25,470 test results. (I think this is an outlier due to the high reported testing rate today)  
+3Day Avg: 0.89%, 137 Cases, 17337 Tests  
+7Day Ave: 0.89%, 156 Cases, 18463 Tests
+
+
+
+Note: I do this on the actual new cases / the number of reported tests. Some other places do it on the 'net new' cases. I prefer this way, as this is the daily snapshot. This way will give slightly higher ratios. It's important you, the reader, understand what the difference is. A positivity ratio of 1% does not imply that 1% of the wider population is infected - the tests are not of a random sample of the population. 
+
+I have done this as a post rather than a comment in the daily thread as the test numbers were published so late. I don't intend to do this as a post every day unless the test numbers are published late again. Feedback welcome on this.
+++++++++++
+ Newborn baby tests positive to COVID-19 in Melbourne A baby under three weeks old tested positive to coronavirus at Melbourne's Royal Children's Hospital.
+
+It's not clear when the baby tested positive and if they are still considered an active case.
+
+Associate Professor Tom Connell, a paediatrician and chief of medicine at the children's hospital, said the case served as a warning that newborn babies are vulnerable to COVID-19.
+
+"Children are susceptible to COVID-19," he told 3AW's Neil Mitchell earlier today.
+
+"It's not just an adult disease. There's still a lot we don’t know about it."
+
+When asked how the baby was diagnosed, Associate Professor Connell said: "It's usually a parent who's used their intuition to say there's something not quite right with their baby.
+
+"We have obviously a lot of babies admitted every year to the hospital with viral infections, many, many under three weeks of age - under two weeks of age even."
+
+Common symptoms among babies include decreased feeding, fast breathing and fever, Associate Professor Connell said.
+
+Source: 
+++++++++++
+ Australian woman tested positive again after she recovered and tested negative. "This could mean the virus is biphasic, where the virus lurks around undetected before recurring." 
+++++++++++
+ Passengers and crew from cruise ship that docked in Sydney test positive for coronavirus 
+++++++++++
+ Coronavirus: Fan at MCG for women’s T20 final tests positive  
+
+A fan at Sunday night’s T20 Cricket World Cup final at the MCG has tested positive for coronavirus.
+
+Victorian health authorities have revealed the positive came from a fan in Level 2 of the Melbourne Cricket Club stand.
+
+The MCC stand has a capacity of 22,000.
+
+ [
+++++++++++
+ Graph of Historical exponential curve with current data points People ask for the historical exponential curve models to be plotted with the current data points for Victorian Daily cases. So here it is.
+
+&amp;#x200B;
+
+
+
+    cases = [0,1,1,0,4,6,2,2,6,11,7,6,12,12,24,15,12,16,19,23,25,40,49,
+    74,64,70,77,65,108,73,127,191,134,165,288,216,273,176,270,238,317,
+    427,216,363,275,374]
+    day = [ k for k in 0:(length(cases)-1)]
+    
+    h0623 = [  2.1476 * exp(0.128 * t)              for t in day ]
+    h0630 = [ 0.5127 * exp(0.2045 * t) + 2.3183     for t in day ]
+    h0707 = [ 1.3407 * exp(0.1537 * t) + 1.4323     for t in day ]
+    h0714 = [ 8.6888 * exp(0.093 * t) + -15.2434    for t in day ]
+    h0721 = [ 32.3122 * exp(0.0579 * t) + -51.1732  for t in day ]
+    
+    #
+    # Now Plot the cases with various models
+    #
+    plot(day,cases,size=(800,600),
+        xtickfontsize=5, ytickfontsize=5,
+        linewidth=1, ylims=(-15,maximum(cases)*1.05),
+        legend=:topleft,label="Vic",
+        markershape=:circle) |&gt; display
+    plot!(day,
+    title = "Victorian Daily Local Cases",
+    [h0623,h0630,h0707,h0714,h0721],
+    linewidth=1.2, thickness_scaling = 2,
+    label=["h0623" "h0630" "h0707" "h0714" "h0721"],
+    xlabel="Days since 2020-06-06",
+    ylabel="Num of daily local cases"
+    )
+++++++++++
+ Coronavirus fears at Carey Baptist Grammar School after second teacher tests positive 
+++++++++++
+ Unley High School (SA) student tests positive for COVID-19 after close contact with infected teacher. Student had been identified as a close contact of a staff member who tested positive for the virus last week. [deleted]
+++++++++++
+ [NSW] Public health warning - South West Sydney and Mounties *06 August 2020*
+
+NSW Health is alerting the community after a newly confirmed case of COVID-19 attended three venues in West and South West Sydney while infectious. 
+
+A new case is a male in his 20s from South Western Sydney who is a close contact of a previously reported case associated with the Mounties cluster. 
+
+He attended several venues while infectious and people at these venues are considered casual contacts and urged to be alert for symptoms, and if any develop to get tested and self-isolate immediately:
+
+* Penrith Plaza - 1 August from 10.30am to 12.00pm
+* Master Hot Pot, Canley Vale - 1 August from 1.00pm to 2.00pm
+* BBQ City Buffet, Bankstown - 1 August 7.00pm to 8.30pm
+
+NSW Health has also added additional day of exposure risk for patrons of Mounties in Mount Pritchard after a previously reported case reported attending the venue on Sunday July 26 from 4.00pm to 7.00pm. 
+
+The total range of exposures for Mounties are: 
+
+* 12:01am to 2:30am Monday 20 July
+* 12:15pm to 5:30pm on Tuesday 21 July
+* 8.00pm to midnight on Tuesday 21 July
+* Midnight to 12:30am on Wednesday 22 July
+* 7.00pm to midnight on Wednesday 22 July
+* Midnight to 3.00am on Thursday 23 July
+* 7.00pm to midnight on Thursday 23 July
+* Midnight to 3.00am on Friday 24 July
+* 11.00am to 3:30pm on Friday 24 July
+* 7.00pm to midnight on Friday 24 July
+* Midnight to 3.00am on Saturday 25 July
+* 4pm to 7.00pm on Sunday 26 July (new date)
+
+Anyone feeling unwell – even with the mildest of symptoms such as a runny nose or scratchy throat – is urged to self-isolate and have a COVID-19 test. Do not go to work or catch public transport until you are cleared of COVID-19. 
+
+If you are directed to self-isolate, you must remain in isolation for the full 14 days even if your initial test is negative. If you do develop COVID-19 symptoms, you should be retested, even if you have had a negative result previously.
+
+A full list of COVID-19 testing clinics is available below, and people can also visit their GP: 
+++++++++++
+ Vic Chief Health Officer: “transmission in the school … was quite substantial”, 102 cases linked 
+++++++++++
+ Queensland records 1 new overseas case # New cases reported in the last 24 hours
+
+* **1** new case is an overseas arrival in hotel quarantine
+
+
+**Please visit the following link to view the full contact tracing list of places visited by confirmed cases:** [**Current contact tracing alerts**](
+
+&amp;#x200B;
+
+# Cases to date
+
+||Last 24 hours|Total|
+|:-|:-|:-|
+|Confirmed cases|\+1|1,153|
+|Active cases|-2|17|
+|Recovered|\+1|1,1124|
+|Current hospitalisations||4|
+|Patients currently in ICU|\+0|0|
+|Deaths|\+0|6|
+|Tests conducted|\+2,708 | 1,067,786 |
+|Cases of First Nations people||10|
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+# Active cluster
+
+|Outbreak|Suburb|LGA|Last 24 hours|Total|Reported|
+|:-|:-|:-|:-|:-|:-|
+|Brisbane Youth Detention Centre / QCS academy|Wacol|Brisbane|\-|48|Sept: 9. August: 31, 30, 29, 28, 26, 24, 23, [22]( [20](
+
+&amp;#x200B;
+
+# Affected educational institutions
+
+|Outbreak|Suburb|Last 24 hours|TOTAL cases|Reported|
+|:-|:-|:-|:-|:-|
+|St Edmund's College - Catholic boys' school|Ipswich|\-|1|Sept: 9|
+
+**Note:  The above cluster information is accurate as at 11 September, 2020.**
+
+&amp;#x200B;
+
+**Sources**:
+
+* [AP Twitter](
+* [**Queensland COVID-19 statistics**](
+* [QLD Health: Urgent COVID-19 update](
+* [Current status: Public health directions regarding movements and gatherings](
+* [COVID-19 symptoms and testing locations](
+++++++++++
+ NSW PUBLIC HEALTH ALERT: New locations in Western and South Western Sydney and the South Coast visited by a person who tested positive for COVID19. People who may have taken taxis in Western and South Western Sydney need to watch for symptoms. 
+++++++++++
+ NSW: graph of daily local cases (still following the Vic trajectory) &amp;#x200B;
+
+
+
+    t = 16 for the date 2020-07-22
+    exponential model is 47.7739 * exp(0.0177 * t) + -48.4363
+    linear model is -1.0 + 0.9779 * t
+    quadratic model is -0.6233 + 0.8273 * t + 0.0094 * t^2
+    exponential model residue is 75.6
+    linear model residue is 76.3
+    quadratic model residue is 75.6
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 15.7275 * exp(0.1361 * t) + -19.9011
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for NSW.
+
+    “date”,”local_cases”
+    2020-07-06,0
+    2020-07-07,1
+    2020-07-08,1
+    2020-07-09,2
+    2020-07-10,1
+    2020-07-11,1
+    2020-07-12,3
+    2020-07-13,8
+    2020-07-14,11
+    2020-07-15,10
+    2020-07-16,6
+    2020-07-17,6
+    2020-07-18,11
+    2020-07-19,13
+    2020-07-20,15
+    2020-07-21,12
+    2020-07-22,15
+++++++++++
+ Chief Health Officer - Flutracking - Please Sign Up Our Chief Health Officer has asked all Australians to sign up to [flutracking.net]( as it's an invaluable resource for health researchers to help keep Australians safe.
+
+It might be under strain with new signups so you might need to wait a while but please bookmark and start promoting the website to all your friends and extended family. Better data = better outcomes. It's easy to use and you can use it from your mobile phone and only takes a few minutes a week to enter in all the data for your entire family.
+
+Thankyou
+
+Here is the URL: [
+++++++++++
+ Queensland records 0 new cases # New cases reported in the last 24 hours
+
+* **Donut 🍩**
+
+ 
+
+[QLD Daily Local Cases since 22 August](
+
+&amp;#x200B;
+
+**Please visit the following link to view the full contact tracing list of places visited by confirmed cases:** [**Current contact tracing alerts**](
+
+&amp;#x200B;
+
+# Cases to date
+
+||Last 24 hours|Total|
+|:-|:-|:-|
+|Confirmed cases|\+0|1,149|
+|Active cases|\-1|30|
+|Recovered|\+11|1,107|
+|Current hospitalisations|\-4|9|
+|Patients currently in ICU|\+0|0|
+|Deaths|\+0|6|
+|Tests conducted|\+4,933|1,022,898|
+|Cases of First Nations people|\+0|10|
+
+&amp;#x200B;
+
+# Likely source of infection
+
+||Last 24 hours|Total|
+|:-|:-|:-|
+|Locally Acquired—close contact with a confirmed case|\+0|233|
+|Locally Acquired—no known contact|\+0|43|
+|Interstate acquired|\+0|21|
+|Overseas acquired|\+0|852|
+|Under investigation|\+0|0|
+
+&amp;#x200B;
+
+# Active cluster
+
+|Outbreak|Suburb|LGA|Last 24 hours|Total|Reported|
+|:-|:-|:-|:-|:-|:-|
+|Brisbane Youth Detention Centre / QCS academy|Wacol|Brisbane|\-|48|Sept: 9. August: 31, 30, 29, 28, 26, 24, 23, [22]( [20](
+
+&amp;#x200B;
+
+# Affected educational institutions
+
+|Outbreak|Suburb|Last 24 hours|TOTAL cases|Reported|
+|:-|:-|:-|:-|:-|
+|St Edmund's College - Catholic boys' school|Ipswich|\-|1|Sept: 9|
+|Staines Memorial college|Redbank Plains|\-|3|Sept: 1|
+
+**Note:  The above cluster information is accurate as at 11 September, 2020.**
+
+&amp;#x200B;
+
+**Sources**:
+
+* ✅[**Queensland COVID-19 statistics**](
+* [QLD Health: Urgent COVID-19 update](
+* [Current status: Public health directions regarding movements and gatherings](
+* [COVID-19 symptoms and testing locations](
+++++++++++
+ Qantas baggage handlers test positive to COVID-19 as South Australia records 32 new cases 
+++++++++++
+ What has happened to those were tested positive? Has anyone who was tested positive come forward on any platform explaining their symptoms, what it was like after being diagnosed or even how they are after?
+
+I can't seem to find any information in regards to those who were tested postive, who have been discharged or anyone who is still currently in isolation.
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+    t = 37 for the date 2020-07-13
+    exponential model is 7.7041 * exp(0.0966 * t) + -13.4755
+    linear model is -48.9231 + 6.0513 * t
+    quadratic model is 17.5273 + -5.0237 * t + 0.2993 * t^2
+    exponential model residue is 24494.1
+    linear model residue is 63900.9
+    quadratic model residue is 24597.6
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 20.0339 * exp(0.1307 * t) + -36.4546
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+    2020-07-05,73
+    2020-07-06,127
+    2020-07-07,191
+    2020-07-08,134
+    2020-07-09,165
+    2020-07-10,288
+    2020-07-11,216
+    2020-07-12,273
+    2020-07-13,177
+++++++++++
+ Victoria records 4 new cases * **1** linked to the Rydges hotel on Swanston in Melbourne.
+  * Total for this outbreak: 8
+  * Case is a close contact of a worker.
+* **1** case was detected in a returned traveller in hotel quarantine.
+* **2** detected through community testing.
+* Approx. **5,309** people were tested.
+* Total cases in Victoria: **1,653**
+  * **74** (+1) active cases. 
+  * **6** in hospital; **1** (-1) in ICU. 
+  * **1,560** (+3) have recovered.
+  * **19** deaths in total.
+  * **168** (0) may have been acquired through community transmission. 
+  *  Approx. **515,000** tests have been processed to date. 
+
+Source: **[DHHS](
+
+---
+
+**Victorian Government - helpful links:**
+
+* [Current restrictions](
+* [Getting tested for coronavirus \(COVID-19\)](
+* [Where to get tested for coronavirus \(COVID-19\)](
+* [Mental health resources](
+* [Family violence crisis response and support](
+* [Education - latest advice]( 
+* [Your coronavirus \(COVID-19\) questions answered](
+++++++++++
+ The third woman who travelled in the group has not tested positive to COVID-19. How? Regarding the 19 year olds who came into Brisbane with COVID.  
+
+ "At this stage, the third woman who travelled in the group has not tested positive to COVID-19"
+
+Weird right? Its not a case that she has it but is asymptomatic, its a case that she travelled with the other two but doesn't have it. 
+
+How does that work?
+++++++++++
+ WA records third case of coronavirus COVID-19 as woman tests positive on return from Europe 
+++++++++++
+ 2nd Australian Death Confirmed. Total Cases in NSW rise to 22. NSW Health has confirmed a 95-year-old woman who died at a Sydney nursing home tested positive for coronavirus.
+
+Last night the health department confirmed five more cases in the state, bringing the number of infections in NSW since the COVID-19 outbreak began to 22.
+
+The 95-year-old resident at the Dorothy Henderson Lounge in Macquarie Park, in Sydney's north, died on Tuesday in hospital. Another elderly resident at the facility also tested positive for the virus.
+
+An aged-care worker at the facility was diagnosed with coronavirus earlier this week, becoming the third person to be infected via human-to-human transmission in Australia.
+
+NSW chief medical officer Dr Kerry Chant said the five new cases also included a female doctor who worked at Liverpool Hospital, and a female on the Northern Beaches.
+
+"The female doctor who was diagnosed on March 4 had no history of overseas travel," she said.
+
+"We are immediately establishing which staff and patients may need to self-isolate and be tested for COVID-19 should they be unwell."
+
+A 50-year-old man from Cronulla and a 60-year-old woman, who is believed to have returned from the Philippines, also tested positive.
+
+Her travel details are being obtained and will be disclosed if it is decided that she posed a risk to any other passengers on her flight.
+
+NSW Health Minister Brad Hazzard said the aged-care worker had contact with 13 residents of the Macquarie Park home, and that two of them, including the woman who died, subsequently reported respiratory symptoms.
+
+The other affected resident is an 82-year-old man who is being treated in hospital after testing positive on Tuesday.
+
+It is unclear how the worker contracted coronavirus, as she had not been overseas.
+
+She is now in a stable condition at Royal North Shore Hospital.
+
+"It is concerning when we have someone present with coronavirus and we can't track the source," Mr Hazzard said.
+
+"[NSW] Health is looking at how we can step up some of the testing that goes on with some of the people who present with respiratory symptoms that in the normal course may not have been considered for coronavirus testing."
+
+Dr Chant rejected the suggestion the Macquarie Park facility needed to be in full lockdown and said infection control staff visited last night.
+
+She said it was pleasing to note that the centre had already taken a "lot of steps" to raise infection control.
+++++++++++
+ NSW Gov: Cabramatta HS non-operational this weekend *30 October 2020*
+
+**Cabramatta High School will be non-operational this weekend, Saturday 31 October and Sunday 1 November due to a student testing positive for COVID-19.**
+
+\--
+
+The NSW Department of Education has been advised by NSW Health that a student has tested positive for COVID-19. The school will be non-operational for the on-site attendance of staff and students over the weekend to allow time for contact tracing and cleaning of the school.
+
+**All** ***staff*** **and** ***students*** **are asked to self-isolate until you receive further advice.** 
+
+**Students sitting HSC exams will be prioritised in the contact tracing process to reduce the impact on exams and will be contacted directly.**
+
+NSW Health has requested anyone who has been unwell or if you develop any symptoms such as a fever, cough, sore throat, shortness of breath, runny nose, loss of smell/taste, muscle/joint pains, diarrhoea, nausea/vomiting or extreme tiredness to be tested at one of the [COVID-19 testing clinics](  
+**Further advice will be provided over the weekend advising when the school will resume on-site learning.**
+
+Further information about COVID-19 is available on the [NSW Government website](
+
+The safety and wellbeing of our staff and students are of paramount importance to us. The NSW Department of Education will continue to work closely with NSW Health to ensure the health and safety of all students and staff is maintained.
+
+Thank you for your ongoing support.
+
+View this advice translated in:
+
+* [Arabic](
+* [Chinese](
+* [Khmer](
+* [Vietnamese](
+++++++++++
+ Is there any bad side effect from nasopharyngeal swab test(covid-19 nasal swab test)? I had this test 2 days ago. The first day I had nose bleed and tingling sensation in the back of my head. Few days later, I developed otitis because I noticed that there’s some liquid leaked from my right ear and it feels really itchy( not sure if it’s related). Is this nasal swab test safe?
+++++++++++
+ Tom Hanks and his wife Rita are holidaying in Australia, both just tested positive. 
+++++++++++
+ Testing of HCQ and AZ on a cohort of 1061 COVID-19 patients. "A good clinical outcome and virological cure was obtained in 973 patients within 10 days (91.7%)." 
+++++++++++
+ Sydney school to close after staff member tests positive for COVID-19 
+++++++++++
+ Queensland records 0 new cases # New cases reported in the last 24 hours
+
+* **0** new cases in QLD today (DONUT TIME) 🍩
+* It has been 14 days since the last infectious case has been out in the community. 
+
+Will update as further info is provided.
+
+**Please visit the following link to view the full contact tracing list of places visited by confirmed cases:** [**Current contact tracing alerts**](
+
+# Cases to date
+
+||Last 24 hours|Total|
+|:-|:-|:-|
+|Confirmed cases|\+0|1,153|
+|Active cases|\+0|5|
+|Recovered|\+1|1,125|
+|Current hospitalisations||4|
+|Patients currently in ICU||0|
+|Deaths|\+0|6|
+|Tests conducted|\+7,278|1,084,841|
+|Cases of First Nations people||10|
+
+# Likely source of infection
+
+||Last 24 hours|Total|
+|:-|:-|:-|
+|Locally Acquired—close contact with a confirmed case|\+0|236|
+|Locally Acquired—no known contact|\+0|42|
+|Interstate acquired|\+0|21|
+|Overseas acquired|\+0|854|
+|Under investigation|\+0|0|
+
+# Sources:
+
+* [AP Twitter](
+* [**Queensland COVID-19 statistics**](
+* [QLD Health: Urgent COVID-19 update](
+* [Current status: Public health directions regarding movements and gatherings](
+* [COVID-19 symptoms and testing locations](
+++++++++++
+ Victoria broadened it's testing criteria today ### Clinical criteria:
+
+Fever \*
+
+OR
+
+Acute respiratory infection (for example, shortness of breath, cough, sore throat)
+
+### Epidemiological criteria:
+
+**Travelers from overseas** with onset of symptoms within 14 days of return or;
+
+**Close contacts** of confirmed COVID-19 cases with onset of symptoms within 14 days of last contact or;
+
+**Healthcare workers and residential aged care workers** meeting clinical criteria or;
+
+**Aged and residential care residents** meeting clinical criteria or;
+
+Patients who are **Aboriginal or Torres Strait Islander people** meeting clinical criteria 
+
+\* &gt;38 degrees, without another immediately apparent cause such as urinary tract infection or cellulitis
+
+The following patients should also be tested:
+
+**Patients admitted to hospital** with acute respiratory tract infection AND fever\*
+
+Only confirmed cases should be notified. A confirmed case is a person who tests positive to a validated SARS-CoV-2 nucleic acid test or has the virus identified by electron microscopy or viral culture.
+
+&amp;#x200B;
+
+Source:  [
+++++++++++
+ 'Caught out': McGowan's claims about hard border contradicted by Chief Health Officer 
+++++++++++
+ Cold/flu test I understand Australia is running low on the chemical needed to test for the Coronavirus and the health system needs to use discretion when giving out tests to try to target people more likely to be carrying the virus than the cold/flu.
+
+But are people who are displaying symptoms of the virus who haven’t been overseas or in contact with a confirmed case been tested for cold and flu? 
+
+I don’t know the science involved or what’s needed to carry out such a test but why not test these people for cold/flu and if those test come back negative then test for coronavirus?
+
+I am sure I heard the Mayor of New York talking about this on The Daily Show but haven’t heard it talked about in Australia.
+++++++++++
+ Queensland records 2 new local cases # New cases reported in the last 24 hours
+
+&amp;#x200B;
+
+* **2** new local cases possibly linked to the **Brisbane Youth Detention Centre/Queensland Corrective Services (QCS)** **academy** cluster. 
+
+**Will update as more info is provided.** 
+
+**Please visit the following link to view the full contact tracing list of places visited by confirmed cases:** [**Current contact tracing alerts**](
+
+&amp;#x200B;
+
+# Cases to date
+
+||Last 24 hours|Total|
+|:-|:-|:-|
+|Confirmed cases|\+2|1,128|
+|Active cases|\+2|30|
+|Recovered||1,084|
+|Current hospitalisations||16|
+|Patients currently in ICU||0|
+|Deaths||6|
+|Tests conducted||921,429|
+|Cases of First Nations people||10|
+
+&amp;#x200B;
+
+# Likely source of infection
+
+||Last 24 hours|Total|
+|:-|:-|:-|
+|Locally Acquired—close contact with a confirmed case||212|
+|Locally Acquired—no known contact||42|
+|Interstate acquired|\+0|21|
+|Overseas acquired|\+0|851|
+|Under investigation||4|
+
+&amp;#x200B;
+
+# Active cluster
+
+&amp;#x200B;
+
+|Outbreak|Suburb|LGA|Last 24 hours|Total|Reported|
+|:-|:-|:-|:-|:-|:-|
+|Brisbane Youth Detention Centre / QCS academy|Wacol|Brisbane|\-|24|August: 31, 30, 29, 28, 26, 24, 23, [22]( [20](
+
+&amp;#x200B;
+
+**Sources**:
+
+* [**Queensland COVID-19 statistics**](
+* [QLD Health: Urgent COVID-19 update](
+* [Current status: Public health directions regarding movements and gatherings](
+* [COVID-19 symptoms and testing locations](
+++++++++++
+ How much is a fake positive COVID test to you?  If I was to create a website where you could enter your mobile number and in return you would receive the typical sequence of SMS messages to your phone that look likes a positive COVID test result; how much would you be happy to pay?
+
+2 weeks off work (your workplace might give you full pay like mine)  
+You wouldn't get Government money, at least you could try but I would be super careful of that
+++++++++++
+ Health department assessment the key to Essendon playing as McKenna tests positive for COVID-19 
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+    exponential model is 2.8889 * exp(0.1275 * t) + -2.897
+    linear model is -16.4138 + 3.0222 * t
+    quadratic model is 6.6774 + -2.1092 * t + 0.1833 * t^2
+    exponential model residue is 1562.3
+    linear model residue is 5609.7
+    quadratic model residue is 1805.3
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 12.4103 * exp(0.1477 * t) + -15.4102
+
+Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+    2020-07-04,108
+++++++++++
+ Senator Andrew Bragg tests positive for COVID-19 Looks like he attended that now infamous wedding in Stanwell Tops, NSW March 6.
+
+[
+++++++++++
+ NSW: graph of daily local cases &amp;#x200B;
+
+
+
+    t = 20 for the date 2020-07-26
+    exponential model is 28326.4616 * exp(0.0 * t) + -28325.6772
+    simple exponential model is 3.4937 * exp(0.0704 * t)
+    linear model is 0.7835 + 0.674 * t
+    quadratic model is -2.1988 + 1.6158 * t + -0.0471 * t^2
+    exponential model residue is 195.4
+    linear model residue is 195.4
+    quadratic model residue is 145.7
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 45.2765 * exp(0.0797 * t) + -54.4914
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for NSW.
+
+    “date”,”local_cases”
+    2020-07-06,0
+    2020-07-07,1
+    2020-07-08,1
+    2020-07-09,2
+    2020-07-10,1
+    2020-07-11,1
+    2020-07-12,3
+    2020-07-13,8
+    2020-07-14,11
+    2020-07-15,10
+    2020-07-16,6
+    2020-07-17,6
+    2020-07-18,11
+    2020-07-19,13
+    2020-07-20,15
+    2020-07-21,12
+    2020-07-22,15
+    2020-07-23,15
+    2020-07-24,7
+    2020-07-25,9
+    2020-07-26,11
+++++++++++
+ Howa Victorian guards testing positive to covid don't they have some kind of protection? or are they doing the dirty again? [removed]
+++++++++++
+ NSW Health: Public health alert - New Zealand arrivals *13 November 2020*  
+\--
+
+**NSW Health is contacting 455 people who have arrived from New Zealand since 5 November following a locally acquired case of COVID‑19 in Auckland.**
+
+These passengers have been sent a message with NSW Health advice and are being called to be alerted to a number of venues of concern in Auckland, consistent with advice provided in New Zealand.
+
+This advice was also provided to passengers arriving in Sydney from New Zealand on this evening’s flight. **No passengers reported having attended the venues of concern and none had symptoms.**
+
+**The risk posed by quarantine-free travel remains low.**
+
+Airlines will ascertain if passengers have attended these venues before they leave New Zealand and if they have, they will be not allowed to travel.
+
+All arrivals from New Zealand will be asked to monitor for even the mildest of symptoms and get tested and isolate if they appear unwell, then remain in isolation until a negative result is received, in line with routine advice for all people in NSW.
+
+**The main venues of concern are:**
+
+* A-Z Collection, 61 High Street, Auckland CBD: 10.30am-6.30pm on 8 November, 10.30am-6.30pm on 9 November, or 10.30am-6.30pm 11 November
+* The Vincent Residences, 106 Vincent Street Auckland Central: 12am on 7 November to 12pm 12 November
+* Red Pig Restaurant, Auckland CBD: 6-8.30pm on 7 November
+
+An alert from the New Zealand Ministry of Health is available at [Ministry of Health – Manatū Hauora: 4 cases of COVID-19 – none in the community](
+
+A list of additional venues is available at [Ministry of Health – Manatū Hauora: COVID-19: Contact tracing locations of interest](
+
+There are more than 300 COVID-19 testing locations across NSW. To find your nearest clinic visit [COVID-19 testing clinics]( or contact your GP.
+
+[**source**](
+++++++++++
+ NSW: graph of daily local cases &amp;#x200B;
+
+
+
+    t = 24 for the date 2020-07-30
+    exponential model is 27130.2892 * exp(0.0 * t) + -27129.0359
+    simple exponential model is 3.8171 * exp(0.0603 * t)
+    linear model is 1.2523 + 0.6023 * t
+    quadratic model is -1.2109 + 1.2449 * t + -0.0268 * t^2
+    exponential model residue is 234.7
+    linear model residue is 234.6
+    quadratic model residue is 196.1
+    
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+exponential2 model is 88.0984 \* exp(0.0535 \* t) + -101.1372
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+&amp;#x200B;
+
+
+
+Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for NSW.
+
+    “date”,”local_cases”
+    2020-07-06,0
+    2020-07-07,1
+    2020-07-08,1
+    2020-07-09,2
+    2020-07-10,1
+    2020-07-11,1
+    2020-07-12,3
+    2020-07-13,8
+    2020-07-14,11
+    2020-07-15,10
+    2020-07-16,6
+    2020-07-17,6
+    2020-07-18,11
+    2020-07-19,13
+    2020-07-20,15
+    2020-07-21,12
+    2020-07-22,15
+    2020-07-23,15
+    2020-07-24,7
+    2020-07-25,9
+    2020-07-26,11
+    2020-07-27,9
+    2020-07-28,12
+    2020-07-29,17
+    2020-07-39,16
+++++++++++
+ NSW Health: Prestons drive-through COVID-19 clinic closed due to flooding *31 October 2020*
+
+\--
+
+**Due to heavy rain, Prestons drive-through COVID-19 clinic at Ash Road Sporting Complex, Prestons NSW 2170, is closed today (31 October 2020) due to flooding.** NSW Health is assessing the situation. 
+
+Please visit a nearby clinic for COVID-19 testing. There are over 300 COVID-19 testing locations across NSW. To find your nearest clinic visit: [ 
+
+The COVID-19 test is free, quick and easy. Most people in NSW receive their test result within 24 hours. If you’re feeling unwell, even if you have very mild symptoms, get tested for COVID-19.  
+
+
+
+++++++++++
+ Japanese man tests positive for coronavirus second time after hospital recovery [
+++++++++++
+ Family of deceased Queensland man who returned false positive COVID-19 tests breaks silence 
+++++++++++
+ Vic: graph of daily local cases &amp;#x200B;
+
+
+
+    exponential model is 4.1233 * exp(0.1131 * t) + -4.9667
+    linear model is -13.5714 + 2.7063 * t
+    quadratic model is 4.8879 + -1.5535 * t + 0.1578 * t^2
+    exponential model residue is 1432.6
+    linear model residue is 3787.4
+    quadratic model residue is 1422.6
+
+&amp;#x200B;
+
+
+
+    exponential2 model is 11.4888 * exp(0.1509 * t) + -13.2651
+
+Here is the source code for generating the models and the graph
+
+[
+
+The data comes from this CSV data below for non-overseas AND non-interstate cases for Victoria.
+
+    “date”,”local_cases”
+    2020-06-06,0
+    2020-06-07,1
+    2020-06-08,1
+    2020-06-09,0
+    2020-06-10,4
+    2020-06-11,6
+    2020-06-12,2
+    2020-06-13,2
+    2020-06-14,6
+    2020-06-15,11
+    2020-06-16,7
+    2020-06-17,6
+    2020-06-18,12
+    2020-06-19,12
+    2020-06-20,24
+    2020-06-21,15
+    2020-06-22,12
+    2020-06-23,16
+    2020-06-24,19
+    2020-06-25,23
+    2020-06-26,25
+    2020-06-27,40
+    2020-06-28,49
+    2020-06-29,74
+    2020-06-30,64
+    2020-07-01,70
+    2020-07-02,77
+    2020-07-03,65
+++++++++++
+ Italy, a 23 years old girl has still tested positive for covid19 after 60 days and 6 tests. [removed]
+++++++++++
+ Boris Johnson Tests Positive for COVID-19 Boris Johnson tests positive for CORVID-19
+
+Prime Minister Boris Johnson has tested positive for coronavirus.
+
+Mr Johnson said he developed mild symptoms over the past 24 hours, including a temperature and cough.
+
+He said he will now self-isolate in No 10 but will "continue to lead the government's response via video-conference as we fight this virus".
+
+Mr Johnson was last seen on Thursday night, as he clapped outside No 10 as part of a nationwide gesture to thank NHS staff.
+
+In a video on his Twitter account, Mr Johnson said: "I'm working from home and self-isolating and that's entirely the right thing to do.
+
+"But, be in no doubt that I can continue thanks to the wizardry of modern technology to communicate with all my top team to lead the national fightback against coronavirus.
+
+"I want to thank everybody involved and, of course, our amazing NHS staff."
+
+He was tested at No 10 by NHS staff, on the personal advice of England's chief medical officer, Professor Chris Whitty, Downing Street said.
+
+He will still be in charge of the government's handling of the crisis, the statement added.
+
+There are more than 11,600 confirmed cases of coronavirus in the UK, and 578 people have died.
+
+Earlier this week, the prime minister's spokesman confirmed that Foreign Secretary Dominic Raab, as the first secretary of state, was the selected minister to stand in if Mr Johnson became unwell.
+
+It comes after the Prince of Wales also tested positive for the virus earlier this week.
+
+Prince Charles, 71, is to be displaying mild symptoms "but otherwise remains in good health", a spokesman said.
+
+(
+++++++++++
+ South Australia records 1 new interstate case A South Australian man, in his 40s, was granted an exemption to travel to and from Victoria as an essential worker. He tested negative on July 10, but later tested positive on July 22.
+
+Chief Public Health Officer Professor Nicola Spurrier says the man has been in quarantine during the infectious period. However, Spurrier says there is a chance the man’s family, who he has been at home with, could have contracted the virus. The entire family and close contacts are now self-isolating.
+
+The new case is the third confirmed in the past 48 hours after two women, in their 50s and 30s, tested positive on Wednesday. 
+
+The woman in her 50s had recently returned to Australia from Pakistan. She had two negative results in Melbourne while in hotel quarantine, but subsequently tested positive 12 days after she arrived in South Australia on July 9. Spurrier says the woman had been in quarantine the entire time and was completely asymptomatic. She will remain in isolation for another 10 days as a precaution.
+
+The second case is a woman in her 30s who had been quarantining in Adelaide after arriving from Mumbai on a repatriation flight on June 27. She also had two negative tests while in hotel quarantine, but had a family member who tested positive. A recent serology test revealed the woman was infected but, due to the time frame, her case is not considered active.
+
+The state’s total now sits at 447 with two active cases.
+
+Source: [7news](
+++++++++++
+ Inmate at Sydney jail tests positive for COVID-19 A jail in Sydney's north-west has been placed in lockdown after an inmate tested positive for COVID-19.
+
+The inmate arrived at Parklea Correctional Centre on July 26 after he was refused bail for driving offences. He recently arrived in NSW from Victoria and had been in isolation at the facility.
+
+"Preliminary contact tracing with staff and inmates has confirmed the inmate has not had any close contacts in custody, on being transported, or at Parklea Correctional Centre since his arrival, in accordance with the isolation protocols," a Corrective Services NSW spokesperson said.
+
+The inmate was transferred to the NSW Corrective Services COVID-19 hospital at Silverwater upon returning a positive test.
+
+The area in which the inmate was in isolation is being forensically cleaned and his family is being notified, the spokesperson said.
+
+It is the first case of COVID-19 among staff or inmates in NSW's jails.
+
+Source: 
+++++++++++
+ Hypothetical person refuses to get tested, exhibits corona-virus symptoms. What should happen? Say hypothetically there is a person called Bob.
+
+Bob exhibits COVID-19 symptoms, shortness of breath, sore throat, etc. But  Bob refuses to self-isolate. You also have a close relationship to Bob. 
+
+Bob doesn't want to get tested because they don't want to be enforced into quarantine. Some have pointed out to Bob that they could potentially be infecting others, Bob doesn't take things very seriously anyway because Bob is young and immature. 
+
+So today an ambulance where workers in COVID-19 PPE came to take one of the neighbors to the hospital (see image) below. Now an observer could speculate that Bob's sickness and the ambulance are either unrelated, or that they might be related. 
+
+What would the optimal course of action be for a third party who is witnessing the situation?  Can they inform authorities of someone who may potentially have COVID-19 but isn't sure? 
+
+&amp;#x200B;
+
+[Bad quality because of zoom, red because of Flux.](
+++++++++++
+ Queensland records 1 new overseas case # New cases reported in the last 24 hours
+
+**1** new international case today in Queensland.   
+
+- Overseas arrival who is already in quarantine.
+
+# Cases to date
+
+||Last 24 hours|Total|
+|:-|:-|:-|
+|Confirmed cases|\+1|1,150|
+|Active cases|\+1|31|
+|Recovered|\+4|1,111|
+|Current hospitalisations||9|
+|Patients currently in ICU||0|
+|Deaths||6|
+|Tests conducted|\+4,933|1,030,765|
+|Cases of First Nations people|\+0|10|
+
+&amp;#x200B;
+
+# Likely source of infection
+
+||Last 24 hours|Total|
+|:-|:-|:-|
+|Locally Acquired—close contact with a confirmed case|\+0|233|
+|Locally Acquired—no known contact|\+0|43|
+|Interstate acquired|\+0|21|
+|Overseas acquired|\+1|853|
+|Under investigation|\+0|0|
+
+&amp;#x200B;
+
+# Active cluster
+
+|Outbreak|Suburb|LGA|Last 24 hours|Total|Reported|
+|:-|:-|:-|:-|:-|:-|
+|Brisbane Youth Detention Centre / QCS academy|Wacol|Brisbane|\-|48|Sept: 9. August: 31, 30, 29, 28, 26, 24, 23, [22]( [20](
+
+&amp;#x200B;
+
+# Affected educational institutions
+
+|Outbreak|Suburb|Last 24 hours|TOTAL cases|Reported|
+|:-|:-|:-|:-|:-|
+|St Edmund's College - Catholic boys' school|Ipswich|\-|1|Sept: 9|
+|Staines Memorial college|Redbank Plains|\-|3|Sept: 1|
+
+**Note:  The above cluster information is accurate as at 11 September, 2020.**
+
+&amp;#x200B;
+
+**Sources**:
+
+* ✅[**Queensland COVID-19 statistics**](
+* [QLD Health: Urgent COVID-19 update](
+* [Current status: Public health directions regarding movements and gatherings](
+* [COVID-19 symptoms and testing locations](
+++++++++++
+ Coronavirus Australia News Updates (7 October) * When is the vice-presidential debate? Here's what we know about the clash between Kamala Harris and Mike Pence  ([ABC News](
+* Queensland Health Minister investigates 'distressing' brain cancer exemption case  ([ABC News](
+* Hundreds of Victorians self-isolating after two Covid cases linked to Kilmore cafe  ([The Guardian](
+* 'Again we are a house divided': Joe Biden calls for unity in Gettysburg speech  ([The Guardian](
+* 12-day clear run in NSW over with three cases of local transmission of COVID-19  ([Sydney Morning Herald](
+* Study reveals potential utility of artemisinin-based treatments against SARS-CoV-2 - News ([Medical.Net](
+* Why do some COVID-19 tests come back with a 'weak positive', and why does it matter?  ([The Conversation AU](
+* Federal budget 2020: Coalition banks on $98bn injection to jolt Australia’s economy back to life  ([The Guardian](
+* Amanda Kloots responds to Donald Trump's message on coronavirus: 'It is disgraceful'  ([9TheFIX](
+
+
+
+_This daily news summary was automatically generated using [News API]( data from Australian news sources. If you have feedback, please send a modmail to /r/CoronavirusAustralia._
+++++++++++
+ 7,000 young adults in Missouri test positive, none seriously ill 

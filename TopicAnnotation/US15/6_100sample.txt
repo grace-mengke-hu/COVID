@@ -1,0 +1,2176 @@
+
+++++++++++
+ DAILY UPDATE Coronavirus US % growth for March 27 - trends are mixed, with confirmed cases slightly down and deaths slightly up Below is a summary of the **US** trends yesterday (late EST), available [in more detail here]( (now including individual country breakdowns, updated automatically once a day). I give a more broad summary on the [Global trends here](
+
+I've also [started vlogging]( a take that's half analytical, and half covering the day's Reddit and Twitter threads.
+
+**Confirmed Cases**
+
+This daily delta for confirmed cases yesterday was down. A total of **17,821** new cases. Although still the 2nd highest increase ever.
+
+The growth rate was down at the lowest since March 18, at **21.26%**.
+
+Note that the testing capabilities may have risen in general, and there may also be a larger amount of people testing negative. I'd love to have access to that data too, but so far we don't
+
+**Deaths**
+
+It was another all time high again yesterday in the increase in deaths. The total increase was **372**.
+
+That brings the growth rate to **30.8%** yesterday. If the trend follows other countries, this rate will decrease as the number rises.
+
+The WHO death rate went up slightly to **1.5%** yesterday, after 2 consecutive days at 1.4% (this is the rate that the media was often citing at being 1-2% in February).
+
+I've consistently chosen to additionally track the death rate on the number of recovered. This is still consistently climbing, once more at a new peak yesterday, of **64.5%** (NOTE: *John Hopkins CSSE have announced they are soon going to cease tracking the number of recovered, so this stat won't be available for much longer!*)*.*
+
+**Incubation Deaths**
+
+The rate that takes into account the 14 day incubation period, comparing the number of deaths yesterday to the number of confirmed cases 14 days ago. This is still increasing, once more at an all time high, at **42.0%**.
+
+**Disclaimer:** *Please take from this what you choose. Even though I've started to track individual country data, it may still be too small to associate any defining trends from the % growth.*
+
+*I am just breaking down official numbers, and although the official numbers may or may not reflect exactly how many cases remain unreported, I try to remain unopinionated in these reportings and leave the opinions and analysis to the comments*
+++++++++++
+ UPDATE Coronavirus % growth for JULY 19 Below is a summary of trends from yesterday (as of late EST). Starting with the **Global** stats for a broad overview. Then stats for the **USA**.
+
+The data is available [in more detail here](
+
+# Global
+
+Confirmed Cases growth is 📈:
+
+* Increasing to **1.42%**
+* Increasing by **202,517**
+* Total confirmed cases is **14,450,223**
+* Total active cases is **5,428,441**
+
+Deaths growth is 📉:
+
+* Decreasing to **0.60%**
+* Increasing by **3,613**
+* Total deaths is **605,162**
+
+Death Rate growth is mixed:
+
+* **6.7%** recovery rate (flat)
+* **4.0%** WHO CFR (📉)
+* **5.0%** incubation rate (📉)
+
+# USA 🇺🇸
+
+Confirmed Cases growth is 📉:
+
+* Decreasing to **1.67%**
+* Increasing by **61,847**
+* Total confirmed cases is **3,773,260**
+* Total active cases is **2,501,605**
+
+Deaths growth is 📉:
+
+* Decreasing to **0.30%**
+* Increasing by **415**
+* Total deaths is **140,534**
+
+Death Rate growth is mixed:
+
+* **11.1%** recovery rate (flat)
+* **3.6%** WHO CFR (flat)
+* **4.6%** incubation rate (📉)
+
+# Brazil 🇧🇷
+
+Highest global increase in deaths: **716**
+
+# UK 🇬🇧
+
+Highest CFR: **13.3%**
+
+**Disclaimer:** *I'm no longer commenting on these threads due to downvoting on particular days when the facts don't fit people's narratives. COVID-19 is not something you should be cheerleading, whichever side you sit on, but here we are! If you have a genuine question for me, PM from now on - but the data source and other things you may want to know are all detailed in the spreadsheet.*
+++++++++++
+ US confirmed cases highest ever - UPDATE Coronavirus % growth for JUNE 26 Below is a summary of trends from yesterday (as of late EST). Starting with the **Global** stats for a broad overview. Then stats for the **USA**.
+
+The data is available 
+
+[in more detail here](
+
+# Global
+
+Confirmed Cases growth is 📈:
+
+* Increasing to **1.97%**
+* Increasing by **189,172**
+* Total confirmed cases is **9,777,889**
+* Total active cases is **3,926,377**
+
+Deaths growth is 📉:
+
+* Decreasing to **0.99%**
+* Increasing by **4,830**
+* Total deaths is **493,672**
+
+Death Rate growth is mixed:
+
+* **8.4%** recovery rate (📉)
+* **4.8%** WHO CFR (📉)
+* **6.1%** incubation rate (flat)
+
+# USA 🇺🇸
+
+Confirmed Cases growth is 📈:
+
+* Increasing to **1.87%**
+* Increasing by **45,255**
+* Total confirmed cases is **2,467,554**
+* Total active cases is **1,671,706**
+
+Deaths growth is 📉:
+
+* Decreasing to **0.51%**
+* Increasing by **629**
+* Total deaths is **125,039**
+
+Death Rate growth is mixed:
+
+* **15.7%** recovery rate (📉)
+* **4.8%** WHO CFR (📉)
+* **5.8%** incubation rate (flat)
+
+# Brazil 🇧🇷
+
+Highest global increase in confirmed cases: **46,860**
+
+Highest global increase in deaths: **990**
+++++++++++
+ US confirmed cases increase by the largest amount since May, deaths trend down - UPDATE Coronavirus % growth for JUNE 18 Below is a summary of trends from yesterday (as of late EST). Starting with the **Global** stats for a broad overview. Then stats for the **USA**.
+
+The data is available [in more detail here](
+
+# Global
+
+Confirmed Cases growth is 📉:
+
+* Decreasing to **1.93%**
+* Increasing by **160,438**
+* Total confirmed cases is **8,488,976**
+* Total active cases is **3,525,733**
+
+Deaths growth is 📉:
+
+* Decreasing to **1.23%**
+* Increasing by **5,526**
+* Total deaths is **453,981**
+
+Death Rate growth is mixed:
+
+* **9.1%** recovery rate (📉)
+* **5.1%** WHO CFR (flat)
+* **6.4%** incubation rate (📉)
+
+# USA
+
+Confirmed Cases growth is 📈:
+
+* Increasing to **1.28%**
+* Increasing by **27,763**
+* Total confirmed cases is **2,191,053**
+* Total active cases is **1,473,498**
+
+Deaths growth is 📉:
+
+* Decreasing to **0.61%**
+* Increasing by **723**
+* Total deaths is **118,440**
+
+Death Rate growth is 📉:
+
+* **16.5%** recovery rate (📉)
+* **5.1%** WHO CFR (📉)
+* **5.9%** incubation rate (📉)
+++++++++++
+ UPDATE Coronavirus % growth for JUNE 9 Below is a summary of trends from yesterday (as of late EST). Starting with the **Global** stats for a broad overview. Then stats for the **USA**.
+
+The data is available [in more detail here](
+
+# Global
+
+Confirmed Cases growth is 📈:
+
+* Increasing to **1.76%**
+* Increasing by **125,537**
+* Total confirmed cases is **7,238,723**
+
+Deaths growth is 📈:
+
+* Increasing to **1.2%**
+* Increasing by **4,764**
+* Total deaths is **411,177**
+
+Death Rate growth is mixed:
+
+* **10.2%** recovery rate (📉)
+* **5.4%** WHO CFR (flat)
+* **6.9%** incubation rate (flat)
+
+# USA
+
+Confirmed Cases growth is 📉:
+
+* Decreasing to **0.94%**
+* Increasing by **18,514**
+* Total confirmed cases is **1,979,411**
+
+Deaths growth is 📈:
+
+* Increasing to **0.9%**
+* Increasing by **999**
+* Total deaths is **111,989**
+
+Death Rate growth is mixed:
+
+* **17.6%** recovery rate (flat)
+* **5.4%** WHO CFR (flat)
+* **6.2%** incubation rate (📉)
+++++++++++
+ DAILY UPDATE Coronavirus % growth for APRIL 18 - US confirmed cases and deaths are both starting to trend down Below is a summary of trends from yesterday (as of late EST), for the **USA**, and how it compares to **Global**.
+
+The data is available [in more detail here]( I'm also elaborating on the data in a [nightly vlog]( with some highlighted threads from Reddit.
+
+# Global
+
+Confirmed Cases growth is **📈**:
+
+* Increasing to **3.56%**
+* Increasing by **80,324**
+* Total confirmed cases is **2,333,978**
+
+Deaths growth is 📉:
+
+* Decreasing to **4.5%**
+* Increasing by **6,905**
+* Total deaths is **160,767**
+
+Death Rate growth is mixed:
+
+* **21.7%** recovery rate (**📈**)
+* **6.4%** WHO CFR (flat)
+* **11.8%** incubation rate (📉)
+
+# USA
+
+Confirmed Cases growth is 📉:
+
+* Decreasing to **4.64%**
+* Increasing by **32,491**
+* Total confirmed cases is **732,197**
+
+Deaths growth is 📉:
+
+* Decreasing to **5.1%**
+* Increasing by **1,891**
+* Total deaths is **38,664**
+
+Death Rate growth is mixed:
+
+* **37.4%** recovery rate (📉)
+* **5.0%** WHO CFR (flat)
+* **11.1%** incubation rate (📉)
+
+**Disclaimer:** *Please take from this what you choose. I'm also individual country data, although that may still be too small to gather enough meaning from the % growth apart from Iran, Italy, Spain, France, the UK, and the US.*
+
+*I am just breaking down official numbers, and although the official numbers may or may not reflect exactly how many cases remain unreported, I try to remain unopinionated in these reportings and leave the opinions and analysis to the comments.*
+++++++++++
+ Global cases reach over 9 million - UPDATE Coronavirus % growth for JUNE 22 Below is a summary of trends from yesterday (as of late EST). Starting with the **Global** stats for a broad overview. Then stats for the **USA**.
+
+The data is available [in more detail here](
+
+# Global
+
+Confirmed Cases growth is 📉:
+
+* Decreasing to **1.63%**
+* Increasing by **145,972**
+* Total confirmed cases is **9,074,624**
+* Total active cases is **3,701,640**
+
+Deaths growth is 📈:
+
+* Increasing to **0.85%**
+* Increasing by **3,993**
+* Total deaths is **471,754**
+
+Death Rate growth is mixed:
+
+* **8.8%** recovery rate (flat)
+* **4.9%** WHO CFR (📉)
+* **6.2%** incubation rate (📉)
+
+# USA 🇺🇸 
+
+Confirmed Cases growth is 📈:
+
+* Increasing to **1.42%**
+* Increasing by **32,421**
+* Total confirmed cases is **2,312,300**
+* Total active cases is **1,551,700**
+
+Deaths growth is 📈:
+
+* Increasing to **0.36%**
+* Increasing by **433**
+* Total deaths is **120,402**
+
+Death Rate growth is mixed:
+
+* **15.8%** recovery rate (📉)
+* **4.9%** WHO CFR (📉)
+* **5.8%** incubation rate (flat)
+
+# Mexico 🇲🇽 
+
+Highest increase in deaths: **729**
+++++++++++
+ DAILY UPDATE Coronavirus % growth for MAY 28 Below is a summary of trends from yesterday (as of late EST). Starting with the **Global** stats for a broad overview.
+
+Then stats for the **USA**. Also, now that we're starting to have enough data to see more distinct patterns emerging, I've decided to include the death rates for the country attempting the largest herd immunity (currently **Sweden**).
+
+The data is available [in more detail here](
+
+# Global
+
+Confirmed Cases growth is 📈:
+
+* Decreasing to **2.10%**
+* Increasing by **119,380**
+* Total confirmed cases is **5,810,331**
+
+Deaths growth is 📉:
+
+* Decreasing to **1.3%**
+* Increasing by **4,717**
+* Total deaths is **360,332**
+
+Death Rate growth is mixed:
+
+* **12.5%** recovery rate (flat)
+* **5.8%** WHO CFR (📉)
+* **7.4%** incubation rate (flat)
+
+# USA
+
+Confirmed Cases growth is 📈:
+
+* Decreasing to **1.33%**
+* Increasing by **22,577**
+* Total confirmed cases is **1,721,753**
+
+Deaths growth is 📉:
+
+* Decreasing to **1.2%**
+* Increasing by **1,198**
+* Total deaths is **101,616**
+
+Death Rate growth is mixed:
+
+* **20.3%** recovery rate (📉)
+* **5.6%** WHO CFR (flat)
+* **6.7%** incubation rate (flat)
+
+# Sweden
+
+Death Rate growth is mixed:
+
+* **46.2%** recovery rate (📈)
+* **10.7%** WHO CFR (flat)
+* **13.0%** incubation rate (📉)
+
+**Disclaimer:** *Please take from this what you choose. Although the official numbers may or may not reflect exactly how many cases remain unreported, I try to remain unopinionated in these reportings and leave the opinions and analysis to the comments.*
+++++++++++
+ USA overtakes Brazil in the highest increase in deaths - UPDATE Coronavirus % growth for JULY 24 Below is a summary of trends from yesterday (as of late EST). Starting with the **Global** stats for a broad overview. Then stats for the **USA**.
+
+The data is available [in more detail here](
+
+# Global
+
+Confirmed Cases growth is 📉:
+
+* Decreasing to **1.45%**
+* Increasing by **225,342**
+* Total confirmed cases is **15,736,499**
+* Total active cases is **6,053,644**
+
+Deaths growth is 📉:
+
+* Decreasing to **0.99%**
+* Increasing by **6,256**
+* Total deaths is **639,652**
+
+Death Rate growth is mixed:
+
+* **6.6%** recovery rate (📉)
+* **3.9%** WHO CFR (flat)
+* **4.9%** incubation rate (flat)
+
+# USA 🇺🇸
+
+Confirmed Cases growth is 📈:
+
+* Increasing to **1.83%**
+* Increasing by **73,783**
+* Total confirmed cases is **4,112,531**
+* Total active cases is **2,705,361**
+
+Deaths growth is 📈:
+
+* Increasing to **0.86%**
+* Increasing by **1,242**
+* Total deaths is **145,546**
+
+Death Rate growth is mixed:
+
+* **10.3%** recovery rate (📉)
+* **3.4%** WHO CFR (flat)
+* **4.4%** incubation rate (flat)
+
+# USA 🇺🇸 
+
+Highest global increase in deaths: **1,242**
+
+# UK 🇬🇧
+
+Highest CFR: **13.3%**
+
+**Disclaimer:** *I'm no longer commenting on these threads due to downvoting on particular days when the facts don't fit people's narratives. COVID-19 is not something you should be cheerleading, whichever side you sit on, but here we are! If you have a genuine question for me, PM from now on - but the data source and other things you may want to know are all detailed in the spreadsheet.*
+++++++++++
+ Confirmed Cases are increasing again globally, while decreasing in the US - UPDATE Coronavirus % growth for JUNE 16 Below is a summary of trends from yesterday (as of late EST). Starting with the **Global** stats for a broad overview. Then stats for the **USA**.
+
+The data is available [in more detail here](
+
+# Global
+
+Confirmed Cases growth is 📈:
+
+* Increasing to **1.75%**
+* Increasing by **140,213**
+* Total confirmed cases is **8,155,266**
+* Total active cases is **3,407,013**
+
+Deaths growth is 📈:
+
+* Increasing to **1.19%**
+* Increasing by **5,183**
+* Total deaths is **441,505**
+
+Death Rate growth is mixed:
+
+* **9.3%** recovery rate (📉)
+* **5.1%** WHO CFR (📉)
+* **6.5%** incubation rate (flat)
+
+
+
+# USA
+
+Confirmed Cases growth is 📈:
+
+* Increasing to **1.12%**
+* Increasing by **23,705**
+* Total confirmed cases is **2,137,731**
+* Total active cases is **1,437,265**
+
+Deaths growth is 📈:
+
+* Increasing to **0.72%**
+* Increasing by **836**
+* Total deaths is **116,963**
+
+Death Rate growth is mixed:
+
+* **16.7%** recovery rate (📉)
+* **5.2%** WHO CFR (flat)
+* **6.0%** incubation rate (flat)
+
+
+++++++++++
+ Coronavirus death rates? We may never know how many people have contracted this Coronavirus and how many deaths are Coronavirus-related, especially those who have passed without having been tested. However, I share a genuine concern and curiousity regarding the death rates.
+
+The reported death rates of 2%-8% for confirmed cases is a measurement of case fatality: confirmed deaths divided by confirmed cases. However, is this an accurate representation of how fatal the Coronavirus is, given that this metric includes individuals who had tested positive as early as yesterday and have not progressed far yet? For closed cases (recovered, discharged, death), that death rate is much higher at 21% (
+
+Considerations for false-positive, false-negative, and differences in reporting aside, is the true death rate somewhere between these two metrics?
+++++++++++
+ Please tell me if you agree with my math. Help me understand where I am wrong. This information is taken from: [ 
+
+This is only for the USA
+
+Deaths
+
+7391
+
+&amp;#x200B;
+
+Recovered
+
+12283
+
+&amp;#x200B;
+
+Deaths+Recovered=19,674
+
+&amp;#x200B;
+
+Outcome determined for: 19,674
+
+&amp;#x200B;
+
+Deaths/19674
+
+7391/19674=.37567
+
+&amp;#x200B;
+
+Recovered/19674
+
+12283/19674=.62432
+
+&amp;#x200B;
+
+Total-outcome un-determined for:
+
+total-determined=undetermined
+
+276965-19674=257291
+
+257,291 Undetermined
+
+This many people still have to either die or recover, their outcome is  undetermined. 
+
+&amp;#x200B;
+
+Possible deaths for undetermined
+
+257291\*.37567=96,656.509
+
+&amp;#x200B;
+
+Possible recoveries for undetermined
+
+257291\*.62432=160,631.9
+
+&amp;#x200B;
+
+Does this mean the real death rate in the USA is 37.5%   ????
+
+\-------------------------------------------
+
+Worldwide Numbers
+
+Total Worldwide Cases = 1,097,810
+
+Deaths = 59,140
+
+Recovered: = 228,405
+
+&amp;#x200B;
+
+Deaths+recovered total=287,545
+
+287545 Determined outcomes
+
+&amp;#x200B;
+
+deaths/determined = .20567
+
+Recovered/determined = .79432
+
+&amp;#x200B;
+
+Does this mean the overall death rate worldwide is really 20.5%   ?????
+++++++++++
+ Highest increase in confirmed cases ever, and an anomaly in Peru leads to highest increase in deaths - UPDATE Coronavirus % growth for JULY 23 Below is a summary of trends from yesterday (as of late EST). Starting with the **Global** stats for a broad overview. Then stats for the **USA**.
+
+The data is available [in more detail here](
+
+# Global
+
+Confirmed Cases growth is 📈:
+
+* Increasing to **2.20%**
+* Increasing by **333,719**
+* Total confirmed cases is **15,511,157**
+* Total active cases is **6,063,875**
+
+Deaths growth is 📈:
+
+* Increasing to **1.80%**
+* Increasing by **11,189**
+* Total deaths is **633,396**
+
+Death Rate growth is flat:
+
+* **6.7%** recovery rate (flat)
+* **3.9%** WHO CFR (flat)
+* **4.9%** incubation rate (flat)
+
+# USA 🇺🇸
+
+Confirmed Cases growth is 📉:
+
+* Decreasing to **1.71%**
+* Increasing by **67,842**
+* Total confirmed cases is **4,038,748**
+* Total active cases is **2,661,175**
+
+Deaths growth is 📉:
+
+* Decreasing to **0.78%**
+* Increasing by **1,114**
+* Total deaths is **144,304**
+
+Death Rate growth is 📉:
+
+* **10.5%** recovery rate (📉)
+* **3.4%** WHO CFR (📉)
+* **4.5%** incubation rate (📉)
+
+# Peru 🇵🇪
+
+Highest global increase in deaths: **3,887**
+
+# UK 🇬🇧
+
+Highest CFR: **13.3%**
+
+**Disclaimer:** *I'm no longer commenting on these threads due to downvoting on particular days when the facts don't fit people's narratives. COVID-19 is not something you should be cheerleading, whichever side you sit on, but here we are! If you have a genuine question for me, PM from now on - but the data source and other things you may want to know are all detailed in the spreadsheet*
+++++++++++
+ DAILY UPDATE Coronavirus % growth for APRIL 16 - USA confirmed cases and deaths are down, while while global is up Below is a summary of trends from yesterday (as of late EST), for the **USA**, and how it compares to **Global**.
+
+The data is available [in more detail here]( I'm also elaborating on the data in a [nightly vlog]( with some highlighted threads from Reddit.
+
+# Global
+
+Confirmed Cases growth is **📈**:
+
+* Increasing to **4.98%**
+* Increasing by **103,858** (new record)
+* Total confirmed cases is **2,188,798**
+
+Deaths growth is **📈**:
+
+* Increasing to **6.2%**
+* Increasing by **8,531**
+* Total deaths is **146,943**
+
+Death Rate growth is mixed:
+
+* **21.5%** recovery rate (**📈**)
+* **6.3%** WHO CFR (**📈**)
+* **12.6%** incubation rate (📉)
+
+# USA
+
+Confirmed Cases growth is 📉:
+
+* Decreasing to **4.94%**
+* Increasing by **31,451**
+* Total confirmed cases is **667,801**
+
+Deaths growth is 📉:
+
+* Decreasing to **6.4%**
+* Increasing by **2,075**
+* Total deaths is **34,430**
+
+Death Rate growth is mixed:
+
+* **38.6%** recovery rate (**📈**)
+* **4.9%** WHO CFR (**📈**)
+* **12.4%** incubation rate (📉)
+
+**Disclaimer:** *Please take from this what you choose. I'm also individual country data, although that may still be too small to gather enough meaning from the % growth apart from Iran, Italy, Spain, France, the UK, and the US.*
+
+*I am just breaking down official numbers, and although the official numbers may or may not reflect exactly how many cases remain unreported, I try to remain unopinionated in these reportings and leave the opinions and analysis to the comments.*
+++++++++++
+ DAILY UPDATE Coronavirus % growth for MAY 24 Below is a summary of trends from today (as of late EST). Starting with the **Global** stats for a broad overview.
+
+Then stats for the country with the largest confirmed cases and deaths (the **USA**). Also, now that we're starting to have enough data to see more distinct patterns emerging, I've decided to include the death rates for the country attempting the largest herd immunity (**Sweden**).
+
+The data is available [in more detail here](
+
+**Global**
+
+Confirmed Cases growth is 📉:
+
+* Decreasing to **1.77%**
+* Increasing by **95,886**
+* Total confirmed cases is **5,500,268**
+
+Deaths growth is 📉:
+
+* Decreasing to **0.8%**
+* Increasing by **2,744**
+* Total deaths is **346,719**
+
+Death Rate growth is mixed:
+
+* **13.1%** recovery rate (📉)
+* **5.9%** WHO CFR (📉)
+* **7.7%** incubation rate (flat)
+
+**USA**
+
+Confirmed Cases growth is 📉:
+
+* Decreasing to **1.27%**
+* Increasing by **20,634**
+* Total confirmed cases is **1,643,246**
+
+Deaths growth is 📉:
+
+* Decreasing to **0.7%**
+* Increasing by **633**
+* Total deaths is **97,720**
+
+Death Rate growth is mixed:
+
+* **21.0%** recovery rate (📉)
+* **5.7%** WHO CFR (flat)
+* **6.8%** incubation rate (📉)
+
+**Sweden**
+
+Death Rate growth is mixed:
+
+* **44.6%** recovery rate (📈)
+* **10.7%** WHO CFR (flat)
+* **13.2%** incubation rate (📉)
+
+**Disclaimer:** *Please take from this what you choose. Although the official numbers may or may not reflect exactly how many cases remain unreported, I try to remain unopinionated in these reportings and leave the opinions and analysis to the comments.*
+++++++++++
+ Largest daily global increase in deaths and cases all July - UPDATE Coronavirus % growth for JULY 17 Below is a summary of trends from yesterday (as of late EST). Starting with the **Global** stats for a broad overview. Then stats for the **USA**.
+
+The data is available [in more detail here](
+
+# Global
+
+Confirmed Cases growth is 📈:
+
+* Increasing to **2.10%**
+* Increasing by **289,586**
+* Total confirmed cases is **14,055,299**
+* Total active cases is **5,042,161**
+
+Deaths growth is 📈:
+
+* Increasing to **1.24%**
+* Increasing by **7,307**
+* Total deaths is **596,518**
+
+Death Rate growth is mixed:
+
+* **6.6%** recovery rate (flat)
+* **4.1%** WHO CFR (flat)
+* **5.1%** incubation rate (📉)
+
+# USA 🇺🇸
+
+Confirmed Cases growth is 📉:
+
+* Decreasing to **2.00%**
+* Increasing by **71,558**
+* Total confirmed cases is **3,647,715**
+* Total active cases is **2,401,245**
+
+Deaths growth is 📉:
+
+* Decreasing to **0.66%**
+* Increasing by **908**
+* Total deaths is **139,266**
+
+Death Rate growth is mixed:
+
+* **11.5%** recovery rate (📉)
+* **3.8%** WHO CFR (flat)
+* **4.9%** incubation rate (📉)
+
+# Brazil 🇧🇷
+
+Highest global increase in deaths: **1,163**
+
+# Belgium 🇧🇪
+
+Highest CFR: **13.4%**
+
+**Disclaimer:** *I'm no longer commenting on these threads due to downvoting on particular days when the facts don't fit people's narratives. COVID-19 is not something you should be cheerleading, whichever side you sit on, but here we are! If you have a genuine question for me, PM from now on - but the data source and other things you may want to know are all detailed in the spreadsheet*
+++++++++++
+ DAILY UPDATE Coronavirus % growth for APRIL 17 - USA deaths are up slightly but still within their 10 day range Below is a summary of trends from yesterday (as of late EST), for the **USA**, and how it compares to **Global**.
+
+The data is available [in more detail here]( I'm also elaborating on the data in a [nightly vlog]( with some highlighted threads from Reddit.
+
+# Global
+
+Confirmed Cases growth is 📉:
+
+* Increasing to **2.96%**
+* Increasing by **64,856** (new record)
+* Total confirmed cases is **2,253,654**
+
+Deaths growth is 📉:
+
+* Increasing to **4.7%**
+* Increasing by **6,919**
+* Total deaths is **153,862**
+
+Death Rate growth is mixed:
+
+* **21.5%** recovery rate (flat)
+* **6.4%** WHO CFR (**📈**)
+* **12.2%** incubation rate (📉)
+
+# USA
+
+Confirmed Cases growth is 📉:
+
+* Decreasing to **4.78%**
+* Increasing by **31,905**
+* Total confirmed cases is **699,706**
+
+Deaths growth is **📈**:
+
+* Increasing to **6.8%**
+* Increasing by **2,343**
+* Total deaths is **36,773**
+
+Death Rate growth is mixed:
+
+* **38.6%** recovery rate (flat)
+* **5.0%** WHO CFR (**📈**)
+* **11.8%** incubation rate (📉)
+
+**Disclaimer:** *Please take from this what you choose. I'm also individual country data, although that may still be too small to gather enough meaning from the % growth apart from Iran, Italy, Spain, France, the UK, and the US.*
+
+*I am just breaking down official numbers, and although the official numbers may or may not reflect exactly how many cases remain unreported, I try to remain unopinionated in these reportings and leave the opinions and analysis to the comments.*
+++++++++++
+ Confirmed cases globally increase at an all time high, while US stays lower - UPDATE Coronavirus % growth for JUNE 17 Below is a summary of trends from yesterday (as of late EST). Starting with the **Global** stats for a broad overview. Then stats for the **USA**.
+
+The data is available [in more detail here](
+
+# Global
+
+Confirmed Cases growth is 📈:
+
+* Increasing to **2.12%**
+* Increasing by **173,272**
+* Total confirmed cases is **8,328,538**
+* Total active cases is **3,515,589**
+
+Deaths growth is 📈:
+
+* Increasing to **1.57%**
+* Increasing by **6,950**
+* Total deaths is **448,455**
+
+Death Rate growth is flat:
+
+* **9.3%** recovery rate (flat)
+* **5.1%** WHO CFR (flat)
+* **6.5%** incubation rate (flat)
+
+# USA
+
+Confirmed Cases growth is 📈:
+
+* Increasing to **1.20%**
+* Increasing by **25,559**
+* Total confirmed cases is **2,163,290**
+* Total active cases is **1,453,382**
+
+Deaths growth is 📉:
+
+* Decreasing to **0.64%**
+* Increasing by **754**
+* Total deaths is **117,717**
+
+Death Rate growth is mixed:
+
+* **16.6%** recovery rate (📉)
+* **5.2%** WHO CFR (flat)
+* **6.0%** incubation rate (flat)
+++++++++++
+ Mexico overtakes USA with the highest increase in deaths - UPDATE Coronavirus % growth for JULY 26 Below is a summary of trends from yesterday (as of late EST). Starting with the **Global** stats for a broad overview. Then stats for the **USA**.
+
+The data is available [in more detail here](
+
+# Global
+
+Confirmed Cases growth is 📉:
+
+* Decreasing to **1.27%**
+* Increasing by **202,909**
+* Total confirmed cases is **16,201,176**
+* Total active cases is **6,193,427**
+
+Deaths growth is 📉:
+
+* Decreasing to **0.64%**
+* Increasing by **4,102**
+* Total deaths is **647,928**
+
+Death Rate growth is mixed:
+
+* **6.5%** recovery rate (flat)
+* **3.8%** WHO CFR (📉)
+* **4.8%** incubation rate (flat)
+
+# USA 🇺🇸
+
+Confirmed Cases growth is 📉:
+
+* Decreasing to **1.34%**
+* Increasing by **55,902**
+* Total confirmed cases is **4,233,923**
+* Total active cases is **2,789,125**
+
+Deaths growth is 📉:
+
+* Decreasing to **0.32%**
+* Increasing by **475**
+* Total deaths is **146,935**
+
+Death Rate growth is mixed:
+
+* **10.2%** recovery rate (📉)
+* **3.4%** WHO CFR (flat)
+* **4.3%** incubation rate (flat)
+
+# Mexico 🇲🇽 
+
+Highest global increase in deaths: **1,035**
+
+# UK 🇬🇧
+
+Highest CFR: **13.2%**
+
+**Disclaimer:** *I'm no longer commenting on these threads due to downvoting on particular days when the facts don't fit people's narratives. COVID-19 is not something you should be cheerleading, whichever side you sit on, but here we are! If you have a genuine question for me, PM from now on - but the data source and other things you may want to know are all detailed in the spreadsheet.*
+++++++++++
+ UPDATE Coronavirus % growth for JULY 20 Below is a summary of trends from yesterday (as of late EST). Starting with the **Global** stats for a broad overview. Then stats for the **USA**.
+
+The data is available [in more detail here](
+
+# Global
+
+Confirmed Cases growth is flat:
+
+* Remaining at **1.42%**
+* Increasing by **205,182**
+* Total confirmed cases is **14,655,405**
+* Total active cases is **5,822,422**
+
+Deaths growth is 📉:
+
+* Decreasing to **0.67%**
+* Increasing by **4,036**
+* Total deaths is **609,198**
+
+Death Rate growth is flat:
+
+* **6.9%** recovery rate (flat)
+* **4.0%** WHO CFR (flat)
+* **5.0%** incubation rate (flat)
+
+# USA 🇺🇸
+
+Confirmed Cases growth is 📉:
+
+* Decreasing to **1.50%**
+* Increasing by **56,750**
+* Total confirmed cases is **3,830,010**
+* Total active cases is **2,529,017**
+
+Deaths growth is 📉:
+
+* Decreasing to **0.26%**
+* Increasing by **372**
+* Total deaths is **140,906**
+
+Death Rate growth is mixed:
+
+* **10.8%** recovery rate (📉)
+* **3.5%** WHO CFR (📉)
+* **4.6%** incubation rate (flat)
+
+# Brazil 🇧🇷
+
+Highest global increase in deaths: **632**
+
+# UK 🇬🇧
+
+Highest CFR: **13.3%**
+
+**Disclaimer:** *I'm no longer commenting on these threads due to downvoting on particular days when the facts don't fit people's narratives. COVID-19 is not something you should be cheerleading, whichever side you sit on, but here we are! If you have a genuine question for me, PM from now on - but the data source and other things you may want to know are all detailed in the spreadsheet.*
+++++++++++
+ DAILY UPDATE Coronavirus % growth for APRIL 24 Below is a summary of trends from yesterday (as of late EST), for the **USA**, and how it compares to **Global**.
+
+The data is available [in more detail here](
+
+# Global
+
+Confirmed Cases growth is 📈:
+
+* Increasing to **4.10%**
+* Increasing by **111,383** (a record 🆘)
+* Total confirmed cases is **2,637,790**
+
+Deaths growth is flat:
+
+* Staying at **3.5%**
+* Increasing by **6,592**
+* Total deaths is **197,246**
+
+Death Rate growth is 📉:
+
+* **19.8%** recovery rate (📉)
+* **6.5%** WHO CFR (📉)
+* **10.4%** incubation rate (📉)
+
+# USA
+
+Confirmed Cases growth is 📈:
+
+* Increasing to **4.16%**
+* Increasing by **33,163**
+* Total confirmed cases is **905,333**
+
+Deaths growth is 📉:
+
+* Decreasing to **4.0%**
+* Increasing by **1,995**
+* Total deaths is **51,949**
+
+Death Rate growth is mixed:
+
+* **34.4%** recovery rate (📉)
+* **5.4%** WHO CFR (flat)
+* **9.5%** incubation rate (📉)
+
+
+
+**Disclaimer:** *Please take from this what you choose. I'm also capturing individual country data, although that may still be too small to gather enough meaning from the % growth apart from Germany, Iran, Italy, Spain, France, the UK, and the US.*
+
+*I am just breaking down official numbers, and although the official numbers may or may not reflect exactly how many cases remain unreported, I try to remain unopinionated in these reportings and leave the opinions and analysis to the comments.*
+++++++++++
+ Reporting price gouging to end product “shortages”!! Are eBay and Amazon doing any kind of mass identifying on their end for people who are price gouging important supplies such as toilet paper and artificially creating shortages?
+
+Until more is done, I do see that there is a Report ability for people to report individual posts. I’d encourage anyone bored at home to report report report to help end the shortage!!!
+
+Example for toilet paper on eBay:
+1. Click “Report This Item” (upper left corner on mobile)
+2. Report Category: Prohibited and Restricted Items
+3. Reason for Report: Price gouging
+4. Detailed Reason: Sanitation Items
+
+Any other ways for consumers to report price gouging?
+++++++++++
+ DAILY UPDATE Coronavirus % growth for MAY 22 Below is a summary of trends from today (as of late EST). Starting with the **Global**stats for a broad overview.
+
+Then stats for the country with the largest confirmed cases and deaths (the **USA**). Also, now that we're starting to have enough data to see more distinct patterns emerging, I've decided to include the death rates for the country attempting the largest herd immunity (**Sweden**).
+
+The data is available [in more detail here](
+
+# Global
+
+Confirmed Cases growth is 📉:
+
+* Increasing to **2.11%**
+* Increasing by **109,778**
+* Total confirmed cases is **5,303,988**
+
+Deaths growth is 📈:
+
+* Remaining at **1.6%**
+* Increasing by **5,382**
+* Total deaths is **340,003**
+
+Death Rate growth is 📉:
+
+* **13.7%** recovery rate (📉)
+* **6.0%** WHO CFR (📉)
+* **7.8%** incubation rate (📉)
+
+# USA
+
+Confirmed Cases growth is 📉:
+
+* Decreasing to **1.51%**
+* Increasing by **23,790**
+* Total confirmed cases is **1,600,937**
+
+Deaths growth is 📉:
+
+* Decreasing to **1.3%**
+* Increasing by **1,277**
+* Total deaths is **94,702**
+
+Death Rate growth is mixed:
+
+* **21.5%** recovery rate (📉)
+* **5.7%** WHO CFR (flat)
+* **7.0%** incubation rate (flat)
+
+# Sweden
+
+Death Rate growth is mixed:
+
+* **44.1%** recovery rate (📈)
+* **10.7%** WHO CFR (flat)
+* **13.4%** incubation rate (📉)
+
+**Disclaimer:** *Please take from this what you choose. Although the official numbers may or may not reflect exactly how many cases remain unreported, I try to remain unopinionated in these reportings and leave the opinions and analysis to the comments.*
+++++++++++
+ UPDATE Coronavirus % growth for JUNE 10 Below is a summary of trends from yesterday (as of late EST). Starting with the **Global** stats for a broad overview. Then stats for the **USA**.
+
+The data is available [in more detail here](
+
+# Global
+
+Confirmed Cases growth is 📉:
+
+* Decreasing to **1.63%**
+* Increasing by **118,288**
+* Total confirmed cases is **7,357,011**
+
+Deaths growth is flat:
+
+* Remaining at **1.2%**
+* Increasing by **4,939**
+* Total deaths is **416,116**
+
+Death Rate growth is mixed:
+
+* **10.1%** recovery rate (📉)
+* **5.4%** WHO CFR (flat)
+* **6.9%** incubation rate (flat)
+
+# USA
+
+Confirmed Cases growth is 📈:
+
+* Increasing to **1.06%**
+* Increasing by **21,053**
+* Total confirmed cases is **2,000,464**
+
+Deaths growth is 📉:
+
+* Decreasing to **0.8%**
+* Increasing by **935**
+* Total deaths is **112,924**
+
+Death Rate growth is mixed:
+
+* **17.5%** recovery rate (📉)
+* **5.3%** WHO CFR (📉)
+* **6.2%** incubation rate (flat)
+++++++++++
+ DAILY UPDATE Coronavirus % growth for MAY 30 Below is a summary of trends from yesterday (as of late EST). Starting with the **Global** stats for a broad overview.
+
+Then stats for the **USA**. Also, now that we're starting to have enough data to see more distinct patterns emerging, I've decided to include the death rates for the country attempting the largest herd immunity (currently **Sweden**).
+
+The data is available [in more detail here](
+
+# Global
+
+Confirmed Cases growth is 📈:
+
+* Increasing to **2.22%**
+* Increasing by **131,762**
+* Total confirmed cases is **6,059,017**
+
+Deaths growth is 📉:
+
+* Decreasing to **1.1%**
+* Increasing by **4,193**
+* Total deaths is **369,126**
+
+Death Rate growth is mixed:
+
+* **11.9%** recovery rate (📉)
+* **5.7%** WHO CFR (📉)
+* **7.3%** incubation rate (flat)
+
+# USA
+
+Confirmed Cases growth is 📉:
+
+* Decreasing to **1.38%**
+* Increasing by **24,146**
+* Total confirmed cases is **1,770,165**
+
+Deaths growth is 📉:
+
+* Decreasing to **0.9%**
+* Increasing by **967**
+* Total deaths is **103,776**
+
+Death Rate growth is 📉:
+
+* **19.9%** recovery rate (📉)
+* **5.5%** WHO CFR (📉)
+* **6.6%** incubation rate (📉)
+
+# Sweden
+
+Death Rate growth is mixed:
+
+* **46.9%** recovery rate (📈)
+* **10.6%** WHO CFR (📉)
+* **12.9%** incubation rate (📉)
+
+**Disclaimer:** *Please take from this what you choose. Although the official numbers may or may not reflect exactly how many cases remain unreported, I try to remain unopinionated in these reportings and leave the opinions and analysis to the comments.*
+++++++++++
+ DAILY UPDATE Coronavirus % growth for APRIL 27 Below is a summary of trends from today (as of late EST), for the **USA**, and how it compares to **Global**.
+
+The data is available [in more detail here](
+
+# Global
+
+Confirmed Cases growth is 📉:
+
+* Decreasing to **2.34%**
+* Increasing by **70,069**
+* Total confirmed cases is **3,064,830**
+
+Deaths growth is 📈:
+
+* Increasing to **2.2%**
+* Increasing by **4,617**
+* Total deaths is **211,609**
+
+Death Rate growth is mixed:
+
+* **18.7%** recovery rate (📉)
+* **6.5%** WHO CFR (flat)
+* **9.9%** incubation rate (📉)
+
+# USA
+
+Confirmed Cases growth is 📉:
+
+* Decreasing to **2.32%**
+* Increasing by **22,414**
+* Total confirmed cases is **988,167**
+
+Deaths growth is 📉:
+
+* Decreasing to **2.5%**
+* Increasing by **1,378**
+* Total deaths is **56,259**
+
+Death Rate growth is mixed:
+
+* **33.6%** recovery rate (📉)
+* **5.4%** WHO CFR (flat)
+* **8.8%** incubation rate (📉)
+
+**Disclaimer:** *Please take from this what you choose. I'm also capturing individual country data, although that may still be too small to gather enough meaning from the % growth apart from Germany, Iran, Italy, Spain, France, the UK, and the US.*
+
+*I am just breaking down official numbers, and although the official numbers may or may not reflect exactly how many cases remain unreported, I try to remain unopinionated in these reportings and leave the opinions and analysis to the comments.*
+++++++++++
+ US deaths reach 140k - UPDATE Coronavirus % growth for JULY 18 Below is a summary of trends from yesterday (as of late EST). Starting with the **Global** stats for a broad overview. Then stats for the **USA**.
+
+The data is available [in more detail here](
+
+# Global
+
+Confirmed Cases growth is 📉:
+
+* Decreasing to **1.37%**
+* Increasing by **192,407**
+* Total confirmed cases is **14,247,706**
+* Total active cases is **5,229,537**
+
+Deaths growth is 📉:
+
+* Decreasing to **0.84%**
+* Increasing by **5,031**
+* Total deaths is **601,549**
+
+Death Rate growth is mixed:
+
+* **6.7%** recovery rate (flat)
+* **4.1%** WHO CFR (flat)
+* **5.1%** incubation rate (flat)
+
+# USA 🇺🇸
+
+Confirmed Cases growth is 📉:
+
+* Decreasing to **1.75%**
+* Increasing by **63,698**
+* Total confirmed cases is **3,711,413**
+* Total active cases is **2,448,574**
+
+Deaths growth is 📉:
+
+* Decreasing to **0.61%**
+* Increasing by **853**
+* Total deaths is **140,119**
+
+Death Rate growth is mixed:
+
+* **11.1%** recovery rate (📉)
+* **3.6%** WHO CFR (📉)
+* **4.7%** incubation rate (flat)
+
+# Brazil 🇧🇷
+
+Highest global increase in deaths: **921**
+
+# UK 🇬🇧 
+
+Highest CFR: **13.3%**
+
+**Disclaimer:** *I'm no longer commenting on these threads due to downvoting on particular days when the facts don't fit people's narratives. COVID-19 is not something you should be cheerleading, whichever side you sit on, but here we are! If you have a genuine question for me, PM from now on - but the data source and other things you may want to know are all detailed in the spreadsheet*
+++++++++++
+ UPDATE Coronavirus % growth for JUNE 11 Below is a summary of trends from yesterday (as of late EST). Starting with the **Global** stats for a broad overview. Then stats for the **USA**.
+
+The data is available [in more detail here](
+
+# Global
+
+Confirmed Cases growth is 📈:
+
+* Increasing to **1.97%**
+* Increasing by **145,267**
+* Total confirmed cases is **7,502,278**
+* Total active cases is **3,239,747**
+
+Deaths growth is flat:
+
+* Remaining at **1.2%**
+* Increasing by **4,916**
+* Total deaths is **421,032**
+
+Death Rate growth is mixed:
+
+* **9.9%** recovery rate (📉)
+* **5.3%** WHO CFR (📉)
+* **6.9%** incubation rate (flat)
+
+# USA
+
+Confirmed Cases growth is 📈:
+
+* Increasing to **1.14%**
+* Increasing by **22,883**
+* Total confirmed cases is **2,023,347**
+* Total active cases is **1,369,235**
+
+Deaths growth is flat:
+
+* Remaining at **0.8%**
+* Increasing by **896**
+* Total deaths is **113,820**
+
+Death Rate growth is mixed:
+
+* **17.4%** recovery rate (📉)
+* **5.3%** WHO CFR (flat)
+* **6.2%** incubation rate (flat)
+++++++++++
+ DAILY UPDATE Coronavirus % growth for APRIL 29 Below is a summary of trends from today (as of late EST), for the **USA**, and how it compares to **Global**.
+
+The data is available [in more detail here](
+
+# Global
+
+Confirmed Cases growth is 📈:
+
+* Increasing to **2.61%**
+* Increasing by **81,829**
+* Total confirmed cases is **3,220,225**
+
+Deaths growth is 📈:
+
+* Increasing to **4.7%**
+* Increasing by **10,238**
+* Total deaths is **228,223**
+
+Death Rate growth is mixed:
+
+* **18.6%** recovery rate (flat)
+* **6.6%** WHO CFR (📈)
+* **9.9%** incubation rate (📈)
+
+# USA
+
+Confirmed Cases growth is 📈:
+
+* Increasing to **2.7%**
+* Increasing by **27,327**
+* Total confirmed cases is **1,039,909**
+
+Deaths growth is 📈:
+
+* Increasing to **4.5%**
+* Increasing by **2,612**
+* Total deaths is **60,967**
+
+Death Rate growth is mixed:
+
+* **33.6%** recovery rate (📈)
+* **5.5%** WHO CFR (📈)
+* **8.7%** incubation rate (📉)
+
+
+
+**Disclaimer:** *Please take from this what you choose. I'm also capturing individual country data, although that may still be too small to gather enough meaning from the % growth apart from Germany, Iran, Italy, Spain, France, the UK, and the US.*
+
+*I am just breaking down official numbers, and although the official numbers may or may not reflect exactly how many cases remain unreported, I try to remain unopinionated in these reportings and leave the opinions and analysis to the comments.*
+++++++++++
+ DAILY UPDATE Coronavirus % growth for APRIL 25 Below is a summary of trends from yesterday (as of late EST), for the **USA**, and how it compares to **Global**.
+
+The data is available [in more detail here](
+
+# Global
+
+Confirmed Cases growth is 📉:
+
+* Decreasing to **3.22%**
+* Increasing by **91,119**
+* Total confirmed cases is **2,921,201**
+
+Deaths growth is 📉:
+
+* Decreasing to **3.1%**
+* Increasing by **6,043**
+* Total deaths is **203,289**
+
+Death Rate growth is mixed:
+
+* **19.5%** recovery rate (📉)
+* **6.5%** WHO CFR (flat)
+* **10.2%** incubation rate (📉)
+
+# USA
+
+Confirmed Cases growth is 📉:
+
+* Decreasing to **3.63%**
+* Increasing by **32,821**
+* Total confirmed cases is **938,154**
+
+Deaths growth is 📉:
+
+* Decreasing to **3.5%**
+* Increasing by **1,806**
+* Total deaths is **53,755**
+
+Death Rate growth is mixed:
+
+* **34.9%** recovery rate (📈)
+* **5.4%** WHO CFR (flat)
+* **9.3%** incubation rate (📉)
+
+**Disclaimer:** *Please take from this what you choose. I'm also capturing individual country data, although that may still be too small to gather enough meaning from the % growth apart from Germany, Iran, Italy, Spain, France, the UK, and the US.*
+
+*I am just breaking down official numbers, and although the official numbers may or may not reflect exactly how many cases remain unreported, I try to remain unopinionated in these reportings and leave the opinions and analysis to the comments.*
+++++++++++
+ UT - COVID19 Update - 4/3/2020 Hey everyone! Here are today's numbers. For more information, including sources, visit [
+
+&amp;#x200B;
+
+# Utah Update
+
+|Type|Count|Last Updated|
+|:-|:-|:-|
+|Total Cases Tested|24,248 est.|April 3, 2020|
+|Total Confirmed Cases|1,246|April 3, 2020|
+|COVID-19 Hospitalizations|106|April 3, 2020|
+|Total Deaths|7|April 3, 2020|
+
+## By Jurisdiction
+
+|Jurisdiction|Cases|Visitor Cases|
+|:-|:-|:-|
+|Bear River|24|5|
+|Central Utah|2|0|
+|Davis County|122|10|
+|Salt Lake County|541|50|
+|San Juan|5|2|
+|Southeast Utah|2|0|
+|Southwest Utah|33|7|
+|Summit County|222|12|
+|Tooele County|16|2|
+|TriCounty|2|0|
+|Utah County|150|11|
+|Wasatch County|69|4|
+|Weber-Morgan|58|3|
+|State Total|1246|106|
+|​|||
+
+# USA Update
+
+|Type|Count|Last Updated|
+|:-|:-|:-|
+|Total Confirmed Cases|239,279|April 3, 2020|
+|Total Deaths|5,443|April 3, 2020|
+|Jurisdictions Reporting|55 (50 states, District of Columbia, Puerto Rico, Guam, the Northern Mariana Islands, and the U.S. Virgin Islands)|April 3, 2020|
+
+## Source of Exposure
+
+|Source|Count|Last Updated|
+|:-|:-|:-|
+|Travel-related|1,388|April 3, 2020|
+|Close contact|4,325|April 3, 2020|
+|Under investigation|233,566|April 3, 2020|
+|Total cases|239,279|April 3, 2020|
+
+For more information [
+
+&amp;#x200B;
+
+
+++++++++++
+ Hawaii and New Jersey researchers develop promising COVID-19 vaccine in early trials. 'Their vaccine candidate successfully demonstrates the ability to rapidly stimulate a balanced antibody response, which includes potent SARS-CoV-2 neutralization and cell-mediated immunity' 
+++++++++++
+ DAILY UPDATE Coronavirus % growth for APRIL 22 Below is a summary of trends from today (as of late EST), for the **USA**, and how it compares to **Global**.
+
+The data is available [in more detail here](
+
+# Global
+
+Confirmed Cases growth is 📉:
+
+* Decreasing to **2.90%**
+* Increasing by **74,406**
+* Total confirmed cases is **2,637,790**
+
+Deaths growth is 📉:
+
+* Decreasing to **3.7%**
+* Increasing by **6,589**
+* Total deaths is **184,230**
+
+Death Rate growth is mixed:
+
+* **20.4%** recovery rate (📉)
+* **6.5%** WHO CFR (flat)
+* **10.8%** incubation rate (📉)
+
+# USA
+
+Confirmed Cases growth is 📉:
+
+* Decreasing to **1.93%**
+* Increasing by **15,889**
+* Total confirmed cases is **839,675**
+
+Deaths growth is 📉:
+
+* Decreasing to **3.9%**
+* Increasing by **1,738**
+* Total deaths is **46,583**
+
+Death Rate growth is mixed:
+
+* **37.6%** recovery rate (📈)
+* **5.3%** WHO CFR (📈)
+* **9.8%** incubation rate (📉)
+
+
+
+**Disclaimer:** *Please take from this what you choose. I'm also capturing individual country data, although that may still be too small to gather enough meaning from the % growth apart from Germany, Iran, Italy, Spain, France, the UK, and the US.*
+
+*I am just breaking down official numbers, and although the official numbers may or may not reflect exactly how many cases remain unreported, I try to remain unopinionated in these reportings and leave the opinions and analysis to the comments.*
+++++++++++
+ DAILY UPDATE Coronavirus % growth for APRIL 19 - confirmed cases and deaths continue to trend down Below is a summary of trends from yesterday (as of late EST), for the country leading in deaths (currently the **USA)**, and how it compares to **Global**.
+
+The data is available [in more detail here](
+
+Global
+
+Confirmed Cases growth is 📉:
+
+* Decreasing to **3.31%**
+* Increasing by **77,138**
+* Total confirmed cases is **2,411,116**
+
+Deaths growth is 📉:
+
+* Decreasing to **3.2%**
+* Increasing by **5,178**
+* Total deaths is **165,945**
+
+Death Rate growth is mixed:
+
+* **21.2%** recovery rate (📉)
+* **6.4%** WHO CFR (flat)
+* **11.5%** incubation rate (📉)
+
+USA
+
+Confirmed Cases growth is 📉:
+
+* Decreasing to **4.64%**
+* Increasing by **32,491**
+* Total confirmed cases is **732,197**
+
+Deaths growth is 📈:
+
+* Increasing to **5.2%**
+* Increasing by **1,997**
+* Total deaths is **40,661**
+
+Death Rate growth is mixed:
+
+* **36.6%** recovery rate (📉)
+* **5.1%** WHO CFR (📈)
+* **10.8%** incubation rate (📉)
+
+**Disclaimer:** *Please take from this what you choose. I'm also individual country data, although that may still be too small to gather enough meaning from the % growth apart from Iran, Italy, Spain, France, the UK, and the US.*
+
+*I am just breaking down official numbers, and although the official numbers may or may not reflect exactly how many cases remain unreported, I try to remain unopinionated in these reportings and leave the opinions and analysis to the comments.*
+++++++++++
+ UPDATE Coronavirus % growth for JUNE 13 Below is a summary of trends from yesterday (as of late EST). Starting with the **Global** stats for a broad overview. Then stats for the **USA**.
+
+The data is available [in more detail here](
+
+# Global
+
+Confirmed Cases growth is 📈:
+
+* Increasing to **1.76%**
+* Increasing by **134,248**
+* Total confirmed cases is **7,766,625**
+* Total active cases is **3,301,102**
+
+Deaths growth is flat:
+
+* Decreasing to **1.02%**
+* Increasing by **4,347**
+* Total deaths is **429,732**
+
+Death Rate growth is 📉:
+
+* **9.6%** recovery rate (📉)
+* **5.2%** WHO CFR (📉)
+* **6.6%** incubation rate (📉)
+
+# USA
+
+Confirmed Cases growth is 📉:
+
+* Decreasing to **1.25%**
+* Increasing by **25,540**
+* Total confirmed cases is **2,074,526**
+* Total active cases is **1,402,484**
+
+Deaths growth is 📉:
+
+* Decreasing to **0.67%**
+* Increasing by **767**
+* Total deaths is **115,436**
+
+Death Rate growth is mixed:
+
+* **17.2%** recovery rate (📉)
+* **5.3%** WHO CFR (flat)
+* **6.1%** incubation rate (📉)
+++++++++++
+ Highest increase in US deaths in 2 weeks - UPDATE Coronavirus % growth for JULY 21 Below is a summary of trends from yesterday (as of late EST). Starting with the **Global** stats for a broad overview. Then stats for the **USA**.
+
+The data is available [in more detail here](
+
+# Global
+
+Confirmed Cases growth is 📈:
+
+* Increasing to **1.66%**
+* Increasing by **242,740**
+* Total confirmed cases is **14,898,145**
+* Total active cases is **5,847,725**
+
+Deaths growth is 📈:
+
+* Increasing to **1.08%**
+* Increasing by **6,556**
+* Total deaths is **615,754**
+
+Death Rate growth is flat:
+
+* **6.8%** recovery rate (flat)
+* **4.0%** WHO CFR (flat)
+* **5.0%** incubation rate (flat)
+
+# USA 🇺🇸
+
+Confirmed Cases growth is 📈:
+
+* Increasing to **1.81%**
+* Increasing by **69,201**
+* Total confirmed cases is **3,899,211**
+* Total active cases is **2,575,198**
+
+Deaths growth is 📈:
+
+* Increasing to **0.77%**
+* Increasing by **1,089**
+* Total deaths is **141,995**
+
+Death Rate growth is mixed:
+
+* **10.7%** recovery rate (📉)
+* **3.5%** WHO CFR (flat)
+* **4.5%** incubation rate (📉)
+
+# Brazil 🇧🇷
+
+Highest global increase in deaths: **1,367**
+
+# UK 🇬🇧
+
+Highest CFR: **13.3%**
+
+**Disclaimer:** *I'm no longer commenting on these threads due to downvoting on particular days when the facts don't fit people's narratives. COVID-19 is not something you should be cheerleading, whichever side you sit on, but here we are! If you have a genuine question for me, PM from now on - but the data source and other things you may want to know are all detailed in the spreadsheet.*
+++++++++++
+ A list of the most common comorbidities in Covid-related deaths and the percentage of the US adult population with each comorbity. For those people arguing (or even thinking) that Americans need to get back to work and lift stay at home orders for the sake of the economy because "only" people with pre-existing comorbidities are dying from Covid, this is a list of the comorbidities at play, along with the percentage of the US adult population with each comorbity. I am using New York's death statistics.
+
+87% of Covid deaths in NY involved people with at least 1 comorbidity. 
+
+55% of all covid deaths in New York involved the comorbity of hypertension. 45% of the adult population of the US is estimated to have hypertension or high good pressure according to the CDC. (Citation in linked article)
+
+33% of all covid deaths in New York involved the comorbity of diabetes. 13% of the adult population in the US has diabetes. (Source: CDC  National Diabetes Statistics Report, Estimates of Diabetes and Its Burden in the United States)
+
+18% of all covid deaths in New York involved the comorbity of hyperlipidemia. 12% of the adult population in the US has hyperlipidemia. (
+
+12% of all covid deaths in New York involved the comorbity of coronary artery disease.
+6.7% of the adult population of the U.S has coronary artery disease. (
+
+11% of all covid deaths in New York involved the comorbity of renal disease. 15% of the adult population of the U.S has renal disease. (National Kidney Foundation 
+
+9% of all covid deaths in New York involved the comorbity of dementia. 2.5% (edited) of the adult population of the U.S has dementia. (
+
+8.3% of all covid deaths in New York involved the comorbity of COPD.
+5% of the adult population of the U.S has COPD. (
+
+8.1% of covid deaths in New York involved the comorbidity of a history of cancer.
+38.4% of the adult population of the U.S has had or will get some form of cancer. (
+
+7.1% of covid deaths in New York involved the comorbidity of AFib.
+2% of the adult population of the U.S younger than 65 has AFib, while 9% over 65 have it. (
+
+7.1% of covid deaths in New York involved the comorbidity of heart failure.
+2% of the adult population of the U.S has heart failure and 48% of adult Americans have some form of cardiovascular disease.(
+
+Those numbers dont seem so comforting for the "average" population anymore, do they?
+++++++++++
+ DAILY UPDATE Coronavirus % growth for APRIL 20 Below is a summary of trends from yesterday (as of late EST), for the **USA**, and how it compares to **Global**.
+
+The data is available [in more detail here]( 
+
+# Global
+
+Confirmed Cases growth is 📉:
+
+* Decreasing to **2.91%**
+* Increasing by **70,171**
+* Total confirmed cases is **2,481,287**
+
+Deaths growth is 📉:
+
+* Decreasing to **2.7%**
+* Increasing by **4,491**
+* Total deaths is **170,436**
+
+Death Rate growth is mixed:
+
+* **20.9%** recovery rate (📉)
+* **6.4%** WHO CFR (flat)
+* **11.2%** incubation rate (📉)
+
+# USA
+
+Confirmed Cases growth is 📉:
+
+* Decreasing to **3.33%**
+* Increasing by **25,240**
+* Total confirmed cases is **784,326**
+
+Deaths growth is 📉:
+
+* Decreasing to **3.5%**
+* Increasing by **1,433**
+* Total deaths is **42,094**
+
+Death Rate growth is mixed:
+
+* **36.8%** recovery rate (📈)
+* **5.1%** WHO CFR (flat)
+* **10.3%** incubation rate (📉)
+
+**Disclaimer:** *Please take from this what you choose. I'm also capturing individual country data, although that may still be too small to gather enough meaning from the % growth apart from Germany, Iran, Italy, Spain, France, the UK, and the US.*
+
+*I am just breaking down official numbers, and although the official numbers may or may not reflect exactly how many cases remain unreported, I try to remain unopinionated in these reportings and leave the opinions and analysis to the comments.*
+++++++++++
+ DAILY UPDATE Coronavirus % growth for APRIL 15 - 2nd highest increase in deaths ever Below is a summary of trends from yesterday (as of late EST). The data is available [in more detail here](
+
+I've decided to cease giving a summary of **Global (excluding China)**, it's time to cut that loose.
+
+Instead I'll provide a summary on the country leading in the number of deaths, currently the **USA**. I'll still continue giving a summary of **Global** stats. I'm also elaborating on the data in a [nightly vlog]( with some highlighted threads from Reddit.
+
+Global
+
+Confirmed Cases growth is **📈**:
+
+* Increasing to **4.21%**
+* Increasing by **84,146**
+* Total confirmed cases is **2,084,940**
+
+Deaths growth is 📉:
+
+* Decreasing to **6.1%**
+* Increasing by **7,929**
+* Total deaths is **138,412**
+
+Death Rate growth is mixed:
+
+* **21.4%** recovery rate (**📈**)
+* **6.2%** WHO CFR (**📈**)
+* **12.8%** incubation rate (📉)
+
+USA
+
+Confirmed Cases growth is **📈**:
+
+* Increasing to **5.15%**
+* Increasing by **31,157**
+* Total confirmed cases is **636,350**
+
+Deaths growth is 📉:
+
+* Decreasing to **8.6%**
+* Increasing by **2,572**
+* Total deaths is **32,355**
+
+Death Rate growth is mixed:
+
+* **38.3%** recovery rate (📉)
+* **4.8%** WHO CFR (**📈**)
+* **13.2%** incubation rate (📉)
+
+**Disclaimer:** *Please take from this what you choose. I'm also individual country data, although that may still be too small to gather enough meaning from the % growth apart from Iran, Italy, Spain, France, the UK, and the US.*
+
+*I am just breaking down official numbers, and although the official numbers may or may not reflect exactly how many cases remain unreported, I try to remain unopinionated in these reportings and leave the opinions and analysis to the comments.*
+++++++++++
+ UPDATE Coronavirus % growth for JUNE 15 Below is a summary of trends from yesterday (as of late EST). Starting with the **Global** stats for a broad overview. Then stats for the **USA**.
+
+The data is available [in more detail here](
+
+# Global
+
+Confirmed Cases growth is 📉:
+
+* Decreasing to **1.46%**
+* Increasing by **115,506**
+* Total confirmed cases is **8,015,053**
+* Total active cases is **3,365,505**
+
+Deaths growth is flat:
+
+* Remaining at **0.76%**
+* Increasing by **3,303**
+* Total deaths is **436,322**
+
+Death Rate growth is mixed:
+
+* **9.6%** recovery rate (📉)
+* **5.2%** WHO CFR (flat)
+* **6.6%** incubation rate (📉)
+
+# USA
+
+Confirmed Cases growth is 📈:
+
+* Increasing to **0.95%**
+* Increasing by **19,968**
+* Total confirmed cases is **2,114,026**
+* Total active cases is **1,421,565**
+
+Deaths growth is 📈:
+
+* Increasing to **0.34%**
+* Increasing by **395**
+* Total deaths is **116,127**
+
+Death Rate growth is mixed:
+
+* **16.8%** recovery rate (📉)
+* **5.2%** WHO CFR (flat)
+* **6.0%** incubation rate (📉)
+++++++++++
+ DAILY UPDATE Coronavirus % growth for APRIL 28 Below is a summary of trends from today (as of late EST), for the **USA**, and how it compares to **Global**.
+
+The data is available [in more detail here](
+
+# Global
+
+Confirmed Cases growth is 📈:
+
+* Increasing to **2.40%**
+* Increasing by **73,566**
+* Total confirmed cases is **3,138,396**
+
+Deaths growth is 📈:
+
+* Increasing to **3.0%**
+* Increasing by **6,376**
+* Total deaths is **217,985**
+
+Death Rate growth is mixed:
+
+* **18.6%** recovery rate (📉)
+* **6.5%** WHO CFR (flat)
+* **9.8%** incubation rate (📉)
+
+# USA
+
+Confirmed Cases growth is 📈:
+
+* Increasing to **2.47%**
+* Increasing by **24,385**
+* Total confirmed cases is **1,012,582**
+
+Deaths growth is 📈:
+
+* Increasing to **3.7%**
+* Increasing by **2,096**
+* Total deaths is **58,355**
+
+Death Rate growth is mixed:
+
+* **33.5%** recovery rate (📉)
+* **5.4%** WHO CFR (flat)
+* **8.8%** incubation rate (flat)
+
+
+
+**Disclaimer:** *Please take from this what you choose. I'm also capturing individual country data, although that may still be too small to gather enough meaning from the % growth apart from Germany, Iran, Italy, Spain, France, the UK, and the US.*
+
+*I am just breaking down official numbers, and although the official numbers may or may not reflect exactly how many cases remain unreported, I try to remain unopinionated in these reportings and leave the opinions and analysis to the comments.*
+++++++++++
+ US confirmed cases increase by over 30k for the first time since May 1 - UPDATE Coronavirus % growth for JUNE 20 Below is a summary of trends from yesterday (as of late EST). Starting with the **Global** stats for a broad overview. Then stats for the **USA**.
+
+The data is available [in more detail here](
+
+# Global
+
+Confirmed Cases growth is 📉:
+
+* Decreasing to **1.47%**
+* Increasing by **126,764**
+* Total confirmed cases is **8,768,285**
+* Total active cases is **3,579,753**
+
+Deaths growth is 📉:
+
+* Decreasing to **0.99%**
+* Increasing by **4,555**
+* Total deaths is **464,029**
+
+Death Rate growth is mixed:
+
+* **8.9%** recovery rate (📉)
+* **5.0%** WHO CFR (flat)
+* **6.3%** incubation rate (📉)
+
+# USA
+
+Confirmed Cases growth is flat:
+
+* Remaining at **1.45%**
+* Increasing by **32,307**
+* Total confirmed cases is **2,255,119**
+* Total active cases is **1,517,940**
+
+Deaths growth is 📉:
+
+* Decreasing to **0.50%**
+* Increasing by **594**
+* Total deaths is **119,719**
+
+Death Rate growth is mixed:
+
+* **16.2%** recovery rate (📉)
+* **5.0%** WHO CFR (📉)
+* **5.9%** incubation rate (flat)
+
+
+++++++++++
+ DAILY UPDATE Coronavirus % growth for APRIL 21 Below is a summary of trends from today (as of late EST), for the **USA**, and how it compares to **Global**.
+
+The data is available [in more detail here](
+
+# Global
+
+Confirmed Cases growth is 📈:
+
+* Increasing to **3.31%**
+* Increasing by **82,097**
+* Total confirmed cases is **2,563,384**
+
+Deaths growth is 📈:
+
+* Increasing to **4.2%**
+* Increasing by **7,205**
+* Total deaths is **177,641**
+
+Death Rate growth is mixed:
+
+* **20.5%** recovery rate (📉)
+* **6.5%** WHO CFR (📈)
+* **11.0%** incubation rate (📉)
+
+# USA
+
+Confirmed Cases growth is 📈:
+
+* Increasing to **5.03%**
+* Increasing by **39,460**
+* Total confirmed cases is **823,786**
+
+Deaths growth is 📈:
+
+* Increasing to **6.5%**
+* Increasing by **2,751**
+* Total deaths is **44,845**
+
+Death Rate growth is mixed:
+
+* **37.4%** recovery rate (📈)
+* **5.2%** WHO CFR (📈)
+* **10.2%** incubation rate (📉)
+
+
+
+
+
+**Disclaimer:** *Please take from this what you choose. I'm also capturing individual country data, although that may still be too small to gather enough meaning from the % growth apart from Germany, Iran, Italy, Spain, France, the UK, and the US.*
+
+*I am just breaking down official numbers, and although the official numbers may or may not reflect exactly how many cases remain unreported, I try to remain unopinionated in these reportings and leave the opinions and analysis to the comments.*
+++++++++++
+ Prediction of cases and deaths. Future cases and deaths. We have less around a month to until we reach heard immunity. (Confirmed cases today: 1,750,000 and 100,000 deaths.  Real cases today: 136,470,697 Real deaths today: 351,000 deaths. 5/30/20.) (Based off uptick in flu deaths 6 states + covid deaths) (Cases 27,000,000. 5/13/20.) (Two weeks cases= 300,000,000 deaths= 1,774,119 6/14/20) (Four weeks cases=max deaths=3,900,000 6/30/20 max deaths 5% death rate= 15,000,000)
+
+I know 5 people with it already personally.
+++++++++++
+ We are fucked The World Health Organization released the daily situation report (March 2, 2020) for Covid 19. [
+
+There are 88,948 confirmed cases globally
+
+There are 2915 deaths in China
+
+There are 128 deaths outside of China, for a total of 3,043 deaths globally
+
+This is a death rate of 3.4%! (3043/88,948)
+
+The Spanish Flu pandemic had a death rate of 1.7% (approximately 30 million died globally)
+
+The seasonal flu in the US has a typical death rate of 0.1%
+++++++++++
+ DAILY UPDATE Coronavirus % growth for APRIL 26 Below is a summary of trends from today (as of late EST), for the **USA**, and how it compares to **Global**.
+
+The data is available [in more detail here](
+
+# Global
+
+Confirmed Cases growth is 📉:
+
+* Decreasing to **2.52%**
+* Increasing by **73,560**
+* Total confirmed cases is **2,994,761**
+
+Deaths growth is 📉:
+
+* Decreasing to **1.8%**
+* Increasing by **3,703**
+* Total deaths is **206,992**
+
+Death Rate growth is mixed:
+
+* **19.1%** recovery rate (📉)
+* **6.5%** WHO CFR (flat)
+* **10.0%** incubation rate (📉)
+
+# USA
+
+Confirmed Cases growth is 📉:
+
+* Decreasing to **2.95%**
+* Increasing by **27,629**
+* Total confirmed cases is **965,783**
+
+Deaths growth is 📉:
+
+* Decreasing to **2.1%**
+* Increasing by **1,126**
+* Total deaths is **54,881**
+
+Death Rate growth is mixed:
+
+* **33.9%** recovery rate (📉)
+* **5.4%** WHO CFR (flat)
+* **9.0%** incubation rate (📉)
+
+*Processing img v616l5njbav41...*
+
+**Disclaimer:** *Please take from this what you choose. I'm also capturing individual country data, although that may still be too small to gather enough meaning from the % growth apart from Germany, Iran, Italy, Spain, France, the UK, and the US.*
+
+*I am just breaking down official numbers, and although the official numbers may or may not reflect exactly how many cases remain unreported, I try to remain unopinionated in these reportings and leave the opinions and analysis to the comments.*
+++++++++++
+ Recovered cases reach 5 million globally - UPDATE Coronavirus % growth for JUNE 23 Below is a summary of trends from yesterday (as of late EST). Starting with the **Global** stats for a broad overview. Then stats for the **USA**.
+
+The data is available [in more detail here](
+
+# Global
+
+Confirmed Cases growth is 📈:
+
+* Increasing to **1.82%**
+* Increasing by **165,170**
+* Total confirmed cases is **9,239,794**
+* Total active cases is **3,721,036**
+
+Deaths growth is 📈:
+
+* Increasing to **1.10%**
+* Increasing by **5,191**
+* Total deaths is **476,945**
+
+Death Rate growth is mixed:
+
+* **8.8%** recovery rate (📉)
+* **4.9%** WHO CFR (flat)
+* **6.2%** incubation rate (flat)
+
+# USA 🇺🇸
+
+Confirmed Cases growth is 📈:
+
+* Increasing to **1.50%**
+* Increasing by **34,722**
+* Total confirmed cases is **2,347,022**
+* Total active cases is **1,578,246**
+
+Deaths growth is 📈:
+
+* Increasing to **0.69%**
+* Increasing by **826**
+* Total deaths is **121,228**
+
+Death Rate growth is flat:
+
+* **15.8%** recovery rate (flat)
+* **4.9%** WHO CFR (flat)
+* **5.8%** incubation rate (flat)
+
+# Brazil 🇧🇷  
+
+Highest global increase in confirmed cases: **39,436**
+
+Highest global increase in deaths: **1,374**

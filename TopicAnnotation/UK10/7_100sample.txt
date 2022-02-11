@@ -1,0 +1,866 @@
+
+++++++++++
+ Why do you have to get tested for covid in the first 5 of having symptoms? (according to the gov website) 
+
+According to this website you have to get your test done in the first 5 days of having symptoms. I've not heard this anywhere else, can anyone tell me any more information about this?
+++++++++++
+ I have a feeling today will have the highest rise in cases in the UK to date. Title
+++++++++++
+ Research help Help slow the spread of #COVID19 and identify at risk cases sooner by self-reporting your symptoms daily, even if you feel well  🙏🏼. Download the app 
+++++++++++
+ Very brief ZOE update 
+
+Hello again,
+
+ZOE app has updated their figure for daily new infections, seems this happens on Thursday’s, so I will probably update this now on Monday and Thursdays from here on, which will tie in nicely with the ONS update on Fridays so we can compare the two studies.
+
+The estimation of new infections has dropped down from 1626 to 1434 new infections per day.
+
+North West (23-98 new cases per 1 million population) and London (17-67) have the highest rate of daily new cases.
+
+South West (1-27) and East of England (3-36) the lowest.
+++++++++++
+ Is the 10,000 tests being implemented now? Will the new figures at 2pm show this? 
+++++++++++
+ New ONS and ZOE infection data: ONS estimate up, ZOE estimate down Both the ONS and ZOE/Kings College have updated their estimates around infections today.
+
+ONS have [revised their 'estimated number of people infected' figure]( upwards from one in 1,700 two weeks ago, to **one in 1,100** in today's release.
+
+However, ZOE/Kings College have [gone the other way]( revising their 'estimated daily infections' figure to **2,341**, down from around 3,900 in the last major update.
+
+As far as I know, this is the first time the direction of travel has been different between these two studies.
+
+Unsure what to take from this but there you go.
+++++++++++
+ Khan Academy released a guide to estimating real case numbers. This shows 88k cases in the UK. 
+++++++++++
+ 🏴󠁧󠁢󠁷󠁬󠁳󠁿 [Wales] Betsi Cadwaladr failed to report 88 Covid-19 deaths. The non-reporting has totally ~~screwed~~ skewed any informed analysis of the situation in Wales as a whole, and has some impact on the UK position.
+
+Shadow Minister for North Wales – Mark Isherwood AM, [is reported as saying](
+
+&gt;  “Call them ‘retrospective’ or a ‘delay in reporting’ if you wish, but essentially, these are 84 deaths that went unreported.”
+
+&gt;  “I am staggered as to how they could have been missed, and I am equally concerned as to how this may have skewed the overall figures and the approach to combatting Coronavirus.
+
+&gt;  “It smacks of incompetence of the highest level ...
+++++++++++
+ Kettering General Hospital has refused to comment after Prime Minister Boris Johnson claimed he was recently at a hospital where there were coronavirus patients. Northants ET [article](
+++++++++++
+ Coronavirus (COVID-19) Infection Survey pilot - Office for National Statistics (24 July) estimated incidence rates increasing for last two weeks, but within 95% confidence intervals 
+++++++++++
+ It looks like every 5 days the numbers suddenly drop for 2 days then again rise very rapidly.... Do you think it's so that the average can be lower? 🤔 
+++++++++++
+ First Wales Death &amp; Gov.uk No Longer Reporting Deaths Wales reported its first death, but Gov.uk has stopped reporting the number of deaths in the UK.
+
+"The individual, who was in their sixties and had underlying health conditions, sadly passed away at Wrexham Maelor Hospital."
+[Public Health Wales](
+
+For the first time since coronavirus deaths began in the UK, the government did not include them on its daily report of the number of cases. See the [gov.uk site](
+
+It's not yet clear how coronavirus deaths will be reported. Perhaps they will be informing journalists directly? 
+
+See the latest data on [ CoronaInfo.uk]( to see how the 16/03 updates stack up against previous days.
+++++++++++
+ Mega Mod Thread: Advice, FAQs, Rules and Announcments - Regularly Updated Good morning CVUK!
+
+You may or may not have noticed that things are slowly changing the background. We got a bunch of new mods and whole load of new ideas to keep this sub as informative, friendly and easy to use as possible over the coming months. This is the space we will be using to update you on news, information, sub rules and any changes that are coming to the sub. You should also feel free to use this thread to share feedback or information or if you have any questions about the sub.
+
+This is the stuff you're going to need to know:
+
+ 
+
+\*\*Really Important Information and Help
+
+\- For an [overview of Covid-19 from the NHS](
+
+\- For [information and guidance on Covid-19 from the government](
+
+\- Here you’ll find [information and advice from the WHO](
+
+\- If you like the numbers [here are the government updates](
+
+\- If you are out of work due to the impact of Covid-19 please visit [Coronavirus and claiming benefits]( and [Coronavirus support for employees, benefit claimants and businesses]( without delay.
+
+\- For [guidance on social distancing]( this link takes you to the government's guidelines
+
+&amp;#x200B;
+
+\*\*FAQs
+
+Do I Need to Self Isolate?
+
+&gt;If  you have a fever and/or a cough, you and your household need to isolate  for 14 days starting from the time the last person began to show  symptoms. If after 7 days you are still showing symptoms and/or get  worse within that time, dial 111 for further help and advice. Do not go  to your GP or hospital. Dial 999 if you or someone in your household is  seriously ill and/or struggling to breathe.
+
+Do I Have The Coronavirus?
+
+&gt;We  are not doctors and cannot tell you over the internet whether or not  you have the virus. Self isolate, get help if necessary. Refer to the  links above for symptoms but continue to self isolate even if you think  you have a common cold.
+
+Should I be Taking Ibuprofen?
+
+&gt;Current advice from the NHS suggests that [you should avoid ibuprofen for the time being](
+
+Am I in the At Risk Group?
+
+\&gt;Those in the at risk group will soon be contacted by their GP to let them know and to advise them how to proceed. In the meantime, [this link]( provides information of who the governement consider to be at risk.
+
+What is the difference between social distancing and self isolation?
+
+\&gt;[This article from the BBC]( explains the two very well.
+++++++++++
+ The Latest UK deaths announced July 30th 2020 **Post Summary:**
+
+* [NHS England]( Announced Daily Deaths **12,** Total. **29,331** *(see backlog breakdown)*
+* [NHS England]( Overnight Hospital Deaths **0**
+* [England]( Daily Deaths **\*,** Total. **\***
+* *(Includes* ***\**** *community deaths*) Total. **\***
+* [Wales:]( Daily Deaths **2,** Total. **1,556**
+* [Scotland]( Daily Deaths **0**, Total **2,491**
+* [N Ireland]( Daily Deaths **0**, Total. **556**
+* [UK Combined]( Daily Deaths **\***, Total. **\***
+* [UK Confirmed Cases]( Daily **\***, Total. **\***
+
+**Comparison:**
+
+1. Compare w/ [yesterday's figures](
+2. Compare w/ [this time last week](
+
+**Post Notes**: Figures above are counted from 29-Jul-20. Today's results from NI and Scotland are listed below. NHS England not counted: cases where COVID-19 is mentioned on the death certificate and no positive test result was received therefore, not included in the official daily count. **Asterisk\*** waiting for new data and I will update when it becomes available.
+
+Here's a [link to my full NHS data]( **(spreadsheet)** 1-Mar to 30-Jul **(TAB 3)** If I'm not around to post on reddit, I will always update the spreadsheets. Now includes full test and trace data.
+
+**Still updating as new information comes in....**
+
+[ Today's Figures 1: hospital deaths and backlog \(NHS England\) ](
+
+[ Today's figures 2: breakdown by nation ](
+
+[ Chart 1: England comparison for previous Tuesday's \(NHS\) ](
+
+[ Chart 2: 4 week comparison \(NHS England\) ](
+
+[ Chart 3: actual date of death in England \(hospital\) ](
+
+[ Chart 4: Daily Regional Case Data in England \(PHE\) ](
+
+[ Chart 5: deaths of patients split by age-band \(hospital\) ](
+
+[ Chart 6: deaths of patients split by region \(hospital\) ](
+
+[ Chart 4: Daily Regional Case Data in England \(PHE\) ](
+
+[ Chart 7: people in hospital, admissions, and patients in MV beds \*](
+
+[ Chart 8: deaths in England, split by sex \(all settings\)  \*](
+
+[ Chart 9: Number of deaths involving Care Home Residents \(CQC\) 17-Apr to 24-Jul ](
+
+[ Chart 10: NHS backlog updated daily ](
+
+[ Chart 11: NHS Backlog changes ](
+
+[ Chart 13: new UK infections vs new deaths \*\*](
+
+[ Chart 14: testing for all 4 pillars \*\*](
+
+[ Today's figures 3: UK Testing \*\*](
+
+[ People newly tested for COVID-19 under pillars 1 and 2, England ](
+
+ 
+
+[Link to spreadsheets]( If I'm not around to post on reddit, I will always update the spreadsheets. Now includes full test and trace data.
+
+* **R number for the UK:** [0.7-0.9]( *(updated 24 July)*
+* **England's latest R number:** [0.8-1.0]( *(updated 24 July)*
+* **Wales latest R number:** [0.6-0.8]( *(updated 21 July)*
+* **Scotland's latest R number:** [0.5-0.9]( *(updated 24 July)*
+* **Northern Ireland latest R number:** [0.7-1.1]( *(updated 23 July)*
+
+**Excess Deaths:**
+
+* [**ONS**]( actual date of death **-** England updated 21 July, **48,532**
+* [**ONS**]( actual date of death **-** Wales updated 21 July, **2,489**
+* [**NRS**:]( date of registration Scotland, updated 22 July, **4,193**
+* [NISRA]( date of registration NI, updated 24 July, **850**
+* The UK's total number of deaths is currently, **56,064**
+
+**Additional News and Updates:**
+
+* **Leicester lockdown:** what [you can and cannot do](
+* England recovery plan [(pdf)](
+* Scotland's Route Map through - [Phase 3](
+* **Scotland's** [**new visual summary**]( **for Covid-19**
+* Northern Ireland five-step routemap [(pdf)](
+* Welsh government’s plan [(pdf)](
+* Nisra [latest update]( for NI
+* NHS England: ethnicity, [pre-existing conditions](
+* PHE Weekly surveillance [report](
+* GOV report on [Excess deaths](
+* [**Weekly NHS Test and Trace bulletin, England**](
+* [**Telegraph Live UK Map**](
+
+**Please remember:**
+
+* Face coverings should be worn in enclosed spaces such as shops and public transport
+* Avoid crowded places
+* Clean your hands and hard surfaces regularly
+* Self isolate and book a test if you have [symptoms of Covid](
+* NHS England Test and Trace: Ask for a test online [here](
+* [Test and Protect (Scotland)](
+* Apply for a coronavirus test [Wales](
+* Apply for a coronavirus test [Northern Ireland](
+++++++++++
+ There are now 9529 confirmed cases of COVID-19 in the UK. +1542 As of 25/3/20 There are now 9529  confirmed cases of the disease in the UK..
+
+
+
+
+
+
+++++++++++
+ New UK deaths announced April 26th 2020 **Total number of deaths for each nation (25/04/2020)**
+
+* [NHS England]( England **(336)** new deaths **(18,420)** total
+* [Public Health Wales]( Wales **()** new deaths **()** total
+* [N Ireland (HSCNI)]( N Ireland **(16)** new deaths **(294)** total
+* [Scotland (HPS)]( Scotland **(47)** new deaths **(1231)** total
+
+**Today's total number of deaths &amp; cases for the UK (26/04/2020)**
+
+* New deaths announced from official UK data **()** total UK **()**
+* DHSC announced: UK deaths in hospital **()** total UK **()**
+* Daily lab-confirmed UK cases **()**
+* Total lab-confirmed UK cases **()**
+
+**Total number of deaths for Scotland &amp; N Ireland (26/04/2020)**
+
+* N Ireland (HSCNI) **()** new deaths **()** total. **?** people in ICU
+* Scotland (HPS) **()** new deaths **()** total. **?** people in ICU
+
+*Updating as information comes in, please bare with me.*
+
+**Additional information**
+
+Trends in daily [COVID-19 data]( for Scotland
+
+**On 24 April 2020 there were:**
+
+* 3,206 calls to 111 and 385 calls to the Coronavirus Helpline. The number of calls to 111 includes all calls, whether or not they relate to COVID-19
+* 1,507 Scottish Ambulance Service (SAS) attendances, of which 338 were for suspected COVID-19. SAS took 214 people to hospital with suspected COVID-19.
+* 600 people delayed in hospital. This is 1,012 less than the baseline period (04/03 weekly return). An initial target to reduce delays by 400 by the end of March and a further target of reducing by a further 500 by the end of April have now been met.
+* 526 (49%) adult care homes which had lodged at least one notification for suspected COVID-19 to the Care Inspectorate. It is important to note that not all of these care homes will still have outbreaks.
+* 342 of these adult care homes have reported more than one case of suspected COVID-19.
+* 384 (35%) adult care homes have a current outbreak of suspected COVID-19 as at 21st April. This is a care home where at least one care home resident has exhibited symptoms during the last 14 days.
+* 2,621 cumulative cases of suspected COVID-19 in care homes. This is an increase of 176 suspected cases on the previous day.
+* a total of 7,676 staff, or around 4.6% of the NHS workforce, reporting as absent due to a range of reasons related to COVID-19.
+* 2,327 inpatients have been discharged from hospital since the 5th March, who had been tested positive for COVID-19, up from yesterday’s total of 2,271.
+
+Keep an eye on [ONS]( for the corrected numbers over the coming weeks.
+
+**Thanks for viewing - I'll be back again tomorrow. Please stay safe.**
+++++++++++
+ Coronavirus: Novak Djokovic tests positive for COVID-19 following controversial tennis tour | World News 
+++++++++++
+ Where is the “underlying conditions” figure? I’ve searched online and I’ve searched this Reddit, but sometimes the news outlets report “deaths were aged between xx and xx and all had underlying health conditions”. Sometimes they don’t report that. 
+
+Where can I find that online? Or do we take that when that isn’t reported, some died who didn’t have underlying conditions?
+
+I’d always presumed it was in the daily NHS England spreadsheets but I can’t find it there either.
+++++++++++
+ New UK deaths announced May 1st 2020  **Total number of deaths for each nation** 30-04-20
+
+* [NHS England]( England **()** new deaths **()** total - hospital only
+* [Public Health Wales]( Wales **(17)** new deaths **(925)** total - all settings
+* [N Ireland (HSCNI)]( N Ireland (HSCNI) **(9)** new deaths **(347)** total.
+* [Scotland (HPS)]( Scotland (HPS) **(60)** new deaths **(1,475)** total - all settings
+
+**Today's total number of deaths &amp; cases for the UK** 01-05-20
+
+* New deaths from official UK data **()** total UK **()**
+* DHSC announced: new UK deaths **()** total UK **()** \- all settings  
+Note: **()** new deaths are from care homes and the community in England, total **()**
+* Daily lab-confirmed UK cases **()**
+* Total lab-confirmed UK cases **()**
+
+**Total number of deaths for Scotland &amp; Ireland** 01-05-20
+
+* N Ireland (HSCNI) **()** new deaths **()** total.
+* The Republic of Ireland number of deaths total **(1,190)**
+* Scotland (HPS) **(40)** new deaths **(1,515)** total - **110** in ICU
+
+**Additional information**
+
+Trends in daily [COVID-19 data]( for Scotland
+
+**Thanks for viewing - I'll be back again tomorrow. Please stay safe.**
+
+Updating ....
+++++++++++
+ Doubts over Oxford vaccine as it fails to stop coronavirus in animal trials 
+++++++++++
+ The government has admitted sending about 50,000 coronavirus tests to the US last week for processing after "operational issues" in UK labs 
+++++++++++
+ Infection fatality rate is now at around 5.22%. Infection rate is underestimated by 4 fold. We have no ideia where we are, where're heading, the speed we're going. Won't even comment on the fact there're no official figures for fatalities and recoveries aren't updated since sunday.... 
+++++++++++
+ Interested to know peoples opinions on giving your details if you go to pub So on the radio this morning, I was hearing that from this announcement due tomorrow. It is expected that pubs will be opening up again from 4th July.
+It was also added that if you enter the pub, you will be expected to give your contact details, in case at a later date, the contact tracers need to contact you.
+
+Assuming this is the case, because we don’t yet have a track and trace app in place. 
+
+But why would this be the case for just pubs? Why not any other places which will be looking to open up?
+
+I understand some may not have at issue. And I could well be jumping the gun on what is at the moment a rumour.
+From my personal opinion, I’m always hesitant at handing over my details in case it gets into the wrong hands.
+++++++++++
+ Fatality rate Why is the fatality rate being given as 3.4%
+This figure includes all active cases.
+The true number should be from closed cases which is 59407 worldwide. 55995 recovered and 3412 deaths. Thats a 6% fatality rate.
+[coronavirus figures](
+++++++++++
+ Government strategy to not test most people is leading to vast undereporting of actual figures. We need to track the cases ourselves  
+++++++++++
+ Unpopular opinion. Infection rates, death rates, and positive testing data is hugely misleading and it makes no sense to make projections and compare ourselves to other counties with them. We have have always been at the point where all data coming out over this is a direct function of whichever country's testing capacity, and their criteria for what counts as a recordable death.
+
+While some countries are only testing the sick, others are testing all that have come into contact. While some counties are reporting all deaths of patients who had covid 19, others are only reporting if you specifically died of it.
+
+It seems like a few countries are peaking right now, or have they just hit their capacity to test?
+
+We've got to a point where numbers aren't comparable anymore and a daily "update and comparison" is worthless.
+
+The graphs and projections are all very nice but don't statistically add anything to the conversation except for spread misinformation.
+++++++++++
+ Covid-19 symptom checking app, I've check myself, please check yourselves. The more of us the add our statistics to tge study the better Help slow the spread of #COVID19 and identify at risk cases sooner by self-reporting your symptoms daily, even if you feel well  🙏🏼. Download the app 
+++++++++++
+ Map of NHS regions-a breakdown of areas. Useful especially as they say 12 cases in "midlands" but this includes many other places not normally thought of as midlands! &amp;#x200B;
+
+![img](469nmivpb2l41 "all 7 NHS regions they use on the graph on the Covid-19 Cases page DHSC")
+++++++++++
+ Testing processing time 1.27 days, 33% same day. From data posted here
+
+
+Yesterday it was 1.5 days and 19% same day.
+A week ago it was 2.0 days and 6% same day.
+
+Finally some serious testing seems to be getting done.
+++++++++++
+ I made a COVID19 tips subreddit TL;DR: Go to [r/COVID19\_Tips]( for information about how to best self-treat/prevent this virus.
+
+I recently came in contact with someone that more than likely has COVID19 (they were in close contact with a confirmed case and now have "flu-like symptoms"), and since learning about this I have been searching Reddit for a community focused on self-treatment and prevention. I was not able to find one dedicated to this, so I created [r/COVID19\_Tips]( If you think you may have contracted the virus, want to know what to do if you happen to come in contact with it, or just want to learn more about prevention, this subreddit is for you. I hope we can build a community of useful information that will help us get through this as safely as possible.
+++++++++++
+ ONS COVID-19 Infection Survey data shows a rise in cases 0.24% to 0.27% **tldr**; estimate of current infections rised from 136k to 148k with higher confidence (10k samples)
+
+ONS Coronavirus (COVID-19) Infection Survey data shows a rise in cases.
+
+* It is estimated that 0.27% of the population in England tested positive for COVID-19 (95% confidence interval: 0.17% to 0.41%).
+* It is estimated 148,000 people in England were currently infected with COVID-19 (95% confidence interval: 94,000 to 222,000).
+
+data source: [
+
+In previous report (published 10th May) it was:
+
+* It is estimated that 0.24% of the population in England tested positive for COVID-19 (95% confidence interval: 0.14% to 0.40%).
+* It is estimated 136,000 people in England were currently infected with COVID-19 (95% confidence interval: 76,000 to 225,000).
+
+data source: [
+
+notes:
+
+* higher confidence since there are now 10,705 samples in study instead of 7,087
+* oddly, the new data says as of the 10th May (expected 13th), previous was 9th May.
+++++++++++
+ Ahead of tomorrow's ONS data, you may be interested in this visual breakdown of the deaths reported last week and when they occurred (blue). 
+++++++++++
+ Testing for the Corona Virus It seems the testing for the Corona Virus is shall we say not very good. A negative test doesn't seem to mean anything as the same person can test positive a few days later. Have we reached the stage where if we suspect someone has it, we quarantine them for 2 weeks even if they test negative?
+++++++++++
+ Is it mandatory to download that track and trace app when it’s ready? I’m personally not feeling comfortable downloading that app and having the government having my data even though I know it’s pretty much widely available anyway. I’m aware that it’s for the country but I honestly just don’t feel comfortable doing it and the #cumsgate made it worse last weekend.
+++++++++++
+ Matt Hancock on BBC: The meaningful figure is how many tests are being conducted, not how many people are being tested. 
+++++++++++
+ Infrastructure for testing for covid-19 and Sweden Strategy in response The COVID-19 virus is testing our society. In recent weeks, the Swedish government has presented a variety of different measures to safeguard people's health, lives and jobs. 
+++++++++++
+ Government’s test and trace system failing in areas battling major outbreaks, leaked analysis reveals: Only half of contacts are being reached in northwest England 
+++++++++++
+ [Scotland] Confirmed cases have risen to 373 from 322. Growth of 15.84% 
+++++++++++
+ Two more confirmed cases in UK - Department of Health 
+++++++++++
+ Coronavirus: Almost 30,000 'excess' care homes deaths (BBC report on ONS data) I don't think this has been posted yet: a [BBC news]( story on an [ONS report]( about care home deaths.
+
+Key points:
+
+* Almost 30,000 more care home residents in England and Wales died during the coronavirus outbreak than during the same period in 2019
+* While 20,000 mentioned Covid-19 on the death certificate, another 10,000 of the excess deaths were registered to other, non-Covid, causes. Previous analysis from the ONS has suggested that many of those "non-Covid" deaths could have involved undiagnosed coronavirus
+* Three-quarters of these deaths occurred within the care homes themselves and a quarter were care home residents who died in hospitals
+
+Not mentioned in the story, but a simple calculation to do, is that this means something like **40% of all UK Coronavirus deaths have been care home residents**.
+
+The BBC story also links to another [ONS report]( on Coronavirus in care homes (the "Vivaldi" study). An interesting thing that comes out of that is that care home residents were at higher risk where the home employed a lot of agency staff, and where staff did not receive sick pay. (I am not sure how staff could not receive sick pay; perhaps this refers to people on zero-hours contracts. I couldn't see any more explanation in the report.)
+++++++++++
+ Isle of Wight to trial Covid 19 Contact Tracing App 
+++++++++++
+ Question about the timeline While the virus has been around in China for a while now it only started to have a widespread breakout towards the end of January, when it went from having 1,300 confirmed cases to 77,600 cases 30 days later.
+
+However since then the number of new cases has dropped dramatically and there has been a decrease in the number of new cases every day since the 21st of February.
+
+My question is why are we expecting the timeline to be different in the UK and rest of the world? 
+
+We're being told that the peak of the UK outbreak is likely 10-14 weeks away, despite us being in a similar position to where China was at the end of January.
+
+Source:
+
+++++++++++
+ 7 Day Case Rate per 100,000 for UK and EU countries on 29th October 2020 Special Edition with Positive Test Rate 
+++++++++++
+ As of 15 February, a total of 2,992 people have been tested, of which 2,983 were confirmed negative and 9 positive. Source - 
+++++++++++
+ 1/3 of the way to 100 The Telegraph reported that ministers will elect to not perform testing after 100 cases.
+
+There are 9 current confirmed.
+
+The premier epidemiologist says surveillance in 1st world catches 1/3.
+
+Result - you're almost 1/3 of the way to 100.
+
+Is this incorrect?
+++++++++++
+ New UK deaths announced May 25th 2020 **Post Summary:**
+
+* NHS England: Daily Deaths **59**, Total. **25,751**
+* [Wales]( Daily Deaths **7,** Total. **1,274**
+* [Scotland]( Daily Deaths **3**, Total **2,273** (Today)
+* [N Ireland]( Daily Deaths \*, Total. \* (Today)
+* [UK Combined]( Daily Deaths \*, Total. \*
+* Aggregated Daily Deaths: **76**, Total. **29,801**
+
+**Notes:** Aggregated figures correct as of 24-05-20 excludes England Care Home &amp; Community Deaths. **NHS (2)** cases where COVID-19 is mentioned on the death certificate and no positive test result was received.
+
+**Still updating...**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*Processing img ofo268xglw051...*
+
+**Additional Information:**
+
+* The R number in the UK is estimated to be between 0.7 and 1.
+* The R number in Scotland is between 0.8 and closer to 1.
+* Compare with [yesterday's figures.](
+
+**Additional News and Updates:**
+
+* The government has published Its Coronavirus recovery plan[ here (pdf)]( and, Coronavirus outbreak FAQs: [what you can and can't do from Wednesday 13 May](
+* Statement from the UK Chief Medical Officers on an update to [coronavirus symptoms]( 18 May
+* Scottish government publishes its routemap for easing lockdown [PDF](
+* The Northern Ireland five-step routemap [(pdf)](
+* Welsh government’s plan [(pdf)](
+* Latest update from [ONS](
+
+**Thanks for viewing - I'll be back again tomorrow. Please stay safe.**
+++++++++++
+ 12 Feb UK Dept of Health Update UPDATE on #coronavirus testing in the UK:
+
+As of 2pm on Wednesday 12 February 2020, a total of 1,758 tests have concluded
+
+1,750 were confirmed negative
+8 positive
+
+Updates will be published at 2pm daily until further notice
+
+Reposted from official Twitter account.
+++++++++++
+ People are testing positive for Covid-19 after having recovered from the initial infection, and discharged from hospital. [News article from South China Morning Post](
+++++++++++
+ UPDATE on coronavirus (#COVID19) testing in the UK 7th March UPDATE on coronavirus ([\#COVID19]( testing in the UK:   As of 7am 7 March 2020, a total of 21,666 people have been tested:   21,460 negative. 206 positive.  Two patients who tested positive for coronavirus have sadly died.
+++++++++++
+ Predicting the peak by comparing graphs of other country's active confirmed cases 
+++++++++++
+ French situation 'deteriorating very fast', Switzerland this morning HUGE jump + 841 new cases. From the bbc's live update page, looks like France will start getting 100+ deaths a day soon.  
+
+
+**French situation 'deteriorating very fast'. The coronavirus outbreak in France is "very worrying" and "deteriorating very fast", the head of the country's health service said on Monday morning.**  
+**"The number of cases double every three days," Jerome Salomon said on France Inter, as per the AFP news agency. He added that the number of seriously ill patients and those needing intensive care "runs into hundreds". France has had more than 5,000 cases and 127 deaths.**  
+
+
+[
+
+Also the number of cases in Switzerland rises to 2200 with 841 new cases overnight.
+
+[
+++++++++++
+ Sky News: BREAKING: NHS England says the number of reported #coronavirus deaths in hospitals has risen by 778 to 15,607. 
+++++++++++
+ Quick question about mobile tests Hello people of the UK. 
+
+Sorry if this is the wrong place to post but I’m lost and no-where I have searched has any answers or even somewhere to look. 
+
+I had a test done on Monday at a mobile test unit and I’m awaiting results. I’ve looked and apparently they should be given within 48 hours but at the latest 72? I’m still awaiting results and have no clue how to get in touch with anywhere that would know the answer. 
+
+Can anyone help? 
+
+Added info, got my test completed at 1:13 at the Cross Green mobile test unit in Leeds. 
+ 
+Thank you
+++++++++++
+ Calculating an absolute minimum provable UK death toll. North Ireland have announced 347 deaths total.
+
+On the 17th England and Wales had 22,351 ([ONS week 16 data]( Since the 18th, there have been a further 5,190 announced deaths in English hospitals ([correct as of 5pm 30-April]( and 350 in Wales (daily comparison of [phw data]( 
+
+England &amp; Wales Subtotal: 27,891
+
+As of the 24-April Scotland had 2,219 Covid-19 deaths ([NRScotland week 17]( since then a further 331 deaths have [been announced](
+
+Scotland Subtotal: 2,550
+
+**Total: 30,788 Covid-19 deaths confirmed by official sources.**
+
+In addition to this there are community and care home deaths in England and Wales since the 18th which have been confirmed, but I don't have exact figures for each date to hand, these could be added to the confirmed total.
+++++++++++
+ All patients of two GPs with coronavirus have been traced [12 patients given basic advice, no tests] 
+++++++++++
+ For those who have been tested so far - was there any issue with your test and results? I have just done the test today - it went well as expected but the swab itself got contaminated with food residue which was left on my tonsils (was advised that we can eat as usual). 
+
+So I am just wondering if this can impact test results in any shape or form? Has anyone had any issues with the results and was asked to repeat the test etc?
+++++++++++
+ Testing of patients in Northern Ireland has resulted in 9 new positive cases for Coronavirus (Covid-19), bringing the total number of cases to 86. 
+++++++++++
+ (Petition) Help freelancers get the support they need from the Government COVID-19 has affected every business across the UK, big and small. However, Boris Johnsons’ promise to “support local businesses” seemingly only extends to larger business, not solo/self employed freelancers.
+
+Help sign this petition to grant freelancers the monetary support they are in desperate need of;
+
+
+++++++++++
+ New UK deaths announced May 2nd 2020  **Breakdown of deaths by nation**
+
+* [NHS England]( Daily Deaths: **370,** Total: **20,853.**
+* [Public Health Wales]( Daily Deaths: **(),** Total: **().**
+* [HSC N Ireland]( Daily Deaths: **18,** Total: **365.**
+* [Scotland (HPS)]( Daily Deaths: **40,** Total: **1,515.**
+
+Aggregated Daily Deaths: **()**, Total: **()** \- Figures correct as of 01-05-20 - Excludes England Care Home &amp; Community Deaths.
+
+**Announced deaths and cases for the UK**
+
+* DHSC Confirmed Daily Deaths: **()**, Total: **()**. (old method)
+* DHSC England Care Home &amp; Community Deaths: **()**, Total: **()**.
+* DHSC Combined Daily Deaths **()**, Total: **()**. (new method)
+* Daily Lab-Confirmed UK Cases: **()**, Total: **()**
+
+Still updating as information comes in, please bare with me
+
+**Additional information:**
+
+* 02-05-20: HSC N Ireland announces - new deaths, Total: 
+* 02-05-20: HPS Scotland announces - new deaths, Total: 
+* Trends in daily [COVID-19 data]( for Scotland
+* [Yesterday's figures](
+
+**On 30 April 2020 there were:**
+
+* 2,537 tests carried out by NHS Scotland in hospitals, care homes or the community, making a total of 74,984 COVID-19 tests through NHS labs to date. In addition, there were 2,124 drive through, mobile or home tests done by the Regional Testing Centres in Scotland bringing the total to 10,768 tests to date.
+* 3,333 calls to 111 and 490 calls to the Coronavirus Helpline. The number of calls to 111 includes all calls, whether or not they relate to COVID-19.
+* 1,509 Scottish Ambulance Service (SAS) attendances, of which 359 were for suspected COVID-19. SAS took 255 people to hospital with suspected COVID-19.
+* 429 (40%) adult care homes with a current case of suspected COVID-19 as at 28 April. (At least one resident in the care home has exhibited symptoms during the last 14 days.)
+* 562 (52%) adult care homes which have lodged at least one notification for suspected COVID-19 to the Care Inspectorate since the start of the epidemic. 377 of these care homes have reported more than one case of suspected COVID-19. 
+* 3,345 cumulative cases of suspected COVID-19 in care homes. This is an increase of 124 suspected cases on the previous day.
+* a total of 7,468 staff, or around 4.5% of the NHS workforce, reporting as absent due to a range of reasons related to COVID-19.
+* 2,659 inpatients have been discharged from hospital since the 5 March, who had been tested positive for COVID-19, up from yesterday’s total of 2,583.
+* 593 people delayed in hospital. This is 1,019 less than the baseline period (04/03 weekly return). An initial target to reduce delays by 400 by the end of March and a further target of reducing by a further 500 by the end of April have now been met.
+* 4,163 staff were reported as absent in adult care homes due to COVID-19, based on returns received from 862 (79%) adult care homes as at 28 April. Staff absent due to COVID-19 represents 9.2% of all adult care home staff (45,068) for whom a return was provided.The absence figures for NHS staff and care home staff are calculated in different ways and caution should be exercised in making comparisons – see the [data sources and definitions document]( for full details. This data will be updated weekly.
+
+**Thanks for viewing - I'll be back again tomorrow. Please stay safe.**
+++++++++++
+ Over the last days (and nights) @danielgavrilov built this interactive COVID19 table. It answers the question: How long did it take for the number of confirmed cases to double? It also plots cases over time. This table – for all countries – is here: 
+++++++++++
+ Leicester lockdown exposes lack of local Covid testing data The government are only publishing results from pillar 1 (hospitals) and not pillar 2 (commercial labs and home tests), meaning that more than 90% of cases in Leicester have not been made public.
+++++++++++
+ Once the outbreak gets more serious, how are people going to know if they have it? It’s not as if everyone is going to go to hospital and get tested. The current number of confirmed cases is over 200 but surely a lot more than 200 people have it?
+++++++++++
+ Imperial College London report on COVID-19 mortality rates in US and UK 
+++++++++++
+ COVID19 positive and negative test results?? Hello!  My partner and I both tested negative for COVID19 (he is a key-worker in the military) and it gave advice to us to stay away from those who are positive and we no longer have to self-isolate for 14 days, etc.
+
+We are both curious as to what the message has been to those testing positive for the COVID19 tests?  We would be curious to see what the text-message or email looks like, if anyone has one handy.  My partner is in and out of his workplace all the time so we are both curious as to what the advice looks like to those who tested positive.
+
+Thanks xx
+++++++++++
+ England cases by Area - 10th of March 
+
+Its been updated.
+
+Increase areas:
++5 Kensington and Chelsea
++3 Barnet, Hertfordshire, Southwark, Tower Hamlets
++ 2 Cumbria, Hampshire, Hounslow, Oxfordshire, Westminster
+
+Various with 1 additional case
+++++++++++
+ Comparison of different countries COVID19 outbreaks aligned to number of confirmed cases 
+++++++++++
+ Primary school closes after two children test positive for coronavirus 
+++++++++++
+ Need a sample of an NHS test result email Hi,
+
+Hungary has just introduced two-week quarantine for travellers from the UK. I'm a filmmaker and only came to the UK for a 2-day shoot, and have to go back to Hungary tonight for more shoots. There's no need to go to quarantine if you can show a printed negative NHS test result, but I simply don't have time to visit a test site and wait for the results. I am asking for your help! If you would be so kind as to send me your test result email in a PDF or whatever format (even a screenshot would do) I would be extremely grateful. You can edit your personal details out if you want to. I will add my details in, and it will be accepted at the airport. 
+
+TL;DR: 
+
+Travelling back to Hungary. Can't afford to stay in quarantine there. Don't have time to visit NHS test site. Need sample of negative NHS test result email so I can edit it.
+++++++++++
+ PSA: Local Support, create FB Groups for your PostCode Prefix All other forms of geographical boundary are too large, eldery and infirm are already turning to facebook for help and support, but being lost or drowned in noise. Additionally people willing to help are navigating large distances needlessly.
+
+The only way to effectively manage this is to create numerous hyperlocal groups
+
+*  M23 Coronavirus Community
+*  KY5 Coronavirus Community
+*  S2 Coronavirus Community
+* TD3 Coronavirus Community
+
+If you can, please consider creating one for your local community, and point people to it from regional groups.
+
+If these become too noisy, they can be further split. Our UK PostCode system is perfect to organize community efforts and responses.
+
+The time to implement this is now, please do not underestimate the speed of magnitude of this tsunami.
+
+Thanks.
+++++++++++
+ COVID-19 Testing and other key statistics. Once 100,000 tests per day is achieved, there is still a long way to go, as this graphic illustrates 
+++++++++++
+ 9 more cases at a London Hospital confirmed this morning. Majority are inpatients. Expect today's numbers to show a marked increase. I can only speak for I'm seeing Infront of me.
+++++++++++
+ Britain has Europe's second highest COVID-19 death toll, new figures show 
+++++++++++
+ To save a thousand more posts.... No, regardless of X, you can't be tested - not until your condition worsens to the point of hospitalization. The details of X don't matter, the answer is no. If you aren't hospitalized, you cannot and will not be tested. It's not our decision and yes, it sucks, but it's a matter of fact.
+
+Yes, after situation Y or symptom Z, you should probably self-isolate. The details of Y and Z don't matter, the advice is still the same. You should self-isolate if you can, for the safety of both yourself and for your community as a whole.
+++++++++++
+ Fatality rate and CRF discrepancy? 
+Please can someone help to clarify this? BBC news tank an article that puts the death rate at an estimated 1%... however I read a WHO report yesterday estimating it was slightly higher than 2%.
+This could have be based on cases concentrated in Asia though. Not worldwide. 
+Can anyone link and source for information suggesting a higher death rate and CFR.
+++++++++++
+ The Telegraph has obtained figures which suggest 17,505 care home residents have died in UK since March 1 
+++++++++++
+ Favipiravir（T-705）CAS： 259793-96-9 Detection kit (Nucleic Acid Detection).Let me know if you need it. Favipiravir（T-705）CAS： 259793-96-9  
+
+Detection kit (Nucleic Acid Detection).
+
+Let me know if you need it.
+++++++++++
+ 14 days behind Italy - 5 days behind Spain &amp;#x200B;
+
+|UK (as of March 16)|Italy (as of March 2)|Spain (as of March 11)|
+|:-|:-|:-|
+|55 deaths - 1543 cases|52 deaths - 2036 cases|55 deaths - 2277 cases|
+
+Sources:
+
+[
+
+[
+
+[
+++++++++++
+ A diagnostics company has launched a new lab-based coronavirus antibody test which can produce 46,000 results a day. [Research lab launches new anti-body test for Covid-19](
+++++++++++
+ Scientific Advisory Group for Emergencies (SAGE): Coronavirus (COVID-19) response [Government's Published Evidence] 
+++++++++++
+ The UK mask debate rages on. "Everyone in Britain 'should wear a mask': One hundred leading doctors say public should cover their face whenever they go out" [
+
+vs.
+
+"Making public wear masks could jeopardise NHS supply, say bosses ... NHS Providers chief warns that cost to health service of mass use may outweigh benefits" [
+++++++++++
+ Seroprevalence of COVID-19 antibodies in Kobe, Japan reveals real case counts are 300-800 times higher than official numbers.  [ 
+
+Another study showing the number of cases is probably much higher than we think. This one is particularly interesting considering how low Japan's numbers are right now.
+++++++++++
+ The data used for basis of tiering decisions From [Tiering decisions to be made through national command structure](
+
+-----
+Decisions on tiers are made by ministers based on public health recommendations informed by the following factors:
+
+* case detection rate (in all age groups and, in particular, among the over 60s)
+* how quickly case rates are rising or falling
+* positivity in the general population
+* pressure on the NHS – including current and projected (3 to 4  weeks out) NHS capacity – including admissions, general/acute/ICU bed  occupancy, staff absences
+* local context and exceptional circumstances such as a local but contained outbreak
+
+If these indicators are not improving, an area may be moved up a tier  and if the trajectory improves, the area may move to a lower tier.
+-----
+
+and down at the bottom:
+
+-----
+A '[watchlist]( will be published every Thursday detailing the latest data at a regional level, providing the rationale and data behind these decisions.
+-----
+
+Looking at the data in that 'watchlist' link, it appears it contains much of the case data used to make the decisions about tiering. I don't know if the NHS data is published anywhere though.
+++++++++++
+ Top Brit surgeon tests positive for coronavirus and may have infected hundreds of patients after return from Italy 
+++++++++++
+ 😷Coronavirus Total Cases. (Top 20) Visual Timeline until 2nd May 2020 😷 USA started skyrocketing in Coronavirus Cases. 
+++++++++++
+ 7-day rate of positive cases per 100,000 population (Pillar 1 &amp; 2) for Liverpool City Region over the last month 
+++++++++++
+ Premier League expected to carry on despite reported new national lockdown 
+++++++++++
+ North West: Is now already worse than the first wave? Looking at the [data](
+Covid-19 patients in North West hospitals on 27/03 (ten days after lockdown): 548
+
+Covid-19 patients in North West hospitals on 28/09: 604
+
+Is the gov handling this wave worse than the first one? Could someone help me to understand that I am wrong and I don’t need to panic?
+++++++++++
+ CDC Guidelines for COVID19 infection control in the home CDC Guidelines for COVID19 infection control in the home
+
+
+++++++++++
+ UPDATE on coronavirus (#COVID19) testing in the UK: As of 26 February 2020, a total of 7,132 people have been tested: 7,119 negative. 13 positive. 
+++++++++++
+ trying to figure out where the new cases are by looking at local news sources Im trying to track down the locations of the new cases-here is what i have found so far
+
+South Ribble-Lancashire- x 2
+
+ [ 
+
+&amp;#x200B;
+
+Newcastle- x 1
+
+ [ 
+
+Derbyshire x 2
+
+ [ 
+
+&amp;#x200B;
+
+\*edit\* 
+
+sky news just released this-
+
+The new UK coronavirus cases included:
+
+* Two people from Carlisle who had both had recently returned from a trip to northern Italy. One is a member of healthcare staff at the Cumberland Infirmary
+* Two Scottish patients from the Grampian and Ayrshire areas. One had travelled to northern Italy and the other had had contact with a person who was known to have already tested positive for the disease
+* Two people in South Ribble in Lancashire who had recently travelled to Italy and were isolating themselves at home
+* A patient who was admitted to Wythenshawe Hospital in Manchester
+* A visitor to Goldsmiths, University of London, according to an email sent to students"
+++++++++++
+ Breaking: New UK deaths announced May 5th 2020 **Breakdown of deaths by nation** 
+
+* [NHS England]( Daily Deaths: **(),** Total: **().**
+* [NHS England]( Cases where COVID-19 is mentioned on the death certificate and no positive COVID-19 test result was received: **().**
+* [Public Health Wales]( Daily Deaths: **26,** Total: **1,023.**
+* [HSC N Ireland]( Daily Deaths: **6,** Total: *387***.**
+* [Scotland (HPS)]( Daily Deaths: **5,** Total: **1,576.**
+
+Aggregated Daily Deaths: **235**, Total: **24,333** \- Figures correct as of 04-05-20 - Excludes England Care Home &amp; Community Deaths.
+
+**Announced deaths and cases for the UK**
+
+* [DHSC]( Confirmed Daily Deaths: **()**, Total: **()**. (old method)
+* England Care Home &amp; Community Deaths: **()**, Total: **()**
+* [PHE ]( [DHSC]( Combined Daily Deaths **()**, Total: **()**. (new method)
+* Daily Lab-Confirmed UK Cases: **()**, Total: **()**
+
+**Announced number of tests in the UK**
+
+* Daily Number of People tested **: ()**
+* Cumulative Total: **()**
+
+**Additional information:**
+
+* 03-05-20: HSC N Ireland announces - () new deaths, Total: ()
+* 03-05-20: HPS Scotland announces - () new deaths, Total: ().
+* Trends in daily [COVID-19 data]( for Scotland
+* [Yesterday's figures](
+
+**On 3 May there were:**
+
+* 1,949 tests carried out by NHS Scotland in hospitals, care homes or the community, making a total of 81,840 COVID-19 tests through NHS labs to date. In addition, there were 1,552 drive through and mobile tests carried out by the Regional Testing Centres in Scotland bringing the total to 16,446 tests to date
+* 7,103 calls to 111 and 207 calls to the Coronavirus Helpline. The number of calls to 111 includes all calls, whether or not they relate to COVID-19.
+* 1,497 Scottish Ambulance Service (SAS) attendances, of which 315 were for suspected COVID-19. SAS took 191 people to hospital with suspected COVID-19.
+* 429 (40%) adult care homes with a current case of suspected COVID-19 as at 28 April. (At least one resident in the care home has exhibited symptoms during the last 14 days.)
+* 571 (53%) adult care homes which have lodged at least one notification for suspected COVID-19 to the Care Inspectorate since the start of the epidemic. 390 of these care homes have reported more than one case of suspected COVID-19. 
+* 3,558 cumulative cases of suspected COVID-19 in care homes. This is an increase of 58 suspected cases on the previous day.
+* a total of 6,608 staff, or around 4.0% of the NHS workforce, reporting as absent due to a range of reasons related to COVID-19.
+* 2,780 inpatients have been discharged from hospital since the 5 March, who had been tested positive for COVID-19, up from yesterday’s total of 2,765.
+* 607 people delayed in hospital as at 1 May. This is 1,005 less than the baseline period (04/03 weekly return). An initial target to reduce delays by 400 by the end of March and a further target of reducing by a further 500 by the end of April have now been met.
+* 4,163 staff were reported as absent in adult care homes due to COVID-19, based on returns received from 862 (79%) adult care homes as at 28 April. Staff absent due to COVID-19 represents 9.2% of all adult care home staff (45,068) for whom a return was provided.The absence figures for NHS staff and care home staff are calculated in different ways and caution should be exercised in making comparisons – see the [data sources and definitions document]( for full details. This data will be updated weekly.
+
+**Thanks for viewing - I'll be back again tomorrow. Please stay safe.**
+
+[NUMBER OF DEATHS INVOLVING COVID-19 REPORTED ON GOV UK AND NHS ENGLAND UP TO APR 24, 2020 vs ONS DATA](
+++++++++++
+ "Worst-case scenario suggests 80% of the public could be public could be infinfected with a 1% -mortality rate. " WHO said yesterday death rate 3.4% I am not for Doomsday but the WHO yesterday said 3.4%  [
+
+Also said
+
+" where countries have fought back, where they’ve put in place strong measures, we’ve remarkably seen that the virus is suppressed,"
+++++++++++
+ Do individual hospitals publish current covid patient numbers? I'm hoping to see how many people are currently in a specific hospital for Covid
+++++++++++
+ 3 new cases according to the update , but it looks like text reads 4 ? 
+++++++++++
+ My sister in the UK who works for a local health authority showed me this. Has been reported 
+++++++++++
+ #coronavirus update from NI Dept Health As of 2.00pm on Friday 13 March, testing has resulted in nine new positive cases bringing the total number of cases in Northern Ireland to 29. 
+++++++++++
+ Wales now has 19 confirmed cases of Coronavirus. We had 6 yesterday. How the hell has it more than tripled in a day? 
+++++++++++
+ New UK deaths announced 22nd April 2020 **Note:** DHSC will include England and Wales numbers announced today, and the numbers Scotland and NI announced yesterday, with that considered I have calculated the following.
+
+**Today's total number of deaths and cases for the UK (April 21st 2020)**
+
+* New deaths today from UK data **()** total UK **()** NI 13 new - total 207 \*YDA
+* [DHSC]( UK deaths in hospital **()** total UK **()**
+* [GOV UK]( UK deaths in hospital **()** total UK **()**
+* Daily lab-confirmed UK cases **()**
+* Total lab-confirmed UK cases **()**
+
+updating as news comes in please bare with me.
+
+**Today's total number of deaths for each nation (April 21st 2020)**
+
+* [NHS England]( England **(665)** new deaths and **(16,272)** total. \*YDA
+* [Public Health Wales]( Wales **()** new deaths and **()** total. \*YDA
+* [N Ireland (HSCNI)]( N Ireland **()** new deaths and **()** total. \*TDY
+* [Scotland (HPS)]( Scotland **(77)** new deaths and **(1062)** total. \*TDY - **(tbc)** people in ICU
+
+Keep an eye on [ONS]( for the corrected numbers over the coming weeks.
+
+**Additional information**
+
+Trends in daily [COVID-19 data]( for Scotland
+
+**Today's Covid-19 related articles:**  
+Scotland records 1,616 deaths with confirmed or [suspected Covid-19](
+
+**Thanks for viewing - I'll be back again tomorrow. Please stay safe.**
+
+&amp;#x200B;
+
+
+
+
+
+
+
+
+++++++++++
+ Newsnight: The Dept of Health is changing how they are compiling &amp; releasing these figures...It turns out these figures may not actually be the deaths that have taken place over the last 24 hrs because the NHS needs to have the consent of the families of people who've died to release the figures [removed]
+++++++++++
+ London sees NO new coronavirus cases for 24hrs in clearest sign yet UK strategy is working 

@@ -1,0 +1,405 @@
+
+++++++++++
+ New UK deaths announced May 13th 2020 **Breakdown of deaths by nation**
+
+* [NHS England]( Daily Deaths: **244,** Total: **23,953**
+* [NHS England]( Cases where COVID-19 is mentioned on the death certificate and no positive test result was received. Daily Deaths: **()**, Total: **()**
+* [Public Health Wales]( Daily Deaths: **22** Total: **1,154**
+* [HSC N Ireland]( Daily Deaths: **9,** Total: **447**
+* [Scotland (HPS)]( Daily Deaths: **15,** Total: **1,912**
+
+Aggregated Daily Deaths: **366**, Total: **27,477** \- Figures correct as of 12-05-20 - Excludes England Care Home &amp; Community Deaths.
+
+**Announced deaths and cases for the UK**
+
+* DHSC Daily Deaths: **()**, Total: **()** (old method)
+* PHE &amp; DHSC Combined Daily Deaths: **()** Total: **()**. (new method)
+* England Care Home &amp; Community Deaths: **()**, Total: **()**.
+* Daily Lab-Confirmed UK Cases: **()**, Total: **().**
+
+**Announced number of people tested in the UK**
+
+* People tested **:** **()**
+* Cumulative Total: **()**
+
+Still updating as information comes in, please bare with me.
+
+**Additional Covid-19 information:**
+
+* 13-05-20: HSC N Ireland announces - **()** new deaths, Total: **()**
+* 13-05-20: HPS Scotland announces -  **61** new deaths, Total: **1,973**
+* The R number *(effective reproduction number)* in Scotland is between 0.7 and closer to 1.
+* The R number in the UK is estimated to be between 0.5 and 0.9.
+* Trends in daily [COVID-19 data]( for Scotland
+* **NRS Update:** As at 10th May, there have been a total of 3,213 deaths registered in Scotland where the novel coronavirus (COVID-19) was mentioned on the death certificate. The first mention of COVID-19 in a registered death certificate was the week beginning 16th March 2020.
+* Compare with [yesterday's figures.](
+++++++++++
+ The Latest UK deaths announced July 24th 2020 **Post Summary:**
+
+* [NHS England]( Announced Daily Deaths **16,** Total. **29,249** *(see backlog breakdown)*
+* [NHS England]( Overnight Hospital Deaths **0**
+* [England]( Daily Deaths **123,** Total. **41,082**
+* *(Includes* ***107*** *community deaths*) Total. **11,833**
+* [Wales:]( Daily Deaths **0,** Total. **1,548**
+* [Scotland]( Daily Deaths **0**, Total **2,491**
+* [N Ireland]( Daily Deaths **0**, Total. **556**
+* [UK Combined]( Daily Deaths **123**, Total. **45,677**
+* [UK Confirmed Cases]( Daily **770**, Total. **297,914**
+
+**Comparison:**
+
+1. Compare w/ [yesterday's figures](
+2. Compare w/ [this time last week](
+
+**Post Notes**: Figures above are counted from 23-Jul-20. Today's results from NI and Scotland are listed below. NHS England not counted: cases where COVID-19 is mentioned on the death certificate and no positive test result was received therefore, not included in the official daily count. **Asterisk\*** waiting for new data and I will update when it becomes available.
+
+If anyone is interested here's a [Link to my full NHS data]( **(spreadsheet)** 1-Mar to 24-Jul **(TAB 3)**
+
+**Thanks for viewing, I'll be back again tomorrow. Please stay safe :)**
+
+[ Today's Figures 1: hospital deaths and backlog \(NHS England\) ](
+
+[Today's figures 2: breakdown by nation ](
+
+[Today's round-up](
+
+[ Chart 1: England comparison for Wednesday's \(NHS\) 3 Apr-to 24-Jul ](
+
+[ Chart 2: 4 week comparison \(NHS England\) 30-May to 24-Jul ](
+
+[ Chart 3: actual date of death in England \(hospital\) ](
+
+[ Chart 4: deaths of patients split by age-band \(hospital\) ](
+
+[ Chart 5: deaths of patients split by region \(hospital\) ](
+
+[ Chart 6: people in hospital, admissions, and patients in MV beds ](
+
+[ Chart 7: deaths in England, split by sex \(all settings\) ](
+
+[ Chart 8: NHS backlog updated daily ](
+
+[ Chart 9: NHS Backlog changes ](
+
+[ONS: the number of COVID-19 infections between 26 April to 19 July 2020](
+
+[ Chart 10: UK comparison for Wednesday's \(PHE\) ](
+
+[ Chart 11: new UK infections vs new deaths ](
+
+[ Chart 12: testing for all 4 pillars ](
+
+[Today's figures 3: UK Testing](
+
+* [Link to spreadsheets]( (for easy to read charts)
+
+[ Data chart: NHS England totals ](
+
+
+
+* **R number for the UK:** [0.7-0.9]( *(updated 24 July)*
+* **England's latest R number:** [0.8-1.0]( *(updated 24 July)*
+* **Wales latest R number:** [0.6-0.8]( *(updated 21 July)*
+* **Scotland's latest R number:** [0.5-0.9]( *(updated 24 July)*
+* **Northern Ireland latest R number:** [0.7-1.1]( *(updated 23 July)*
+
+**Excess Deaths:**
+
+* [**ONS**]( actual date of death **-** England updated 21 July, **48,532**
+* [**ONS**]( actual date of death **-** Wales updated 21 July, **2,489**
+* [**NRS**:]( date of registration Scotland, updated 22 July, **4,193**
+* [NISRA]( date of registration NI, updated 24 July, **850**
+* The UK's total number of deaths is currently, **56,064**
+
+**Additional News and Updates:**
+
+* **Leicester lockdown:** what [you can and cannot do](
+* England recovery plan [(pdf)](
+* Scotland's Route Map through - [Phase 3](
+* **Scotland's** [**new visual summary**]( **for Covid-19**
+* Northern Ireland five-step routemap [(pdf)](
+* Welsh government’s plan [(pdf)](
+* Nisra [latest update]( for NI
+* NHS England: ethnicity, [pre-existing conditions](
+* PHE Weekly surveillance [report](
+* GOV report on [Excess deaths](
+* [**Telegraph Live UK Map**](
+* Check out this [**COVID Tracker**:]( by [u/richhard](
+* Deaths by actual day [**chart in hospital**]( by [u/thomalexday](
+
+**Please remember:**
+
+* Face coverings should be worn in enclosed spaces such as shops and public transport
+* Avoid crowded places
+* Clean your hands and hard surfaces regularly
+* Self isolate and book a test if you have [symptoms of Covid](
+* NHS England Test and Trace: Ask for a test online [here](
+* [Test and Protect (Scotland)](
+* Apply for a coronavirus test [Wales](
+* Apply for a coronavirus test [Northern Ireland](
+++++++++++
+ YSK that on the 21st April, PHE removed the first 2 deaths (Feb, and 1st-Mar) from their data. DHSC announced the first death on the 5th-March.
+
+Public Health England daily deaths data showed that the first death was in February, and the second death on the 1st of March.
+
+[Partial screenshot of the Covid-19 daily deaths summary from 6-April](
+
+Data released on the 21st April shows these deaths, and further deaths from the initial days in March. Total 12 to the 5th March:
+
+[Partial screenshot of the Covid-19 daily deaths summary from 21-April](
+
+Data released on the 22nd April, has the first 2 deaths removed:
+
+[Partial screenshot of the Covid-19 daily deaths summary from 22-April](
+
+Note: I know many of you download the data from public health england daily, please take a minute to independently verify this.
+
+The trusts involved are both in the Midlands:
+
+* SANDWELL AND WEST BIRMINGHAM HOSPITALS NHS TRUST (?-Feb-20)
+* UNITED LINCOLNSHIRE HOSPITALS NHS TRUST (1-Mar-2020)
+
+The picture now, is that the first 5 Covid-19 deaths all occurred on the same day, the 3rd of March.
+
+You may also remember: Saturday April 18 2020, 6.00pm BST, The Sunday Times: "It would not be until March 2 — another five weeks — that Johnson would attend a Cobra meeting about the coronavirus." - [archive link]( and [gov response](
+++++++++++
+ New UK deaths announced May 1st 2020  **Total number of deaths for each nation** 30-04-20
+
+* [NHS England]( England **()** new deaths **()** total - hospital only
+* [Public Health Wales]( Wales **(17)** new deaths **(925)** total - all settings
+* [N Ireland (HSCNI)]( N Ireland (HSCNI) **(9)** new deaths **(347)** total.
+* [Scotland (HPS)]( Scotland (HPS) **(60)** new deaths **(1,475)** total - all settings
+
+**Today's total number of deaths &amp; cases for the UK** 01-05-20
+
+* New deaths from official UK data **()** total UK **()**
+* DHSC announced: new UK deaths **()** total UK **()** \- all settings  
+Note: **()** new deaths are from care homes and the community in England, total **()**
+* Daily lab-confirmed UK cases **()**
+* Total lab-confirmed UK cases **()**
+
+**Total number of deaths for Scotland &amp; Ireland** 01-05-20
+
+* N Ireland (HSCNI) **()** new deaths **()** total.
+* The Republic of Ireland number of deaths total **(1,190)**
+* Scotland (HPS) **(40)** new deaths **(1,515)** total - **110** in ICU
+
+**Additional information**
+
+Trends in daily [COVID-19 data]( for Scotland
+
+**Thanks for viewing - I'll be back again tomorrow. Please stay safe.**
+
+Updating ....
+++++++++++
+ The Latest UK deaths announced July 4th 2020 **Post summary:**
+
+* [NHS England]( Daily Deaths **39,** Total. **28,870** (see backlog breakdown)
+* NHS England: Overnight Deaths **2**
+* England Community &amp; Care Homes Daily Deaths **\***, Total.**\***
+* [England]( Daily Deaths **\*,** Total. **\***
+* [Wales:]( Daily Deaths **5,** Total. **1,530**
+* [Scotland]( Daily Deaths **1**, Total **2,488**
+* [N Ireland]( Daily Deaths **2**, Total. **554**
+* [UK Combined]( Daily Deaths **\*,** Total. **\***
+* Compare with [yesterday's figures](
+
+**Notes**: NHS England not counted, cases where COVID-19 is mentioned on the death certificate and no positive test result was received therefore, not included in the daily count. It is worthy to know Scotland and Northern Ireland figures for today will be included in the count tomorrow. This is because England and Wales figures are a day behind.
+
+![img](r0ua39obcu851)
+
+![img](smf8r9a9du851)
+
+![img](kkkivt3ycu851)
+
+![img](mvp3d7dk9u851 "waiting for today's update ")
+
+![img](2ptzmpxleu851)
+
+![img](96ilbrdqdu851)
+
+![img](pkv2sn4fau851)
+
+![img](hu1gkon8au851)
+
+![img](aocss7phdu851)
+
+![img](54ctuyam9u851 "waiting for today's update")
+
+![img](pkn4fvwm9u851 "waiting for today's update")
+
+![img](pxii74mn9u851 "waiting for today's update")
+
+![img](1mdnxkco9u851 " ")
+
+* **R number for the UK:** [0.7-0.9]( *(Last updated Thursday 3rd July 2020)*
+* **England's latest R number:** [0.8-0.9]( *(Last updated Thursday 3rd July 2020)*
+* **Wales latest R number:** [0.7-0.9]( *(Last updated 1st July 2020)*
+* **Scotland's latest R number:** [0.6-0.8]( *(Last updated 2nd July 2020)*
+* **Northern Ireland latest R number:** [0.3- 0.8]( *(Last updated 2nd July 2020)*
+
+**Excess Deaths:**
+
+* [**ONS**]( Deaths by actual date of death **-** England last updated 30 June, **47,127**
+* [**ONS**]( Deaths by actual date of death **-** Wales last updated 30 June, **2,408**
+* [NRS:]( Deaths by date of registration Scotland, last updated 1st July, **4,155**
+* [NISRA]( Deaths by date of registration NI, last updated 3rd July, **824**
+* According to the data, the UK's total number of deaths is currently, **54,514**
+
+**Additional News and Updates:**
+
+* England has published Its Coronavirus recovery plan [(pdf)](
+* Scotland's Route Map through - [Phase 2](
+* Northern Ireland five-step routemap [(pdf)](
+* Welsh government’s plan [(pdf)](
+* NHS Test and Trace: Ask for a test online [here](
+* Coronavirus (COVID-19): [Test and Protect (Scotland)](
+* Nisra [latest update]( for NI
+* Leicestershire coronavirus lockdown: [areas and changes](
+* NHS England: breakdowns by ethnicity, and [pre-existing conditions](
+* PHE Weekly COVID-19 surveillance [report](
+* [**Telegraph Live UK Map**](
+
+**Thanks for viewing - I'll be back again tomorrow. Please stay safe. :)**
+++++++++++
+ NHS Weekly - In hours, OOH and 111 calls [
+
+[
+
+[
+
+[
+
+&gt;During week 7, NHS 111 calls for cold/flu, particularly in the South East and London, and calls for cough increased (figures 2, 2d &amp; 4). Please note: these data should currently be interpreted with some caution due to the national media coverage of the COVID-19 incident and the potential subsequent impact on the number of NHS 111 callers.
+++++++++++
+ Latest ONS figures show that UK daily mortality more than doubled for week ending 17th April. 11.8k excess deaths, 8.7k mentioning C19 on death certificates vs 6.3k PHE reported deaths for the week.
+
+
+
+++++++++++
+ New UK deaths announced May 2nd 2020  **Breakdown of deaths by nation**
+
+* [NHS England]( Daily Deaths: **370,** Total: **20,853.**
+* [Public Health Wales]( Daily Deaths: **(),** Total: **().**
+* [HSC N Ireland]( Daily Deaths: **18,** Total: **365.**
+* [Scotland (HPS)]( Daily Deaths: **40,** Total: **1,515.**
+
+Aggregated Daily Deaths: **()**, Total: **()** \- Figures correct as of 01-05-20 - Excludes England Care Home &amp; Community Deaths.
+
+**Announced deaths and cases for the UK**
+
+* DHSC Confirmed Daily Deaths: **()**, Total: **()**. (old method)
+* DHSC England Care Home &amp; Community Deaths: **()**, Total: **()**.
+* DHSC Combined Daily Deaths **()**, Total: **()**. (new method)
+* Daily Lab-Confirmed UK Cases: **()**, Total: **()**
+
+Still updating as information comes in, please bare with me
+
+**Additional information:**
+
+* 02-05-20: HSC N Ireland announces - new deaths, Total: 
+* 02-05-20: HPS Scotland announces - new deaths, Total: 
+* Trends in daily [COVID-19 data]( for Scotland
+* [Yesterday's figures](
+
+**On 30 April 2020 there were:**
+
+* 2,537 tests carried out by NHS Scotland in hospitals, care homes or the community, making a total of 74,984 COVID-19 tests through NHS labs to date. In addition, there were 2,124 drive through, mobile or home tests done by the Regional Testing Centres in Scotland bringing the total to 10,768 tests to date.
+* 3,333 calls to 111 and 490 calls to the Coronavirus Helpline. The number of calls to 111 includes all calls, whether or not they relate to COVID-19.
+* 1,509 Scottish Ambulance Service (SAS) attendances, of which 359 were for suspected COVID-19. SAS took 255 people to hospital with suspected COVID-19.
+* 429 (40%) adult care homes with a current case of suspected COVID-19 as at 28 April. (At least one resident in the care home has exhibited symptoms during the last 14 days.)
+* 562 (52%) adult care homes which have lodged at least one notification for suspected COVID-19 to the Care Inspectorate since the start of the epidemic. 377 of these care homes have reported more than one case of suspected COVID-19. 
+* 3,345 cumulative cases of suspected COVID-19 in care homes. This is an increase of 124 suspected cases on the previous day.
+* a total of 7,468 staff, or around 4.5% of the NHS workforce, reporting as absent due to a range of reasons related to COVID-19.
+* 2,659 inpatients have been discharged from hospital since the 5 March, who had been tested positive for COVID-19, up from yesterday’s total of 2,583.
+* 593 people delayed in hospital. This is 1,019 less than the baseline period (04/03 weekly return). An initial target to reduce delays by 400 by the end of March and a further target of reducing by a further 500 by the end of April have now been met.
+* 4,163 staff were reported as absent in adult care homes due to COVID-19, based on returns received from 862 (79%) adult care homes as at 28 April. Staff absent due to COVID-19 represents 9.2% of all adult care home staff (45,068) for whom a return was provided.The absence figures for NHS staff and care home staff are calculated in different ways and caution should be exercised in making comparisons – see the [data sources and definitions document]( for full details. This data will be updated weekly.
+
+**Thanks for viewing - I'll be back again tomorrow. Please stay safe.**
+++++++++++
+ Latest ONS data to w/e 15th May. 54k excess deaths, 41k C19 Deaths. 
+++++++++++
+ The Latest UK deaths announced July 18th 2020  
+
+**Post Summary:**
+
+* [NHS England]( Announced Daily Deaths **13,** Total. **29,175** (see backlog breakdown)
+* [NHS England]( Overnight Hospital Deaths **3**
+* [Wales:]( Daily Deaths **0,** Total. **1,546**
+* [Scotland]( Daily Deaths **0**, Total **2,491**
+* [N Ireland]( Daily Deaths **0**, Total. **556**
+* [New  UK Infections]( Daily **827,** Total. **294,066** 
+
+**Paused:**
+
+* [~~England~~]( Daily Deaths~~ **~~112~~** ~~Total.~~ **~~40,640~~**
+* *~~(Includes~~* ***~~96~~*** *~~England Community &amp; Care Home Deaths~~*~~)~~
+* [~~UK Combined~~]( ~~Daily Deaths~~ **~~114~~**~~, Total.~~ **~~45,233~~**
+
+**Comparison:**
+
+1. Compare with [yesterday's figures](
+2. Compare with [this time last week](
+
+**Post Notes**: Figures above are counted from 17-Jul-20. Today's results from NI and Scotland are listed below. NHS England not counted: cases where COVID-19 is mentioned on the death certificate and no positive test result was received therefore, not included in the daily count. **Asterisk\*** waiting for new data, will update when it becomes available.
+
+**Thanks for viewing - I'll be back again tomorrow. Please stay safe :)**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Check out the latest PHE National COVID-19 surveillance [report here]( 
+
+
+
+
+
+
+
+
+
+
+
+
+
+[ ](
+
+* **R number for the UK:** [0.7-0.9]( *(Last updated Thursday 10th July 2020)*
+* **England's latest R number:** [0.8-1.0]( *(Last updated Thursday 10th July 2020)*
+* **Wales latest R number:** [0.7-1.0]( *(Last updated 10th July 2020)*
+* **Scotland's latest R number:** [0.6-1.0]( *(Last updated 8th July 2020)*
+* **Northern Ireland latest R number:** [0.5- 1.0]( *(Last updated 16 July 2020)*
+
+**Excess Deaths:**
+
+* [**ONS**]( Deaths by actual date of death **-** England last updated 14 July, **48,154**
+* [**ONS**]( Deaths by actual date of death **-** Wales last updated 14 July, **2,470**
+* [NRS:]( Deaths by date of registration Scotland, last updated 15th July, **4,197**
+* [NISRA]( Deaths by date of registration NI, last updated 10th July, **844**
+* According to the data, the UK's total number of deaths is currently, **55,665**
+
+**Additional News and Updates:**
+
+* England has published Its Coronavirus recovery plan [(pdf)](
+* Scotland's Route Map through - [Phase 3](
+* Northern Ireland five-step routemap [(pdf)](
+* Welsh government’s plan [(pdf)](
+* NHS Test and Trace: Ask for a test online [here](
+* Coronavirus (COVID-19): [Test and Protect (Scotland)](
+* Nisra [latest update]( for NI
+* NHS England: breakdowns by ethnicity, and [pre-existing conditions](
+* PHE Weekly COVID-19 surveillance [report](
+* [**Telegraph Live UK Map**](

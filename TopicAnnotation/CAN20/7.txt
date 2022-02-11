@@ -1,0 +1,84 @@
+
+++++++++++
+ Why the giant spike of deaths on Oct 2nd and 3rd? There were 76 and 41 deaths on Oct 2nd and 3rd, respectively. There were 10 or fewer deaths for weeks before or after this two day spike.
+
+Anyone know what happened?
+++++++++++
+ Estimation of 114,000 to 798,000 Canadian Deaths? Is that what they are looking at?  We are all playing 3 games right now*; Not It, Keep Away, and Last Person Standing*.
+
+We are doing this because there will be a lot of Canadian deaths if we don't.  My **Estimation of Canadian deaths are between 114,000 to 798,000.**
+
+&amp;#x200B;
+
+If we assume *30-70% rate of population infection, 1-3% death rate, and \~38 million* Canadians it breaks down as follows;
+
+If the population infection rate is 30% of 38 million Canadians, 11.4 million people will be infected. If death rate is at 1%, that is 114,000 Canadians dead.
+
+If the population infection rate is 70% of 38 million Canadians, 26.6 million people will be infected. If death rate is at 3%, this is 798,000 Canadians dead.
+
+[
+
+[
+
+[
+
+10x these numbers for the USA.
+++++++++++
+ New Case Breakdown: Inside and outside of Long term Care Faciliteis There have been many recently about the recent rise in new cases/deaths being driven by outbreaks in LTC facilities. I compiled numbers from the daily reports to quantify to what extent these comments are true. 
+
+To smooth out hte numbers I used 3-day moving averages.
+
+&amp;#x200B;
+
+
+
+ \*There are some weird quirks in the data due to retroactive adjustments in classifications of deaths as LTC that leads to non-LTC death (which I compute as total death - LTC death) to be negative in one observation.
+++++++++++
+ Help understanding this data please [Ontario] May 20, 3622 cases 991 hospitalized, 7382 tests completed
+
+Nov 20, today, 12623 cases, 518 hospitalizations, 48173 tests completed.
+
+
+
+more tests equals more cases but more cases doesnt equal more hospitalizations? that doesnt make sense?
+
+also interesting to note in footnotes:
+
+7] Back to paragraph^ Deaths are determined by using the outcome field in iPHIS, CORES, CCMtool or The COD. Any case marked "Fatal" is included in the deaths data. Deaths are included whether or not COVID-19 was determined to be a contributing or underlying cause of death as indicated in the iPHIS field “Type of Death”.
+
+[8] Total number of tests completed by the COVID-19 Clinical Lab network (including PHO, hospital and community laboratories). This number represents total tests and not persons tested.
+
+
+++++++++++
+ Anyone else find that Ontario mortality data is badly out of date? I saw that [The Economist]( visualized Excess Mortality, showing a kind of outline of COVID's impact by comparing 2020 deaths per week to prior years. It has Europe, the US, Japan, Peru, Ecuador, Chile... but nothing on Canada. 
+
+Okay, I can try to fill the gap. In Canada, a death must be registered with the Provincial Office of Registrar General. [Ontario]( seems to be caught up only to Dec 31. That's Dec 31, 2018.
+
+But Stats Can will have the answer, right? Well, [Weekly Death Counts]( has data for BC, Quebec... most provinces. But again, Ontario is missing 70 weeks of data!
+
+Anyone else who studies this -- am I missing something? How can Quebec, BC, Peru, Ecuador, Chile, the US, etc. all have processed death certificates during a pandemic, but not Ontario?
+++++++++++
+ How large is Québec's death backlog? I notice that Québec always reports death that occurred over a week ago, such as today. According to CTV, 30/35 deaths Québec reported today were from before 11 June. I am wondering if there is any way to know an approximate number for this large backlog, and also why they have one unlike other provinces?
+++++++++++
+ Halifax NS reports no new cases for first time [
+
+Tracking the numbers on the NS gov't website (on day 61 of my tracking document) and the central health region has reported no new cases of Covid-19! This region includes both Halifax and Windsor, and is home to 46% of the province's population (using statscan's 2016 numbers).
+
+The one new case in the province occurred in the Northern health district, which includes Truro, Tatamagouche, New Glagow, Amherst and our border with NB.  
+
+One new death at Northwood LTCF brings the total number of deaths there to 42. Out of the 48 deaths in Nova Scotia at least 44 (91%) have been affiliated with long-term care facilities.
+++++++++++
+ Toronto/Peel lockdown: Can we just call it "retail lockdown"? I don't see any news organizations raising the major differences between this lockdown and spring's, the main one being Ontario actually (mostly) locked down in the spring. Why is everyone writing "Toronto and Peel are going \_\_back\_\_ into lockdown" when we're all still leaving our houses to go to work every weekday. Am I crazy?
+
+I'm worried that this seems to be as far as our government is willing to go--there are no more listed steps in the current system. If/when numbers continue to go up, hospitals become more fully overwhelmed, are we just going to stay in this half-assed "lockdown"?
+
+Who was leisure-shopping anyway??
+++++++++++
+ New Ontario COVID-19 data shows ‘appalling’ death numbers in long-term care 
+++++++++++
+ in the UK - Coronation Street legend Ken Morley, 77, claims he cheated death after contracting coronavirus a YEAR ago - falling ill around Christmas 2018  
+
+Coronation Street legend Ken Morley, 77, claims he cheated death after contracting coronavirus a YEAR ago...
+
+*"While in hospital, he was informed by doctors that the unnamed illness had mainly affected 'Chinese students' living in the area."*  
+source: [

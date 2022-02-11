@@ -1,0 +1,140 @@
+
+++++++++++
+ BREAKING: The two women who tested positive for COVID-19 and lied about their travel will face court (Deputy Premier) 
+++++++++++
+ Coronavirus: Huge crowd attends 'disgraceful' Gold Coast beach party [ 😬😬😬
+++++++++++
+ Early epidemiological assessment of the transmission potential and virulence of coronavirus disease 2019 (COVID-19) in Wuhan City: China, January-February, 2020 (IFR .04% actual infected in Wuhan 1.9m) 
+++++++++++
+ Infected numbers doubling every 3 days but deaths not rising So by the end of the day on March 20th we had 876 confirmed infected cases. This morning we have 1609 confirmed infected cases. But we still only have 7 deaths (thankfully!). Any theories on why?
+++++++++++
+ Victoria records 49 new local cases #New cases reported in the last 24 hours: 
+
+* **4** are linked to known outbreaks:
+  * **1** linked to the **North Melbourne family** outbreak.
+  * **1** linked to the **Stamford plaza** outbreak.
+  * **1** linked to the **Brimbank family** outbreak.
+  * **1** linked to the **Coles Laverton** outbreak.
+* **19** new cases under investigation.
+* **26** new cases are a result of routine testing.
+* **[Mandatory testing for returned travellers - media release]( 
+
+
+
+**Will update as more information becomes available** 
+
+#Cases to date:
+| | Last 24 hours | TOTAL
+---|-----|-----
+| **Confirmed cases** | +49 | **2,028** (-8)**
+| **Active** |  | 206 
+| **Active (DHHS)*** |  | 204
+| **Recovered** |  | 1,761
+| **Deaths** | - | 20
+| **Community transmission** |  | 260
+|Tests conducted | +18,120  | 776,792
+| Hospital | +2 | 7
+| ICU | - | 1
+
+^*Number ^of ^active ^cases ^reported ^by ^DHHS.
+
+^**8 ^previous ^excluded
+
+---
+---
+**CURRENT OUTBREAKS OF CONCERN BY LOCAL GOVERNMENT AREAS (LGAs)**:
+
+LGA | Last 24 hours | Active | Total
+---|-----------|--------------|-----|
+Brimbank |  | 24  | 105  
+Hume |  | 29  | 109  
+Casey |  | 15 | 99  
+Cardinia |  | 5 | 23  
+Moreland |  | 17 | 90  
+Darebin |  | 4 | 52 
+
+
+&amp;nbsp;
+
+**RECENT OUTBREAKS:**
+
+Outbreak | Suburb | Last 24 hours | Last reported case | Households affected | TOTAL 
+--------|-----------|---------|-----|-----|----
+Coles Laverton | Laverton | +1 | 28/06 | - | 4
+North Melbourne family outbreak  | Northland| +1 | 28/06 | - | 21 (+2)
+Stamford Plaza | | +1 | 28/06 | - | 18 
+Brimbank family outbreak |  | +1 | 28/06 | 2 | 6 
+Albanvale Primary School | Albanvale | - | [27/06]( | - | 5
+Wollert outbreak  |  | - | [ 27/06]( | - | 9  
+Stamford Plaza | | - | [27/06]( | - | 18 
+Keilor Downs family | Keilor Downs| - | [ 27/06]( | 8 | 20 
+Orygen Youth Health facility | Footscray | - | [26/06]( | - | 1
+Coburg family | | - | [26/06]( |3 | 15 
+Hampstead dental clinic | Maidstone| - | [24/06]( |- | 3
+Maribyrnong family | | - | [23/06]( | - | 5
+Albanvale Primary School | Albanvale | - | [22/06]( |- | 3
+Grill'd | Highpoint| - | [21/06]( |- | 1
+Essedon Football club | | - | [21/06]( |- | 1 
+Lifeview Willow Wood aged care | Cranbourne | - | [20/06]( |- | 1
+Royal Freemasons Springtime aged care | Sydenham | - | [20/06]( |- | 1
+Rydges on Swanston | | - | [19/06]( |- | 17
+Victorian Rehabilitation Centre | Glen Waverley | - | [18/06]( |- | 1
+Monash Health | | - | [17/06]( |- | 7
+Rosstown Nursing Home | Carnegie | - | [17/06]( |- | 1 
+
+
+&amp;nbsp;
+
+**AFFECTED EDUCATIONAL INSTITUTIONS  IN THE LAST 14 DAYS:**
+
+Name | Suburb | Positive case | Multiple cases (Total) | Reported
+----|--------|-------------|--------|--------|--------
+Goodstart Early Learning | Box Hill | Child | - | [26/06](
+Smartie Pants Early Learning Centre | Diamond Creek | Child | - | [26/06](
+St Monica's College | Epping | Sudent | Yes (2) | [26/06](
+Keilor Downs College | Keilor Downs | Student 2 | Yes (2) | [24/06](
+Villa Bambini Early Learning Centre | Essedon | Child | - | [24/06](
+Keilor Views Primary School | Keilor Downs | Student | - | [23/06](
+Brunswick East Primary School | Brunswick East | Student | - | [23/06](
+Great Beginnings Nursery | Reservoir | Toddler | - | [22/06](
+Albanvale Primary School | Albanvale | Teacher 2 &amp; 3| Yes (3) | [22/06](
+St Monica's College | Epping | Staff member | Yes (2) | [21/06](
+Keilor Downs College | Keilor Downs | Student 1 | Yes (2) | [21/06](
+St Mary's Primary School | Hampton | Student | - | [21/06](
+Albanvale Primary School | Albanvale | Teacher 1 | Yes (3) | [20/06](
+Springside Primary School | Caroline Springs | Teacher | - | [20/06](
+Camberwell Grammar School | Canterbury | Student | - | [20/06](
+The Learning Sanctuary | Pakenham | Worker | - | [18/06](
+Guardian Childcare Centre | South Yarra | Toddler | - | [18/06](
+Inspira Early Learning Centre | Gladstone Park | Worker | - | [17/06](
+Strathmore Primary School | Strathmore | Student | - | [16/06](
+St Dominic's Primary School | Broadmeadows | Student 1 &amp; 2 | Yes (2) | [15/06](
+Pakenham Springs Primary School | Pakenham | Student 1 &amp; 2 | Yes (2) | [15/06](
+
+
+
+---
+++++++++++
+ Iconic Sydney wedding venues reveal plan to flout coronavirus restrictions and 'reopen to any numbers' 
+++++++++++
+ Australia's Covid-19 Death Toll Is Now 5.  [
+
+&gt;A 90-year-old woman died on Saturday and testing confirmed that she had COVID-19, NSW Health said in a statement on Sunday night.  
+&gt;  
+&gt;She was a resident of the Dorothy Henderson Lodge aged care home, where two other residents have died after becoming infected with the virus.  
+&gt;  
+&gt;A 77-year-old woman has also died from coronavirus, NSW Health said on Sunday.  
+&gt;  
+&gt;The woman flew from Brisbane to Sydney on Friday, a Queensland Health spokesman told AAP.  
+&gt;  
+&gt;She developed symptoms on the plane, was taken to hospital and died the same day.  
+&gt;  
+&gt;NSW Health discovered the woman had contracted coronavirus and informed Queensland Health on Sunday, the spokesman said.
+++++++++++
+ PolitiFact - Viral image wrongly links coronavirus to 'Resident Evil' video game [removed]
+++++++++++
+ Concerns Australia will miss out on vital COVID-19 treatment as US 'hoards' remdesivir supply 
+++++++++++
+ Coles / Woolworths and suppliers are price gouging! It’s quite disappointing to walk the isles of the major supermarkets to see almost no special tickets anymore.  The FMCG and produce suppliers who fund many of these specials have pulled their planned specials. 
+
+As a result the aggregate cost of groceries has become significantly more expensive in a time when incomes are declining and unemployment is rising.  I have personally moved to Aldi where possible to stem this noticeable increase to my grocery bill, but where is the ACCC in all this!?

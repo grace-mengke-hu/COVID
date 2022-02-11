@@ -1,0 +1,104 @@
+
+++++++++++
+ Covid alert app questions Do both Bluetooth and Location need to be enabled for the Covid Alert app to work? If I turn them off then later turn them on, do I need to restart the app? 
+
+When I first got the app, it made me turn on Bluetooth and Location, then gave me that wonderful "Covid Alert is active" message. I turned off Location (Bluetooth still on) to see what would happen and no change. Turn off Bluetooth and finally it says "Covid Alert is off". Turn on Bluetooth (Location still off) and "Covid Alert is active." 
+
+How can it be active when Location is off? Does that mean Location is not required? Or, is it required, and the app has a bug because it's not checking if Location is enabled?
+++++++++++
+ Nursing home staff, cleaners in infected nursing home afraid to work because they're forbidden from wearing PPE. Management blames them for "fear-mongering" 
+++++++++++
+ Anything short of aiming for a #COVIDZero future for Canada will be the equivalent of rearranging deck chairs on the Titanic. As a geriatrician, I am proud to stand w/ colleagues in advocating for a strategy that will maximally save lives and our economy ~ Samir Sinha on Twitter 
+++++++++++
+ Worker dies, hundreds sick as Cargill temporarily closes meat-processing plant at centre of COVID-19 outbreak 
+++++++++++
+ Coronavirus: Ontario education minister outlines COVID-19 Management Plan  [ 
+
+Can anyone explain to me what is meant by "In some cases the class cohorts will be tested, sent home, or closed until the outbreak is declared over, as determined by as approved by the Chief Medical Officer."
+++++++++++
+ Prime Minister Trudeau to address Canadians at 1 PM EST today - March 16, 2020 Prime Minister Trudeau will be address the nation today at 1 PM EST. There are a few ways online to watch this. CBC has put CBC News Network streaming for free and there will be TV coverage. Check out [ to find the live stream.
+++++++++++
+ Donating to charities responding to COVID-19 If you are able to donate to charities responding to COVID-19, here is a comprehensive, Canada-wide list:  [
+++++++++++
+ Estimation of 114,000 to 798,000 Canadian Deaths? Is that what they are looking at?  We are all playing 3 games right now*; Not It, Keep Away, and Last Person Standing*.
+
+We are doing this because there will be a lot of Canadian deaths if we don't.  My **Estimation of Canadian deaths are between 114,000 to 798,000.**
+
+&amp;#x200B;
+
+If we assume *30-70% rate of population infection, 1-3% death rate, and \~38 million* Canadians it breaks down as follows;
+
+If the population infection rate is 30% of 38 million Canadians, 11.4 million people will be infected. If death rate is at 1%, that is 114,000 Canadians dead.
+
+If the population infection rate is 70% of 38 million Canadians, 26.6 million people will be infected. If death rate is at 3%, this is 798,000 Canadians dead.
+
+[
+
+[
+
+[
+
+10x these numbers for the USA.
+++++++++++
+ 2 Alberta meat plants affected by COVID-19 make up 70% of Canada’s beef processing capabilities 
+++++++++++
+ Trudeau's sexy Canada facemask Hey everyone, does anyone know where to buy Trudeau's sexy canada logo face mask?
+
+[
+++++++++++
+ Alberta Predicts 800,000 infections, 400-3100 deaths  
+
+Speaking from the legislature in Edmonton, the premier, who’s approaching the anniversary of his first year in office, laid out two scenarios to the province: the “probable scenario,” which will see peak infections by mid-May, with as many as 800,000 Albertans falling ill. 
+
+In that scenario, between 400 and 3,100 people could die.
+
+In the “more serious but less likely” scenario, infections would peak at the beginning of May, the premier said, with as many as one million positive COVID-19 tests, and between 500 and 6,600 people dead.
+
+ [
+++++++++++
+ Three reasons why the COVID-19 death rate is higher in U.S. than Canada  Politics, health care and the Big Apple contributed to early gap, but it's narrowing.
+
+ [ 
+
+Interesting analysis
+++++++++++
+ Secret recordings reveal political directives, tension over Alberta's pandemic response 
+++++++++++
+ Public Health Lessons Learned From Biases in Coronavirus Mortality Overestimation Abstract:
+
+In testimony before  US Congress on March 11, 2020, members of the House Oversight and  Reform Committee were informed that estimated mortality for the novel  coronavirus was 10-times higher than for seasonal influenza. Additional  evidence, however, suggests the validity of this estimation could  benefit from vetting for biases and miscalculations. The main objective  of this article is to critically appraise the coronavirus mortality  estimation presented to Congress. Informational texts from the World  Health Organization and the Centers for Disease Control and Prevention  are compared with coronavirus mortality calculations in Congressional  testimony. Results of this critical appraisal reveal information bias  and selection bias in coronavirus mortality overestimation, most likely  caused by misclassifying an influenza infection fatality rate as a case  fatality rate. Public health lessons learned for future infectious  disease pandemics include: safeguarding against research biases that may  underestimate or overestimate an associated risk of disease and  mortality; reassessing the ethics of fear-based public health campaigns;  and providing full public disclosure of adverse effects from severe  mitigation measures to contain viral transmission.
+
+&amp;#x200B;
+
+[Figure 2](
+
+&amp;#x200B;
+
+[
+++++++++++
+ Swiss researchers show that COVID-19's curve broke before the shutdown; a similar result was found in Germany. Very interesting news.  
+
+
+  [  
+
+
+[
+
+  
+
+
+I posted pictures of the reproduction rate in the United States and it follows same story as Switzerland and Germany.
+++++++++++
+ Worker dies, hundreds sick as Cargill temporarily closes meat-processing plant at centre of COVID-19 outbreak 
+++++++++++
+ No more major sports or concerts ever Shame MLB NBA CFL NHL NFL and concerts are no more because of this.
+++++++++++
+ The Coronavirus Explained &amp; What You Should Do &lt;iframe width="560" height="315" src="[ frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+++++++++++
+ COVID-19 curves: Compare Canada, provinces and key nations on a per capita basis - finally, some meaningful curves 
+++++++++++
+ CBC: If cases of COVID-19 continue to multiply, labour shortages could affect food supplies and undermine Canada's critical infrastructure, an internal government briefing note obtained by CBC News warns. 
+++++++++++
+ 2 Alberta meat plants affected by COVID-19 make up 70% of Canada’s beef processing capabilities 
+++++++++++
+ Frontline staff, cleaners in infected nursing home forbidden from wearing PPE. Afraid to go to work, management blames them for "fear-mongering" 
